@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1978-02-22
+Version Consolidée au 1978-03-01
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -312,7 +312,7 @@ Version Consolidée au 1978-02-22
         - [Chapitre VI : Discipline. (art. L829 à L847)](#309)
         - [Chapitre VII : Positions. (art. L848 à L881-1)](#310)
           - [Section 1 : Activités, congés. (art. L849 à L863)](#311)
-          - [Section 2 : Détachement. (art. L864 à L869)](#312)
+          - [Section 2 : Détachement. (art. L865 à L869)](#312)
           - [Section 3 : Disponibilité. (art. L870 à L879)](#313)
           - [Section 4 : Position "sous les drapeaux". (art. L880 à L881)](#314)
           - [Section 5 : Congé postnatal. (art. L881-1)](#315)
@@ -36842,53 +36842,6 @@ _Cité par_:
 
 ##### Section 2 : Détachement.<a id=312></a>
 
-###### Article L864
-
-Les agents titularisés dans un emploi permanent des établissements relevant du livre IX du code de la santé publique peuvent
-obtenir, sur leur demande, leur détachement :
-
-1° Auprès d'une administration publique ou auprès d'un établissement ou office public ;
-
-2° Auprès d'un hôpital psychiatrique privé faisant fonction d'hôpital psychiatrique public (pour les médecins du cadre des
-hôpitaux psychiatriques uniquement) ;
-
-3° Auprès d'un organisme à caractère social ou auprès d'un organisme de formation agréé en vue de la formation
-professionnelle continue dans le cadre de la formation permanente, sous réserve, s'il s'agit d'un organisme à statut privé,
-que la nomination à l'emploi considéré soit statutairement approuvée par décret pris sur le rapport du ministre chargé de la
-santé publique, du ministre de l'intérieur et du ministre chargé de l'économie et des finances ;
-
-4° Pour donner un enseignement à l'étranger ou pour remplir une mission publique à l'étranger ou auprès d'organismes
-internationaux ;
-
-5° Pour exercer une fonction publique élective ou un mandat syndical lorsque la fonction ou le mandat comporte des
-obligations empêchant d'assurer normalement l'exercice de la fonction.
-
-Dans ce dernier cas, le détachement est accordé de plein droit.
-
-Le détachement est autorisé par décision de l'autorité investie du pouvoir de nomination.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Décret n°56-1294 du 14 décembre 1956 - art. 3 (Ab)
-  - Décret n°78-208 du 27 février 1978 - art. 1 (Ab)
-  - Code de la santé publique - art. L851 (Ab)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Décret n°78-208 du 27 février 1978 - art. 1 (Ab) JORF 1er mars
-
-
 ###### Article L865
 
 Il existe deux sortes de détachement :
@@ -37117,44 +37070,6 @@ _Abrogé par_:
   - Décret n°88-976 du 13 octobre 1988 - art. 45 (V) JORF 14 octobre 1988
 
 
-###### Article L873
-
-La mise en disponibilité sur demande de l'intéressé ne peut être accordée que dans les cas suivants :
-
-a) Accident ou maladie grave du conjoint ou d'un enfant ; la durée de la disponibilité ne peut, en ce cas, excéder trois
-années mais est renouvelable à deux reprises pour une durée égale ;
-
-b) Etudes ou recherches présentant un intérêt général ; la durée de la disponibilité ne peut, en ce cas, excéder trois années
-mais est renouvelable à une reprise pour une durée égale ;
-
-c) Pour convenances personnelles ; la durée de la disponibilité ne peut, en ce cas, excéder six années pour l'ensemble de la
-carrière par périodes maximales des deux années consécutives. L'agent qui a obtenu une mise en disponibilité doit, pour en
-obtenir une nouvelle, avoir repris effectivement ses fonctions pendant une durée au moins égale à celle de la dernière
-période de disponibilité pour convenances personnelles, sans pouvoir être inférieure à un an ;
-
-d) Pour contracter un engagement dans une formation militaire ; la durée de la disponibilité ne peut, en ce cas, excéder
-trois années mais peut être renouvelée une fois pour une durée égale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Décret n°78-208 du 27 février 1978 - art. 3 (Ab) JORF 1er mars
-
-_Cité par_:
-
-  - Décret n°78-208 du 27 février 1978 - art. 1 (Ab)
-
-
 ###### Article L874
 
 La disponibilité peut être également prononcée sur la demande de l'agent pour exercer une activité relevant de sa compétence
@@ -37224,39 +37139,6 @@ _Modifié par_:
 _Abrogé par_:
 
   - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L876
-
-La mise en disponibilité est accordée de droit à l'agent, sur sa demande, pour élever un enfant de moins de huit ans ou
-atteint d'une infirmité exigeant des soins continus.
-
-La mise en disponibilité peut être accordée à l'agent, sur sa demande, pour suivre son conjoint lorsque celui-ci est astreint
-à établir sa résidence habituelle, à raison de sa profession, en un lieu éloigné du lieu d'exercice des fonctions de l'agent.
-
-La disponibilité prononcée en application des dispositions du présent article ne peut excéder deux années. Elle peut être
-renouvelée dans les conditions requises pour l'obtenir sans pouvoir, dans le cas du deuxième alinéa, excéder dix années au
-total.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Décret n°78-208 du 27 février 1978 - art. 4 (Ab) JORF 1er mars
-
-_Cité par_:
-
-  - Décret n°78-208 du 27 février 1978 - art. 1 (Ab)
-  - Code de la santé publique - art. L875 (Ab)
 
 
 ###### Article L877
