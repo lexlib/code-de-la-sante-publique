@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-07-22
+Version Consolidée au 1994-07-26
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-11)](#2)
@@ -62,8 +62,8 @@ Version Consolidée au 1994-07-22
     - [Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales. (art. L209-1 à L209-23)](#59)
       - [Titre 1 : Dispositions générales. (art. L209-2 à L209-8)](#60)
       - [Titre 2 : Du consentement. (art. L209-9 à L209-10)](#61)
-      - [Titre 3 : Dispositions administratives. (art. L209-11 à L209-13)](#62)
-      - [Titre 4 : Dispositions particulières aux recherches sans bénéfice individuel direct (art. L209-14 à L209-18)](#63)
+      - [Titre 3 : Dispositions administratives. (art. L209-11 à L209-13-1)](#62)
+      - [Titre 4 : Dispositions particulières aux recherches sans bénéfice individuel direct (art. L209-14 à L209-18-1)](#63)
       - [Titre 5 : Sanctions pénales. (art. L209-19 à L209-21)](#64)
       - [Titre 6 : Dispositions diverses (art. L209-22 à L209-23)](#65)
     - [Livre 3 : Lutte contre les fléaux sociaux (art. L215 à L355-32)](#66)
@@ -9453,6 +9453,9 @@ Les recherches biomédicales ne peuvent être effectuées que [*conditions d'exp
 - dans des conditions matérielles et techniques adaptées à l'essai et compatibles avec les impératifs de rigueur scientifique
 et de sécurité des personnes qui se prêtent à ces recherches.
 
+Dans les sciences du comportement humain, une personne qualifiée, conjointement avec l'investigateur, peut exercer la
+direction de la recherche.
+
 Les recherches biomédicales concernant le domaine de l'odontologie ne peuvent être effectuées que sous la direction et la
 surveillance d'un chirurgien-dentiste et d'un médecin justifiant d'une expérience appropriée.
 
@@ -9470,7 +9473,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-73 du 18 janvier 1991 - art. 2 () JORF 20 janvier 1991
+  - Loi n°94-630 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Cité par_:
 
@@ -9479,6 +9486,7 @@ _Cité par_:
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L1121-3 (M)
   - Code de la santé publique - art. L1121-3 (V)
 
 **Liens**:
@@ -9488,9 +9496,10 @@ _Nouveaux textes_:
 
 ###### Article L209-4
 
-Les recherches sans bénéfice individuel direct sur les femmes enceintes ou qui allaitent ne sont admises que si elles ne
-présentent aucun risque prévisible pour la santé de la femme ou de l'enfant et si elles sont utiles à la connaissance des
-phénomènes liés à la grossesse ou à l'allaitement.
+Les recherches sans bénéfice individuel direct sur les femmes enceintes, les parturientes et les mères qui allaitent ne sont
+admises que si elles ne présentent aucun risque sérieux prévisible pour leur santé ou celle de leur enfant, si elles sont
+utiles à la connaissance des phénomènes de la grossesse, de l'accouchement ou de l'allaitement et si elles ne peuvent être
+réalisées autrement.
 
 **Nota:**
 
@@ -9506,10 +9515,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
+  - Loi n°94-630 du 25 juillet 1994 - art. 2 () JORF 26 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L1121-4 (M)
   - Code de la santé publique - art. L1121-4 (V)
 
 _Cité par_:
@@ -9523,9 +9537,10 @@ _Cité par_:
 
 ###### Article L209-5
 
-Les personnes privées de liberté par une décision judiciaire ou administrative [*détenus, internés*] ne peuvent être
-sollicitées pour se prêter à des recherches biomédicales [*interdiction*] que s'il en est attendu un bénéfice direct et
-majeur pour leur santé [*dérogation*].
+Les personnes privées de liberté par une décision judiciaire ou administrative [*détenus, internés*], les malades en
+situation d'urgence et les personnes hospitalisées sans consentement en vertu des articles L. 333 et L. 342 qui ne sont pas
+protégées par la loi ne peuvent être sollicités pour se prêter à des recherches biomédicales que s'il en est attendu un
+bénéfice direct et majeur pour leur santé.
 
 **Nota:**
 
@@ -9539,9 +9554,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+  - Loi n°94-630 du 25 juillet 1994 - art. 3 () JORF 26 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Cité par_:
 
@@ -9550,18 +9569,24 @@ _Cité par_:
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L1121-5 (M)
   - Code de la santé publique - art. L1121-5 (V)
 
 **Liens**:
 
   - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
+_Cite_:
+
+  - Code de la santé publique - art. L333 (M)
+  - Code de la santé publique - art. L342 (M)
+
 
 ###### Article L209-6
 
-Les mineurs, les majeurs sous tutelle, les personnes séjournant dans un établissement sanitaire ou social et les malades en
-situation d'urgence ne peuvent être sollicités pour une recherche biomédicale que si l'on peut en attendre un bénéfice direct
-pour leur santé.
+Les mineurs, les majeurs protégés par la loi et les personnes admises dans un établissement sanitaire ou social à d'autres
+fins que celle de la recherche ne peuvent être sollicités pour une recherche biomédicale que si l'on peut en attendre un
+bénéfice direct pour leur santé.
 
 Toutefois, les recherches sans bénéfice individuel direct sont admises si les trois conditions suivantes sont remplies :
 
@@ -9585,10 +9610,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
+  - Loi n°94-630 du 25 juillet 1994 - art. 4 () JORF 26 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L1121-6 (M)
   - Code de la santé publique - art. L1121-6 (V)
 
 _Cité par_:
@@ -9603,17 +9633,17 @@ _Cité par_:
 ###### Article L209-7
 
 Pour les recherches biomédicales sans bénéfice individuel direct, le promoteur assume, même sans faute, l'indemnisation des
-conséquences dommageables de la recherche pour la personne qui s'y prête, sans que puisse être opposé le fait d'un tiers ou
-le retrait volontaire de la personne qui avait initialement consenti à se prêter à la recherche.
+conséquences dommageables de la recherche pour la personne qui s'y prête et celle de ses ayants droit, sans que puisse être
+opposé le fait d'un tiers ou le retrait volontaire de la personne qui avait initialement consenti à se prêter à la recherche.
 
 Pour les recherches biomédicales avec bénéfice individuel direct, le promoteur assume l'indemnisation des conséquences
-dommageables de la recherche pour la personne qui s'y prête, sauf preuve à sa charge que le dommage n'est pas imputable à sa
-faute, ou à celle de tout intervenant sans que puisse être opposé le fait d'un tiers ou le retrait volontaire de la personne
-qui avait initialement consenti à se prêter à la recherche.
+dommageables de la recherche pour la personne qui s'y prête et celle de ses ayants droit, sauf preuve à sa charge que le
+dommage n'est pas imputable à sa faute, ou à celle de tout intervenant sans que puisse être opposé le fait d'un tiers ou le
+retrait volontaire de la personne qui avait initialement consenti à se prêter à la recherche.
 
-Pour toute recherche biomédicale, le promoteur souscrit une assurance garantissant sa responsabilité civile telle qu'elle
-résulte du présent article et celle de tout intervenant, indépendamment de la nature des liens existant entre les
-intervenants et le promoteur. Les dispositions du présent article sont d'ordre public.
+La recherche biomédicale exige la souscription préalable, par son promoteur, d'une assurance garantissant sa responsabilité
+civile telle qu'elle résulte du présent article et celle de tout intervenant, indépendamment de la nature des liens existant
+entre les intervenants et le promoteur. Les dispositions du présent article sont d'ordre public.
 
 **Nota:**
 
@@ -9634,15 +9664,18 @@ _Cité par_:
   - Code de la santé publique - art. L209-23 (Ab)
   - Code de la santé publique - art. R2047 (Ab)
 
-_Modifié par_:
-
-  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
-  - Loi n°90-86 du 23 janvier 1990 - art. 38 () JORF 25 janvier 1990
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°91-440 du 14 mai 1991
   - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
+_Modifié par_:
+
+  - Loi n°94-630 du 25 juillet 1994 - art. 5 () JORF 26 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -9702,10 +9735,18 @@ connaître :
 - les bénéfices attendus, les contraintes et les risques prévisibles, y compris en cas d'arrêt de la recherche avant son
 terme ;
 
-- l'avis du comité mentionné à l'article L. 209-12 du présent code.
+- l'avis du comité mentionné à l'article L. 209-12 du présent code ;
+
+- le cas échéant, son inscription dans le fichier national prévu à l'article L. 209-17.
 
 Il informe [*obligation*] la personne dont le consentement est sollicité de son droit de refuser de participer à une
 recherche ou de retirer son consentement à tout moment sans encourir aucune responsabilité.
+
+L'objectif d'une recherche en psychologie, ainsi que sa méthodologie et sa durée, peuvent ne faire l'objet que d'une
+information préalable succincte dès lors que la recherche ne porte que sur des volontaires sains et ne présente aucun risque
+sérieux prévisible. Une information complète sur cette recherche est fournie à l'issue de celle-ci aux personnes s'y étant
+prêtées. Le projet visé au premier alinéa de l'article L. 209-12 mentionne la nature des informations préalables transmises
+aux personnes se prêtant à la recherche.
 
 A titre exceptionnel, lorsque dans l'intérêt d'une personne malade le diagnostic de sa maladie n'a pu lui être révélé,
 l'investigateur peut, dans le respect de sa confiance, réserver certaines informations liées à ce diagnostic. Dans ce cas, le
@@ -9719,8 +9760,9 @@ Le consentement est donné par écrit [*condition de forme*] ou, en cas d'imposs
 Toutefois, en cas de recherches biomédicales à mettre en oeuvre dans des situations d'urgence qui ne permettent pas de
 recueillir le consentement préalable de la personne qui y sera soumise, le protocole présenté à l'avis du comité instauré par
 l'article L. 209-11 du présent code peut prévoir que le consentement de cette personne ne sera pas recherché et que seul sera
-sollicité celui de ses proches [*dérogation*] s'ils sont présents, dans les conditions prévues ci-dessus. L'intéressé sera
-informé dès que possible et son consentement lui sera demandé pour la poursuite éventuelle de cette recherche.
+sollicité celui des membres de sa famille [*dérogation*] s'ils sont présents, dans les conditions prévues ci-dessus.
+L'intéressé sera informé dès que possible et son consentement lui sera demandé pour la poursuite éventuelle de cette
+recherche.
 
 **Nota:**
 
@@ -9736,7 +9778,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°90-86 du 23 janvier 1990 - art. 40 () JORF 25 janvier 1990
+  - Loi n°94-630 du 25 juillet 1994 - art. 6 () JORF 26 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Cité par_:
 
@@ -9758,6 +9804,7 @@ _Cite_:
 
   - Code de la santé publique - art. L209-11 (M)
   - Code de la santé publique - art. L209-12 (M)
+  - Code de la santé publique - art. L209-17 (M)
 
 **Liens**:
 
@@ -9766,16 +9813,16 @@ _Cite_:
 
 ###### Article L209-10
 
-Lorsqu'une recherche biomédicale est effectuée sur des mineurs ou des majeurs sous tutelle :
+Lorsqu'une recherche biomédicale est effectuée sur des mineurs ou des majeurs protégés par la loi :
 
 - le consentement doit être donné, selon les règles prévues à l'article L. 209-9 du présent code, par les titulaires de
-l'exercice de l'autorité parentale pour les mineurs non émancipés. Pour les mineurs ou les majeurs sous tutelle, le
-consentement est donné par le tuteur pour les recherches avec bénéfice individuel direct ne présentant pas un risque
-prévisible sérieux et, dans les autres cas, par le tuteur autorisé par le conseil de famille ou le juge des tutelles
-[*autorités compétentes*];
+l'exercice de l'autorité parentale pour les mineurs non émancipés. Pour les mineurs ou les majeurs protégés par la loi, le
+consentement est donné par le représentant légal pour les recherches avec bénéfice individuel direct ne présentant pas un
+risque prévisible sérieux et, dans les autres cas, par le représentant légal autorisé par le conseil de famille ou le juge
+des tutelles [*autorités compétentes*];
 
-- le consentement du mineur ou du majeur sous tutelle doit également être recherché lorsqu'il est apte à exprimer sa volonté.
-Il ne peut être passé outre à son refus ou à la révocation de son consentement.
+- le consentement du mineur ou du majeur protégé par la loi doit également être recherché lorsqu'il est apte à exprimer sa
+volonté. Il ne peut être passé outre à son refus ou à la révocation de son consentement.
 
 **Nota:**
 
@@ -9791,7 +9838,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
+  - Loi n°94-630 du 25 juillet 1994 - art. 7 () JORF 26 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Cité par_:
 
@@ -9802,6 +9853,7 @@ _Cité par_:
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L1122-2 (M)
   - Code de la santé publique - art. L1122-2 (V)
 
 **Liens**:
@@ -9820,22 +9872,27 @@ _Cite_:
 Dans chaque région, le ministre chargé de la santé agrée un ou, selon les besoins, plusieurs comités consultatifs de
 protection des personnes dans la recherche biomédicale.
 
-Le ministre fixe par arrêté le nombre de comités dans chaque région.
+Le ministre fixe par arrêté le nombre de comités dans chaque région. Le champ de compétence territorial d'un comité peut être
+étendu à plusieurs régions.
 
-Les comités sont compétents [*territorialement*] au sein de la région où ils ont leur siège. Ils exercent leur mission en
-toute indépendance. Ils doivent être dotés de la personnalité juridique.
+Les comités exercent leur mission en toute indépendance. Ils sont dotés de la personnalité juridique.
 
-Les comités sont composés de manière à assurer une diversité des compétences dans le domaine biomédical et à l'égard des
-questions éthiques, sociales, psychologiques et juridiques.
+Les comités sont compétents au sein de la région où ils ont leur siège. Un décret en Conseil d'Etat fixe les conditions
+minimales d'activité en deçà desquelles le champ de compétence territorial d'un comité peut être étendu à plusieurs régions.
 
-Leurs membres sont nommés par le représentant de l'Etat dans la région, par tirage au sort parmi des personnes présentées par
-des autorités ou organisations habilitées à le faire.
+Les comités sont composés de manière à garantir leur indépendance et la diversité des compétences dans le domaine biomédical
+et à l'égard des questions éthiques, sociales, psychologiques et juridiques.
 
-Les membres des comités, les personnes appelées à collaborer à leurs travaux et les agents de l'Etat qui en sont dépositaires
-sont tenus [*obligations*], dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal, de
-garder secrètes les informations dont ils peuvent avoir connaissance à raison de leurs fonctions et qui sont relatives à la
-nature des recherches, aux personnes qui les organisent ou qui s'y prêtent ou aux produits, objets ou méthodes expérimentés
-[*secret professionnel*].
+Leurs membres sont nommés par le représentant de l'Etat dans la région où le comité a son siège. Ils sont choisis parmi les
+personnes figurant sur une liste établie sur proposition d'organismes ou d'autorités habilités à le faire, dans des
+conditions déterminées par décret.
+
+Les membres des comités, les personnes appelées à collaborer à leurs travaux, les agents de l'Etat et les agents relevant de
+la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière qui en sont
+dépositaires sont tenus [*obligations*], dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code
+pénal, de garder secrètes les informations dont ils peuvent avoir connaissance à raison de leurs fonctions et qui sont
+relatives à la nature des recherches, aux personnes qui les organisent ou qui s'y prêtent ou aux produits, objets ou méthodes
+expérimentés [*secret professionnel*].
 
 Ne peuvent valablement participer à une délibération les personnes qui ne sont pas indépendantes du promoteur et de
 l'investigateur de la recherche examinée.
@@ -9859,6 +9916,12 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Cite_:
+
+  - Loi n°86-33 1986-01-09
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
+
 _Cité par_:
 
   - Loi n°88-1138 du 20 décembre 1988 - art. 6 (V)
@@ -9879,48 +9942,57 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+  - Loi n°94-630 du 25 juillet 1994 - art. 8 () JORF 26 juillet 1994
 
-_Cite_:
+_Abrogé par_:
 
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L1123-1 (M)
   - Code de la santé publique - art. L1123-11 (T)
+  - Code de la santé publique - art. L1123-2 (M)
+  - Code de la santé publique - art. L1123-3 (M)
+  - Code de la santé publique - art. L1123-4 (M)
+  - Code de la santé publique - art. L1123-5 (M)
 
 
 ###### Article L209-12
 
-Avant de réaliser une recherche sur l'être humain, tout investigateur est tenu [*obligation*] d'en soumettre le projet à
-l'avis d'un comité consultatif de protection des personnes dans la recherche biomédicale ayant son siège dans la région où il
-exerce son activité.
+Avant de réaliser une recherche biomédicale sur l'être humain, tout investigateur est tenu d'en soumettre le projet à l'avis
+de l'un des comités consultatifs de protection des personnes dans la recherche biomédicale compétents pour la région où
+l'investigateur exerce son activité. Il ne peut solliciter qu'un seul avis par projet de recherche.
 
-Dans le cas d'une recherche confiée à plusieurs investigateurs, l'avis prévu à l'alinéa précédent est demandé par
-l'investigateur coordonnateur, qui soumet le projet à un comité siégeant dans la région où il exerce son activité.
+Dans le cas d'une recherche confiée à plusieurs investigateurs, cet avis est demandé par l'investigateur coordonnateur, qui
+soumet le projet dans les conditions définies au premier alinéa du présent article.
 
-Le comité rend son avis [*attributions*] sur les conditions de validité de la recherche, notamment la protection des
-participants, leur information et les modalités de recueil de leur consentement, les indemnités éventuellement dues, la
-pertinence générale du projet et l'adéquation entre les objectifs poursuivis et les moyens mis en oeuvre ainsi que la
-qualification du ou des investigateurs. Il communique au ministre chargé de la santé [*autorité compétente*] tout avis
-défavorable donné à un projet de recherche.
+Le comité rend son avis [*attributions*] sur les conditions de validité de la recherche au regard de la protection des
+personnes, notamment la protection des participants, leur information avant et pendant la durée de la recherche et les
+modalités de recueil de leur consentement, les indemnités éventuellement dues, la pertinence générale du projet et
+l'adéquation entre les objectifs poursuivis et les moyens mis en oeuvre ainsi que la qualification du ou des investigateurs.
+Dans un délai de cinq semaines, il fait connaître par écrit son avis à l'investigateur. Il communique à l'autorité
+administrative compétente tout avis défavorable donné à un projet de recherche.
 
-Avant sa mise en oeuvre, le promoteur transmet au ministre chargé de la santé une lettre d'intention décrivant les données
-essentielles de la recherche, accompagnée de l'avis du comité consulté. Cet avis ne le dégage pas de sa responsabilité. Les
-projets ayant fait l'objet d'un avis défavorable ne peuvent être mis en oeuvre avant un délai de deux mois à compter de leur
-réception par le ministre [*point de départ*].
+Avant sa mise en oeuvre, le promoteur transmet à l'autorité administrative compétente une lettre d'intention décrivant les
+données essentielles de la recherche, accompagnée de l'avis du comité consulté. Cet avis ne le dégage pas de sa
+responsabilité. Les projets ayant fait l'objet d'un avis défavorable ne peuvent être mis en oeuvre avant un délai de deux
+mois à compter de leur réception par le ministre [*point de départ*].
 
 Lorsque la recherche doit se dérouler dans un ou plusieurs établissements publics ou privés, le promoteur en informe le ou
 les directeurs de ces établissements avant que cette recherche ne soit mise en oeuvre.
 
-Le promoteur informe, dès qu'il en a connaissance, le ministre chargé de la santé de tout effet ayant pu contribuer à la
-survenue d'un décès, provoquer une hospitalisation ou entraîner des séquelles organiques ou fonctionnelles durables et
-susceptible d'être dû à la recherche. Il l'informe également de tout arrêt prématuré de la recherche en indiquant le motif de
+Le promoteur informe, dès qu'il en a connaissance, l'autorité administrative compétente de tout effet ayant pu contribuer à
+la survenue d'un décès, provoquer une hospitalisation ou entraîner des séquelles organiques ou fonctionnelles durables et
+susceptible d'être dû à la recherche. Le promoteur transmet également à l'autorité administrative compétente toute
+information relative à un fait nouveau concernant le déroulement de la recherche ou le développement du produit ou du
+dispositif faisant l'objet de la recherche lorsque ce fait nouveau est susceptible de porter atteinte à la sécurité des
+personnes qui se prêtent à la recherche. Il l'informe enfin de tout arrêt prématuré de la recherche en indiquant le motif de
 cet arrêt.
 
-Le ministre peut, à tout moment, en cas de risque pour la santé publique ou de non-respect des dispositions du présent livre,
-suspendre ou interdire une recherche biomédicale.
+L'autorité administrative compétente peut, à tout moment, demander au promoteur des informations complémentaires sur la
+recherche. En cas d'absence de réponse du promoteur, de risque pour la santé publique ou de non-respect des dispositions du
+présent livre, elle peut également à tout moment suspendre ou interdire une recherche biomédicale.
 
 **Nota:**
 
@@ -9958,12 +10030,55 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°90-86 du 23 janvier 1990 - art. 43 () JORF 25 janvier 1990
+  - Loi n°94-630 du 25 juillet 1994 - art. 9 () JORF 26 juillet 1994
 
 **Liens**:
 
   - TXT_ASSOCIE: Code de la santé publique - art. L209-20 (Ab)
   - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
+
+###### Article L209-12-1
+
+Le comité consultatif de protection des personnes peut émettre dans les conditions prévues à l'article L. 209-12 un avis
+favorable à la réalisation d'une recherche sous réserve de la transmission d'informations complémentaires par l'investigateur
+pendant le déroulement de celle-ci.
+
+A la suite de cette transmission, le comité peut maintenir ou modifier son avis. Cette décision est transmise par écrit à
+l'investigateur dans un délai de cinq semaines ; elle est adressée par le promoteur à l'autorité administrative compétente
+dans un délai d'une semaine après sa réception.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°94-630 du 25 juillet 1994 - art. 10 () JORF 26 juillet 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1123-9 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-12 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2018 (Ab)
 
 
 ###### Article L209-13
@@ -10002,15 +10117,10 @@ _Cité par_:
   - Code de la santé publique - art. R5120 (M)
 
 
-### Titre 4 : Dispositions particulières aux recherches sans bénéfice individuel direct<a id=63></a>
+###### Article L209-13-1
 
-###### Article L209-14
-
-Les recherches biomédicales sans bénéfice individuel direct ne doivent comporter aucun risque prévisible sérieux pour la
-santé des personnes qui s'y prêtent.
-
-Elles doivent être précédées d'un examen médical des personnes concernées. Les résultats de cet examen leur sont communiqués
-par l'intermédiaire du médecin de leur choix.
+Les modalités de consultation des comités consultatifs de protection des personnes dans la recherche biomédicale en ce qui
+concerne les recherches à caractère militaire sont fixées par décret en Conseil d'Etat.
 
 **Nota:**
 
@@ -10023,6 +10133,53 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°94-630 du 25 juillet 1994 - art. 15 () JORF 26 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1123-11 (T)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
+
+### Titre 4 : Dispositions particulières aux recherches sans bénéfice individuel direct<a id=63></a>
+
+###### Article L209-14
+
+Les recherches biomédicales sans bénéfice individuel direct ne doivent comporter aucun risque prévisible sérieux pour la
+santé des personnes qui s'y prêtent.
+
+Elles doivent être précédées d'un examen médical des personnes concernées. Les résultats de cet examen leur sont communiqués
+préalablement à l'expression de leur consentement par l'intermédiaire du médecin de leur choix.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Loi n°94-630 du 25 juillet 1994 - art. 11 () JORF 26 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -10032,20 +10189,16 @@ _Nouveaux textes_:
 
   - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
-_Modifié par_:
-
-  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
-
 
 ###### Article L209-15
 
-Dans le cas d'une recherche sans bénéfice individuel direct à l'égard des personnes qui s'y prêtent, le promoteur verse à ces
-personnes une indemnité [*en espèces, financière*] en compensation des contraintes subies. Le montant total des indemnités
-qu'une personne peut percevoir au cours d'une même année est limité à un maximum fixé par le ministre chargé de la santé
-[*autorité compétente*].
+Dans le cas d'une recherche sans bénéfice individuel direct à l'égard des personnes qui s'y prêtent, le promoteur peut verser
+à ces personnes une indemnité en compensation des contraintes subies. Le montant total des indemnités qu'une personne peut
+percevoir au cours d'une même année est limité à un maximum fixé par le ministre chargé de la santé .
 
-Les recherches effectuées sur des mineurs, des majeurs sous tutelle ou des personnes séjournant dans un établissement
-sanitaire ou social ne peuvent en aucun cas donner lieu à une telle indemnité.
+Les recherches effectuées sur des mineurs, des majeurs protégés par la loi ou des personnes admises dans un établissement
+sanitaire ou social à d'autres fins que celle de la recherche ne peuvent en aucun cas donner lieu au versement de l'indemnité
+prévue au premier alinéa du présent article.
 
 **Nota:**
 
@@ -10061,7 +10214,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
+  - Loi n°94-630 du 25 juillet 1994 - art. 12 () JORF 26 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Cité par_:
 
@@ -10209,6 +10366,46 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
 
+###### Article L209-18-1
+
+Aucune recherche biomédicale ne peut être effectuée sur une personne en état de mort cérébrale [*interdiction*] sans son
+consentement exprimé directement ou par le témoignage de sa famille.
+
+Les dispositions de l'article 225-17 du code pénal ne sont pas applicables à ces recherches.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Code pénal - art. 225-17 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1124-5 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
+_Créé par_:
+
+  - Loi n°94-630 du 25 juillet 1994 - art. 19 () JORF 26 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
 ### Titre 5 : Sanctions pénales.<a id=64></a>
 
 ###### Article L209-19
@@ -10348,8 +10545,7 @@ _Nouveaux textes_:
 
 ###### Article L209-20
 
-Est puni d'un emprisonnement de deux mois à un an [*durée*] et d'une amende de 6 000 F à 100 000 F (1) [*montant*] ou de
-l'une de ces deux peines seulement :
+Est puni d'un an d'emprisonnement [*durée*] et de 100 000 F d'amende (1) [*montant*] :
 
 - quiconque aura pratiqué ou fait pratiquer une recherche biomédicale sans avoir obtenu l'avis préalable prévu par l'article
 L. 209-12 du présent code ;
@@ -10367,11 +10563,8 @@ peines.
 
 **Nota:**
 
-*Nota - loi 88-1138 du 20 décembre 1988 art. 6 4°: l'entrée en vigueur du premier au troisième et dernier alinéas de
-l'article L209-20 sera fixée par les textes pris en application et au plus tard le 1er janvier 1990.
-
-Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités territoriales de
-Saint-Pierre-et-Miquelon et de Mayotte.
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -10380,13 +10573,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
-
-  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
-
 _Cité par_:
 
   - Loi n°88-1138 du 20 décembre 1988 - art. 6 (V)
+
+_Modifié par_:
+
+  - Loi n°94-630 du 25 juillet 1994 - art. 13 () JORF 26 juillet 1994
 
 _Nouveaux textes_:
 
@@ -10400,14 +10593,16 @@ _Cite_:
 
 **Liens**:
 
+  - TXT_ASSOCIE: Code de la santé publique - art. L209-12 (M)
+  - TXT_ASSOCIE: Code de la santé publique - art. L209-17 (M)
+  - TXT_ASSOCIE: Code de la santé publique - art. L209-18 (M)
   - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
 
 ###### Article L209-21
 
 Le promoteur dont la responsabilité civile n'est pas garantie par l'assurance prévue à l'article L. 209-7 du présent code est
-puni d'un emprisonnement de un à six mois [*durée*] et d'une amende de 6 000 F à 100 000 F (1) [*montant*] ou de l'une de ces
-deux peines seulement.
+puni d'un an d'emprisonnement [*durée*] et de 100 000 F d'amende (1) [*montant*].
 
 Le promoteur qui réalise ou fait réaliser une recherche biomédicale sans avoir transmis au ministre chargé de la santé la
 lettre d'intention prévue à l'article L. 209-12 est puni des mêmes peines.
@@ -10428,7 +10623,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°90-86 du 23 janvier 1990 - art. 45 () JORF 25 janvier 1990
+  - Loi n°94-630 du 25 juillet 1994 - art. 14 () JORF 26 juillet 1994
 
 _Nouveaux textes_:
 
@@ -46294,10 +46489,10 @@ _Nouveaux textes_:
 ###### Article L714-11
 
 Le projet d'établissement définit, notamment sur la base du projet médical, les objectifs généraux de l'établissement dans le
-domaine médical et des soins infirmiers, de la politique sociale, des plans de formation, de la gestion et du système
-d'information. Ce projet, qui doit être compatible avec les objectifs du schéma d'organisation sanitaire, détermine les
-moyens d'hospitalisation, de personnel et d'équipement de toute nature dont l'établissement doit disposer pour réaliser ses
-objectifs.
+domaine médical et des soins infirmiers, de la recherche biomédicale, de la politique sociale, des plans de formation, de la
+gestion et du système d'information. Ce projet, qui doit être compatible avec les objectifs du schéma d'organisation
+sanitaire, détermine les moyens d'hospitalisation, de personnel et d'équipement de toute nature dont l'établissement doit
+disposer pour réaliser ses objectifs.
 
 Le projet d'établissement est établi pour une durée maximale de cinq ans. Il peut être révisé avant ce terme.
 
@@ -46308,14 +46503,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 6 mai 1999
-  - TXT_SOURCE: Arrêté du 6 mai 1999 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 6 mai 1999 - art. 2 (V)
-
 _Cité par_:
 
+  - Loi n°91-748 du 31 juillet 1991 - art. 23 (V)
   - Arrêté du 6 mai 1999 - art. 2 (V)
   - Code de la santé publique - art. L710-3-1 (Ab)
   - Code de la santé publique - art. L714-20 (Ab)
@@ -46327,15 +46517,20 @@ _Cité par_:
   - Code de la santé publique - art. R711-12 (Ab)
   - Code de la santé publique - art. R712-3 (M)
   - Code de la santé publique - art. R714-3-6 (M)
-  - Loi n°91-748 du 31 juillet 1991 - art. 23 (V)
+
+_Modifié par_:
+
+  - Loi n°94-630 du 25 juillet 1994 - art. 16 () JORF 26 juillet 1994
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 6 mai 1999
+  - TXT_SOURCE: Arrêté du 6 mai 1999 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 6 mai 1999 - art. 2 (V)
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L6143-2 (M)
-
-_Créé par_:
-
-  - Loi n°91-748 du 31 juillet 1991 - art. 8 () JORF 2 août 1991
 
 
 ###### Article L714-12
