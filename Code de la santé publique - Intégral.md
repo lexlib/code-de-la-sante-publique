@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1964-08-01
+Version Consolidée au 1964-09-10
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -48,7 +48,7 @@ Version Consolidée au 1964-08-01
           - [Section 2 : Surveillance sanitaire et sociale. (art. L164 à L168)](#45)
           - [Section 3 : Placement de l'enfant en nourrice ou en garde (art. L169 à L175)](#46)
             - [Paragraphe 1 : Conditions exigées des nourrices ou gardiennes. (art. L169 à L170)](#47)
-            - [Paragraphe 2 : Déclarations obligatoires en cas de placement de l'enfant en nourrice ou en garde. (art. L171 à L174)](#48)
+            - [Paragraphe 2 : Déclarations obligatoires en cas de placement de l'enfant en nourrice ou en garde. (art. L172 à L173)](#48)
             - [Paragraphe 3 : Salaire des nourrices ou gardiennes. (art. L175)](#49)
         - [Chapitre 5 : Du contrôle de certains établissements (art. L176 à L181)](#50)
           - [Section 1 : Etablissements d'hospitalisation recevant des femmes enceintes. (art. L176 à L179)](#51)
@@ -4859,28 +4859,6 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L2122-2 (V)
 
 
-###### Article L156
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L186 (Ab)
-  - Code de la sécurité sociale. - art. D615-4 (Ab)
-  - Code de la sécurité sociale. - art. L331-2 (M)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L2122-3 (V)
-
-
 ###### Article L157
 
 Un modèle de certificat prénuptial est établi par arrêté du ministre de la Santé publique et de la Population.
@@ -5350,18 +5328,6 @@ _Abrogé par_:
 
 ##### Paragraphe 2 : Déclarations obligatoires en cas de placement de l'enfant en nourrice ou en garde.<a id=48></a>
 
-###### Article L171
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
 ###### Article L172
 
 Article abrogé
@@ -5392,18 +5358,6 @@ _Codifié par_:
 _Abrogé par_:
 
   - Loi n°77-505 1977-05-17 art. 5 JORF 18 mai 1977
-
-
-###### Article L174
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ##### Paragraphe 3 : Salaire des nourrices ou gardiennes.<a id=49></a>
