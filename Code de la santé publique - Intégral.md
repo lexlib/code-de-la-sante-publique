@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1957-04-05
+Version Consolidée au 1958-10-24
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -247,7 +247,7 @@ Version Consolidée au 1957-04-05
       - [Titre 1er bis : Mesures générales relatives à l'équipement sanitaire. (art. L734-2 à L734-5)](#244)
       - [Titre 2 : Thermo-climatisme (art. L735 à L752)](#245)
         - [Chapitre 1 : Sources d'eaux minérales (art. L735 à L751)](#246)
-          - [Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent. (art. L735 à L746)](#247)
+          - [Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent. (art. L735 à L745)](#247)
           - [Section 2 : Dispositions pénales. (art. L747 à L750)](#248)
           - [Section 3 : Modalités d'application. (art. L751)](#249)
         - [Chapitre 2 : Stations hydrominérales, climatiques et uvales. (art. L752)](#250)
@@ -25168,22 +25168,6 @@ _Cite_:
 _Anciens textes_:
 
   - Loi n°1856-07-14 ART. 11
-
-
-###### Article L746
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Ordonnance 58-997 1958-10-23 art. 56 JORF 24 octobre 1958
 
 
 ##### Section 2 : Dispositions pénales.<a id=248></a>
