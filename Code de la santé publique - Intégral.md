@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1964-07-19
+Version Consolidée au 1964-08-01
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -6052,18 +6052,6 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-
-###### Article L196
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ###### Article L197
