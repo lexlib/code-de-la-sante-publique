@@ -601,6 +601,6 @@ _Cite_:
   - Code de la santé publique - art. R665-36 (M)
   - Code de la santé publique L511, R5117 à R5127, R665-1, R665-36
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-292 1995-03-16 annexe JORF 17 mars 1995
+  - Décret n°2004-108 du 4 février 2004 - art. 1 () JORF 6 février 2004
