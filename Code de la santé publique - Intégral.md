@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1964-07-12
+Version Consolidée au 1964-07-19
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -256,7 +256,7 @@ Version Consolidée au 1964-07-12
       - [TITRE 2 : THERMO-CLIMATISME (art. L741)](#253)
         - [CHAPITRE 1 : SOURCES D'EAUX MINERALES (art. L741)](#254)
           - [SECTION 1 : DE LA DECLARATION D'INTERET PUBLIC DES SOURCES, DES SERVITUDES ET DES DROITS QUI EN RESULTENT. (art. L741)](#255)
-    - [Livre 8 : Institutions (art. L766 à L790)](#256)
+    - [Livre 8 : Institutions (art. L766 à L785)](#256)
       - [Chapitre 1 : Services administratifs locaux (art. L766 à L775)](#257)
         - [Section 1 : Service départemental de la santé (art. L766 à L771)](#258)
           - [Paragraphe 1 : Dispositions générales. (art. L766 à L768)](#259)
@@ -267,9 +267,9 @@ Version Consolidée au 1964-07-12
       - [CHAPITRE 2 : CONSEILS ET COMMISSIONS (art. L776 à L782)](#264)
         - [SECTION 1 : CONSEILS D'HYGIENE DEPARTEMENTAUX ET COMMISSIONS SANITAIRES. (art. L776 à L779)](#265)
         - [Section 3 : Conseil permanent d'hygiène sociale. (art. L782)](#266)
-      - [Chapitre 3 : Institut national de la santé et de la recherche médicale (art. L785 à L790)](#267)
-        - [Ecole nationale de la santé publique (art. L785 à L790)](#268)
-          - [Section 1 : Institut national de la santé et de la recherche médicale. (art. L785 à L790)](#269)
+      - [Chapitre 3 : Institut national de la santé et de la recherche médicale (art. L785)](#267)
+        - [Ecole nationale de la santé publique (art. L785)](#268)
+          - [Section 1 : Institut national de la santé et de la recherche médicale. (art. L785)](#269)
     - [LIVRE 9 : PERSONNEL (art. L792 à L799)](#270)
       - [TITRE UNIQUE : STATUT GENERAL DU PERSONNEL DES ETABLISSEMENTS D'HOSPITALISATION PUBLICS ET DE CERTAINS ETABLISSEMENTS A CARACTERE SOCIAL (art. L792 à L799)](#271)
         - [CHAPITRE 1 : DISPOSITIONS GENERALES. (art. L792 à L799)](#272)
@@ -26805,110 +26805,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Loi n°41-4968 1941-11-30 ART. 1
-
-
-###### Article L786
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
-
-
-###### Article L787
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
-
-
-###### Article L788
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
-
-
-###### Article L789
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
-
-
-###### Article L790
-
-Un décret en Conseil d'Etat précise les conditions d'application de la section I du chapitre III du livre VIII du Code de la
-santé publique relative à l'Institut national de la santé et de la recherche médicale, notamment en ce qui concerne le
-fonctionnement du conseil d'administration, le statut du personnel et le régime financier.
-
-**Nota:**
-
-[*Nota : Décret 64-727 du 18 juillet 1964 : Abroge l'article L. 790 à la date d'entrée en fonction du conseil
-d'administration prévu par ce décret. Décret 74-390 du 9 mai 1974 : Modifie l'article 1 du décret du 23 juillet 1962.*]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Décret n°62-855 1962-07-23 ART. 1 JORF 27 juillet
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°64-727 1964-07-18
-  - SPEC_APPLI: Décret n°74-390 1974-05-09
-
-_Abrogé par_:
-
-  - Décret n°64-727 1964-07-18 ART. 20 JORF 19 juillet
-
-_Cite_:
-
-  - Code de la santé publique L785 à L790
-
-_Cité par_:
-
-  - Code de la sécurité sociale. - art. D412-79 (V)
 
 
 ## LIVRE 9 : PERSONNEL<a id=270></a>
