@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-08-23
+Version Consolidée au 1992-08-27
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -495,8 +495,8 @@ Version Consolidée au 1992-08-23
           - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#492)
           - [Section 5 : Dispositions diverses (art. R716-9-1)](#493)
   - [Partie réglementaire ancienne - Décrets simples (art. D711-6-1 à D712-14)](#494)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-19-2)](#495)
-      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-19-2)](#496)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#495)
+      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#496)
         - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#497)
           - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#498)
           - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#499)
@@ -506,22 +506,24 @@ Version Consolidée au 1992-08-23
             - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#503)
           - [Section 2 : Autorisations (art. D712-15 à D712-16)](#504)
             - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#505)
-        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-19-2)](#506)
+        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#506)
           - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-4)](#507)
             - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#508)
             - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#509)
           - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#510)
             - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#511)
             - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#512)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-14)](#513)
-      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#514)
-        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#515)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-14)](#516)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#517)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#518)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#519)
-        - [Section 2 : Autorisations (art. D712-14)](#520)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#521)
+          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#513)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#514)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-14)](#515)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#516)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#517)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-14)](#518)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#519)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#520)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#521)
+        - [Section 2 : Autorisations (art. D712-14)](#522)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#523)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -78442,11 +78444,120 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=513></a>
+##### Section 2 : Organisation des soins et fonctionnement médical<a id=513></a>
 
-### Chapitre Ier : Missions et obligations des établissements de santé<a id=514></a>
+###### Article D714-21-1
 
-#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=515></a>
+Les professeurs des universités-praticiens hospitaliers et les professeurs des universités-praticiens hospitaliers des
+centres de soins, d'enseignement et de recherche dentaires qui bénéficient d'une prolongation d'activité en application de la
+loi n° 86-1304 du 23 décembre 1986 peuvent exercer des fonctions hospitalières en qualité de consultants dans les conditions
+fixées par le présent décret.
+
+Les fonctions hospitalières prévues aux deux derniers alinéas de l'article L. 714-21 peuvent être exercées dans une structure
+de l'établissement.
+
+En dehors de l'établissement et dans des conditions permettant l'accomplissement de leurs fonctions universitaires, elles
+peuvent consister en missions d'expertise ou de conseil relatifs à la santé publique soit dans les services déconcentrés de
+la circonscription régionale où est situé l'établissement dont ils relèvent, soit dans les services centraux de l'Etat.
+
+Les consultants demeurent rattachés à leur établissement d'origine.
+
+Dans les cas mentionnés au troisième alinéa du présent article, une convention prévoit les modalités de mise à disposition et
+les conditions dans lesquelles le service d'accueil rembourse la rémunération hospitalière à l'établissement d'origine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Loi n°86-1304 1986-12-23
+  - Code de la santé publique - art. L714-21 (M)
+
+_Créé par_:
+
+  - Décret n°92-826 du 20 août 1992 - art. 1 () JORF 27 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6151-2 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. D714-21-2 (M)
+
+
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=514></a>
+
+###### Article D714-21-2
+
+La nature et l'organisation des fonctions et missions mentionnées aux deuxième et troisième alinéas de l'article D. 714-21-1
+sont fixées au moment de la demande pour une durée d'un an renouvelable par tacite reconduction. Elles peuvent être révisées
+à tout moment avec l'accord du consultant.
+
+Les consultants sont nommés par le représentant de l'Etat dans la région.
+
+Les fonctions des consultants cessent lorsqu'il est mis fin à leur maintien en activité en surnombre sur le plan
+universitaire conformément à la loi n° 86-1304 du 23 décembre 1986.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Loi n°86-1304 1986-12-23
+  - Code de la santé publique - art. D714-21-1 (M)
+
+_Créé par_:
+
+  - Décret n°92-826 du 20 août 1992 - art. 1 () JORF 27 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6151-3 (V)
+
+
+###### Article D714-21-3
+
+Les professeurs des universités - praticiens hospitaliers, consultants, demeurent régis par le décret n° 84-135 du 24 février
+1984 modifié.
+
+Les professeurs des universités - praticiens hospitaliers des centres de soins, d'enseignement et de recherche dentaires,
+consultants, demeurent régis par le décret n° 90-92 du 24 janvier 1990.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Décret n°84-135 1984-02-24
+  - Décret n°90-92 1990-01-24
+
+_Créé par_:
+
+  - Décret n°92-826 du 20 août 1992 - art. 1 () JORF 27 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6151-1 (V)
+
+
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=515></a>
+
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=516></a>
+
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=517></a>
 
 ###### Article D711-16-1
 
@@ -78581,11 +78692,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-47 (T)
 
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=516></a>
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=518></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=517></a>
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=519></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=518></a>
+##### Sous-section 1 : Du collège national d'experts<a id=520></a>
 
 ###### Article D712-1
 
@@ -78683,7 +78794,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=519></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=521></a>
 
 ###### Article D712-8
 
@@ -78830,9 +78941,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=520></a>
+#### Section 2 : Autorisations<a id=522></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=521></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=523></a>
 
 ###### Article D712-14
 
