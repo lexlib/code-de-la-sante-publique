@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1977-05-18
+Version Consolidée au 1977-06-23
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -395,47 +395,63 @@ Version Consolidée au 1977-05-18
             - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#392)
             - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142-1)](#393)
             - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#394)
-        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#395)
-          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#396)
-      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266)](#397)
-        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5229)](#398)
-          - [SECTION 1 : GENERALITES. (art. R5149)](#399)
-          - [SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5152)](#400)
-            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5152)](#401)
-          - [SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5151 à R5166-1)](#402)
-            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5151 à R5164)](#403)
-            - [PARAGRAPHE 1 : GENERALITES. (art. R5150)](#404)
-            - [PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C). (art. R5167)](#405)
-            - [PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*. (art. R5168)](#406)
-            - [PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B). (art. R5165 à R5166-1)](#407)
-          - [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE (art. R5169 à R5211)](#408)
-            - [PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*. (art. R5169 à R5177)](#409)
-            - [PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5178 à R5182)](#410)
-            - [PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5183 à R5188)](#411)
-            - [PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5189 à R5211)](#412)
-              - [1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE. (art. R5190 à R5198)](#413)
-              - [2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE. (art. R5199 à R5211)](#414)
-          - [SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5212 à R5227)](#415)
-            - [PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*. (art. R5227)](#416)
-          - [SECTION 4 : PRODUITS CAPILLAIRES (art. R5213 à R5221)](#417)
-            - [PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX. (art. R5213 à R5216)](#418)
-            - [PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES. (art. R5217 à R5221)](#419)
-          - [SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE (art. R5222 à R5226)](#420)
-            - [PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5222 à R5226)](#421)
-          - [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS (art. R5228 à R5229)](#422)
-            - [INSPECTION. (art. R5228 à R5229)](#423)
-        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5229-2 à R5229-4)](#424)
-        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#425)
-        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#426)
-        - [Chapitre 6 : Thermomètres médicaux. (art. R5243 à R5261)](#427)
-        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#428)
-        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#429)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#430)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#431)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#432)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#433)
-          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#434)
-          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#435)
+        - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#395)
+          - [DISPOSITIONS GENERALES. (art. R5145)](#396)
+          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146-1 à R5146-17)](#397)
+            - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#398)
+            - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#399)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17)](#400)
+          - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#401)
+            - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#402)
+            - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#403)
+            - [Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché. (art. R5146-33 à R5146-39)](#404)
+            - [Paragraphe 4 : Prélèvements d'échantillons. (art. R5146-40 à R5146-41)](#405)
+          - [Section 3 : Réglementation de la publicité. (art. R5146-42 à R5146-48)](#406)
+          - [SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES. (art. R5146-49 à R5146-50 bis)](#407)
+          - [SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS. (art. R5146-51 à R5146-55)](#408)
+          - [Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents. (art. R5146-56)](#409)
+          - [SECTION 7 : SANCTIONS. (art. R5146-57)](#410)
+        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#411)
+          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#412)
+      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266)](#413)
+        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5229)](#414)
+          - [SECTION 1 : GENERALITES. (art. R5149)](#415)
+          - [SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5152)](#416)
+            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5152)](#417)
+          - [SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5151 à R5166-1)](#418)
+            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5151 à R5164)](#419)
+            - [PARAGRAPHE 1 : GENERALITES. (art. R5150)](#420)
+            - [PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C). (art. R5167)](#421)
+            - [PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*. (art. R5168)](#422)
+            - [PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B). (art. R5165 à R5166-1)](#423)
+          - [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE (art. R5169 à R5211)](#424)
+            - [PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*. (art. R5169 à R5177)](#425)
+            - [PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5178 à R5182)](#426)
+            - [PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5183 à R5188)](#427)
+            - [PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5189 à R5211)](#428)
+              - [1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE. (art. R5190 à R5198)](#429)
+              - [2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE. (art. R5199 à R5211)](#430)
+          - [SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5212 à R5227)](#431)
+            - [PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*. (art. R5227)](#432)
+          - [SECTION 4 : PRODUITS CAPILLAIRES (art. R5213 à R5221)](#433)
+            - [PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX. (art. R5213 à R5216)](#434)
+            - [PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES. (art. R5217 à R5221)](#435)
+          - [SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE (art. R5222 à R5226)](#436)
+            - [PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5222 à R5226)](#437)
+          - [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS (art. R5228 à R5229)](#438)
+            - [INSPECTION. (art. R5228 à R5229)](#439)
+        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5229-2 à R5229-4)](#440)
+        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#441)
+        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#442)
+        - [Chapitre 6 : Thermomètres médicaux. (art. R5243 à R5261)](#443)
+        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#444)
+        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#445)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#446)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#447)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#448)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#449)
+          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#450)
+          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#451)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -45772,9 +45788,2259 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5121-202 (V)
 
 
-#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=395></a>
+#### CHAPITRE 3 : PHARMACIE VETERINAIRE<a id=395></a>
 
-##### Section 3 : Dispositions communes.<a id=396></a>
+##### DISPOSITIONS GENERALES.<a id=396></a>
+
+###### Article R5145
+
+A la qualité de fabricant de médicaments vétérinaires tout pharmacien, tout docteur vétérinaire ou toute société,
+propriétaire d'un des établissements [*de préparation, de vente en gros et de distribution*] mentionnés à l'article L. 615 et
+se livrant, en vue de la vente, à la préparation totale ou partielle des médicaments vétérinaires. Sont considérés comme des
+préparations avec les obligations de contrôle y afférentes, la division, le changement de conditionnement ou de présentation
+de médicaments vétérinaires.
+
+A la qualité de grossiste répartiteur en médicaments vétérinaires tout pharmacien, tout docteur vétérinaire ou toute société,
+propriétaire d'un des établissements mentionnés à l'article L. 615 et se livrant à l'achat, en vue de la vente en l'état, de
+médicaments vétérinaires aux personnes ou organismes mentionnés aux articles L. 610, L. 612 et L. 617-13.
+
+A la qualité de dépositaire en médicaments vétérinaires tout pharmacien, tout docteur vétérinaire ou toute société,
+propriétaire d'un des établissements mentionnés à l'article L. 615 et se livrant, pour le compte d'un ou de plusieurs
+fabricants, au stockage et à la distribution de médicaments vétérinaires dont il n'est pas propriétaire, aux grossistes
+répartiteurs et aux pharmaciens ou aux docteurs vétérinaires, personnes et organismes mentionnés aux articles L. 610, L. 612
+et L. 617-13.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L610 (M)
+  - Code de la santé publique - art. L612 (M)
+  - Code de la santé publique - art. L615 (M)
+  - Code de la santé publique - art. L617-13 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-1 (V)
+
+_Anciens textes_:
+
+  - Code de la santé publique - art. R5145-1 (T)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-15 bis (Ab)
+  - Code de la santé publique - art. R5163 (M)
+
+
+##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.<a id=397></a>
+
+##### Paragraphe 1 : Autorisation administrative.<a id=398></a>
+
+###### Article R5146-1
+
+Un arrêté conjoint du ministre de l'agriculture et du ministre de la santé détermine les formes et conditions dans lesquelles
+sont présentées et instruites les demandes tendant à obtenir l'autorisation prévue à l'article L. 616 du présent code.
+
+Cette autorisation, préalable à l'ouverture de l'établissement, est délivrée par décision conjointe du ministre de
+l'agriculture et du ministre de la santé.
+
+Lorsqu'une entreprise comprend plusieurs établissements [*multiples*], chacun d'entre eux doit faire l'objet d'une
+autorisation administrative distincte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L616 (M)
+
+
+###### Article R5146-2
+
+Toute décision de refus doit être motivée [*obligation*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+
+###### Article R5146-3
+
+Toute modification dans l'aménagement de l'établissement doit faire, dans les huit jours [*délai*], l'objet d'une déclaration
+au ministre de l'agriculture et au ministre de la santé. Les modalités de cette déclaration sont fixées par arrêté conjoint
+desdits ministres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Arrêté du 27 octobre 1977 - art. 8 (Ab)
+  - Code de la santé publique - art. R5146-3-1 (Ab)
+
+
+###### Article R5146-4
+
+Si, dans le délai de deux ans qui suit la notification de l'autorisation, l'établissement ne fonctionne pas, cette
+autorisation devient caduque. Toutefois, sur justification produite avant l'expiration dudit délai, celui-ci peut être
+prorogé par décision conjointe du ministre de l'agriculture et du ministre de la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+
+###### Article R5146-5
+
+La suspension pour une durée maximale d'un an ou la suppression de l'autorisation prévue à l'article L. 616 du code de la
+santé publique est prononcée par décision conjointe du ministre de l'agriculture et du ministre de la santé [*autorités
+compétentes*]. Une telle décision ne peut intervenir qu'après que l'intéressé ait été invité à fournir toutes explications
+[*droit de défense*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Arrêté du 27 octobre 1977 - art. 10 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L616 (M)
+
+
+##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.<a id=399></a>
+
+###### Article R5146-6
+
+Dans les sociétés mentionnées à l'article L. 615, le pharmacien ou le docteur vétérinaire responsable doit être [*autorités
+compétentes*] :
+
+Dans les sociétés anonymes autres que celles qui sont régies par les articles 118 et suivants de la loi n° 66-537 du 24
+juillet 1966, le président du conseil d'administration ou un directeur général ;
+
+Dans les sociétés anonymes régies par lesdits articles, soit le président du directoire, soit un autre membre du directoire
+ayant la qualité de directeur général, soit le directeur général unique ;
+
+Dans les sociétés en commandite par actions, les sociétés à responsabilité limitée, les sociétés en nom collectif, les
+sociétés en commandite simple, un gérant ;
+
+Dans les sociétés coopératives agricoles, un directeur général ou un membre du directoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Loi n°66-537 1966-07-24 ART. 118 et S.
+  - Code de la santé publique - art. L615 (M)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Arrêté du 9 mai 1995 - art. 2 (Ab)
+  - Code de la santé publique - art. R5146-16 (Ab)
+  - Code de la santé publique - art. R5146-8 (Ab)
+
+
+###### Article R5146-7
+
+Le pharmacien inspecteur régional de la santé et le directeur départemental des services vétérinaires ainsi que, selon le
+cas, le conseil central compétent de l'ordre des pharmaciens ou le conseil supérieur de l'ordre des vétérinaires reçoivent
+copie de tout acte portant désignation du pharmacien ou du docteur vétérinaire responsable au sens de l'article L. 615
+[*communication*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L615 (M)
+
+
+###### Article R5146-8
+
+En vue de l'application des règles édictées dans l'intérêt de la santé publique, le pharmacien ou le docteur vétérinaire
+désigné à l'article R. 5146-6 exerce au moins les attributions suivantes :
+
+Il participe à l'élaboration du programme de recherches et d'études de la société ;
+
+Il signe, après avoir pris connaissance des rapports d'expertise, les demandes d'autorisation de mise sur le marché des
+médicaments vétérinaires ;
+
+Il organise et surveille la fabrication, le conditionnement, le stockage, le contrôle et la délivrance à titre onéreux ou
+gratuit des médicaments définis aux articles L. 606 et L. 607, ainsi que la publicité les concernant ;
+
+Il a autorité sur les pharmaciens ou docteurs vétérinaires assistants ;
+
+Il signale aux autres dirigeants de la société les difficultés inhérentes aux conditions d'exploitation qui sont de nature à
+faire obstacle à l'exercice de ses attributions.
+
+Dans le cas où un désaccord, portant sur l'application des règles édictées dans l'intérêt de la santé publique, oppose un
+organe de gestion d'administration, de direction ou de surveillance au pharmacien ou au docteur vétérinaire responsable,
+celui-ci doit en informer le pharmacien inspecteur régional de la santé et le directeur départemental des services
+vétérinaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Arrêté du 9 mai 1995 - art. 2 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L606 (Ab)
+  - Code de la santé publique - art. L607 (M)
+  - Code de la santé publique - art. R5146-6 (M)
+
+
+###### Article R5146-9
+
+Dans le cas où l'organe social compétent met fin aux fonctions de pharmacien responsable ou refuse de les renouveler lors de
+leur expiration, ce pharmacien a la faculté de saisir le conseil central compétent de l'ordre des pharmaciens [*recours*].
+Après instruction contradictoire, ce conseil émet un avis portant sur le point de savoir si l'intéressé a manqué ou non aux
+obligations qui lui incombaient, dans l'intérêt de la santé publique.
+
+Dans le cas où l'organe social compétent met fin aux fonctions de docteur vétérinaire responsable ou refuse de les renouveler
+lors de leur expiration, l'intéressé a la faculté de saisir le conseil supérieur de l'ordre des vétérinaires, qui émet un
+avis dans les formes et conditions prévues à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-17 bis (Ab)
+
+
+##### Paragraphe 3 : Fonctionnement des établissements<a id=400></a>
+
+###### Article R5146-10
+
+Le pharmacien ou le docteur vétérinaire responsable d'un établissement défini à l'article L. 615 doit exercer personnellement
+sa profession [*condition*].
+
+Doivent être effectuées sous la surveillance effective d'un pharmacien qui a rempli les formalités prévues à l'article L. 514
+du code de la santé publique ou d'un docteur vétérinaire satisfaisant aux prescriptions de l'article 309 du code rural, qu'il
+s'agisse du responsable de l'établissement ou d'un assistant [*autorités compétentes*], les opérations suivantes :
+
+Achats et contrôle des matières premières ;
+
+Opérations de fabrication ;
+
+Contrôle des médicaments vétérinaires terminés ;
+
+Préparation des commandes ;
+
+Magasinage, vente et délivrance de médicaments.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L514 (M)
+  - Code de la santé publique - art. L615 (M)
+  - Code rural 309
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-17 bis (Ab)
+
+
+###### Article R5146-11
+
+Le pharmacien exerçant des fonctions de responsabilité au sens de l'article L. 615 doit être inscrit au tableau de la secion
+B de l'ordre lorsqu'il s'agit d'un établissement de fabrication et au tableau de la section C lorsqu'il s'agit d'un
+établissement de répartition ou d'un dépôt de médicaments vétérinaires.
+
+Les pharmaciens qui l'assistent sont inscrits au tableau de la section D de l'ordre des pharmaciens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L615 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-14 (Ab)
+  - Code de la santé publique - art. R5146-17 bis (Ab)
+
+
+###### Article R5146-12
+
+En cas d'absence ou d'empêchement du pharmacien ou du docteur vétérinaire responsable, le remplacement est assuré dans les
+conditions fixées ci-après :
+
+Le remplacement ne peut excéder une année, sauf dans le cas de service national ou de rappel audit service [*durée
+maximum*] ;
+
+Quand le remplacement n'excède pas trois mois consécutifs, l'intéressé est remplacé par un pharmacien ou un docteur
+vétérinaire pouvant être l'un de ses assistants qui s'engage par écrit [*condition de forme*] à assurer le remplacement ;
+
+Quand le remplacement excède trois mois consécutifs, le remplaçant doit être inscrit à cet effet au tableau de l'ordre dont
+il relève ;
+
+Dans tous les cas où le remplacement dépasse quinze jours consécutifs, le propriétaire de l'établissement doit faire
+connaître par lettre recommandée au pharmacien inspecteur régional de la santé, au directeur départemental des services
+vétérinaires et au président du conseil de l'ordre dont il relève les nom, adresse et qualité du remplaçant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-17 bis (Ab)
+
+
+###### Article R5146-13
+
+En cas de décès du pharmacien ou du docteur vétérinaire responsable d'un établissement de fabrication, de vente en gros ou de
+distribution en gros de médicaments vétérinaires ou si ce responsable fait l'objet d'une interdiction d'exercer, il doit être
+aussitôt procédé à la désignation d'un nouveau responsable.
+
+Dès son acceptation, le pharmacien ou le docteur vétérinaire demande son inscription au tableau de l'ordre. Le propriétaire
+de l'établissement informe de la désignation, par lettre recommandée, le pharmacien inspecteur régional de la santé et le
+directeur départemental des services vétérinaires.
+
+Lorsque la désignation du responsable est faite à titre provisoire, elle ne peut avoir effet que pour un an au plus
+[*durée*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
+
+
+###### Article R5146-14
+
+Les assistants doivent être inscrits au tableau de l'ordre des pharmaciens dans les conditions prévues à l'article R. 5146-11
+(2° alinéa) ou au tableau de l'ordre des vétérinaires. Leurs diplômes doivent être enregistrés dans les conditions prévues à
+l'article L. 514 du code de la santé publique ou à l'article 309 du code rural.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L514 (M)
+  - Code de la santé publique - art. R5146-11 (Ab)
+  - Code rural 309
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-17 bis (Ab)
+
+
+###### Article R5146-15
+
+Les établissements mentionnés à l'article L. 615 doivent fonctionner dans des conditions offrant toutes garanties pour la
+santé publique. Ils doivent posséder notamment :
+
+Des locaux aménagés, agencés et entretenus en fonction des opérations qui y sont effectuées ;
+
+Le matériel, les moyens et le personnel nécessaires à l'exercice de ces activités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L615 (M)
+
+
+###### Article R5146-16
+
+Les personnes responsables définies aux articles L. 615 et R.  5146-6 doivent pouvoir justifier, à tout moment, que tous les
+produits qu'elles utilisent, préparent et distribuent, sont conformes aux caractéristiques auxquelles ils doivent répondre et
+qu'il a été procédé aux contrôles nécessaires [*responsabilité*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L615 (M)
+  - Code de la santé publique - art. R5146-6 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-17 bis (Ab)
+
+
+###### Article R5146-17
+
+Lorsque le pharmacien ou le docteur vétérinaire prévu à l'article L. 615 n'est pas en mesure d'assumer personnellement, dans
+chacun des établissements de l'entreprise, toutes les obligations législatives et réglementaires concernant les médicaments
+vétérinaires, il doit être désigné des pharmaciens ou docteurs vétérinaires assistants [*attributions*] qui assument, en ce
+qui concerne le ou les établissements dont ils ont la charge, l'ensemble desdites obligations, sans préjudice de la
+responsabilité du pharmacien ou docteur vétérinaire prévu à l'article L. 615.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L615 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-17 bis (Ab)
+  - Code de la santé publique - art. R5146-57 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. R5146-57 (M)
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+
+
+##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=401></a>
+
+##### Paragraphe 1 : Expérimentation des médicaments vétérinaires.<a id=402></a>
+
+###### Article R5146-18
+
+L'expérimentation des médicaments vétérinaires [*définition*], au sens de l'article L. 617-18, s'entend des trois expertises
+analytique, pharmaco-toxicologique et clinique auxquelles il est procédé, dans les conditions fixées aux articles R. 5146-20
+à R. 5146-25 ci-après, pour vérifier que le produit faisant l'objet d'une demande d'autorisation de mise sur le marché
+possède des propriétés définies au 1° de l'article L. 617-2.
+
+Le ministre de l'agriculture et le ministre de la santé fixent par arrêtés conjoints les protocoles déterminant les normes et
+méthodes applicables à l'expérimentation des médicaments.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L617-18 (M)
+  - Code de la santé publique - art. L617-2 (M)
+  - Code de la santé publique - art. R5146-20 (M)
+  - Code de la santé publique - art. R5146-21 (M)
+  - Code de la santé publique - art. R5146-22 (M)
+  - Code de la santé publique - art. R5146-23 (M)
+  - Code de la santé publique - art. R5146-24 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-2 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-19 (Ab)
+  - Code de la santé publique - art. R5146-25 (M)
+  - Code de la santé publique - art. R5146-25-2 (Ab)
+  - Code de la santé publique - art. R5146-32 (Ab)
+  - Code de la santé publique - art. R5146-56-2 (Ab)
+  - Code de la santé publique - art. R5146-57 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. R5146-57 (M)
+
+
+###### Article R5146-19
+
+La liste des experts agréés prévus à l'article L. 617-18 est dressée par le ministre de l'agriculture après avis du ministre
+de la santé.
+
+L'inscription sur la liste des experts est valable pour cinq ans. Toutefois, le ministre de l'agriculture peut, avant
+l'expiration de cette durée, procéder à des radiations, après avis du ministre de la santé et après que l'intéressé ait été
+invité à fournir ses explications.
+
+Le ministre de l'agriculture répartit les experts entre différentes sections en fonction de leurs disciplines respectives.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Décret n°97-1202 du 19 décembre 1997 - art. Annexe (M)
+  - Code de la santé publique - art. R5145-2 (Ab)
+  - Code de la santé publique - art. R5145-3 (Ab)
+  - Code de la santé publique - art. R5146-22 (Ab)
+  - Code de la santé publique - art. R5146-57 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L617-18 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-3 (V)
+  - Code de la santé publique R5141-3
+
+
+###### Article R5146-20
+
+Les experts ne doivent avoir aucun intérêt financier direct ou indirect, même par personne interposée, dans la production et
+la commercialisation des médicaments faisant l'objet de leurs expertises.
+
+Ils ne peuvent faire aucune expertise pour les entreprises dont ils sont salariés [*incompatibilité*].
+
+Ils ne peuvent effectuer d'expertise qu'au titre de la ou des disciplines correspondant à la section à laquelle ils sont
+rattachés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-25 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-18 (M)
+  - Code de la santé publique - art. R5146-19 (Ab)
+  - Code de la santé publique - art. R5146-57 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique R5146-27 : SANCTIONS PENALES
+
+
+###### Article R5146-21
+
+Les experts et leurs collaborateurs sont tenus au secret professionnel en ce qui concerne la nature des produits essayés, les
+essais eux-mêmes et leurs résultats.
+
+Ils ne peuvent donner de renseignements relatifs à leurs travaux qu'au fabricant, responsable de la mise sur le marché et aux
+services compétents du ministère de la santé et du ministère de l'agriculture.
+
+Aucune publication relative à l'expérimentation d'un médicament ne peut être effectuée sans l'accord conjoint de l'expert et
+du responsable de la mise sur le marché.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-4 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-18 (M)
+
+
+###### Article R5146-22
+
+Le responsable de la mise sur le marché doit informer chacun des experts auxquels il fait appel du nom des autres experts qui
+effectuent des essais sur le même médicament.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-5 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-18 (M)
+
+
+###### Article R5146-23
+
+Le responsable de la mise sur le marché doit fournir aux experts tous renseignements concernant [*information*] :
+
+a) La formule intégrale du médicament vétérinaire soumis à l'expertise ;
+
+b) La nature des expertises demandées ;
+
+c) Les propriétés soumises à vérification ;
+
+d) Les références bibliographiques sur les produits entrant dans la composition du médicament ;
+
+e) Les conditions d'utilisation envisagée.
+
+Il doit fournir les conclusions de l'expertise analytique aux autres experts et mettre en relation experts cliniciens et
+experts toxicologues-pharmacologues en vue de leur permettre de poursuivre leurs essais respectifs en liaison étroite.
+
+Tout expert peut refuser de participer à une expertise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-6 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-18 (M)
+  - Code de la santé publique - art. R5146-25 (Ab)
+
+
+###### Article R5146-24
+
+Les produits remis aux experts et ceux qui sont utilisés pour la réalisation d'essais comparatifs doivent avoir fait l'objet,
+pour chaque lot de fabrication, des contrôles analytiques nécessaires pour en garantir la qualité. Le fabricant ou le
+responsable de la mise sur le marché conserve des échantillons des lots remis aux experts.
+
+L'étiquetage de ces produits comporte : la composition quantitative en principes actifs, le numéro de lot de fabrication, le
+nom du fabricant et la mention "ce produit est réservé aux essais, article R. 5146-24 du code de la santé publique".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-7 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5145-47 (Ab)
+  - Code de la santé publique - art. R5146-18 (M)
+  - Code de la santé publique - art. R5146-24 (M)
+
+
+###### Article R5146-25
+
+Le programme de chaque expertise est déterminé par le responsable de la mise sur le marché et l'expert, compte tenu des
+règles générales d'expertise définies à la présente section.
+
+Si l'expert justifie que le protocole prévu à l'article R. 5146-18 est inapplicable en l'espèce, le responsable de la mise
+sur le marché est tenu de communiquer au ministre de la santé et au ministre de l'agriculture le programme de l'expertise
+retenu, préalablement à la mise en oeuvre de celle-ci.
+
+Avant tout essai relatif aux recherches des effets thérapeutiques d'un médicament vétérinaire sur les animaux, le responsable
+de la mise sur le marché signale au ministre de la santé et au ministre de l'agriculture [*information*] :
+
+a) L'objet de l'essai ;
+
+b) Le nom de l'expert qui en est chargé ;
+
+c) La date probable de son exécution ;
+
+d) Le ou les lieux où il sera réalisé.
+
+Dans le délai d'un mois à compter de la réception des communications ci-dessus indiquées, relatives à des modifications de
+protocoles expérimentaux ou à des essais thérapeutiques sur les élevages, le ministre de la santé et le ministre de
+l'agriculture peuvent s'opposer à la mise en oeuvre de ces essais.
+
+Si aucune objection n'est formulée dans ce délai d'un mois [*accord tacite*], le programme peut être mis à exécution.
+
+Dans tous les cas, les experts doivent veiller à ce que ne puissent être livrées à la consommation des denrées alimentaires
+provenant d'animaux utilisés pour les essais, si elles peuvent être dangereuses pour la santé humaine et animale
+[*interdiction*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Décret n°95-1173 du 6 novembre 1995 - art. 2 (Ab)
+  - Décret n°2003-138 du 18 février 2003 - art. 2 (Ab)
+  - Code de la santé publique - art. R5141-11 (V)
+  - Code de la santé publique - art. R5146-25-2 (Ab)
+  - Code rural - art. R234-4 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-8 (M)
+  - Code de la santé publique - art. R5141-8 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5146-18 (M)
+
+
+##### Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché<a id=403></a>
+
+###### Article R5146-26
+
+Toute demande d'autorisation de mise sur le marché d'un des médicaments vétérinaires mentionnés à l'article L. 607 doit être
+adressée, en trois exemplaires, au ministre de la santé et en trois exemplaires au ministre de l'agriculture.
+
+Lors du dépôt de la demande, des échantillons du produit fini du lot ayant servi aux essais sont remis au Laboratoire
+national des médicaments vétérinaires, en quantité suffisante pour procéder à des essais analytiques.
+
+La demande mentionne :
+
+a) Le nom et l'adresse du responsable de la mise sur le marché ainsi que ceux du pharmacien ou docteur vétérinaire
+responsable ; Lorsque le responsable de la mise sur le marché ne fabrique pas le médicament vétérinaire, le nom et l'adresse
+du fabricant ;
+
+b) La dénomination du médicament vétérinaire qui peut être un nom de fantaisie, la dénomination commune assortie ou non d'une
+marque ou du nom du fabricant, la dénomination scientifique ou la formule assortie ou non d'une marque ou du nom du
+fabricant ;
+
+c) La forme pharmaceutique et la contenance des modèles destinés à la vente ;
+
+d) La formule de préparation du médicament vétérinaire ;
+
+e) La composition intégrale du médicament vétérinaire soit par unité de prise, soit en pourcentage, énoncée en termes usuels
+à l'exclusion des formules chimiques brutes ou élémentaires et avec recours à la dénomination principale retenue par la
+Pharmacopée ou à la dénomination commune internationale recommandée par l'Organisation mondiale de la santé chaque fois que
+de telles dénominations existent ; pour les produits biologiques, la composition en substances utiles pourra être complétée
+par les résultats d'un titrage biologique exprimés en unités internationales quand elles existent ;
+
+f) La nature ou la composition du récipient ;
+
+g) Les modes et voies d'administration, les indications thérapeutiques, les contre-indications et effets secondaires avec,
+pour les prémélanges évoqués aux articles L. 607 et L. 617-1, les taux et procédés de dilution ;
+
+h) La posologie pour les différentes espèces animales auxquelles le médicament est destiné ;
+
+i) La durée de conservation proposée ;
+
+j) La désignation des lieux de fabrication, de contrôle et de conditionnement ;
+
+k) Les mesures de précaution et de sécurité à prendre lors de l'emploi du médicament, s'il y a lieu ;
+
+l) Le temps d'attente tel que défini au second alinéa de l'article L. 617-2, ou l'indication qu'aucun temps d'attente n'est
+nécessaire ;
+
+m) Tous renseignements relatifs à l'exploitation du médicament vétérinaire ou d'un principe actif de ce médicament dans un
+autre pays ;
+
+n) Le texte du projet d'étiquetage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L607 (M)
+  - Code de la santé publique - art. L617-1 (M)
+  - Code de la santé publique - art. L617-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-13 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-27 (M)
+  - Code de la santé publique - art. R5146-32 (Ab)
+  - Code de la santé publique - art. R5146-37 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. R5146-32 (Ab)
+
+
+###### Article R5146-27
+
+Sans préjudice de l'application de la législation relative aux marques de fabrique, de commerce et de service, le nom de
+fantaisie mentionné à l'article R. 5146-26, b, doit être choisi de façon à éviter toute confusion avec d'autres médicaments
+et ne pas induire en erreur sur la qualité ou les propriétés du médicament vétérinaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-14 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-26 (Ab)
+  - Code de la santé publique - art. R5146-33-9 (Ab)
+  - Code de la santé publique - art. R5146-36 (Ab)
+
+
+###### Article R5146-29
+
+Les comptes rendus des expertises analytiques comprennent [*mentions, contenu*] :
+
+a) La formule intégrale du médicament ainsi que les changements qui ont pu être apportés à cette formule en cours
+d'expérimentation ;    b) Le protocole détaillé de la technique utilisée par le fabricant, les résultats obtenus par l'expert
+et les limites extrêmes d'acceptation ;
+
+c) L'interprétation de ces résultats ;
+
+d) La description des essais de stabilité ayant permis de déterminer la durée proposée de conservation ;
+
+e) La quantité minimale de chaque constituant du médicament vétérinaire et le nombre minimal d'unités de vente qu'il sera
+nécessaire de prélever pour procéder utilement, en cas d'attribution de l'autorisation de mise sur le marché, à des contrôles
+postérieurs à la délivrance de cette autorisation par les laboratoires officiels de contrôle des ministères de la santé et de
+l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-18 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-33-8 (Ab)
+  - Code de la santé publique - art. R5146-41 (Ab)
+
+
+###### Article R5146-30
+
+Les comptes rendus des experts pharmacologues et toxicologues indiquent les méthodes utilisées [*mentions, contenu*]. Dans le
+cas de la vérification du temps d'attente indiqué, les essais doivent porter particulièrement sur le métabolisme des
+principes actifs chez les animaux d'expérience et notamment sur le mode et la durée d'élimination desdits principes actifs.
+
+L'expert indique si, après administration du médicament dans les conditions normales d'emploi et respect du temps d'attente
+indiqué, les denrées alimentaires provenant des animaux traités contiennent ou non des résidus pouvant présenter un danger
+pour la santé du consommateur ou des effets susceptibles d'être à l'origine d'une infraction à la législation sur les fraudes
+ou d'entraver le contrôle sanitaire des denrées provenant des animaux auxquels ils ont été administrés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Décret n°2003-138 du 18 février 2003 - art. 2 (Ab)
+  - Code de la santé publique - art. R5141-11 (V)
+  - Code de la santé publique - art. R5146-33-8 (Ab)
+  - Code rural - art. R234-4 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-19 (V)
+
+
+###### Article R5146-31
+
+Le ou les comptes rendus des expertises cliniques comprennent le relevé de chaque observation, le cas échéant, la description
+détaillée des échecs rencontrés en cours d'expérimentation, et les conclusions relatives notamment [*mentions, contenu*] :
+
+a) A l'innocuité dans les conditions normales d'emploi ;
+
+b) A la posologie et à la durée de traitement et de la période d'observation ;
+
+c) Aux indications et à l'effet thérapeutique ;
+
+d) Aux contre-indications, aux effets secondaires indésirables, aux interactions constatées éventuellement avec d'autres
+médicaments ou additifs alimentaires ;
+
+e) Aux conditions normales et particulières de prescription, de délivrance et d'emploi ;
+
+f) Aux risques cliniques de surdosage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-20 (V)
+  - Code de la santé publique - art. R5141-21 (V)
+
+
+###### Article R5146-32
+
+Par dérogation aux dispositions de l'article R. 5146-28 :
+
+a) Lorsque la demande concerne un médicament vétérinaire qui a déjà obtenu l'autorisation de mise sur le marché, le dossier
+prévu à l'article R. 5146-28 peut comprendre, avec l'accord du précédent bénéficiaire, les seuls comptes rendus des
+expertises fournis à l'appui de la première demande [*documents obligatoires*] ;
+
+b) Lorsque la demande porte sur une modification de l'autorisation de mise sur le marché, le ministre de la santé et le
+ministre de l'agriculture peuvent, d'un commun accord, dispenser le demandeur de produire certaines des indications ou
+justifications exigées par l'article R. 5146-28, s'il apparaît que celles-ci sont manifestement sans objet ;
+
+c) Lorsque le médicament vétérinaire a fait, par ailleurs, l'objet d'une autorisation de mise sur le marché délivrée au titre
+des dispositions de l'article L. 601, le compte rendu de l'expertise analytique produit lors de la première demande peut être
+utilisé ; le ministre de la santé et le ministre de l'agriculture peuvent, d'un commun accord, accepter également la
+production du compte rendu des essais toxicopharmacologiques antérieurs. Ils pourront cependant exiger les résultats d'une
+étude en vue de la fixation d'un temps d'attente au sens de l'article L. 617-2 du présent code ;
+
+d) Une documentation bibliographique relative aux essais toxicologiques, pharmacologiques et cliniques, ainsi qu'aux
+indications sur le temps d'attente, peut tenir lieu de la présentation des résultats y afférents lorsqu'il s'agit :
+
+Soit d'un médicament vétérinaire déjà exploité, ayant été expérimenté d'une manière suffisante sur l'animal pour que ses
+effets, y compris les effets secondaires, soient parfaitement connus et figurent dans la documentation bibliographique ;
+
+Soit d'un médicament vétérinaire nouveau dont la composition en principes actifs est identique à celle d'un médicament
+satisfaisant aux conditions précédentes ;
+
+Soit d'un médicament vétérinaire nouveau renfermant uniquement des composants connus, déjà associés en proportion comparable
+dans les médicaments suffisamment exploités et expérimentés ;
+
+e) En ce qui concerne un médicament vétérinaire renfermant des composants connus qui n'ont pas encore été associés dans un
+but thérapeutique, les essais portant sur les seuls composants pris isolément, à l'exclusion des essais concernant
+l'association, peuvent être remplacés par la documentation bibliographique.
+
+Pour l'application des dispositions contenues en d et e la demande est accompagnée d'une étude des experts
+pharmacotoxicologiques et cliniciens justifiant le recours à la documentation bibliographique. Si le demandeur fait appel à
+une documentation bibliographique étrangère, elle doit être accompagnée de sa traduction en langue française ;
+
+f) Lorsque la demande concerne un médicament vétérinaire figurant au formulaire national, le demandeur peut être dispensé des
+expertises pharmacotoxicologiques et cliniques ; il en est de même pour les aliments médicamenteux préparés à l'avance, dont
+la fabrication respecte les conditions d'utilisation du prémélange pour cet aliment telles qu'elles ont été fixées par
+l'autorisation de mise sur le marché du prémélange.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Décret n°79-422 du 21 mai 1979 - art. 1 (Ab)
+  - Décret n°94-601 du 12 juillet 1994 - art. 1 (Ab)
+  - Décret n°2000-1007 du 16 octobre 2000 - art. 1 (Ab)
+  - Code de la santé publique - art. R5146-37 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L601 (M)
+  - Code de la santé publique - art. L617-2 (M)
+  - Code de la santé publique - art. R5146-28 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-22 (V)
+  - Code de la santé publique - art. R5141-23 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. R5146-28 (M)
+
+
+##### Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché.<a id=404></a>
+
+###### Article R5146-33
+
+L'autorisation de mise sur le marché est accordée par décision conjointe du ministre de la santé et du ministre de
+l'agriculture [*autorité compétente*]. La décision précise si le médicament vétérinaire relève des dispositions combinées des
+articles L. 611 et L. 617-6.
+
+Avant de prendre leur décision, les ministres ordonnent toutes mesures d'instruction qu'ils jugent nécessaires.
+
+Ils peuvent notamment soumettre le médicament à l'examen d'un laboratoire pour s'assurer que les méthodes de contrôle
+utilisées par le fabricant et décrites dans le dossier sont satisfaisantes.
+
+Ils peuvent, en outre, imposer au demandeur qu'il complète son dossier en application des dispositions du présent code.
+
+En ce qui concerne les sérums et vaccins vétérinaires, l'instruction comporte un contrôle d'échantillons par un laboratoire
+et, éventuellement, une étude sur place des conditions de fabrication et de contrôle.
+
+Les ministres se prononcent dans un délai de cent vingt jours à compter de la date de présentation du dossier complet. A
+titre exceptionnel, ce délai peut être prorogé une fois de quatre-vingt-dix jours. Lorsque les ministres demandent à
+l'intéressé de compléter son dossier, ces délais sont suspendus jusqu'à ce que les données requises aient été fournies. De
+même, ces délais sont suspendus du temps laissé, le cas échéant, au demandeur pour s'expliquer oralement ou par écrit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 JUIN 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L611 (M)
+  - Code de la santé publique - art. L617-6 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-26 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-33-9 (Ab)
+  - Code de la santé publique - art. R5146-38 (Ab)
+  - Code de la santé publique - art. R5146-49 (Ab)
+
+
+###### Article R5146-34
+
+Sans préjudice des dispositions du dernier alinéa de l'article L. 617-3, les ministres refusent l'autorisation de mise sur le
+marché [*motifs*] :
+
+a) Si la documentation et les renseignements fournis à l'appui de la demande ne satisfont pas aux prescriptions du présent
+code ;
+
+b) Si le médicament est nocif dans les conditions normales d'emploi ;
+
+c) Si l'effet thérapeutique fait défaut ou est insuffisamment justifié sur l'espèce animale concernée ;
+
+d) Si le médicament n'a pas la composition quantitative et qualitative déclarée ;
+
+e) Si le ou les temps d'attente indiqués par le demandeur sont insuffisamment justifiés ou s'ils apparaissent insuffisants,
+soit pour satisfaire aux dispositions de l'article L. 617-2, dernier alinéa, soit pour permettre la transformation éventuelle
+de ces denrées ;
+
+f) Si les moyens mis en oeuvre pour appliquer la méthode de fabrication et les procédés de contrôle ne sont pas de nature à
+garantir la qualité du produit au stade de la fabrication en série.
+
+La demande d'autorisation ne peut être rejetée qu'après que le demandeur ait été invité à fournir ses explications.
+
+La décision de rejet doit être motivée et mentionner les voies et délais de recours qui lui sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L617-2 (M)
+  - Code de la santé publique - art. L617-3 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-38 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-33-9 (Ab)
+  - Code de la santé publique - art. R5146-38 (M)
+  - Code de la santé publique - art. R5146-39 (M)
+
+
+###### Article R5146-36
+
+Tout changement du titulaire de l'autorisation de mise sur le marché est subordonné à une décision conjointe du ministre de
+la santé et du ministre de l'agriculture [*autorité compétente*].
+
+La demande comprend, outre les mentions prévues aux points a, j et n de l'article R. 5146-26 :
+
+a) L'accord du titulaire de l'autorisation ;
+
+b) L'engagement du pharmacien ou du docteur vétérinaire responsable de se soumettre à l'ensemble des conditions auxquelles a
+été subordonnée l'autorisation de mise sur le marché et, notamment, de respecter les méthodes de fabrication et de contrôle.
+
+Dans le cas de fusion ou d'apport partiel d'actif, les sociétés intéressées peuvent déposer une demande de transfert des
+autorisations de mise sur le marché avant que la fusion ou l'apport ne soit définitivement réalisé. Elles fournissent, à
+l'appui de leur demande, le protocole d'accord de principe concernant la fusion ou l'apport. Le transfert est accordé sous la
+condition suspensive de sa réalisation définitive qui doit être notifiée au ministre de la santé et au ministre de
+l'agriculture.
+
+En cas de silence de l'administration, le transfert est réputé être autorisé à l'expiration d'un délai de deux mois [*accord
+tacite*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Décret n°79-422 du 21 mai 1979 - art. 2 (Ab)
+  - Décret n°94-601 du 12 juillet 1994 - art. 1 (Ab)
+  - Décret n°2000-1007 du 16 octobre 2000 - art. 1 (Ab)
+  - Code de la santé publique - art. R5146-38 (Ab)
+  - Code de la santé publique - art. R5146-39 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-40 (V)
+
+_Cite_:
+
+  - Code de la santé publique R5146-26 A, J, N
+
+
+###### Article R5146-37
+
+Le ministre de la santé et le ministre de l'agriculture peuvent, par décision motivée, suspendre pour une période ne pouvant
+excéder un an [*durée*], ou supprimer une autorisation de mise sur le marché. Dans les deux cas, ils peuvent interdire la
+distribution du médicament vétérinaire concerné, notamment s'il apparaît que les conditions prévues aux articles R. 5146-26
+et R. 5146-32 ne sont pas remplies.
+
+La suspension, sauf en cas d'urgence, et la suppression de l'autorisation ne peuvent intervenir qu'après que le titulaire de
+l'autorisation ait été invité à fournir ses explications [*droit de défense*].
+
+La décision de suspension ou de suppression fait l'objet de toutes les mesures de publicité que les ministres jugent
+nécessaires d'ordonner. Elle doit indiquer les voies et délais de recours qui lui sont applicables.
+
+Lorsque l'autorisation est suspendue ou supprimée, le titulaire doit prendre immédiatement toutes dispositions utiles,
+notamment auprès des détenteurs de stocks, pour faire cesser la distribution du médicament en cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-41 (V)
+  - Code de la santé publique - art. R5141-42 (V)
+  - Code de la santé publique - art. R5141-43 (V)
+  - Code de la santé publique - art. R5141-44 (V)
+  - Code de la santé publique - art. R5141-45 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5146-26 (M)
+  - Code de la santé publique - art. R5146-32 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-37-1 (P)
+  - Code de la santé publique - art. R5146-38 (Ab)
+  - Code de la santé publique - art. R5146-39 (M)
+
+
+###### Article R5146-38
+
+Les décisions portant autorisation de mise sur le marché, renouvellement ou changement de titulaire d'une telle autorisation
+ainsi que les décisions de suspension ou de suppression sont publiées par extrait au Journal officiel de la République
+française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 9 novembre 1987
+  - TXT_SOURCE: Arrêté du 9 novembre 1987 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 9 novembre 1987 - art. 2 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-47 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-39 (Ab)
+  - Code de la santé publique - art. R5146-39-2 (M)
+  - Code de la santé publique - art. R5146-39-3 (M)
+  - Code de la santé publique - art. R5146-39-5 (M)
+  - Code de la santé publique - art. R5146-39-6 (Ab)
+  - Code de la santé publique - art. R5146-39-7 (Ab)
+
+
+###### Article R5146-39
+
+Les recours gracieux dirigés contre les décisions prises en vertu des dispositions des articles R. 5146-35 à R. 5146-37 sont
+soumis, pour avis, à une commission dont les membres sont désignés par le ministre de la santé et le ministre de
+l'agriculture [*organisme compétent*].
+
+Cette commission est présidée par un membre du Conseil d'Etat en activité ou en retraite élu par l'assemblée générale du
+Conseil d'Etat pour six ans [*durée du mandat*].
+
+Elle comprend en outre [*composition*] :
+
+a) Deux professeurs d'école vétérinaire désignés par le ministre de l'agriculture ;
+
+b) Un professeur de médecine et un professeur de pharmacie désignés par le ministre de la santé ;
+
+c) Le chef du service central de la pharmacie et des médicaments au ministère de la santé ;
+
+d) Le directeur de la qualité au ministère de l'agriculture ;
+
+e) Le directeur général du laboratoire national de la santé ;
+
+f) Le directeur du laboratoire national de contrôle des médicaments vétérinaires.
+
+Le mandat des membres prévus en a et b ci-dessus est de trois ans. Des membres suppléants en nombre égal à celui des
+titulaires sont désignés dans les mêmes conditions.
+
+Un arrêté conjoint du ministre de la santé et du ministre de l'agriculture fixe les modalités de fonctionnement de la
+commission.
+
+Le recours gracieux prévu au présent article est un préalable obligatoire à l'exercice du recours contentieux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Arrêté du 9 novembre 1987 - art. 1 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°91-143 du 4 février 1991
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-49 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5146-35 (M)
+  - Code de la santé publique - art. R5146-36 (M)
+  - Code de la santé publique - art. R5146-37 (M)
+
+
+##### Paragraphe 4 : Prélèvements d'échantillons.<a id=405></a>
+
+###### Article R5146-40
+
+Pour s'assurer de la conformité des médicaments vétérinaires à la formule déclarée, le ministre de la santé et le ministre de
+l'agriculture peuvent faire procéder à des prélèvements d'échantillons de ces produits par les agents [*inspecteurs*]
+mentionnés à l'article L. 617-20.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L617-20 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-79 (V)
+
+
+###### Article R5146-41
+
+Les quantités prélevées sont le double de celles qui sont mentionnées au e de l'article R. 5146-29, qu'il s'agisse des
+constituants du médicament vétérinaire ou du produit fini.
+
+Les échantillons destinés aux laboratoires sont rassemblés dans des sachets munis d'une étiquette précisant le nom du
+médicament et le numéro du lot de fabrication, le nom et l'adresse du détenteur du produit prélevé, la date du prélèvement,
+son motif, le nom et la qualité de l'agent [*mentions obligatoires*].
+
+Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-80 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5146-29 (M)
+
+
+##### Section 3 : Réglementation de la publicité.<a id=406></a>
+
+###### Article R5146-42
+
+Est interdite toute publicité faite, sous quelque forme que ce soit, pour des médicaments vétérinaires dont la mise sur le
+marché n'a pas été autorisée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-82 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-57 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+
+
+###### Article R5146-43
+
+La publicité en faveur des médicaments vétérinaires n'est autorisée auprès des personnes physiques ou morales habilitées à
+distribuer les médicaments vétérinaires par les articles L. 612, L. 617-13 et L. 617-14 que pour les médicaments vétérinaires
+qu'elles sont autorisées à prescrire ou à délivrer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L612 (M)
+  - Code de la santé publique - art. L617-13 (Ab)
+  - Code de la santé publique - art. L617-14 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-83 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-57 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+
+
+###### Article R5146-44
+
+La publicité en faveur des médicaments vétérinaires auprès du public est autorisée. Toutefois, elle est interdite pour les
+médicaments qui doivent être prescrits sur ordonnance en application de l'article L. 611.
+
+La publicité ne doit jamais faire apparaître la consultation vétérinaire comme superflue, ni être assortie de promesses ou
+d'avantages de quelque nature que ce soit, ni utiliser des attestations ou des expertises [*interdiction*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Cite_:
+
+  - Code de la santé publique - art. L611 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-84 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-57 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+
+
+###### Article R5146-45
+
+Toute publicité en faveur de médicaments vétérinaires doit comporter au moins les renseignements ci-après [*mentions
+obligatoires*] :
+
+1° Le nom du médicament ;
+
+2° Le nom et l'adresse du fabricant ;
+
+3° La composition quantitative en principes actifs ;
+
+4° Le classement de la spécialité au regard du régime des substances vénéneuses ;
+
+5° Le numéro et la date de l'autorisation de mise sur le marché ;
+
+6° Les indications thérapeutiques, contre indications et effets secondaires figurant à la décision d'autorisation de mise sur
+le marché ;
+
+7° Toutes indications utiles sur la posologie selon les espèces animales auxquelles le médicament est destiné ;
+
+8° Eventuellement, l'indication du temps d'attente ;
+
+9° Les mentions imposées par la décision d'autorisation de mise sur le marché.
+
+Les textes et documents publicitaires doivent obligatoirement faire l'objet d'un dépôt auprès du ministre de la santé et
+auprès du ministre de l'agriculture, par envoi recommandé, préalablement à leur diffusion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-85 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-57 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : SANCTIONS PENALES
+
+
+###### Article R5146-46
+
+Est subordonnée à une autorisation préalable du ministre de la santé et du ministre de l'agriculture la publicité sous
+quelque forme que ce soit en faveur des médicaments présentés comme favorisant le diagnostic, la prévention ou le traitement
+des maladies contagieuses énumérées à l'article 224 du code rural ou dans les textes pris en application de l'article 225 du
+même code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-86 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-57 (Ab)
+
+_Cite_:
+
+  - Code rural 224, 225
+
+
+###### Article R5146-47
+
+Il est interdit au fabricant, au responsable de la mise sur le marché et au distributeur de médicaments vétérinaires de
+remettre directement ou indirectement aux utilisateurs et aux personnes habilitées à prescrire ou à délivrer des médicaments
+des primes, des objets ou produits quelconques ou de consentir des avantages matériels directs ou indirects autres que les
+conditions tarifaires autorisées.
+
+Toutefois, sont autorisés les dons destinés à encourager la recherche et l'enseignement au profit d'établissements publics ou
+de fondations reconnues d'utilité publique, sous réserve de déclaration préalable au ministre de la santé et au ministre de
+l'agriculture [*conditions*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-87 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-57 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+
+
+###### Article R5146-48
+
+Les fabricants, les responsables de mise sur le marché, les grossistes ou les dépositaires ne peuvent délivrer d'échantillons
+qu'aux seuls docteurs vétérinaires qui en ont fait la demande écrite [*condition de forme*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-88 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-57 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+
+
+##### SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES.<a id=407></a>
+
+###### Article R5146-49
+
+Sans préjudice des mentions exigées par d'autres dispositions législatives et réglementaires, le récipient, l'emballage
+extérieur et, éventuellement, la notice des médicaments vétérinaires préfabriqués, des spécialités pharmaceutiques
+vétérinaires et des prémélanges pour aliments médicamenteux, doivent porter, sauf dérogation accordée lors de la délivrance
+de l'autorisation de mise sur le marché, les indications suivantes :
+
+a) La dénomination du médicament qui, sauf en ce qui concerne les spécialités pharmaceutiques vétérinaires, doit être la
+dénomination commune, la dénomination scientifique ou la formule ; lorsque, pour les spécialités pharmaceutiques
+vétérinaires, la dénomination spéciale est un nom de fantaisie, doivent figurer en caractères très apparents, immédiatement
+au-dessous de ce nom, la dénomination commune internationale recommandée par l'organisation mondiale de la santé, chaque fois
+qu'elle existe ou, dans le cas contraire, celle de la pharmacopée française ou européenne ou, à défaut, la dénomination
+scientifique du ou des principes actifs ;
+
+b) La forme pharmaceutique ;
+
+c) La composition qualitative et quantitative en principes actifs par unité de prise ou en pourcentage selon la forme
+pharmaceutique, avec éventuellement, indication des substances de marquage ;
+
+d) Les espèces animales auxquelles le médicament est destiné, le mode et la voie d'administration, les contre-indications qui
+doivent être portées à la connaissance des utilisateurs, les taux et produits de dilution pour les prémélanges ;
+
+e) Le temps d'attente, s'il y a lieu ;
+
+f) La date de péremption ;
+
+g) Le nom et l'adresse du fabricant ;
+
+h) Le numéro et la date de l'autorisation de mise sur le marché ;
+
+i) Le nombre d'unités thérapeutiques ou, à défaut, la contenance du récipient ;
+
+j) Les précautions particulières de conservation s'il y a lieu ;
+
+k) Selon les cas, la mention "usage vétérinaire" ;
+
+"Usage vétérinaire à ne délivrer que sur ordonnance" ;
+
+"Usage vétérinaire à ne délivrer que sur ordonnance devant être conservée jusqu'à l'abattage" ;
+
+l) Le numéro de lot de fabrication.
+
+Lorsque le médicament est présenté en ampoules ou autres petits récipients ces indications doivent figurer sur les emballages
+extérieurs, lesdits récipients ou ampoules pouvant ne porter que les indications suivantes [*mentions*] :
+
+La dénomination du médicament ;
+
+Le numéro de lot de fabrication ;
+
+La date de péremption ;
+
+La mention "usage vétérinaire".
+
+Sauf dérogation accordée lors de l'octroi de l'autorisation de mise sur le marché, la voie d'administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Décret n°79-822 du 19 septembre 1979 - art. 93-2 (Ab)
+  - Code de la santé publique - art. R5146-49-1 (Ab)
+  - Code de la santé publique - art. R5146-49-2 (Ab)
+  - Code de la santé publique - art. R5146-50 (M)
+  - Code de la santé publique - art. R5146-57 (M)
+  - Code de la santé publique - art. R5200 (Ab)
+  - Code de la santé publique - art. R5201 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-73 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : SANCTIONS PENALES
+
+
+###### Article R5146-50
+
+Les aliments médicamenteux, qu'ils soient préparés à l'avance ou, extemporanément, par un pharmacien ou un vétérinaire
+exerçant dans les conditions prévues à l'article L. 610, sont présentés dans des sacs de couleur bleue portant, imprimée sur
+les deux faces en lettres très apparentes de quatre centimètres de hauteur au moins, la mention "aliment médicamenteux".
+
+S'appliquent en outre aux aliments médicamenteux les règles d'étiquetage prévues tant pour les aliments des animaux que pour
+les médicaments vétérinaires. Les indications imposées à ce titre pourront figurer sur une étiquette cousue au sac.
+
+Lorsque l'aliment médicamenteux est livré en vrac pour être entreposé dans des silos, une étiquette de couleur bleue, portant
+les mentions prévues à l'article R. 5146-49 et aux deux premiers alinéas du présent article, est apposée sur chaque cellule
+du véhicule transporteur, une cellule ne pouvant contenir qu'un seul aliment médicamenteux destiné à un même lot d'animaux.
+Une étiquette identique, destinée à être apposée sur le silo, accompagne le bon de livraison ou la facture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L610 (M)
+  - Code de la santé publique - art. R5146-49 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-78 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-57 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+
+
+###### Article R5146-50 bis
+
+En vue de la préparation extemporanée des aliments médicamenteux dans les conditions prévues ù l'article L. 610-1, les
+utilisateurs doivent disposer d'installations adaptées à cet usage, ayant reçu un agrément accordé par arrêté du commissaire
+de la République du département où se trouve l'installation, sur proposition du directeur départemental des services
+vétérinaires.
+
+L'agrément ne peut être donné qu'aux installations permettant, dans les conditions de fonctionnement prévues par le
+constructeur, la réalisation d'un mélange homogène et l'élimination complète des lots préparés.
+
+Un arrêté conjoint du ministre de l'agriculture et du ministre chargé de la santé fixe les spécifications techniques
+auxquelles doivent répondre les installations pour obtenir l'agrément susmentionné.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-1003 1984-11-16 art. 3 JORF 17 novembre 1984
+
+_Cité par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 18 (V)
+  - Code de la santé publique - art. R5146-57 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L610-1 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. R5146-57 (M)
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+
+
+##### SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS.<a id=408></a>
+
+###### Article R5146-51
+
+Sans préjudice des dispositions de l'article L. 611, il est interdit de délivrer sans présentation d'une ordonnance les
+médicaments vétérinaires qui comportent dans leur composition des substances mentionnées par les points c, e, f et g de
+l'article L. 617-6 lorsque la décision d'autorisation de mise sur le marché comporte cette interdiction.
+
+L'ordonnance comporte obligatoirement [*mentions*] :
+
+Les nom et adresse du prescripteur ;
+
+La date de la prescription ;
+
+Les nom, prénoms et adresse du détenteur de l'animal ;
+
+Les moyens d'identification des animaux : espèce, âge, sexe, signalement, numéro matricule ;
+
+Le nom ou la formule du médicament ; pour les aliments médicamenteux, le détail des composants du support alimentaire n'est
+pas exigé ;
+
+La voie d'administration, le point d'inoculation ou d'implantation, le temps d'attente ;
+
+La mention "renouvellement interdit".
+
+L'ordonnance doit être conservée et transmise par les détenteurs successifs de l'animal jusqu'à l'abattage.
+
+Les dispositions du présent article s'appliquent au cas où la délivrance par le docteur vétérinaire s'effectue sous forme
+d'administration directe du médicament à l'animal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cité par_:
+
+  - Décret n°2003-138 du 18 février 2003 - art. 5 (Ab)
+  - Code de la santé publique - art. R5141-115 (M)
+  - Code de la santé publique - art. R5146-50-4 (Ab)
+  - Code de la santé publique - art. R5146-52 (M)
+  - Code de la santé publique - art. R5146-57 (Ab)
+  - Code rural - art. R234-7 (V)
+  - Code rural - art. R242-45 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L611 (M)
+  - Code de la santé publique L617-6 C, E, F, G, L611
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-111 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. R5146-57 (M)
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : SANCTIONS PENALES
+
+
+###### Article R5146-52
+
+Lors de la délivrance des médicaments vétérinaires prescrits conformément aux dispositions de l'article précédent, le
+pharmacien ou le docteur vétérinaire mentionne cette délivrance sur un registre, coté et paraphé par le maire ou le
+commissaire de police et tenu sans blanc, ni rature, ni surcharge. Pour les pharmaciens, ce registre peut être le livre-
+registre d'ordonnance prévu à l'article R. 5092. Ce registre est conservé pendant dix ans [*délai*].
+
+Les mentions doivent comporter un numéro d'ordre, les nom, prénoms et adresse du client, le nom ou la formule du médicament
+vétérinaire, la quantité délivrée, le nom du prescripteur, la date à laquelle les substances ont été remises ; le pharmacien
+ou le docteur vétérinaire reporte immédiatement sur l'ordonnance le numéro d'ordre sous lequel la délivrance a été
+enregistrée et il accompagne cette mention de ses nom et adresse.
+
+Le docteur vétérinaire est dispensé de la transcription de ses propres ordonnances si elles sont rédigées sur des feuillets
+provenant de carnets à souches numérotées comportant des duplicatas qu'il conserve dans les mêmes conditions que le registre
+mentionné au premier alinéa. Les mêmes dispositions sont applicables aux prescriptions de médicaments vétérinaires relevant
+des tableaux A et C des substances vénéneuses.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. R5092 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-112 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-51 (Ab)
+  - Code de la santé publique - art. R5146-57 (Ab)
+  - Code de la santé publique - art. R5174 (M)
+  - Code de la santé publique - art. R5195 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. R5146-57 (M)
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+
+
+###### Article R5146-53
+
+Les substances toxiques et vénéneuses prévues au d à l'article L. 617-6 et les médicaments qui en contiennent sont soumis aux
+dispositions des décrets en Conseil d'Etat pris en application de l'article L. 626 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Cite_:
+
+  - Code de la santé publique - art. L617-6 (M)
+  - Code de la santé publique - art. L626 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-116 (M)
+  - Code de la santé publique - art. R5141-116 (V)
+
+
+###### Article R5146-54
+
+Les établissements [*de préparation, de vente en gros ou de distribution*] prévus à l'article L. 615 ayant obtenu
+l'autorisation de mise sur le marché pour la fabrication ou l'importation de médicaments vétérinaires définis en a et c de
+L'article L. 617-6 feront l'objet, au moins une fois l'an [*périodicité*], d'une visite concertée de la part d'un inspecteur
+de la pharmacie et d'un vétérinaire inspecteur. Le compte rendu de cette inspection, signé des deux agents, sera transmis au
+ministre de la santé et au ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L615 (M)
+  - Code de la santé publique L615, L617-6 A, C
+
+
+###### Article R5146-55
+
+Outre les dispositions de l'article L. 617-4, les médicaments vétérinaires importés sont soumis aux mêmes règles que les
+médicaments fabriqués en France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L617-4 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-123 (M)
+
+
+##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.<a id=409></a>
+
+###### Article R5146-56
+
+Lorsque l'acquisition, la détention et la délivrance des médicaments vétérinaires par les groupements prévus à l'alinéa 1er
+de l'article L. 612 sont faites sous le contrôle d'un pharmacien participant effectivement à la direction technique du
+groupement, ce pharmacien est inscrit au tableau de la section D de l'ordre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Cite_:
+
+  - Code de la santé publique - art. L612 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5143-5 (V)
+  - Code de la santé publique R5143-5
+
+
+##### SECTION 7 : SANCTIONS.<a id=410></a>
+
+###### Article R5146-57
+
+Les infractions aux dispositions de l'article L. 611, de l'article R. 5146-17, de l'article R. 5146-20, des articles R.
+5146-42 à R. 5146-45 et R. 5146-47 à R. 5146-52 sont punies d'une peine d'emprisonnement de six jours à un mois et d'une
+amende de 600 à 1.000 F ou de l'une de ces deux peines seulement. En cas de récidive, ces peines pourront être doublées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+
+_Cite_:
+
+  - Code de la santé publique - art. L611 (M)
+  - Code de la santé publique - art. R5146-17 (Ab)
+  - Code de la santé publique - art. R5146-20 (M)
+  - Code de la santé publique - art. R5146-42 (Ab)
+  - Code de la santé publique - art. R5146-43 (M)
+  - Code de la santé publique - art. R5146-44 (Ab)
+  - Code de la santé publique - art. R5146-45 (M)
+  - Code de la santé publique - art. R5146-47 (M)
+  - Code de la santé publique - art. R5146-48 (M)
+  - Code de la santé publique - art. R5146-49 (M)
+  - Code de la santé publique - art. R5146-50 (M)
+  - Code de la santé publique - art. R5146-51 (M)
+  - Code de la santé publique - art. R5146-52 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5441-1 (V)
+  - Code de la santé publique - art. R5441-2 (V)
+  - Code de la santé publique - art. R5441-3 (M)
+  - Code de la santé publique - art. R5441-4 (V)
+  - Code de la santé publique - art. R5441-5 (V)
+  - Code de la santé publique - art. R5442-1 (V)
+  - Code de la santé publique - art. R5442-2 (V)
+  - Code de la santé publique - art. R5442-3 (V)
+  - Code de la santé publique - art. R5442-4 (V)
+  - Code de la santé publique - art. R5442-5 (V)
+
+
+#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=411></a>
+
+##### Section 3 : Dispositions communes.<a id=412></a>
 
 ###### Article R5147
 
@@ -45930,11 +48196,11 @@ _Créé par_:
   - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
 
 
-### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=397></a>
+### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=413></a>
 
-#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=398></a>
+#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=414></a>
 
-##### SECTION 1 : GENERALITES.<a id=399></a>
+##### SECTION 1 : GENERALITES.<a id=415></a>
 
 ###### Article R5149
 
@@ -46001,9 +48267,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L5132-1 (V)
 
 
-##### SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=400></a>
+##### SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=416></a>
 
-##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=401></a>
+##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=417></a>
 
 ###### Article R5152
 
@@ -46070,9 +48336,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-46 (V)
 
 
-##### SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=402></a>
+##### SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=418></a>
 
-##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=403></a>
+##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=419></a>
 
 ###### Article R5151
 
@@ -46607,7 +48873,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-59 (V)
 
 
-##### PARAGRAPHE 1 : GENERALITES.<a id=404></a>
+##### PARAGRAPHE 1 : GENERALITES.<a id=420></a>
 
 ###### Article R5150
 
@@ -46640,7 +48906,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-43 (V)
 
 
-##### PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C).<a id=405></a>
+##### PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C).<a id=421></a>
 
 ###### Article R5167
 
@@ -46702,7 +48968,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-63 (V)
 
 
-##### PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*.<a id=406></a>
+##### PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*.<a id=422></a>
 
 ###### Article R5168
 
@@ -46747,7 +49013,7 @@ _Cité par_:
   - Code de la santé publique - art. R5169 (Ab)
 
 
-##### PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B).<a id=407></a>
+##### PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B).<a id=423></a>
 
 ###### Article R5165
 
@@ -46851,9 +49117,9 @@ _Modifié par_:
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 
-##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE<a id=408></a>
+##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE<a id=424></a>
 
-##### PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*.<a id=409></a>
+##### PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*.<a id=425></a>
 
 ###### Article R5169
 
@@ -47267,7 +49533,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=410></a>
+##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=426></a>
 
 ###### Article R5178
 
@@ -47468,7 +49734,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=411></a>
+##### PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=427></a>
 
 ###### Article R5183
 
@@ -47704,7 +49970,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=412></a>
+##### PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=428></a>
 
 ###### Article R5189
 
@@ -47786,7 +50052,7 @@ _Créé par_:
   - Décret n°70-127 1970-02-06 ART. 1 JORF 14 février
 
 
-##### 1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE.<a id=413></a>
+##### 1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE.<a id=429></a>
 
 ###### Article R5190
 
@@ -48296,7 +50562,7 @@ _Cite_:
   - Code de la santé publique R5189 à R5211
 
 
-##### 2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE.<a id=414></a>
+##### 2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE.<a id=430></a>
 
 ###### Article R5199
 
@@ -48970,7 +51236,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=415></a>
+##### SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=431></a>
 
 ###### Article R5212
 
@@ -49024,7 +51290,7 @@ _Cite_:
   - Code de la santé publique - art. R5149 (M)
 
 
-##### PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*.<a id=416></a>
+##### PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*.<a id=432></a>
 
 ###### Article R5227
 
@@ -49058,9 +51324,9 @@ _Cite_:
   - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 522
 
 
-##### SECTION 4 : PRODUITS CAPILLAIRES<a id=417></a>
+##### SECTION 4 : PRODUITS CAPILLAIRES<a id=433></a>
 
-##### PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX.<a id=418></a>
+##### PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX.<a id=434></a>
 
 ###### Article R5213
 
@@ -49238,7 +51504,7 @@ _Cité par_:
   - Code de la santé publique - art. R5218 (Ab)
 
 
-##### PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES.<a id=419></a>
+##### PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES.<a id=435></a>
 
 ###### Article R5217
 
@@ -49428,9 +51694,9 @@ _Cité par_:
   - Code de la santé publique - art. R5226 (M)
 
 
-##### SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE<a id=420></a>
+##### SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE<a id=436></a>
 
-##### PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=421></a>
+##### PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=437></a>
 
 ###### Article R5222
 
@@ -49605,9 +51871,9 @@ _Cite_:
   - Code de la santé publique - art. R5222 (M)
 
 
-##### SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS<a id=422></a>
+##### SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS<a id=438></a>
 
-##### INSPECTION.<a id=423></a>
+##### INSPECTION.<a id=439></a>
 
 ###### Article R5228
 
@@ -49680,7 +51946,7 @@ _Abrogé par_:
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 
-#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=424></a>
+#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=440></a>
 
 ###### Article R5229-2
 
@@ -49761,7 +52027,7 @@ _Cite_:
   - Code de la santé publique - art. R5117 (M)
 
 
-#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=425></a>
+#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=441></a>
 
 ###### Article R5230
 
@@ -50135,7 +52401,7 @@ _Cité par_:
   - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
 
 
-#### Chapitre 4 : Médicaments antivénériens.<a id=426></a>
+#### Chapitre 4 : Médicaments antivénériens.<a id=442></a>
 
 ###### Article R5239
 
@@ -50221,7 +52487,7 @@ _Cite_:
   - Code de la santé publique L643, R5060 à R5089
 
 
-#### Chapitre 6 : Thermomètres médicaux.<a id=427></a>
+#### Chapitre 6 : Thermomètres médicaux.<a id=443></a>
 
 ###### Article R5243
 
@@ -50737,7 +53003,7 @@ _Cite_:
   - Code de la santé publique - art. R5254 (Ab)
 
 
-#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=428></a>
+#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=444></a>
 
 ###### Article R5242
 
@@ -50798,7 +53064,7 @@ _Cite_:
   - Code de la santé publique - art. L645 (Ab)
 
 
-#### Chapitre 7 : Biberons à tube et tétines.<a id=429></a>
+#### Chapitre 7 : Biberons à tube et tétines.<a id=445></a>
 
 ###### Article R5262
 
@@ -50959,9 +53225,9 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=430></a>
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=446></a>
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=431></a>
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=447></a>
 
 ###### Article R5267
 
@@ -51016,7 +53282,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=432></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=448></a>
 
 ###### Article R5269
 
@@ -51109,9 +53375,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 4 : Visa des spécialités anciennes<a id=433></a>
+#### Chapitre 4 : Visa des spécialités anciennes<a id=449></a>
 
-##### Section 1 : Spécialités pharmaceutiques.<a id=434></a>
+##### Section 1 : Spécialités pharmaceutiques.<a id=450></a>
 
 ###### Article R5272
 
@@ -51152,7 +53418,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-33 (V)
 
 
-##### Section 2 : Produits d'origine microbienne.<a id=435></a>
+##### Section 2 : Produits d'origine microbienne.<a id=451></a>
 
 ###### Article R5273
 
