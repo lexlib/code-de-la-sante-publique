@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-02-05
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-21)](#2)
@@ -21,7 +21,7 @@ Version Consolidée au 1995-02-03
           - [Section 1 : Evacuation des eaux usées. (art. L33 à L35-10)](#18)
           - [Section 2 : Des ilôts insalubres (art. L36 à L43-1)](#19)
           - [Section 3 : Mortalité excessive dans une commune. (art. L44)](#20)
-        - [Chapitre 5-1 : Des radiations ionisantes. (art. L44-1 à L44-3)](#21)
+        - [Chapitre 5-1 : Des radiations ionisantes. (art. L44-1 à L44-4)](#21)
         - [Chapitre 6 : Dispositions pénales (art. L45 à L48-3)](#22)
         - [CHAPITRE 7 : DISPOSITIONS DIVERSES (art. L49 à L51)](#23)
           - [SECTION 1 : DEPENSES. (art. L49 à L50)](#24)
@@ -149,549 +149,561 @@ Version Consolidée au 1995-02-03
           - [Section 1 : Ordre national des sages-femmes (art. L444 à L445)](#146)
           - [Section 2 : Conseils de l'Ordre des sages-femmes (art. L446 à L452)](#147)
             - [Paragraphe 1 : Conseils départementaux (art. L446 à L448)](#148)
-            - [Paragraphe 2 : Conseil national (art. L449 à L452)](#149)
-          - [Section 3 : Inscription au tableau et discipline (art. L453 à L456)](#150)
-        - [Chapitre 5 : Dispositions communes à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme (art. L457 à L465)](#151)
-        - [Chapitre 6 : Mesures d'adaptation pour les départements d'outre-mer. (art. L466 à L471)](#152)
-      - [Titre 2 : Profession d'infirmier ou d'infirmière (art. L473 à L486)](#153)
-        - [Chapitre 1 : Conditions auxquelles est subordonné l'exercice de la profession (art. L473 à L477)](#154)
-        - [Chapitre 2 : Règles d'exercice de la profession et dispositions pénales. (art. L478 à L486)](#155)
-      - [Titre 3 : Professions de masseur-kinésithérapeute et de pédicure (art. L487 à L503)](#156)
-        - [Chapitre 1 : Masseur-kinésithérapeute (art. L487 à L491)](#157)
-        - [Chapitre 2 : Pédicure-podologue. (art. L492 à L496)](#158)
-        - [Chapitre 3 : Dispositions communes et dispositions pénales (art. L497 à L503)](#159)
-      - [Titre 3-1 : Professions d'orthophoniste et d'orthoptiste (art. L504-1 à L504-6)](#160)
-        - [Chapitre 1 : Profession d'orthophoniste (art. L504-1 à L504-2)](#161)
-        - [Chapitre 2 : Profession d'orthoptiste (art. L504-3 à L504-4)](#162)
-        - [Chapitre 3 : Dispositions communes aux deux professions (art. L504-5 à L504-6)](#163)
-      - [Titre 4 : Profession d'opticien-lunetier (art. L505 à L510)](#164)
-        - [Règles de la profession et dispositions pénales (art. L505 à L510)](#165)
-      - [Titre 5 : Profession d'audioprothésiste (art. L510-1 à L510-8)](#166)
-      - [Titre 5-1 : Dispositions communes aux professions de pédicure-podologue, opticien-lunetier et audioprothésiste. (art. L510-8 bis)](#167)
-      - [Titre 5 bis : Profession de diététicien (art. L510-8-1 à L510-8-3)](#168)
-      - [Titre 6 : Dispositions diverses (art. L510-9 à L510-11)](#169)
-    - [Livre 5 : Pharmacie (art. L511 à L665-2)](#170)
-      - [Titre 1 : Dispositions générales (art. L511 à L567)](#171)
-        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. L511 à L519)](#172)
-        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. L520 à L548)](#173)
-        - [Chapitre 3 : Prohibition de certaines conventions entre pharmaciens et membres de certaines professions (art. L549 à L550)](#174)
-        - [CHAPITRE 4 : REGLEMENTATION DE LA PUBLICITE. (art. L551 à L556)](#175)
-        - [Chapitre 5 : De l'inspection de la pharmacie (art. L557 à L567)](#176)
-      - [Titre 1 bis : Agence du médicament (art. L567-1 à L567-13)](#177)
-        - [Chapitre 1er : Dispositions générales (art. L567-1 à L567-2)](#178)
-        - [Chapitre 2 : Conseil d'administration, direction générale et personnel (art. L567-3 à L567-6)](#179)
-        - [Chapitre 3 : Régime financier (art. L567-7 à L567-8)](#180)
-        - [Chapitre 4 : Inspection (art. L567-9 à L567-13)](#181)
-      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. L568 à L625 Bis)](#182)
-        - [Chapitre 1 : Conditions de l'exercice de la pharmacie d'officine (art. L568 à L595)](#183)
-          - [Section 1 : Des officines de pharmacie (art. L568 à L578)](#184)
-          - [Section 2 : Exercice personnel de la profession (art. L579 à L580)](#185)
-          - [Section 3 : Des préparateurs en pharmacie (art. L581 à L588)](#186)
-          - [Section 4 : Règles générales de la pharmacie d'officine (art. L588-1 à L593-1)](#187)
-          - [Section 5 : Délivrance des médicaments par les médecins (art. L594 à L595)](#188)
-        - [Chapitre 1er bis : Des pharmacies à usage intérieur (art. L595-1 à L595-11)](#189)
-          - [Section 1 : Dispositions générales (art. L595-1 à L595-5)](#190)
-          - [Section 2 : Pharmacies des établissements de santé et des établissements médico-sociaux (art. L595-6 à L595-7-1)](#191)
-          - [Section 3 : Autres pharmacies à usage intérieur (art. L595-8 à L595-10)](#192)
-          - [Section 4 : Dispositions communes (art. L595-11)](#193)
-        - [Chapitre 2 : Fabrication, importation, exportation et distribution en gros des produits pharmaceutiques et exploitation des spécialités ou autres médicaments (art. L596 à L605)](#194)
-          - [Section 1 : Des établissements pharmaceutiques (art. L596 à L600)](#195)
-          - [Section 2 : Des médicaments et produits soumis à autorisation (art. L601 à L605)](#196)
-        - [Chapitre 3 : Pharmacie vétérinaire (art. L606 à L617-27)](#197)
-          - [Section 1 : Définitions (art. L606 à L609)](#198)
-          - [Section 2 : Préparation extemporanée et vente au détail (art. L610 à L614)](#199)
-            - [Paragraphe 1 : Plein exercice. (art. L610 à L611)](#200)
-            - [Paragraphe 2 : Exercice soumis à restrictions. (art. L612 à L613)](#201)
-            - [Paragraphe 3 : Modalités d'exercice (art. L614)](#202)
-          - [SECTION 3 : PREPARATION INDUSTRIELLE ET VENTE EN GROS (art. L615 à L617-5)](#203)
-            - [PARAGRAPHE 1 : ETABLISSEMENTS DE PREPARATION ET DE VENTE EN GROS. (art. L615 à L617)](#204)
-            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. L617-1 à L617-5)](#205)
-          - [Section 4 : Dispositions particulières à certaines matières destinées au diagnostic, à la prévention et au traitement des maladies des animaux. (art. L617-6 à L617-7)](#206)
-          - [Section 5 : Dispositions diverses (art. L617-8 à L617-11)](#207)
-          - [Section 6 : Dispositions transitoires. (art. L617-17)](#208)
-          - [Section 5 bis : Agence nationale du médicament vétérinaire (art. L617-12 à L617-14)](#209)
-          - [Section 7 : Modalités d'application. (art. L617-18 à L617-19)](#210)
-          - [Section 8 : Inspection (art. L617-20 à L617-22-1)](#211)
-          - [Section 9 : Dispositions pénales et mesures administratives (art. L617-23 à L617-27)](#212)
-        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurité sociale (art. L618 à L625 Bis)](#213)
-          - [Section 1 : Agrément pour les collectivités publiques. (art. L618 à L622)](#214)
-          - [Section 3 : Dispositions communes. (art. L625 à L625 Bis)](#215)
-      - [Titre 3 : Restrictions au commerce de certaines substances ou de certains objets (art. L626 à L658-11)](#216)
-        - [Chapitre 1 : Substances vénéneuses. (art. L626 à L630)](#217)
-        - [Chapitre 2 : Radio-éléments artificiels (art. L631 à L640)](#218)
-        - [Chapitre 3 : Essences pouvant servir à la fabrication des boissons alcooliques (art. L641 à L642-1)](#219)
-        - [Chapitre 5 : Abortifs (art. L645 à L647)](#220)
-          - [Provocation à l'avortement. (art. L645 à L647)](#221)
-        - [Chapitre 6 : Thermomètres médicaux. (art. L655 à L656)](#222)
-        - [Chapitre 7 : Biberons à tube et tétines (art. L657 à L658)](#223)
-        - [Chapitre 8 : Produits cosmétiques et produits d'hygiène corporelle (art. L658-1 à L658-10)](#224)
-        - [Chapitre 9 : Autres substances et objets (art. L658-11)](#225)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. L659 à L665-2)](#226)
-        - [Chapitre 1 : Exercice de la profession d'herboriste (art. L659 à L660)](#227)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie dans les départements de la Guadeloupe, de la Guyane francaise, de la Martinique et de la Réunion. (art. L662 à L662-1)](#228)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie (art. L663)](#229)
-        - [Chapitre 4 : Autorisation de mise sur le marché des spécialités anciennes (art. L665)](#230)
-        - [Chapitre 5 : Homologation de certains produits ou appareils. (art. L665-1 à L665-2)](#231)
-    - [Livre 5 bis : Dispositions relatives aux dispositifs médicaux (art. L665-3 à L665-9)](#232)
-      - [Chapitre 1 : Dispositions générales (art. L665-3 à L665-7)](#233)
-      - [Chapitre 2 : Dispositions particulières relatives aux systèmes et aux éléments destinés à être assemblés en vue de constituer un dispositif médical (art. L665-8)](#234)
-      - [Chapitre 3 : Dispositions communes (art. L665-9)](#235)
-    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. L665-10 à L675-18)](#236)
-      - [Titre 1 : Principes généraux applicables au don et à l'utilisation des éléments et produits du corps humain (art. L665-10 à L665-16)](#237)
-      - [Titre 2 : Du sang humain (art. L666-1 à L670-5)](#238)
-        - [Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. L666-1 à L666-13)](#239)
-        - [Chapitre 2 : Du comité de sécurité transfusionnelle et de l'Agence française du sang (art. L667-1 à L667-13)](#240)
-          - [Section 1 : Du comité de sécurité transfusionnelle (art. L667-1 à L667-3)](#241)
-          - [Section 2 : De l'Agence française du sang (art. L667-4 à L667-13)](#242)
-        - [Chapitre 3 : Des établissements de transfusion sanguine (art. L668-1 à L668-11)](#243)
-        - [Chapitre 4 : Des schémas d'organisation de la transfusion sanguine (art. L669-1 à L669-4)](#244)
-        - [Chapitre 5 : Des médicaments dérivés du sang et du Laboratoire français du fractionnement et des biotechnologies (art. L670-1 à L670-5)](#245)
-      - [Titre 3 : Des organes, tissus, cellules et produits du corps humain (art. L671-1 à L675-18)](#246)
-        - [Chapitre 1er : Des organes (art. L671-1 à L671-17)](#247)
-          - [Section 1 : Dispositions communes (art. L671-1 à L671-2)](#248)
-          - [Section 2 : Du prélèvement d'organes sur une personne vivante (art. L671-3 à L671-6)](#249)
-          - [Section 3 : Du prélèvement d'organes sur une personne décédée (art. L671-7 à L671-11)](#250)
-          - [Section 4 : De l'autorisation des établissements effectuant des prélèvements d'organes en vue de dons (art. L671-12 à L671-14)](#251)
-          - [Section 5 : Des transplantations d'organes (art. L671-15 à L671-17)](#252)
-        - [Chapitre 2 : Des tissus, cellules et produits (art. L672-1 à L673-7)](#253)
-          - [Section 1 : Dispositions communes (art. L672-1 à L672-3)](#254)
-          - [Section 2 : Du prélèvement de tissus et de cellules et de la collecte des produits du corps humain en vue de dons (art. L672-4 à L672-6)](#255)
-          - [Section 3 : De l'autorisation des établissements et organismes effectuant des prélèvements de tissus ou de cellules du corps humain en vue de dons (art. L672-7 à L672-9)](#256)
-          - [Section 4 : De la conservation et de l'utilisation des tissus et cellules du corps humain (art. L672-10 à L672-14)](#257)
-          - [Section 5 : Dispositions spécifiques au don et à l'utilisation de gamètes (art. L673-1 à L673-7)](#258)
-        - [Chapitre 2 bis : De l'Etablissement français des greffes (art. L673-8 à L673-9)](#259)
-        - [Chapitre 3 : Sanctions pénales et administratives relatives à l'utilisation des éléments et produits du corps humain (art. L674-1 à L675-18)](#260)
-    - [Livre 6 : Utilisation thérapeutique de produits d'origine humaine (art.  à L675-18)](#261)
-    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. L710-1 à L765)](#262)
-      - [Titre 1 : Etablissements de santé (art. L710-1 à L716-9)](#263)
-        - [Chapitre 1 A : Principes fondamentaux (art. L710-1 à L710-6)](#264)
-          - [Section 1 : Des droits du malade accueilli dans un établissement de santé (art. L710-1 à L710-3)](#265)
-          - [Section 2 : De l'évaluation et de l'analyse de l'activité des établissements de santé (art. L710-4 à L710-6)](#266)
-        - [Chapitre 1 : Missions et obligations des établissements de santé (art. L711-1 à L711-16)](#267)
-          - [Section 1 : Dispositions générales (art. L711-1 à L711-2-1)](#268)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. L711-3 à L711-11)](#269)
-          - [Section 3 : De la participation du service public hospitalier à l'enseignement médical, odontologique et pharmaceutique (art. L711-12 à L711-16)](#270)
-        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. L712-1 à L712-19)](#271)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. L712-1 à L712-7)](#272)
-          - [Section 2 : Autorisations (art. L712-8 à L712-19)](#273)
-        - [Chapitre 3 : Les actions de coopération (art. L713-1 à L713-12)](#274)
-          - [Section 1 : Les conférences sanitaires de secteur (art. L713-1 à L713-4)](#275)
-          - [Section 2 : Les syndicats interhospitaliers (art. L713-5 à L713-11)](#276)
-          - [Section 3 : Conventions de coopération (art. L713-12)](#277)
-        - [Chapitre 4 : Les établissements publics de santé (art. L714-1 à L714-42)](#278)
-          - [Section 1 : Organisation administrative et financière (art. L714-1 à L714-15)](#279)
-          - [Section 2 : Organes représentatifs (art. L714-16 à L714-19)](#280)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. L714-20 à L714-26)](#281)
-          - [Section 4 : Les personnels des établissements publics de santé (art. L714-27 à L714-29)](#282)
-          - [Section 5 : Dispositions diverses (art. L714-30 à L714-42)](#283)
-        - [Chapitre 5 : Les établissements de santé privés (art. L715-1 à L715-12)](#284)
-          - [Section 1 : Dispositions générales (art. L715-1 à L715-4)](#285)
-          - [Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement (art. L715-5 à L715-11)](#286)
-          - [Section 3 : Dispositions relatives aux établissements de santé privés ne participant pas au service public hospitalier (art. L715-12)](#287)
-        - [Chapitre 6 : Expérimentations et dispositions diverses (art. L716-1 à L716-9)](#288)
-          - [Section 1 : Expérimentations (art. L716-1 à L716-2)](#289)
-          - [Section 2 : Dispositions diverses (art. L716-3 à L716-9)](#290)
-      - [Titre 2 : Thermo-climatisme (art. L735 à L752)](#291)
-        - [Chapitre 1 : Sources d'eaux minérales (art. L735 à L751)](#292)
-          - [Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent. (art. L735 à L745)](#293)
-          - [Section 2 : Dispositions pénales. (art. L747 à L750)](#294)
-          - [Section 3 : Modalités d'application. (art. L751)](#295)
-        - [Chapitre 2 : Stations hydrominérales, climatiques et uvales. (art. L752)](#296)
-      - [Titre 3 : Laboratoires (art. L753 à L765)](#297)
-        - [Chapitre 1 : Laboratoires d'analyses de biologie médicale (art. L753 à L761-23)](#298)
-          - [Section 1 : Conditions de fonctionnement des laboratoires d'analyses de biologie médicale (art. L753 à L760)](#299)
-          - [Section 2 : Dispositions applicables aux directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale (art. L761 à L761-10)](#300)
-          - [Section 3 : Dispositions diverses (art. L761-11 à L761-15)](#301)
-          - [Section 4 : Dispositions pénales (art. L761-16 à L761-23)](#302)
-        - [Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales (art. L762 à L765)](#303)
-    - [Livre 8 : Institutions (art. L772 à L782)](#304)
-      - [Chapitre 1 : Services administratifs locaux (art. L772 à L775)](#305)
-        - [Section 2 : Service communal d'hygiène et de santé. (art. L772)](#306)
-        - [SECTION 3 : MODALITES D'APPLICATION. (art. L775)](#307)
-      - [CHAPITRE 2 : CONSEILS ET COMMISSIONS (art. L776 à L782)](#308)
-        - [Section 1 : Conseils départementaux d'hygiène et commissions sanitaires (art. L776)](#309)
-        - [Section 3 : Conseil permanent d'hygiène sociale. (art. L782)](#310)
-    - [Livre IX : Personnel (art. L803 à L897)](#311)
-      - [Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social (art. L803 à L897)](#312)
-        - [Chapitre II : Dispositions organiques (art. L803 à L807)](#313)
-        - [Chapitre V : Notation et avancement. (art. L818 à L826)](#314)
-        - [Chapitre VII : Positions. (art. L850 à L859)](#315)
-          - [Section 1 : Activités, congés. (art. L850 à L859)](#316)
-        - [Chapitre X : Dispositions diverses et transitoires. (art. L895)](#317)
-        - [Dispositions finales. (art. L897)](#318)
-  - [Partie réglementaire ancienne (art. R145-1 à R716-9-1)](#319)
-    - [Livre 1 : Protection générale de la santé publique (art. R145-1 à R145-7)](#320)
-      - [Titre 4 : Lutte contre les intoxications (art. R145-1 à R145-7)](#321)
-    - [Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales (art. R2009 à R2053)](#322)
-      - [Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale (art. R2009 à R2020)](#323)
-        - [Chapitre 2 : Organisation et agrément. (art. R2009 à R2011)](#324)
-        - [Chapitre 1 : Constitution (art. R2001 à R2008)](#325)
-        - [Chapitre 3 : Financement et fonctionnement. (art. R2012 à R2020)](#326)
-      - [Titre 3 : Informations communiquées par l'investigateur au comité consultatif de protection des personnes dans la recherche biomédicale. (art. R2029 à R2031)](#327)
-      - [Titre 2 : Autorisation des lieux de recherches biomédicales sans bénéfice individuel direct (art. R2021 à R2028)](#328)
-      - [Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct. (art. R2039 à R2046)](#329)
-      - [Titre 5 : Dispositions financières. (art. R2038)](#330)
-      - [Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention. (art. R2032 à R2037)](#331)
-      - [Titre 7 : Assurance des promoteurs de recherches biomédicales (art. R2047 à R2053)](#332)
-    - [Livre 3 : Lutte contre les fléaux sociaux (art. R355-28-1 à R355-28-13)](#333)
-      - [Titre 8 : Lutte contre le tabagisme (art. R355-28-1 à R355-28-13)](#334)
-        - [Chapitre 1 : Interdiction de fumer dans les lieux affectés à un usage collectif. (art. R355-28-1 à R355-28-13)](#335)
-    - [Livre 5 : Pharmacie (art. R5000 à R5287)](#336)
-      - [Titre 1 : Dispositions générales (art. R5000 à R5089)](#337)
-        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5001 à R5013 bis)](#338)
-          - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#339)
-            - [Paragraphe 1 : Pharmacopée (art. R5001 à R5005)](#340)
-            - [Paragraphe 2 : Formulaire (art. R5006 à R5006-1)](#341)
-          - [Section 3 : Pharmaciens assistants (art. R5008 à R5012)](#342)
-          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#343)
-        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R5014-4)](#344)
-          - [Section 1 : Organisation (art. R5014)](#345)
-          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5017 à R*5043)](#346)
-            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5017 à R5016)](#347)
-            - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#348)
-            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#349)
-          - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#350)
-            - [Paragraphe 1 : Devoirs généraux des pharmaciens (art. R*5015-2 à R*5015-25)](#351)
-              - [1) Dispositions générales. (art. R*5015-2 à R*5015-3)](#352)
-              - [2) Du concours du pharmacien à l'oeuvre de protection de la santé. (art. R*5015-4 à R*5015-10)](#353)
-              - [3) De la responsabilité et de l'indépendance des pharmaciens. (art. R*5015-11 à R*5015-22)](#354)
-              - [4) De la tenue des établissements pharmaceutiques. (art. R*5015-23 à R*5015-25)](#355)
-            - [Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle (art. R*5015-26 à R*5015-38)](#356)
-              - [1) De la publicité. (art. R*5015-26 à R*5015-29)](#357)
-              - [2) De la concurrence déloyale. (art. R*5015-30 à R*5015-33)](#358)
-              - [3) Prohibition de certaines conventions ou ententes (art. R*5015-34 à R*5015-38)](#359)
-            - [Paragraphe 3 : Relations avec des agents de l'administration. (art. R*5015-39 à R*5015-42)](#360)
-            - [Paragraphe 4 : Des règles à observer dans les relations avec le public. (art. R*5015-43 à R*5015-47)](#361)
-            - [Paragraphe 5 : Relations avec les membres des professions médicales (art. R*5015-48 à R*5015-64)](#362)
-              - [1) Relations avec les membres des professions non pharmaceutiques. (art. R*5015-48 à R*5015-52)](#363)
-              - [2) Relations des pharmaciens avec leurs collaborateurs. (art. R*5015-53 à R*5015-55)](#364)
-              - [3) Devoirs des maîtres de stage. (art. R*5015-56 à R*5015-58)](#365)
-              - [4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires. (art. R*5015-59)](#366)
-              - [5) Devoirs de confraternité. (art. R*5015-60 à R*5015-64)](#367)
-          - [Section 1 bis : Inscription au tableau (art. R5014-1 à R5014-4)](#368)
-        - [Chapitre 4 : Réglementation de la publicité (art. R5047 à R5052-3)](#369)
-          - [Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551. (art. R5047 à R5051)](#370)
-          - [Section 1 : Dispositions générales. (art. R5045 à R5046-2)](#371)
-          - [Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement (art. R5055 à R5055-4)](#372)
-          - [Section 4 : Publicité en faveur des établissements pharmaceutiques. (art. R5053)](#373)
-          - [Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments (art. R5054 à R5054-3)](#374)
-          - [Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art. (art. R5052 à R5052-3)](#375)
-        - [Chapitre 5 : De l'inspection (art. R5056 à R5089)](#376)
-          - [Section 1 : Contrôle exercé par les inspecteurs de pharmacie et les inspecteurs de l'Agence du médicament (art. R5056 à R5059)](#377)
-          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5061 à R5089)](#378)
-            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#379)
-            - [Paragraphe 1 : Généralités (art. R5060)](#380)
-            - [Paragraphe 3 : Analyse des échantillons prélevés et suites administratives (art. R5071 à R5075)](#381)
-            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#382)
-            - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#383)
-            - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#384)
-      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#385)
-        - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#386)
-          - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#387)
-            - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#388)
-            - [Paragraphe 5 : Médicaments spécialisés de l'officine (art. R5097 à R5098)](#389)
-            - [Paragraphe 4 : Remèdes secrets (art. R5094 à R5096)](#390)
-            - [Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes (art. R5091 à R5091-9)](#391)
-            - [Paragraphe 1 : Exploitation des officines (art. R5090 à R5090-12)](#392)
-            - [Paragraphe 6 : Produits officinaux divisés (art. R5098-1 à R5098-2)](#393)
-          - [Section 2 : Exercice personnel de la profession (art. R5099 à R5104)](#394)
-            - [Paragraphe 1 : Assistance par des pharmaciens (art. R5099)](#395)
-            - [Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis (art. R5100 à R5104)](#396)
-        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5142-30)](#397)
-          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-11)](#398)
-            - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#399)
-            - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#400)
-            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#401)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-11)](#402)
-              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#403)
-              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-11)](#404)
-          - [Section 2 : Médicaments et produits soumis à autorisation (art. R5117 à R5142-30)](#405)
-            - [Paragraphe 1 : Expérimentation des médicaments (art. R5117 à R5127)](#406)
-            - [Paragraphe 2 : Autorisation de mise sur le marché (art. R5128 à R5142)](#407)
-            - [Paragraphe 3 : Etiquetage des médicaments ou produits soumis à autorisation (art. R5143 à R5143-3)](#408)
-            - [Paragraphe 5 : Dispositions diverses (art. R5144)](#409)
-            - [Paragraphe 4 : Notice des médicaments ou produits soumis à autorisation (art. R5143-4 à R5143-5)](#410)
-            - [Paragraphe 5 : Médicaments soumis à prescription restreinte (art. R5143-5-1 à R5143-5-6)](#411)
-            - [Paragraphe 6 : Dispositions diverses (art. R5143-6 à R5143-7)](#412)
-            - [Paragraphe 2 bis : Importation et exportation des médicaments (art. R5142-11 à R5142-19)](#413)
-              - [Importation (art. R5142-11 à R5142-15)](#414)
-              - [Exportation (art. R5142-16 à R5142-18)](#415)
-              - [Dispositions applicables aux médicaments classés comme stupéfiants ou psychotropes (art. R5142-19)](#416)
-            - [Paragraphe 2 ter : Autorisation temporaire d'utilisation (art. R5142-20 à R5142-30)](#417)
-        - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#418)
-          - [DISPOSITIONS GENERALES. (art. R5145)](#419)
-          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 ter)](#420)
-            - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#421)
-            - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#422)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 ter)](#423)
-          - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#424)
-            - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#425)
-            - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#426)
-            - [Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché. (art. R5146-33 à R5146-39-6)](#427)
-            - [Paragraphe 4 : Prélèvements d'échantillons. (art. R5146-40 à R5146-41)](#428)
-          - [Section 3 : Réglementation de la publicité. (art. R5146-42 à R5146-48)](#429)
-          - [SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES. (art. R5146-49 à R5146-50 bis)](#430)
-          - [SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS. (art. R5146-51 à R5146-55-2)](#431)
-          - [Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents. (art. R5146-56)](#432)
-          - [Section 6 bis : Dispositions particulières relatives au contrôle (art. R5146-56-1)](#433)
-          - [SECTION 7 : SANCTIONS. (art. R5146-57)](#434)
-        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#435)
-          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#436)
-        - [Chapitre 2 bis : Pharmacovigilance (art. R5144-1 à R5144-11)](#437)
-          - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#438)
-          - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#439)
-      - [Titre 1 bis : Agence du médicament (art. R5089-1 à R5089-26)](#440)
-        - [Chapitre 1 : Dispositions générales (art. R5089-1 à R5089-2)](#441)
-        - [Chapitre 2 : Conseil d'administration (art. R5089-3 à R5089-11)](#442)
-        - [Chapitre 3 : Le directeur général de l'agence (art. R5089-12 à R5089-14)](#443)
-        - [Chapitre 4 : Le conseil scientifique (art. R5089-15)](#444)
-        - [Chapitre 5 : Les inspecteurs et les missions d'inspection de l'Agence du médicament (art. R5089-16 à R5089-20)](#445)
-        - [Chapitre 6 : Dispositions financières et comptables (art. R5089-21 à R5089-24-3)](#446)
-        - [Chapitre 7 : Dispositions relatives au personnel (art. R5089-25 à R5089-26)](#447)
-      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-16)](#448)
-        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5219-1)](#449)
-          - [SECTION 1 : GENERALITES. (art. R5149)](#450)
-          - [Section 2 : Substances dangereuses, stupéfiantes ou psychotropes (art. R5150 à R5189)](#451)
-            - [1 : Dispositions communes. (art. R5150 à R5151)](#452)
-            - [2 : Substances dangereuses. (art. R5152 à R5170)](#453)
-            - [3 : Substances stupéfiantes. (art. R5171 à R5182)](#454)
-            - [4 : Substances psychotropes. (art. R5183 à R5189)](#455)
-          - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact (art. R5190 à R5219-1)](#456)
-            - [1) Dispositions communes. (art. R5190 à R5203)](#457)
-            - [3) Régime particulier des stupéfiants. (art. R5209 à R5218-2)](#458)
-            - [2) Régime particulier des listes 1 et 2. (art. R5204 à R5208-1)](#459)
-            - [4) Régime particulier des psychotropes. (art. R5219 à R5219-1)](#460)
-        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#461)
-        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#462)
-        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#463)
-        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#464)
-        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-16)](#465)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5287)](#466)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#467)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#468)
-        - [Chapitre 5 : Homologation de certains produits et appareils. (art. R5274 à R5287)](#469)
-    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. R666-12-1 à R673-9-10)](#470)
-      - [Titre 2 : Du sang humain (art. R666-12-1 à R669-5)](#471)
-        - [Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. R666-12-1 à R666-12-26)](#472)
-          - [Section 1 : Hémovigilance (art. R666-12-1 à R666-12-26)](#473)
-            - [Sous-section 1 : Dispositions générales (art. R666-12-1 à R666-12-4)](#474)
-            - [Sous-section 2 : Modalités de distribution des produits sanguins labiles (art. R666-12-5 à R666-12-10)](#475)
-            - [Sous-section 3 : Rôle des établissements de transfusion sanguine distributeurs (art. R666-12-11 à R666-12-12)](#476)
-            - [Sous-section 4 : Rôle des établissements de santé (art. R666-12-13 à R666-12-19)](#477)
-            - [Sous-section 5 : Les coordonnateurs régionaux de l'hémovigilance (art. R666-12-20 à R666-12-23)](#478)
-            - [Sous-section 6 : Déclaration d'incident transfusionnel (art. R666-12-25 à R666-12-26)](#479)
-        - [Chapitre 2 : Organisation et fonctionnement de l'Agence française du sang (art. R667-1 à R667-44)](#480)
-          - [Section 1 : Dispositions générales (art. R667-1 à R667-2)](#481)
-          - [Section 2 : Organisation générale (art. R667-3 à R667-32)](#482)
-            - [Sous-section 1 : Le conseil d'administration (art. R667-3 à R667-12)](#483)
-            - [Sous-section 2 : Le président de l'Agence française du sang (art. R667-13 à R667-15)](#484)
-            - [Sous-section 3 : Le conseil scientifique (art. R667-16 à R667-20)](#485)
-            - [Sous-section 4 : Le comité d'orientation (art. R667-21 à R667-25)](#486)
-            - [Sous-section 5 : Le directeur de l'Agence française du sang (art. R667-26 à R667-27)](#487)
-            - [Sous-section 6 : Les inspecteurs et les missions d'inspection de l'Agence française du sang (art. R667-28 à R667-32)](#488)
-          - [Section 3 : Dispositions financières et comptables (art. R667-33 à R667-42)](#489)
-            - [Sous-section 1 : Dispositions générales (art. R667-33 à R667-36)](#490)
-            - [Sous-section 2 : La dotation globale de l'Agence française du sang (art. R667-37 à R667-40)](#491)
-            - [Sous-section 3 : Dispositions relatives au fonds d'orientation de la transfusion sanguine (art. R667-41 à R667-42)](#492)
-          - [Section 4 : Dispositions diverses (art. R667-43 à R667-44)](#493)
-        - [Chapitre 3 : Des établissements de transfusion sanguine (art. R668-1-1 à R668-2-26)](#494)
-          - [Section 1 : Des organismes agréés en qualité d'établissement de transfusion sanguine (art. R668-1-1 à R668-4)](#495)
-            - [Sous-section 1 : Des associations agréées en qualité d'établissement de transfusion sanguine (art. R668-1-1)](#496)
-            - [Sous-section 2 : Des groupements d'intérêt public agréés en qualité d'établissement de transfusion sanguine (art. R668-1-2 à R668-4)](#497)
-          - [Section 2 : De l'agrément des établissements de transfusion sanguine (art. R668-2-1 à R668-2-26)](#498)
-            - [Sous-section 1 : Conditions relatives aux normes de fonctionnement et d'équipement des établissements de transfusion sanguine (art. R668-2-4 à R668-2-22)](#499)
-              - [Paragraphe 1 : Conditions d'exercice de la collecte (art. R668-2-4 à R668-2-8)](#500)
-              - [Paragraphe 2 : Conditions de la qualification biologique du don (art. R668-2-9 à R668-2-10)](#501)
-              - [Paragraphe 3 : Conditions de la préparation des produits sanguins labiles (art. R668-2-11 à R668-2-16)](#502)
-              - [Paragraphe 4 : Conditions de transformation des produits sanguins labiles (art. R668-2-17 à R668-2-18)](#503)
-              - [Paragraphe 5 : Conditions de la distribution des produits sanguins labiles (art. R668-2-19 à R668-2-22)](#504)
-            - [Sous-section 2 : Conditions d'agrément relatives à la continuité du service public de la transfusion sanguine (art. R668-2-23)](#505)
-            - [Sous-section 3 : Dispositions relatives à la procédure de l'agrément (art. R668-2-24 à R668-2-26)](#506)
-        - [Chapitre 4 : Des schémas d'organisation de la transfusion sanguine (art. R669-1 à R669-5)](#507)
-      - [Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. R666-12-17 à R666-12-24)](#508)
-        - [Section 1 : Hémovigilance (art. R666-12-17 à R666-12-24)](#509)
-          - [Sous-section 4 : Rôle des établissements de santé (art. R666-12-17)](#510)
-          - [Sous-section 6 : Déclaration d'incident transfusionnel (art. R666-12-24)](#511)
-      - [Titre 3 : Des organes, tissus, cellules et produits du corps humain (art. R673-8-1 à R673-9-10)](#512)
-        - [Chapitre 2 bis : De l'Etablissement français des greffes (art. R673-8-1 à R673-9-10)](#513)
-          - [Section 1 : Dispositions générales (art. R673-8-1 à R673-8-3)](#514)
-          - [Section 2 : Organisation de l'établissement (art. R673-8-4 à R673-9-10)](#515)
-            - [Sous-section 1 : Le conseil d'administration (art. R673-8-4 à R673-8-13)](#516)
-            - [Sous-section 2 : Le directeur général de l'Etablissement français des greffes (art. R673-8-14 à R673-8-16)](#517)
-            - [Sous-section 3 : Le conseil médical et scientifique (art. R673-8-17 à R673-8-20)](#518)
-            - [Sous-section 4 : Dispositions financières et comptables (art. R673-9-1 à R673-9-10)](#519)
-    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R710-2-1 à R716-9-1)](#520)
-      - [Titre 1 : Etablissements de santé (art. R710-2-1 à R716-9-1)](#521)
-        - [Chapitre 1 A : Principes fondamentaux (art. R710-2-1 à R710-5-11)](#522)
-          - [Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés (art. R710-2-1 à R710-2-10)](#523)
-          - [Section 2 : De l'analyse de l'activité des établissements de santé (art. R710-5-1 à R710-5-11)](#524)
-        - [Chapitre 1 : Missions et obligations des établissements de santé (art. R711-6-1 à R711-20)](#525)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. R711-6-1 à R711-6-21)](#526)
-            - [Sous-section 1 : Catégories d'établissements publics de santé (art. R711-6-1 à R711-6-3)](#527)
-            - [Sous-section 2 : Fonctionnement médical des hôpitaux locaux (art. R711-6-4 à R711-6-21)](#528)
-          - [Section 3 : Soins dispensés aux détenus par certains établissements de santé assurant le service public hospitalier et actions de prévention exercées par ces établissements (art. R711-7 à R711-20)](#529)
-        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. R712-1 à R712-59)](#530)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. R712-1 à R712-36)](#531)
-            - [Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire. (art. R712-1 à R712-13)](#532)
-            - [Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale (art. R712-14 à R712-21)](#533)
-            - [Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale (art. R712-22 à R712-29)](#534)
-            - [Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale (art. R712-30 à R712-36)](#535)
-          - [Section 2 : Autorisations (art. R712-37 à R712-51)](#536)
-          - [Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie (art. R712-52 à R712-59)](#537)
-        - [Chapitre 3 : Les actions de coopération (art. R713-1 à R713-15)](#538)
-          - [Section 1 : Les conférences sanitaires de secteur (art. R713-1 à R713-15)](#539)
-        - [Chapitre 4 : Les établissements publics de santé (art. R714-1-1 à R714-28-4)](#540)
-          - [Section 1 : Organisation administrative et financière (art. R714-1-1 à R714-4-5)](#541)
-            - [Sous-section 1 : Création, transformation et suppression des établissements publics de sante (art. R714-1-1 à R714-1-3)](#542)
-            - [Sous-section 2 : Composition et fonctionnement du conseil d'administration (art. R714-2-1 à R714-2-24)](#543)
-            - [Sous-section 3 : Budget et comptabilité des établissements publics de santé (art. R714-3-1 à R714-3-53)](#544)
-              - [Paragraphe 1 : Dispositions générales (art. R714-3-1 à R714-3-6)](#545)
-              - [Paragraphe 2 : Présentation et vote du budget (art. R714-3-7 à R714-3-18)](#546)
-              - [Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale (art. R714-3-19 à R714-3-26)](#547)
-              - [Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget (art. R714-3-27 à R714-3-40)](#548)
-              - [Paragraphe 5 : Du directeur, ordonnateur du budget (art. R714-3-41 à R714-3-45)](#549)
-              - [Paragraphe 6 : Clôture de l'exercice et affectation des résultats (art. R714-3-46 à R714-3-50)](#550)
-              - [Paragraphe 7 : Du comptable (art. R714-3-51 à R714-3-53)](#551)
-            - [Sous-section 4 : Programmes d'investissement (art. R714-4-1 à R714-4-5)](#552)
-          - [Section 2 : Organes représentatifs (art. R714-16-1 à R714-18-15)](#553)
-            - [Sous-section 1 : Commissions médicales d'établissement (art. R714-16-1 à R714-16-34)](#554)
-              - [Paragraphe 1 : Composition de commissions médicales d'établissement (art. R714-16-1 à R714-16-13)](#555)
-                - [I : Centres hospitaliers autres que les centres hospitaliers universitaires (art. R714-16-1 à R714-16-5)](#556)
-                - [II : Centres hospitaliers universitaires (art. R714-16-6 à R714-16-10)](#557)
-                - [III : Hôpitaux locaux (art. R714-16-11)](#558)
-                - [IV : Syndicats interhospitaliers (art. R714-16-12 à R714-16-13)](#559)
-              - [Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement (art. R714-16-14 à R714-16-28)](#560)
-              - [Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux (art. R714-16-29 à R714-16-34)](#561)
-            - [Sous-section 2 : Comités techniques d'établissement (art. R714-17-1 à R714-18-15)](#562)
-              - [Paragraphe 1 : Composition des comités techniques d'établissement (art. R714-17-1 à R714-17-24)](#563)
-              - [Paragraphe 2 : Attributions des comités techniques d'établissement (art. R714-18-1)](#564)
-              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement (art. R714-18-2 à R714-18-14)](#565)
-              - [Paragraphe 3 : Dispositions diverses (art. R714-18-15)](#566)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. R714-21-1 à R714-26-11)](#567)
-            - [Sous-section 1 : Des chefs de service ou de département (art. R714-21-1 à R714-21-25)](#568)
-              - [Paragraphe 1 : Dispositions générales (art. R714-21-1 à R714-21-2)](#569)
-              - [Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires (art. R714-21-3 à R714-21-5)](#570)
-              - [Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires (art. R714-21-6)](#571)
-              - [Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958 (art. R714-21-7 à R714-21-19)](#572)
-                - [I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein (art. R714-21-8 à R714-21-11)](#573)
-                - [II. - Nomination aux fonctions de chef de service ou de département à temps partiel (art. R714-21-12 à R714-21-13)](#574)
-                - [III (art. R714-21-14 à R714-21-17)](#575)
-                  - [- Dispositions propres aux fonctions de chef de service ou de département de psychiatrie (art. R714-21-14 à R714-21-17)](#576)
-                - [IV (art. R714-21-18)](#577)
-                  - [- Dispositions particulières aux pharmacies hospitalières (art. R714-21-18)](#578)
-                - [V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre (art. R714-21-19)](#579)
-              - [Paragraphe 5 : Dispositions communes (art. R714-21-20 à R714-21-25)](#580)
-            - [Sous-section 2 : Conseil de service ou de département (art. R714-22-1 à R714-22-11)](#581)
-            - [Sous-section 3 : Des responsables d'unité fonctionnelle (art. R714-24-1 à R714-24-2)](#582)
-            - [Sous-section 4 : Service de soins infirmiers (art. R714-26-1 à R714-26-11)](#583)
-          - [Section 4 : Les personnels des établissements publics de santé (art. R714-28-1 à R714-28-4)](#584)
-        - [Chapitre 5 : Les établissements de santé privés (art. R715-6-1 à R715-11-4)](#585)
-          - [Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement (art. R715-6-1 à R715-11-4)](#586)
-            - [Sous-section 2 : De la participation des établissements de santé privés à but non lucratif à l'exécution du service public hospitalier (art. R715-6-1 à R715-6-12)](#587)
-              - [Paragraphe 1 : Dispositions générales (art. R715-6-1 à R715-6-2)](#588)
-              - [Paragraphe 2 : Modalités d'admission à la participation (art. R715-6-3 à R715-6-9)](#589)
-              - [Paragraphe 3 : Situation des personnels médicaux (art. R715-6-10 à R715-6-12)](#590)
-            - [Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier (art. R715-7-1 à R715-7-6)](#591)
-            - [Sous-section 4 : De la concession du service public hospitalier (art. R715-10-1 à R715-10-14)](#592)
-              - [Paragraphe 1 : Objet, contenu et durée du contrat de concession (art. R715-10-1 à R715-10-3)](#593)
-              - [Paragraphe 2 : Procédure (art. R715-10-4 à R715-10-9)](#594)
-              - [Paragraphe 3 : Renouvellement et prorogation du contrat de concession (art. R715-10-10)](#595)
-              - [Paragraphe 4 : Contrôle (art. R715-10-11 à R715-10-12)](#596)
-              - [Paragraphe 5 : Mesures diverses (art. R715-10-13 à R715-10-14)](#597)
-            - [Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier (art. R715-11-1 à R715-11-4)](#598)
-              - [Paragraphe 1 : Nature et objet de l'accord d'association (art. R715-11-1 à R715-11-3)](#599)
-              - [Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association (art. R715-11-4)](#600)
-        - [Chapitre 6 : Expérimentation et dispositions diverses (art. R716-3-1 à R716-9-1)](#601)
-          - [Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux (art. R716-3-1 à R716-3-65)](#602)
-            - [Sous-section 1 : Assistance publique - hôpitaux de Paris (art. R716-3-1 à R716-3-38)](#603)
-              - [Paragraphe 1 : Conseil d'administration (art. R716-3-2 à R716-3-9)](#604)
-              - [Paragraphe 2 : Le directeur général et le secrétaire général (art. R716-3-10 à R716-3-12)](#605)
-              - [Paragraphe 3 : Les instances représentatives centrales (art. R716-3-13 à R716-3-18)](#606)
-                - [A. - Commission médicale d'établissement (art. R716-3-13 à R716-3-14)](#607)
-                - [B. - Comité technique central d'établissement (art. R716-3-15 à R716-3-17)](#608)
-                - [C : Commission centrale du service de soins infirmiers (art. R716-3-18)](#609)
-              - [Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général (art. R716-3-19 à R716-3-30)](#610)
-                - [A. - Budget (art. R716-3-19)](#611)
-                - [B. - Direction (art. R716-3-20)](#612)
-                - [C. - Instances représentatives locales (art. R716-3-21 à R716-3-30)](#613)
-                  - [Commission de surveillance (art. R716-3-22 à R716-3-25)](#614)
-                  - [Comité consultatif médical (art. R716-3-26)](#615)
-                  - [Comité technique local d'établissement (art. R716-3-27 à R716-3-29)](#616)
-                  - [Commission locale du service de soins infirmiers (art. R716-3-30)](#617)
-              - [Paragraphe 5 : Contrôle financier (art. R716-3-31)](#618)
-              - [Paragraphe 6 : Marchés (art. R716-3-32)](#619)
-              - [Paragraphe 7 : Contrôle de l'Etat (art. R716-3-33 à R716-3-35)](#620)
-              - [Paragraphe 8 : Dispositions diverses (art. R716-3-36 à R716-3-38)](#621)
-            - [Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille (art. R716-3-39 à R716-3-56)](#622)
-              - [Paragraphe 1 : Conseil d'administration (art. R716-3-40 à R716-3-44)](#623)
-              - [Paragraphe 2 : Directeur général et secrétaire général (art. R716-3-45)](#624)
-              - [Paragraphe 3 : Instances représentatives centrales (art. R716-3-46 à R716-3-49)](#625)
-              - [Paragraphe 4 : Instances représentatives locales (art. R716-3-50 à R716-3-56)](#626)
-            - [Sous-section 3 : Etablissements publics nationaux (art. R716-3-57 à R716-3-65)](#627)
-          - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#628)
-          - [Section 5 : Dispositions diverses (art. R716-9-1)](#629)
-  - [Partie réglementaire ancienne - Décrets simples (art. D666-3-1 à D712-48)](#630)
-    - [Livre VI : Utilisation thérapeutique de produits d'origine humaine (art. D666-3-1 à D666-3-5)](#631)
-      - [Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. D666-3-1 à D666-3-5)](#632)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#633)
-      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#634)
-        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#635)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#636)
-          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#637)
-          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#638)
-        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-51)](#639)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#640)
-            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#641)
-            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#642)
-            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#643)
-            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#644)
-          - [Section 2 : Autorisations (art. D712-16)](#645)
-            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#646)
-          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-51)](#647)
-            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#648)
-              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#649)
-              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#650)
-            - [Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie (art. D712-40 à D712-51)](#651)
-              - [Paragraphe 1 : Dispositions générales (art. D712-40)](#652)
-              - [Paragraphe 2 : De la consultation pré-anesthésique (art. D712-41)](#653)
-              - [Paragraphe 3 : De l'anesthésie (art. D712-44)](#654)
-              - [Paragraphe 4 : De la surveillance continue post-interventionnelle (art. D712-45 à D712-51)](#655)
-        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. D712-13-2)](#656)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-13-2)](#657)
-            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2)](#658)
-        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#659)
-          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#660)
-            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#661)
-            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#662)
-            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#663)
-            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#664)
-          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#665)
-            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#666)
-            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#667)
-          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#668)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#669)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-48)](#670)
-      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#671)
-        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#672)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-48)](#673)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#674)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#675)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#676)
-        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#677)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#678)
-          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#679)
-        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-48)](#680)
-          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#681)
-            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#682)
-            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#683)
-          - [Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie (art. D712-42 à D712-48)](#684)
-            - [Paragraphe 3 : De l'anesthésie (art. D712-42 à D712-43)](#685)
-            - [Paragraphe 4 : De la surveillance continue post-interventionnelle (art. D712-48)](#686)
-  - [Annexes (art. Annexe II aux articles R668-1-1 à R668-21)](#687)
-    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. Annexe II aux articles R668-1-1 à R668-21)](#688)
-      - [Titre 2 : Du sang humain (art. Annexe II aux articles R668-1-1 à R668-21)](#689)
-        - [Chapitre 3 : Des établissements de transfusion sanguine (art. Annexe II aux articles R668-1-1 à R668-21)](#690)
-          - [Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public. (art. Annexe II aux articles R668-1-1 à R668-21)](#691)
+            - [Paragraphe 2 : Conseils interrégionaux (art. L448-1 à L448-3)](#149)
+            - [Paragraphe 3 : Conseil national (art. L449 à L452)](#150)
+          - [Section 3 : Inscription au tableau et discipline (art. L453 à L456)](#151)
+        - [Chapitre 5 : Dispositions communes à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme (art. L457 à L465)](#152)
+        - [Chapitre 6 : Mesures d'adaptation pour les départements d'outre-mer. (art. L466 à L471)](#153)
+      - [Titre 2 : Profession d'infirmier ou d'infirmière (art. L473 à L486)](#154)
+        - [Chapitre 1 : Conditions auxquelles est subordonné l'exercice de la profession (art. L473 à L477)](#155)
+        - [Chapitre 2 : Règles d'exercice de la profession et dispositions pénales. (art. L478 à L486)](#156)
+      - [Titre 3 : Professions de masseur-kinésithérapeute et de pédicure (art. L487 à L503)](#157)
+        - [Chapitre 1 : Masseur-kinésithérapeute (art. L487 à L491)](#158)
+        - [Chapitre 1 bis : Organisation de la profession de masseur-kinésithérapeute (art. L491-1 à L491-8)](#159)
+          - [Section 1 : Ordre national des masseurs-kinésithérapeutes (art. L491-1 à L491-2)](#160)
+          - [Section 2 : Conseils de l'ordre des masseurs-kinésithérapeutes (art. L491-3 à L491-4)](#161)
+            - [I. - Conseils départementaux (art. L491-3)](#162)
+            - [II. - Conseil national (art. L491-4)](#163)
+          - [Section 3 : Inscription aux tableaux départementaux de l'ordre et discipline (art. L491-5 à L491-8)](#164)
+        - [Chapitre 2 : Pédicure-podologue. (art. L492 à L496-8)](#165)
+        - [Chapitre 3 : Dispositions communes et dispositions pénales (art. L497 à L503)](#166)
+      - [Titre 3-1 : Professions d'orthophoniste et d'orthoptiste (art. L504-1 à L504-6)](#167)
+        - [Chapitre 1 : Profession d'orthophoniste (art. L504-1 à L504-2)](#168)
+        - [Chapitre 2 : Profession d'orthoptiste (art. L504-3 à L504-4)](#169)
+        - [Chapitre 3 : Dispositions communes aux deux professions (art. L504-5 à L504-6)](#170)
+      - [Titre 3-2 : Professions d'ergothérapeute et de psychomotricien (art. L504-7 à L504-12)](#171)
+        - [Chapitre 1er : Profession d'ergothérapeute (art. L504-7 à L504-8)](#172)
+        - [Chapitre 2 : Profession de psychomotricien (art. L504-9 à L504-10)](#173)
+        - [Chapitre 3 : Dispositions communes aux deux professions (art. L504-11 à L504-12)](#174)
+      - [Titre 3-3 : Profession de manipulateur d'électroradiologie médicale (art. L504-13 à L504-16)](#175)
+      - [Titre 4 : Profession d'opticien-lunetier (art. L505 à L510)](#176)
+        - [Règles de la profession et dispositions pénales (art. L505 à L510)](#177)
+      - [Titre 5 : Profession d'audioprothésiste (art. L510-1 à L510-8)](#178)
+      - [Titre 5-1 : Dispositions communes aux professions de pédicure-podologue, opticien-lunetier et audioprothésiste. (art. L510-8 bis)](#179)
+      - [Titre 5 bis : Profession de diététicien (art. L510-8-1 à L510-8-3)](#180)
+      - [Titre 6 : Dispositions diverses (art. L510-9 à L510-11)](#181)
+    - [Livre 5 : Pharmacie (art. L511 à L665-2)](#182)
+      - [Titre 1 : Dispositions générales (art. L511 à L567)](#183)
+        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. L511 à L519)](#184)
+        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. L520 à L548)](#185)
+        - [Chapitre 3 : Prohibition de certaines conventions entre pharmaciens et membres de certaines professions (art. L549 à L550)](#186)
+        - [CHAPITRE 4 : REGLEMENTATION DE LA PUBLICITE. (art. L551 à L556)](#187)
+        - [Chapitre 5 : De l'inspection de la pharmacie (art. L557 à L567)](#188)
+      - [Titre 1 bis : Agence du médicament (art. L567-1 à L567-13)](#189)
+        - [Chapitre 1er : Dispositions générales (art. L567-1 à L567-2)](#190)
+        - [Chapitre 2 : Conseil d'administration, direction générale et personnel (art. L567-3 à L567-6)](#191)
+        - [Chapitre 3 : Régime financier (art. L567-7 à L567-8)](#192)
+        - [Chapitre 4 : Inspection (art. L567-9 à L567-13)](#193)
+      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. L568 à L625 Bis)](#194)
+        - [Chapitre 1 : Conditions de l'exercice de la pharmacie d'officine (art. L568 à L595)](#195)
+          - [Section 1 : Des officines de pharmacie (art. L568 à L578)](#196)
+          - [Section 2 : Exercice personnel de la profession (art. L579 à L580)](#197)
+          - [Section 3 : Des préparateurs en pharmacie (art. L581 à L588)](#198)
+          - [Section 4 : Règles générales de la pharmacie d'officine (art. L588-1 à L593-1)](#199)
+          - [Section 5 : Délivrance des médicaments par les médecins (art. L594 à L595)](#200)
+        - [Chapitre 1er bis : Des pharmacies à usage intérieur (art. L595-1 à L595-11)](#201)
+          - [Section 1 : Dispositions générales (art. L595-1 à L595-5)](#202)
+          - [Section 2 : Pharmacies des établissements de santé et des établissements médico-sociaux (art. L595-6 à L595-7-1)](#203)
+          - [Section 3 : Autres pharmacies à usage intérieur (art. L595-8 à L595-10)](#204)
+          - [Section 4 : Dispositions communes (art. L595-11)](#205)
+        - [Chapitre 2 : Fabrication, importation, exportation et distribution en gros des produits pharmaceutiques et exploitation des spécialités ou autres médicaments (art. L596 à L605)](#206)
+          - [Section 1 : Des établissements pharmaceutiques (art. L596 à L600)](#207)
+          - [Section 2 : Des médicaments et produits soumis à autorisation (art. L601 à L605)](#208)
+        - [Chapitre 3 : Pharmacie vétérinaire (art. L606 à L617-27)](#209)
+          - [Section 1 : Définitions (art. L606 à L609)](#210)
+          - [Section 2 : Préparation extemporanée et vente au détail (art. L610 à L614)](#211)
+            - [Paragraphe 1 : Plein exercice. (art. L610 à L611)](#212)
+            - [Paragraphe 2 : Exercice soumis à restrictions. (art. L612 à L613)](#213)
+            - [Paragraphe 3 : Modalités d'exercice (art. L614)](#214)
+          - [SECTION 3 : PREPARATION INDUSTRIELLE ET VENTE EN GROS (art. L615 à L617-5)](#215)
+            - [PARAGRAPHE 1 : ETABLISSEMENTS DE PREPARATION ET DE VENTE EN GROS. (art. L615 à L617)](#216)
+            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. L617-1 à L617-5)](#217)
+          - [Section 4 : Dispositions particulières à certaines matières destinées au diagnostic, à la prévention et au traitement des maladies des animaux. (art. L617-6 à L617-7)](#218)
+          - [Section 5 : Dispositions diverses (art. L617-8 à L617-11)](#219)
+          - [Section 6 : Dispositions transitoires. (art. L617-17)](#220)
+          - [Section 5 bis : Agence nationale du médicament vétérinaire (art. L617-12 à L617-14)](#221)
+          - [Section 7 : Modalités d'application. (art. L617-18 à L617-19)](#222)
+          - [Section 8 : Inspection (art. L617-20 à L617-22-1)](#223)
+          - [Section 9 : Dispositions pénales et mesures administratives (art. L617-23 à L617-27)](#224)
+        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurité sociale (art. L618 à L625 Bis)](#225)
+          - [Section 1 : Agrément pour les collectivités publiques. (art. L618 à L622)](#226)
+          - [Section 3 : Dispositions communes. (art. L625 à L625 Bis)](#227)
+      - [Titre 3 : Restrictions au commerce de certaines substances ou de certains objets (art. L626 à L658-11)](#228)
+        - [Chapitre 1 : Substances vénéneuses. (art. L626 à L630)](#229)
+        - [Chapitre 2 : Radio-éléments artificiels (art. L631 à L640)](#230)
+        - [Chapitre 3 : Essences pouvant servir à la fabrication des boissons alcooliques (art. L641 à L642-1)](#231)
+        - [Chapitre 5 : Abortifs (art. L645 à L647)](#232)
+          - [Provocation à l'avortement. (art. L645 à L647)](#233)
+        - [Chapitre 6 : Thermomètres médicaux. (art. L655 à L656)](#234)
+        - [Chapitre 7 : Biberons à tube et tétines (art. L657 à L658)](#235)
+        - [Chapitre 8 : Produits cosmétiques et produits d'hygiène corporelle (art. L658-1 à L658-10)](#236)
+        - [Chapitre 9 : Autres substances et objets (art. L658-11)](#237)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. L659 à L665-2)](#238)
+        - [Chapitre 1 : Exercice de la profession d'herboriste (art. L659 à L660)](#239)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie dans les départements de la Guadeloupe, de la Guyane francaise, de la Martinique et de la Réunion. (art. L662 à L662-1)](#240)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie (art. L663)](#241)
+        - [Chapitre 4 : Autorisation de mise sur le marché des spécialités anciennes (art. L665)](#242)
+        - [Chapitre 5 : Homologation de certains produits ou appareils. (art. L665-1 à L665-2)](#243)
+    - [Livre 5 bis : Dispositions relatives aux dispositifs médicaux (art. L665-3 à L665-9)](#244)
+      - [Chapitre 1 : Dispositions générales (art. L665-3 à L665-7)](#245)
+      - [Chapitre 2 : Dispositions particulières relatives aux systèmes et aux éléments destinés à être assemblés en vue de constituer un dispositif médical (art. L665-8)](#246)
+      - [Chapitre 3 : Dispositions communes (art. L665-9)](#247)
+    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. L665-10 à L675-18)](#248)
+      - [Titre 1 : Principes généraux applicables au don et à l'utilisation des éléments et produits du corps humain (art. L665-10 à L665-16)](#249)
+      - [Titre 2 : Du sang humain (art. L666-1 à L670-5)](#250)
+        - [Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. L666-1 à L666-13)](#251)
+        - [Chapitre 2 : Du comité de sécurité transfusionnelle et de l'Agence française du sang (art. L667-1 à L667-13)](#252)
+          - [Section 1 : Du comité de sécurité transfusionnelle (art. L667-1 à L667-3)](#253)
+          - [Section 2 : De l'Agence française du sang (art. L667-4 à L667-13)](#254)
+        - [Chapitre 3 : Des établissements de transfusion sanguine (art. L668-1 à L668-11)](#255)
+        - [Chapitre 4 : Des schémas d'organisation de la transfusion sanguine (art. L669-1 à L669-4)](#256)
+        - [Chapitre 5 : Des médicaments dérivés du sang et du Laboratoire français du fractionnement et des biotechnologies (art. L670-1 à L670-5)](#257)
+      - [Titre 3 : Des organes, tissus, cellules et produits du corps humain (art. L671-1 à L675-18)](#258)
+        - [Chapitre 1er : Des organes (art. L671-1 à L671-17)](#259)
+          - [Section 1 : Dispositions communes (art. L671-1 à L671-2)](#260)
+          - [Section 2 : Du prélèvement d'organes sur une personne vivante (art. L671-3 à L671-6)](#261)
+          - [Section 3 : Du prélèvement d'organes sur une personne décédée (art. L671-7 à L671-11)](#262)
+          - [Section 4 : De l'autorisation des établissements effectuant des prélèvements d'organes en vue de dons (art. L671-12 à L671-14)](#263)
+          - [Section 5 : Des transplantations d'organes (art. L671-15 à L671-17)](#264)
+        - [Chapitre 2 : Des tissus, cellules et produits (art. L672-1 à L673-7)](#265)
+          - [Section 1 : Dispositions communes (art. L672-1 à L672-3)](#266)
+          - [Section 2 : Du prélèvement de tissus et de cellules et de la collecte des produits du corps humain en vue de dons (art. L672-4 à L672-6)](#267)
+          - [Section 3 : De l'autorisation des établissements et organismes effectuant des prélèvements de tissus ou de cellules du corps humain en vue de dons (art. L672-7 à L672-9)](#268)
+          - [Section 4 : De la conservation et de l'utilisation des tissus et cellules du corps humain (art. L672-10 à L672-14)](#269)
+          - [Section 5 : Dispositions spécifiques au don et à l'utilisation de gamètes (art. L673-1 à L673-7)](#270)
+        - [Chapitre 2 bis : De l'Etablissement français des greffes (art. L673-8 à L673-9)](#271)
+        - [Chapitre 3 : Sanctions pénales et administratives relatives à l'utilisation des éléments et produits du corps humain (art. L674-1 à L675-18)](#272)
+    - [Livre 6 : Utilisation thérapeutique de produits d'origine humaine (art.  à L675-18)](#273)
+    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. L710-1 à L765)](#274)
+      - [Titre 1 : Etablissements de santé (art. L710-1 à L716-9)](#275)
+        - [Chapitre 1 A : Principes fondamentaux (art. L710-1 à L710-6)](#276)
+          - [Section 1 : Des droits du malade accueilli dans un établissement de santé (art. L710-1 à L710-3-2)](#277)
+          - [Section 2 : De l'évaluation et de l'analyse de l'activité des établissements de santé (art. L710-4 à L710-6)](#278)
+        - [Chapitre 1 : Missions et obligations des établissements de santé (art. L711-1 à L711-16)](#279)
+          - [Section 1 : Dispositions générales (art. L711-1 à L711-2-1)](#280)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. L711-3 à L711-11)](#281)
+          - [Section 3 : De la participation du service public hospitalier à l'enseignement médical, odontologique et pharmaceutique (art. L711-12 à L711-16)](#282)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. L712-1 à L712-19)](#283)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. L712-1 à L712-7)](#284)
+          - [Section 2 : Autorisations (art. L712-8 à L712-19)](#285)
+        - [Chapitre 3 : Les actions de coopération (art. L713-1 à L713-12)](#286)
+          - [Section 1 : Les conférences sanitaires de secteur (art. L713-1 à L713-4)](#287)
+          - [Section 2 : Les syndicats interhospitaliers (art. L713-5 à L713-11)](#288)
+          - [Section 3 : Conventions de coopération (art. L713-12)](#289)
+        - [Chapitre 4 : Les établissements publics de santé (art. L714-1 à L714-42)](#290)
+          - [Section 1 : Organisation administrative et financière (art. L714-1 à L714-15)](#291)
+          - [Section 2 : Organes représentatifs (art. L714-16 à L714-19)](#292)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. L714-20 à L714-26)](#293)
+          - [Section 4 : Les personnels des établissements publics de santé (art. L714-27 à L714-29)](#294)
+          - [Section 5 : Dispositions diverses (art. L714-30 à L714-42)](#295)
+        - [Chapitre 5 : Les établissements de santé privés (art. L715-1 à L715-12)](#296)
+          - [Section 1 : Dispositions générales (art. L715-1 à L715-4)](#297)
+          - [Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement (art. L715-5 à L715-11)](#298)
+          - [Section 3 : Dispositions relatives aux établissements de santé privés ne participant pas au service public hospitalier (art. L715-12)](#299)
+        - [Chapitre 6 : Expérimentations et dispositions diverses (art. L716-1 à L716-9)](#300)
+          - [Section 1 : Expérimentations (art. L716-1 à L716-2)](#301)
+          - [Section 2 : Dispositions diverses (art. L716-3 à L716-9)](#302)
+      - [Titre 2 : Thermo-climatisme (art. L735 à L752)](#303)
+        - [Chapitre 1 : Sources d'eaux minérales (art. L735 à L751)](#304)
+          - [Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent. (art. L735 à L745)](#305)
+          - [Section 2 : Dispositions pénales. (art. L747 à L750)](#306)
+          - [Section 3 : Modalités d'application. (art. L751)](#307)
+        - [Chapitre 2 : Stations hydrominérales, climatiques et uvales. (art. L752)](#308)
+      - [Titre 3 : Laboratoires (art. L753 à L765)](#309)
+        - [Chapitre 1 : Laboratoires d'analyses de biologie médicale (art. L753 à L761-23)](#310)
+          - [Section 1 : Conditions de fonctionnement des laboratoires d'analyses de biologie médicale (art. L753 à L760)](#311)
+          - [Section 2 : Dispositions applicables aux directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale (art. L761 à L761-10)](#312)
+          - [Section 3 : Dispositions diverses (art. L761-11 à L761-15)](#313)
+          - [Section 4 : Dispositions pénales (art. L761-16 à L761-23)](#314)
+        - [Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales (art. L762 à L765)](#315)
+    - [Livre 8 : Institutions (art. L772 à L782)](#316)
+      - [Chapitre 1 : Services administratifs locaux (art. L772 à L775)](#317)
+        - [Section 2 : Service communal d'hygiène et de santé. (art. L772)](#318)
+        - [SECTION 3 : MODALITES D'APPLICATION. (art. L775)](#319)
+      - [CHAPITRE 2 : CONSEILS ET COMMISSIONS (art. L776 à L782)](#320)
+        - [Section 1 : Conseils départementaux d'hygiène et commissions sanitaires (art. L776)](#321)
+        - [Section 3 : Conseil permanent d'hygiène sociale. (art. L782)](#322)
+    - [Livre IX : Personnel (art. L803 à L897)](#323)
+      - [Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social (art. L803 à L897)](#324)
+        - [Chapitre II : Dispositions organiques (art. L803 à L807)](#325)
+        - [Chapitre V : Notation et avancement. (art. L818 à L826)](#326)
+        - [Chapitre VII : Positions. (art. L850 à L859)](#327)
+          - [Section 1 : Activités, congés. (art. L850 à L859)](#328)
+        - [Chapitre X : Dispositions diverses et transitoires. (art. L895)](#329)
+        - [Dispositions finales. (art. L897)](#330)
+  - [Partie réglementaire ancienne (art. R145-1 à R716-9-1)](#331)
+    - [Livre 1 : Protection générale de la santé publique (art. R145-1 à R145-7)](#332)
+      - [Titre 4 : Lutte contre les intoxications (art. R145-1 à R145-7)](#333)
+    - [Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales (art. R2009 à R2053)](#334)
+      - [Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale (art. R2009 à R2020)](#335)
+        - [Chapitre 2 : Organisation et agrément. (art. R2009 à R2011)](#336)
+        - [Chapitre 1 : Constitution (art. R2001 à R2008)](#337)
+        - [Chapitre 3 : Financement et fonctionnement. (art. R2012 à R2020)](#338)
+      - [Titre 3 : Informations communiquées par l'investigateur au comité consultatif de protection des personnes dans la recherche biomédicale. (art. R2029 à R2031)](#339)
+      - [Titre 2 : Autorisation des lieux de recherches biomédicales sans bénéfice individuel direct (art. R2021 à R2028)](#340)
+      - [Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct. (art. R2039 à R2046)](#341)
+      - [Titre 5 : Dispositions financières. (art. R2038)](#342)
+      - [Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention. (art. R2032 à R2037)](#343)
+      - [Titre 7 : Assurance des promoteurs de recherches biomédicales (art. R2047 à R2053)](#344)
+    - [Livre 3 : Lutte contre les fléaux sociaux (art. R355-28-1 à R355-28-13)](#345)
+      - [Titre 8 : Lutte contre le tabagisme (art. R355-28-1 à R355-28-13)](#346)
+        - [Chapitre 1 : Interdiction de fumer dans les lieux affectés à un usage collectif. (art. R355-28-1 à R355-28-13)](#347)
+    - [Livre 5 : Pharmacie (art. R5000 à R5287)](#348)
+      - [Titre 1 : Dispositions générales (art. R5000 à R5089)](#349)
+        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5001 à R5013 bis)](#350)
+          - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#351)
+            - [Paragraphe 1 : Pharmacopée (art. R5001 à R5005)](#352)
+            - [Paragraphe 2 : Formulaire (art. R5006 à R5006-1)](#353)
+          - [Section 3 : Pharmaciens assistants (art. R5008 à R5012)](#354)
+          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#355)
+        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R5014-4)](#356)
+          - [Section 1 : Organisation (art. R5014)](#357)
+          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5017 à R*5043)](#358)
+            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5017 à R5016)](#359)
+            - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#360)
+            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#361)
+          - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#362)
+            - [Paragraphe 1 : Devoirs généraux des pharmaciens (art. R*5015-2 à R*5015-25)](#363)
+              - [1) Dispositions générales. (art. R*5015-2 à R*5015-3)](#364)
+              - [2) Du concours du pharmacien à l'oeuvre de protection de la santé. (art. R*5015-4 à R*5015-10)](#365)
+              - [3) De la responsabilité et de l'indépendance des pharmaciens. (art. R*5015-11 à R*5015-22)](#366)
+              - [4) De la tenue des établissements pharmaceutiques. (art. R*5015-23 à R*5015-25)](#367)
+            - [Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle (art. R*5015-26 à R*5015-38)](#368)
+              - [1) De la publicité. (art. R*5015-26 à R*5015-29)](#369)
+              - [2) De la concurrence déloyale. (art. R*5015-30 à R*5015-33)](#370)
+              - [3) Prohibition de certaines conventions ou ententes (art. R*5015-34 à R*5015-38)](#371)
+            - [Paragraphe 3 : Relations avec des agents de l'administration. (art. R*5015-39 à R*5015-42)](#372)
+            - [Paragraphe 4 : Des règles à observer dans les relations avec le public. (art. R*5015-43 à R*5015-47)](#373)
+            - [Paragraphe 5 : Relations avec les membres des professions médicales (art. R*5015-48 à R*5015-64)](#374)
+              - [1) Relations avec les membres des professions non pharmaceutiques. (art. R*5015-48 à R*5015-52)](#375)
+              - [2) Relations des pharmaciens avec leurs collaborateurs. (art. R*5015-53 à R*5015-55)](#376)
+              - [3) Devoirs des maîtres de stage. (art. R*5015-56 à R*5015-58)](#377)
+              - [4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires. (art. R*5015-59)](#378)
+              - [5) Devoirs de confraternité. (art. R*5015-60 à R*5015-64)](#379)
+          - [Section 1 bis : Inscription au tableau (art. R5014-1 à R5014-4)](#380)
+        - [Chapitre 4 : Réglementation de la publicité (art. R5047 à R5052-3)](#381)
+          - [Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551. (art. R5047 à R5051)](#382)
+          - [Section 1 : Dispositions générales. (art. R5045 à R5046-2)](#383)
+          - [Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement (art. R5055 à R5055-4)](#384)
+          - [Section 4 : Publicité en faveur des établissements pharmaceutiques. (art. R5053)](#385)
+          - [Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments (art. R5054 à R5054-3)](#386)
+          - [Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art. (art. R5052 à R5052-3)](#387)
+        - [Chapitre 5 : De l'inspection (art. R5056 à R5089)](#388)
+          - [Section 1 : Contrôle exercé par les inspecteurs de pharmacie et les inspecteurs de l'Agence du médicament (art. R5056 à R5059)](#389)
+          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5061 à R5089)](#390)
+            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#391)
+            - [Paragraphe 1 : Généralités (art. R5060)](#392)
+            - [Paragraphe 3 : Analyse des échantillons prélevés et suites administratives (art. R5071 à R5075)](#393)
+            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#394)
+            - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#395)
+            - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#396)
+      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#397)
+        - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#398)
+          - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#399)
+            - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#400)
+            - [Paragraphe 5 : Médicaments spécialisés de l'officine (art. R5097 à R5098)](#401)
+            - [Paragraphe 4 : Remèdes secrets (art. R5094 à R5096)](#402)
+            - [Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes (art. R5091 à R5091-9)](#403)
+            - [Paragraphe 1 : Exploitation des officines (art. R5090 à R5090-12)](#404)
+            - [Paragraphe 6 : Produits officinaux divisés (art. R5098-1 à R5098-2)](#405)
+          - [Section 2 : Exercice personnel de la profession (art. R5099 à R5104)](#406)
+            - [Paragraphe 1 : Assistance par des pharmaciens (art. R5099)](#407)
+            - [Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis (art. R5100 à R5104)](#408)
+        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5142-30)](#409)
+          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-11)](#410)
+            - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#411)
+            - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#412)
+            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#413)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-11)](#414)
+              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#415)
+              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-11)](#416)
+          - [Section 2 : Médicaments et produits soumis à autorisation (art. R5117 à R5142-30)](#417)
+            - [Paragraphe 1 : Expérimentation des médicaments (art. R5117 à R5127)](#418)
+            - [Paragraphe 2 : Autorisation de mise sur le marché (art. R5128 à R5142)](#419)
+            - [Paragraphe 3 : Etiquetage des médicaments ou produits soumis à autorisation (art. R5143 à R5143-3)](#420)
+            - [Paragraphe 5 : Dispositions diverses (art. R5144)](#421)
+            - [Paragraphe 4 : Notice des médicaments ou produits soumis à autorisation (art. R5143-4 à R5143-5)](#422)
+            - [Paragraphe 5 : Médicaments soumis à prescription restreinte (art. R5143-5-1 à R5143-5-6)](#423)
+            - [Paragraphe 6 : Dispositions diverses (art. R5143-6 à R5143-7)](#424)
+            - [Paragraphe 2 bis : Importation et exportation des médicaments (art. R5142-11 à R5142-19)](#425)
+              - [Importation (art. R5142-11 à R5142-15)](#426)
+              - [Exportation (art. R5142-16 à R5142-18)](#427)
+              - [Dispositions applicables aux médicaments classés comme stupéfiants ou psychotropes (art. R5142-19)](#428)
+            - [Paragraphe 2 ter : Autorisation temporaire d'utilisation (art. R5142-20 à R5142-30)](#429)
+        - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#430)
+          - [DISPOSITIONS GENERALES. (art. R5145)](#431)
+          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 ter)](#432)
+            - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#433)
+            - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#434)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 ter)](#435)
+          - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#436)
+            - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#437)
+            - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#438)
+            - [Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché. (art. R5146-33 à R5146-39-6)](#439)
+            - [Paragraphe 4 : Prélèvements d'échantillons. (art. R5146-40 à R5146-41)](#440)
+          - [Section 3 : Réglementation de la publicité. (art. R5146-42 à R5146-48)](#441)
+          - [SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES. (art. R5146-49 à R5146-50 bis)](#442)
+          - [SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS. (art. R5146-51 à R5146-55-2)](#443)
+          - [Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents. (art. R5146-56)](#444)
+          - [Section 6 bis : Dispositions particulières relatives au contrôle (art. R5146-56-1)](#445)
+          - [SECTION 7 : SANCTIONS. (art. R5146-57)](#446)
+        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#447)
+          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#448)
+        - [Chapitre 2 bis : Pharmacovigilance (art. R5144-1 à R5144-11)](#449)
+          - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#450)
+          - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#451)
+      - [Titre 1 bis : Agence du médicament (art. R5089-1 à R5089-26)](#452)
+        - [Chapitre 1 : Dispositions générales (art. R5089-1 à R5089-2)](#453)
+        - [Chapitre 2 : Conseil d'administration (art. R5089-3 à R5089-11)](#454)
+        - [Chapitre 3 : Le directeur général de l'agence (art. R5089-12 à R5089-14)](#455)
+        - [Chapitre 4 : Le conseil scientifique (art. R5089-15)](#456)
+        - [Chapitre 5 : Les inspecteurs et les missions d'inspection de l'Agence du médicament (art. R5089-16 à R5089-20)](#457)
+        - [Chapitre 6 : Dispositions financières et comptables (art. R5089-21 à R5089-24-3)](#458)
+        - [Chapitre 7 : Dispositions relatives au personnel (art. R5089-25 à R5089-26)](#459)
+      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-16)](#460)
+        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5219-1)](#461)
+          - [SECTION 1 : GENERALITES. (art. R5149)](#462)
+          - [Section 2 : Substances dangereuses, stupéfiantes ou psychotropes (art. R5150 à R5189)](#463)
+            - [1 : Dispositions communes. (art. R5150 à R5151)](#464)
+            - [2 : Substances dangereuses. (art. R5152 à R5170)](#465)
+            - [3 : Substances stupéfiantes. (art. R5171 à R5182)](#466)
+            - [4 : Substances psychotropes. (art. R5183 à R5189)](#467)
+          - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact (art. R5190 à R5219-1)](#468)
+            - [1) Dispositions communes. (art. R5190 à R5203)](#469)
+            - [3) Régime particulier des stupéfiants. (art. R5209 à R5218-2)](#470)
+            - [2) Régime particulier des listes 1 et 2. (art. R5204 à R5208-1)](#471)
+            - [4) Régime particulier des psychotropes. (art. R5219 à R5219-1)](#472)
+        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#473)
+        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#474)
+        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#475)
+        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#476)
+        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-16)](#477)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5287)](#478)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#479)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#480)
+        - [Chapitre 5 : Homologation de certains produits et appareils. (art. R5274 à R5287)](#481)
+    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. R666-12-1 à R673-9-10)](#482)
+      - [Titre 2 : Du sang humain (art. R666-12-1 à R669-5)](#483)
+        - [Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. R666-12-1 à R666-12-26)](#484)
+          - [Section 1 : Hémovigilance (art. R666-12-1 à R666-12-26)](#485)
+            - [Sous-section 1 : Dispositions générales (art. R666-12-1 à R666-12-4)](#486)
+            - [Sous-section 2 : Modalités de distribution des produits sanguins labiles (art. R666-12-5 à R666-12-10)](#487)
+            - [Sous-section 3 : Rôle des établissements de transfusion sanguine distributeurs (art. R666-12-11 à R666-12-12)](#488)
+            - [Sous-section 4 : Rôle des établissements de santé (art. R666-12-13 à R666-12-19)](#489)
+            - [Sous-section 5 : Les coordonnateurs régionaux de l'hémovigilance (art. R666-12-20 à R666-12-23)](#490)
+            - [Sous-section 6 : Déclaration d'incident transfusionnel (art. R666-12-25 à R666-12-26)](#491)
+        - [Chapitre 2 : Organisation et fonctionnement de l'Agence française du sang (art. R667-1 à R667-44)](#492)
+          - [Section 1 : Dispositions générales (art. R667-1 à R667-2)](#493)
+          - [Section 2 : Organisation générale (art. R667-3 à R667-32)](#494)
+            - [Sous-section 1 : Le conseil d'administration (art. R667-3 à R667-12)](#495)
+            - [Sous-section 2 : Le président de l'Agence française du sang (art. R667-13 à R667-15)](#496)
+            - [Sous-section 3 : Le conseil scientifique (art. R667-16 à R667-20)](#497)
+            - [Sous-section 4 : Le comité d'orientation (art. R667-21 à R667-25)](#498)
+            - [Sous-section 5 : Le directeur de l'Agence française du sang (art. R667-26 à R667-27)](#499)
+            - [Sous-section 6 : Les inspecteurs et les missions d'inspection de l'Agence française du sang (art. R667-28 à R667-32)](#500)
+          - [Section 3 : Dispositions financières et comptables (art. R667-33 à R667-42)](#501)
+            - [Sous-section 1 : Dispositions générales (art. R667-33 à R667-36)](#502)
+            - [Sous-section 2 : La dotation globale de l'Agence française du sang (art. R667-37 à R667-40)](#503)
+            - [Sous-section 3 : Dispositions relatives au fonds d'orientation de la transfusion sanguine (art. R667-41 à R667-42)](#504)
+          - [Section 4 : Dispositions diverses (art. R667-43 à R667-44)](#505)
+        - [Chapitre 3 : Des établissements de transfusion sanguine (art. R668-1-1 à R668-2-26)](#506)
+          - [Section 1 : Des organismes agréés en qualité d'établissement de transfusion sanguine (art. R668-1-1 à R668-4)](#507)
+            - [Sous-section 1 : Des associations agréées en qualité d'établissement de transfusion sanguine (art. R668-1-1)](#508)
+            - [Sous-section 2 : Des groupements d'intérêt public agréés en qualité d'établissement de transfusion sanguine (art. R668-1-2 à R668-4)](#509)
+          - [Section 2 : De l'agrément des établissements de transfusion sanguine (art. R668-2-1 à R668-2-26)](#510)
+            - [Sous-section 1 : Conditions relatives aux normes de fonctionnement et d'équipement des établissements de transfusion sanguine (art. R668-2-4 à R668-2-22)](#511)
+              - [Paragraphe 1 : Conditions d'exercice de la collecte (art. R668-2-4 à R668-2-8)](#512)
+              - [Paragraphe 2 : Conditions de la qualification biologique du don (art. R668-2-9 à R668-2-10)](#513)
+              - [Paragraphe 3 : Conditions de la préparation des produits sanguins labiles (art. R668-2-11 à R668-2-16)](#514)
+              - [Paragraphe 4 : Conditions de transformation des produits sanguins labiles (art. R668-2-17 à R668-2-18)](#515)
+              - [Paragraphe 5 : Conditions de la distribution des produits sanguins labiles (art. R668-2-19 à R668-2-22)](#516)
+            - [Sous-section 2 : Conditions d'agrément relatives à la continuité du service public de la transfusion sanguine (art. R668-2-23)](#517)
+            - [Sous-section 3 : Dispositions relatives à la procédure de l'agrément (art. R668-2-24 à R668-2-26)](#518)
+        - [Chapitre 4 : Des schémas d'organisation de la transfusion sanguine (art. R669-1 à R669-5)](#519)
+      - [Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. R666-12-17 à R666-12-24)](#520)
+        - [Section 1 : Hémovigilance (art. R666-12-17 à R666-12-24)](#521)
+          - [Sous-section 4 : Rôle des établissements de santé (art. R666-12-17)](#522)
+          - [Sous-section 6 : Déclaration d'incident transfusionnel (art. R666-12-24)](#523)
+      - [Titre 3 : Des organes, tissus, cellules et produits du corps humain (art. R673-8-1 à R673-9-10)](#524)
+        - [Chapitre 2 bis : De l'Etablissement français des greffes (art. R673-8-1 à R673-9-10)](#525)
+          - [Section 1 : Dispositions générales (art. R673-8-1 à R673-8-3)](#526)
+          - [Section 2 : Organisation de l'établissement (art. R673-8-4 à R673-9-10)](#527)
+            - [Sous-section 1 : Le conseil d'administration (art. R673-8-4 à R673-8-13)](#528)
+            - [Sous-section 2 : Le directeur général de l'Etablissement français des greffes (art. R673-8-14 à R673-8-16)](#529)
+            - [Sous-section 3 : Le conseil médical et scientifique (art. R673-8-17 à R673-8-20)](#530)
+            - [Sous-section 4 : Dispositions financières et comptables (art. R673-9-1 à R673-9-10)](#531)
+    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R710-2-1 à R716-9-1)](#532)
+      - [Titre 1 : Etablissements de santé (art. R710-2-1 à R716-9-1)](#533)
+        - [Chapitre 1 A : Principes fondamentaux (art. R710-2-1 à R710-5-11)](#534)
+          - [Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés (art. R710-2-1 à R710-2-10)](#535)
+          - [Section 2 : De l'analyse de l'activité des établissements de santé (art. R710-5-1 à R710-5-11)](#536)
+        - [Chapitre 1 : Missions et obligations des établissements de santé (art. R711-6-1 à R711-20)](#537)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. R711-6-1 à R711-6-21)](#538)
+            - [Sous-section 1 : Catégories d'établissements publics de santé (art. R711-6-1 à R711-6-3)](#539)
+            - [Sous-section 2 : Fonctionnement médical des hôpitaux locaux (art. R711-6-4 à R711-6-21)](#540)
+          - [Section 3 : Soins dispensés aux détenus par certains établissements de santé assurant le service public hospitalier et actions de prévention exercées par ces établissements (art. R711-7 à R711-20)](#541)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. R712-1 à R712-59)](#542)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. R712-1 à R712-36)](#543)
+            - [Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire. (art. R712-1 à R712-13)](#544)
+            - [Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale (art. R712-14 à R712-21)](#545)
+            - [Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale (art. R712-22 à R712-29)](#546)
+            - [Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale (art. R712-30 à R712-36)](#547)
+          - [Section 2 : Autorisations (art. R712-37 à R712-51)](#548)
+          - [Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie (art. R712-52 à R712-59)](#549)
+        - [Chapitre 3 : Les actions de coopération (art. R713-1 à R713-15)](#550)
+          - [Section 1 : Les conférences sanitaires de secteur (art. R713-1 à R713-15)](#551)
+        - [Chapitre 4 : Les établissements publics de santé (art. R714-1-1 à R714-28-4)](#552)
+          - [Section 1 : Organisation administrative et financière (art. R714-1-1 à R714-4-5)](#553)
+            - [Sous-section 1 : Création, transformation et suppression des établissements publics de sante (art. R714-1-1 à R714-1-3)](#554)
+            - [Sous-section 2 : Composition et fonctionnement du conseil d'administration (art. R714-2-1 à R714-2-24)](#555)
+            - [Sous-section 3 : Budget et comptabilité des établissements publics de santé (art. R714-3-1 à R714-3-53)](#556)
+              - [Paragraphe 1 : Dispositions générales (art. R714-3-1 à R714-3-6)](#557)
+              - [Paragraphe 2 : Présentation et vote du budget (art. R714-3-7 à R714-3-18)](#558)
+              - [Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale (art. R714-3-19 à R714-3-26)](#559)
+              - [Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget (art. R714-3-27 à R714-3-40)](#560)
+              - [Paragraphe 5 : Du directeur, ordonnateur du budget (art. R714-3-41 à R714-3-45)](#561)
+              - [Paragraphe 6 : Clôture de l'exercice et affectation des résultats (art. R714-3-46 à R714-3-50)](#562)
+              - [Paragraphe 7 : Du comptable (art. R714-3-51 à R714-3-53)](#563)
+            - [Sous-section 4 : Programmes d'investissement (art. R714-4-1 à R714-4-5)](#564)
+          - [Section 2 : Organes représentatifs (art. R714-16-1 à R714-18-15)](#565)
+            - [Sous-section 1 : Commissions médicales d'établissement (art. R714-16-1 à R714-16-34)](#566)
+              - [Paragraphe 1 : Composition de commissions médicales d'établissement (art. R714-16-1 à R714-16-13)](#567)
+                - [I : Centres hospitaliers autres que les centres hospitaliers universitaires (art. R714-16-1 à R714-16-5)](#568)
+                - [II : Centres hospitaliers universitaires (art. R714-16-6 à R714-16-10)](#569)
+                - [III : Hôpitaux locaux (art. R714-16-11)](#570)
+                - [IV : Syndicats interhospitaliers (art. R714-16-12 à R714-16-13)](#571)
+              - [Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement (art. R714-16-14 à R714-16-28)](#572)
+              - [Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux (art. R714-16-29 à R714-16-34)](#573)
+            - [Sous-section 2 : Comités techniques d'établissement (art. R714-17-1 à R714-18-15)](#574)
+              - [Paragraphe 1 : Composition des comités techniques d'établissement (art. R714-17-1 à R714-17-24)](#575)
+              - [Paragraphe 2 : Attributions des comités techniques d'établissement (art. R714-18-1)](#576)
+              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement (art. R714-18-2 à R714-18-14)](#577)
+              - [Paragraphe 3 : Dispositions diverses (art. R714-18-15)](#578)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. R714-21-1 à R714-26-11)](#579)
+            - [Sous-section 1 : Des chefs de service ou de département (art. R714-21-1 à R714-21-25)](#580)
+              - [Paragraphe 1 : Dispositions générales (art. R714-21-1 à R714-21-2)](#581)
+              - [Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires (art. R714-21-3 à R714-21-5)](#582)
+              - [Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires (art. R714-21-6)](#583)
+              - [Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958 (art. R714-21-7 à R714-21-19)](#584)
+                - [I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein (art. R714-21-8 à R714-21-11)](#585)
+                - [II. - Nomination aux fonctions de chef de service ou de département à temps partiel (art. R714-21-12 à R714-21-13)](#586)
+                - [III (art. R714-21-14 à R714-21-17)](#587)
+                  - [- Dispositions propres aux fonctions de chef de service ou de département de psychiatrie (art. R714-21-14 à R714-21-17)](#588)
+                - [IV (art. R714-21-18)](#589)
+                  - [- Dispositions particulières aux pharmacies hospitalières (art. R714-21-18)](#590)
+                - [V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre (art. R714-21-19)](#591)
+              - [Paragraphe 5 : Dispositions communes (art. R714-21-20 à R714-21-25)](#592)
+            - [Sous-section 2 : Conseil de service ou de département (art. R714-22-1 à R714-22-11)](#593)
+            - [Sous-section 3 : Des responsables d'unité fonctionnelle (art. R714-24-1 à R714-24-2)](#594)
+            - [Sous-section 4 : Service de soins infirmiers (art. R714-26-1 à R714-26-11)](#595)
+          - [Section 4 : Les personnels des établissements publics de santé (art. R714-28-1 à R714-28-4)](#596)
+        - [Chapitre 5 : Les établissements de santé privés (art. R715-6-1 à R715-11-4)](#597)
+          - [Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement (art. R715-6-1 à R715-11-4)](#598)
+            - [Sous-section 2 : De la participation des établissements de santé privés à but non lucratif à l'exécution du service public hospitalier (art. R715-6-1 à R715-6-12)](#599)
+              - [Paragraphe 1 : Dispositions générales (art. R715-6-1 à R715-6-2)](#600)
+              - [Paragraphe 2 : Modalités d'admission à la participation (art. R715-6-3 à R715-6-9)](#601)
+              - [Paragraphe 3 : Situation des personnels médicaux (art. R715-6-10 à R715-6-12)](#602)
+            - [Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier (art. R715-7-1 à R715-7-6)](#603)
+            - [Sous-section 4 : De la concession du service public hospitalier (art. R715-10-1 à R715-10-14)](#604)
+              - [Paragraphe 1 : Objet, contenu et durée du contrat de concession (art. R715-10-1 à R715-10-3)](#605)
+              - [Paragraphe 2 : Procédure (art. R715-10-4 à R715-10-9)](#606)
+              - [Paragraphe 3 : Renouvellement et prorogation du contrat de concession (art. R715-10-10)](#607)
+              - [Paragraphe 4 : Contrôle (art. R715-10-11 à R715-10-12)](#608)
+              - [Paragraphe 5 : Mesures diverses (art. R715-10-13 à R715-10-14)](#609)
+            - [Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier (art. R715-11-1 à R715-11-4)](#610)
+              - [Paragraphe 1 : Nature et objet de l'accord d'association (art. R715-11-1 à R715-11-3)](#611)
+              - [Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association (art. R715-11-4)](#612)
+        - [Chapitre 6 : Expérimentation et dispositions diverses (art. R716-3-1 à R716-9-1)](#613)
+          - [Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux (art. R716-3-1 à R716-3-65)](#614)
+            - [Sous-section 1 : Assistance publique - hôpitaux de Paris (art. R716-3-1 à R716-3-38)](#615)
+              - [Paragraphe 1 : Conseil d'administration (art. R716-3-2 à R716-3-9)](#616)
+              - [Paragraphe 2 : Le directeur général et le secrétaire général (art. R716-3-10 à R716-3-12)](#617)
+              - [Paragraphe 3 : Les instances représentatives centrales (art. R716-3-13 à R716-3-18)](#618)
+                - [A. - Commission médicale d'établissement (art. R716-3-13 à R716-3-14)](#619)
+                - [B. - Comité technique central d'établissement (art. R716-3-15 à R716-3-17)](#620)
+                - [C : Commission centrale du service de soins infirmiers (art. R716-3-18)](#621)
+              - [Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général (art. R716-3-19 à R716-3-30)](#622)
+                - [A. - Budget (art. R716-3-19)](#623)
+                - [B. - Direction (art. R716-3-20)](#624)
+                - [C. - Instances représentatives locales (art. R716-3-21 à R716-3-30)](#625)
+                  - [Commission de surveillance (art. R716-3-22 à R716-3-25)](#626)
+                  - [Comité consultatif médical (art. R716-3-26)](#627)
+                  - [Comité technique local d'établissement (art. R716-3-27 à R716-3-29)](#628)
+                  - [Commission locale du service de soins infirmiers (art. R716-3-30)](#629)
+              - [Paragraphe 5 : Contrôle financier (art. R716-3-31)](#630)
+              - [Paragraphe 6 : Marchés (art. R716-3-32)](#631)
+              - [Paragraphe 7 : Contrôle de l'Etat (art. R716-3-33 à R716-3-35)](#632)
+              - [Paragraphe 8 : Dispositions diverses (art. R716-3-36 à R716-3-38)](#633)
+            - [Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille (art. R716-3-39 à R716-3-56)](#634)
+              - [Paragraphe 1 : Conseil d'administration (art. R716-3-40 à R716-3-44)](#635)
+              - [Paragraphe 2 : Directeur général et secrétaire général (art. R716-3-45)](#636)
+              - [Paragraphe 3 : Instances représentatives centrales (art. R716-3-46 à R716-3-49)](#637)
+              - [Paragraphe 4 : Instances représentatives locales (art. R716-3-50 à R716-3-56)](#638)
+            - [Sous-section 3 : Etablissements publics nationaux (art. R716-3-57 à R716-3-65)](#639)
+          - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#640)
+          - [Section 5 : Dispositions diverses (art. R716-9-1)](#641)
+  - [Partie réglementaire ancienne - Décrets simples (art. D666-3-1 à D712-48)](#642)
+    - [Livre VI : Utilisation thérapeutique de produits d'origine humaine (art. D666-3-1 à D666-3-5)](#643)
+      - [Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. D666-3-1 à D666-3-5)](#644)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#645)
+      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#646)
+        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#647)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#648)
+          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#649)
+          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#650)
+        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-51)](#651)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#652)
+            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#653)
+            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#654)
+            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#655)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#656)
+          - [Section 2 : Autorisations (art. D712-16)](#657)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#658)
+          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-51)](#659)
+            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#660)
+              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#661)
+              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#662)
+            - [Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie (art. D712-40 à D712-51)](#663)
+              - [Paragraphe 1 : Dispositions générales (art. D712-40)](#664)
+              - [Paragraphe 2 : De la consultation pré-anesthésique (art. D712-41)](#665)
+              - [Paragraphe 3 : De l'anesthésie (art. D712-44)](#666)
+              - [Paragraphe 4 : De la surveillance continue post-interventionnelle (art. D712-45 à D712-51)](#667)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. D712-13-2)](#668)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-13-2)](#669)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2)](#670)
+        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#671)
+          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#672)
+            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#673)
+            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#674)
+            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#675)
+            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#676)
+          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#677)
+            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#678)
+            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#679)
+          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#680)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#681)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-48)](#682)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#683)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#684)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-48)](#685)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#686)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#687)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#688)
+        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#689)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#690)
+          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#691)
+        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-48)](#692)
+          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#693)
+            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#694)
+            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#695)
+          - [Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie (art. D712-42 à D712-48)](#696)
+            - [Paragraphe 3 : De l'anesthésie (art. D712-42 à D712-43)](#697)
+            - [Paragraphe 4 : De la surveillance continue post-interventionnelle (art. D712-48)](#698)
+  - [Annexes (art. Annexe II aux articles R668-1-1 à R668-21)](#699)
+    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. Annexe II aux articles R668-1-1 à R668-21)](#700)
+      - [Titre 2 : Du sang humain (art. Annexe II aux articles R668-1-1 à R668-21)](#701)
+        - [Chapitre 3 : Des établissements de transfusion sanguine (art. Annexe II aux articles R668-1-1 à R668-21)](#702)
+          - [Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public. (art. Annexe II aux articles R668-1-1 à R668-21)](#703)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -4316,6 +4328,46 @@ _Cite_:
   - Code de la santé publique - art. L44-2 (M)
 
 
+###### Article L44-4
+
+Toute installation de radiothérapie externe est soumise à un contrôle périodique de sa qualité et de sa sécurité, dès lors
+qu'elle peut émettre des rayonnements d'énergie supérieure à un seuil fixé par arrêté du ministre chargé de la santé, ou
+qu'elle figure sur une liste fixée par décret en Conseil d'Etat.
+
+Un décret détermine les modalités d'application du présent article et notamment le ou les organismes chargés d'effectuer ces
+contrôles, la périodicité de ceux-ci, ainsi que les conditions de prise en charge de leur coût par les propriétaires des
+installations.
+
+Toute utilisation d'une installation qui ne se serait pas soumise au contrôle prévu au présent article est passible des
+peines prévues à l'article L. 48-1 du présent code. En outre, le ministre chargé de la santé ou le représentant de l'Etat
+peut, s'il y a lieu, prononcer la suspension totale ou partielle de l'autorisation prévue à l'article L. 712-8.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 28 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 1° JORF 22 juin 2000
+  - Décret n°2003-462 2003-05-21 art. 4 JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1333-11 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. L48-1 (Ab)
+  - Code de la santé publique - art. L712-8 (M)
+
+
 #### Chapitre 6 : Dispositions pénales<a id=22></a>
 
 ###### Article L45
@@ -6067,6 +6119,32 @@ _Cité par_:
   - Code de la santé publique - art. L145-19 (Ab)
   - Code pénal - art. 226-25 (M)
   - Code pénal - art. 226-27 (M)
+
+
+###### Article L145-15-1
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles pourront être réalisées, dans l'intérêt des patients, la
+prescription et la réalisation de l'examen des caractéristiques génétiques d'une personne à des fins médicales.
+
+Le ministre chargé de la santé peut, par arrêté, soumettre à des bonnes pratiques ainsi qu'à des règles techniques et
+sanitaires la prescription et la réalisation de l'examen des caractéristiques génétiques d'une personne à des fins médicales
+et, le cas échéant, les modalités de son suivi médical.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 1 () JORF 5 février 1995
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1131-2 (V)
+  - Code de la santé publique - art. L1131-6 (V)
 
 
 ###### Article L145-16
@@ -21728,19 +21806,19 @@ _Abrogé par_:
 
 ###### Article L407
 
-Le Conseil national est assisté par un conseiller d'Etat nommé, en même temps que deux conseillers d'Etat suppléants, par le
-garde des sceaux, ministre de la Justice, avec voix délibérative.
+Le Conseil national est assisté par un conseiller d'Etat nommé, en même temps que quatre conseillers d'Etat suppléants, par
+le garde des sceaux, ministre de la Justice, avec voix délibérative.
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-2184 1945-09-24 art. 41
 
 _Cité par_:
 
@@ -21755,7 +21833,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°87-39 du 27 janvier 1987 - art. 27 () JORF 28 janvier 1987
+  - Loi n°95-116 du 4 février 1995 - art. 14 () JORF 5 février 1995
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -23969,36 +24055,26 @@ _Abrogé par_:
 Les règles fixées pour les médecins aux articles L. 385 à L. 387 et L. 390 à L. 397 ci-dessus sont applicables aux sages-
 femmes.
 
-Le conseil départemental de l'Ordre des sages-femmes est présidé par un médecin accoucheur nommé pour deux ans [*durée du
-mandat*] par le conseil départemental de l'Ordre des médecins.
+Le conseil départemental de l'ordre élit son président tous les deux ans [*durée du mandat*] après renouvellement du tiers du
+conseil.
 
 Le directeur départemental de la Santé assiste, avec voix consultative, au conseil départemental.
 
 **Nota:**
 
-[*Nota : Le conseil départemental de l'ordre des sages-femmes est composé de six membres élus en assemblée générale pour six
-ans et renouvelables par tiers tous les deux ans.
-
-Décret 67-893 du 12 octobre 1967 : Dispositions réglementaires.*]
-
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-2184 1945-09-24 art. 56
 
 _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
-
-_Modifié par_:
-
-  - Décret n°67-893 1967-10-12 art. 1, art. 3 JORF 13 octobre 1967
-  - Loi n°72-660 1972-07-13 art. 29 JORF 14 juillet 1972
 
 _Cité par_:
 
@@ -24008,6 +24084,7 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 4 (V)
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
   - SPEC_APPLI: Code de la santé publique - art. L385 (Ab)
   - SPEC_APPLI: Code de la santé publique - art. L386 (Ab)
   - SPEC_APPLI: Code de la santé publique - art. L387 (Ab)
@@ -24021,6 +24098,14 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique - art. L396 (Ab)
   - SPEC_APPLI: Code de la santé publique - art. L397 (Ab)
 
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 9 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 _Cite_:
 
   - Code de la santé publique - art. L385 (Ab)
@@ -24030,6 +24115,7 @@ _Cite_:
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L4123-1 (M)
   - Code de la santé publique - art. L4123-1 (V)
 
 
@@ -24071,35 +24157,175 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4123-14 (V)
 
 
-##### Paragraphe 2 : Conseil national<a id=149></a>
+##### Paragraphe 2 : Conseils interrégionaux<a id=149></a>
+
+###### Article L448-1
+
+Le conseil interrégional de l'ordre des sages-femmes constitue la juridiction disciplinaire de première instance. Cette
+juridiction a, à l'égard des sages-femmes, les mêmes attributions que celles du conseil régional de l'ordre des médecins vis-
+à-vis de ces derniers.
+
+Le ressort territorial des conseils interrégionaux est identique à celui des secteurs mentionnés à l'article L. 449 ci-
+dessous.
+
+**Nota:**
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4124-1 (M)
+  - Code de la santé publique - art. L4152-7 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L449 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L471-5 (Ab)
+
+
+###### Article L448-2
+
+Le conseil interrégional est composé d'un nombre de sages-femmes fixé par voie réglementaire, en fonction des effectifs des
+sages-femmes inscrites aux derniers tableaux publiés dans l'interrégion.
+
+Les membres du conseil interrégional de l'ordre sont élus par les conseils départementaux de l'interrégion.
+
+Les membres du conseil interrégional de l'ordre des sages-femmes sont élus pour six ans et rééligibles.
+
+Le conseil interrégional est renouvelable par tiers tous les deux ans.
+
+Le conseil interrégional élit son président après chaque renouvellement. Il est rééligible.
+
+Sont éligibles les personnes qui remplissent les conditions de l'article L. 387.
+
+Les dispositions de l'article L. 399 du code de la santé publique sont applicables au conseil interrégional de l'ordre des
+sages-femmes.
+
+**Nota:**
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Cite_:
+
+  - Code de la santé publique - art. L387 (Ab)
+  - Code de la santé publique - art. L399 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4152-7 (M)
+
+
+###### Article L448-3
+
+Sont adjoints avec voix consultative au conseil interrégional :
+
+1° Un conseiller juridique qui peut être soit un magistrat de l'ordre judiciaire, soit un membre du corps des tribunaux
+administratifs et des cours administratives d'appel. Ce conseiller juridique est désigné, suivant le cas, soit par le
+président de la cour d'appel, soit par le président de la cour administrative d'appel dans le ressort territorial desquelles
+se trouve le siège du conseil interrégional ;
+
+2° Le médecin inspecteur régional de la santé de la région dans laquelle se trouve le siège du conseil interrégional ;
+
+3° Un médecin directeur technique d'une école de sages-femmes, désigné par le ministre chargé de la santé ;
+
+4° Un médecin-conseil régional du régime général de l'assurance maladie des travailleurs salariés, pour les affaires relevant
+de l'application des lois sur la sécurité sociale, désigné par le médecin-conseil national.
+
+**Nota:**
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4152-8 (M)
+
+
+##### Paragraphe 3 : Conseil national<a id=150></a>
 
 ###### Article L449
 
-Le conseil national de l'Ordre des sages-femmes est composé de quatre [*nombre*] docteurs en médecine spécialisés en
-obstétrique qui sont désignés par le conseil national de l'Ordre des médecins en dehors de son sein et de cinq sages-femmes
-élues par les conseils départementaux regroupés en cinq secteurs par arrêté du ministre chargé de la santé publique, compte
-tenu du ressort territorial des conseils régionaux métropolitains de l'Ordre des médecins.
+Le conseil national de l'Ordre des sages-femmes est composé de cinq sages-femmes élues par les conseils départementaux
+regroupés en cinq secteurs par arrêté du ministre chargé de la santé publique.
 
-Le mandat des membres du conseil national de l'Ordre des sages-femmes est de six ans [*durée*]. Ses membres sont rééligibles.
-
-Le conseil est renouvelé tous les deux ans [*périodicité*] par tiers ; pour ce renouvellement, les membres du conseil sont
-répartis en trois groupes comprenant :
-
-Le premier et le deuxième groupe : un médecin et deux sages-femmes ;
-
-Le troisième groupe : deux médecins et une sage-femme.
+Le mandat des membres du Conseil national de l'Ordre des sages-femmes est de six ans [*durée*]. Ses membres sont rééligibles.
+Le conseil est renouvelé tous les deux ans [*périodicité*] par tiers selon des modalités fixées par voie réglementaire.
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1973-04-18 JORF 29 AVRIL : DETERMINATION DES SECTEURS
-  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 6 (V)
 
 _Codifié par_:
 
@@ -24111,15 +24337,20 @@ _Cité par_:
   - Loi n°91-558 du 17 juin 1991 - art. 6 (V)
   - Code de la santé publique - art. L448-1 (Ab)
 
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+  - Loi n°95-116 du 4 février 1995 - art. 9 () JORF 5 février 1995
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L4152-1 (V)
   - Code de la santé publique - art. L4441-15 (M)
-
-_Modifié par_:
-
-  - Décret n°58-1340 1958-12-20 art. 1 JORF 27 décembre 1958
-  - Décret n°72-660 1972-07-13 art. 30 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
 
 
 ###### Article L449-1
@@ -24135,16 +24366,16 @@ dans la métropole et qui sont déjà membres du conseil national de l'Ordre. A 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
-
-_Créé par_:
-
-  - Loi n°72-660 1972-07-13 art. 31 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
 
 _Cité par_:
 
@@ -24155,10 +24386,20 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L4152-2 (Ab)
+  - Code de la santé publique - art. L4152-2 (V)
 
 
 ###### Article L450
@@ -24172,20 +24413,33 @@ sociale.
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-2184 1945-09-24 art. 60
 
 _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L4152-3 (M)
+  - Code de la santé publique - art. L4152-3 (V)
 
 _Cité par_:
 
@@ -24194,23 +24448,24 @@ _Cité par_:
 
 ###### Article L451
 
-Le Conseil national nomme son président chaque année [*périodicité*]. Ce président est obligatoirement médecin.
+Le Conseil national de l'ordre des sages-femmes élit son président tous les deux ans, après chaque renouvellement partiel du
+conseil.
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°58-356 1958-04-03 (loi de validation)
   - Décret n°53-1001 1953-10-05 (décret de codification)
-
-_Anciens textes_:
-
-  - Ordonnance 45-2184 1945-09-24 art. 60
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Cité par_:
 
@@ -24219,10 +24474,94 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+  - Loi n°95-116 du 4 février 1995 - art. 9 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L4152-4 (V)
+
+
+###### Article L451-1
+
+Le Conseil national est assisté par un conseiller d'Etat ayant voix délibérative nommé par le garde des sceaux, ministre de
+la justice. Deux conseillers d'Etat suppléants sont désignés dans les mêmes conditions.
+
+**Nota:**
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4152-5 (M)
+
+
+###### Article L451-2
+
+Le Conseil national de l'ordre des sages-femmes élit en son sein, à la première séance qui suit chaque renouvellement, trois
+membres qui constituent, avec le conseiller d'Etat mentionné à l'article précédent et sous sa présidence, une section
+disciplinaire. Les membres sortants sont rééligibles.
+
+La section disciplinaire ne peut statuer que si trois membres au moins, président compris, sont présents. En cas d'égal
+partage des voix, celle du président est prépondérante.
+
+**Nota:**
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4152-6 (M)
 
 
 ###### Article L452
@@ -24233,10 +24572,14 @@ pour l'examen des questions communes aux deux professions.
 
 **Nota:**
 
-[*Nota : Décret 58-1340 du 20 décembre 1958 : DISPOSITIONS REGLEMENTAIRES*]
+[*Nota : Décret 58-1340 du 20 décembre 1958 : Dispositions réglementaires*]
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
@@ -24244,6 +24587,18 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -24254,12 +24609,8 @@ _Cité par_:
 
   - Code de la santé publique - art. L491-4 (Ab)
 
-_Modifié par_:
 
-  - Décret n°58-1340 1958-12-20 art. 2 JORF 27 décembre 1958
-
-
-##### Section 3 : Inscription au tableau et discipline<a id=150></a>
+##### Section 3 : Inscription au tableau et discipline<a id=151></a>
 
 ###### Article L453
 
@@ -24317,144 +24668,6 @@ _Cite_:
   - Code de la santé publique - art. L416 (M)
 
 
-###### Article L454
-
-Les sages-femmes relèvent, en matière disciplinaire, de la compétence du conseil régional de l'Ordre des médecins dans le
-ressort duquel elles exercent [*organisme*].
-
-Dans ce cas, quatre [*nombre*] membres du conseil régional de l'Ordre des médecins sont remplacés par quatre sages-femmes,
-sauf en ce qui concerne le conseil régional de la région Rhône-Alpes, dans lequel cinq médecins sont remplacés par cinq
-sages-femmes [*composition*].
-
-En ce qui concerne le conseil régional de la région parisienne, six médecins de chacune de ses deux chambres sont remplacés
-par six sages-femmes.
-
-Ces sages-femmes sont élues par les conseils départementaux de l'Ordre des sages-femmes du ressort territorial du conseil
-régional des médecins parmi les personnes de nationalité française âgées de trente ans au moins [*âge minimum*] et qui
-remplissent les conditions exigées pour l'exercice de la profession. Elles sont élues pour neuf ans [*durée du mandat*] et
-renouvelables tous les trois ans [*périodicité*] à raison d'une sage-femme pour chacun des deux premiers renouvellements et
-de deux pour le dernier lorsque le conseil régional de l'Ordre des médecins est composé de neuf membres, à raison d'une sage-
-femme pour le premier renouvellement et de deux sages-femmes pour chacun des deux derniers renouvellements lorsque le conseil
-régional de l'Ordre des médecins est composé de onze membres et à raison de quatre sages-femmes pour chacun des trois
-renouvellements lorsque le conseil régional de l'Ordre des médecins est composé de vingt-six membres. L'ordre de
-renouvellement est fixé par tirage au sort.
-
-Des sages-femmes suppléantes en nombre égal à celui des titulaires (4, 5 ou 12 suivant le cas) sont élues dans les mêmes
-conditions que les sages-femmes titulaires et au cours du même scrutin. Le mandat de ces sages-femmes est renouvelable comme
-celui des membres titulaires.
-
-**Nota:**
-
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (décret de codification)
-  - Loi n°58-356 1958-04-03 (loi de validation)
-
-_Modifié par_:
-
-  - Décret n°58-1340 1958-12-20 art. 3 JORF 27 décembre 1958
-  - Décret n°61-736 1961-06-30 art. 1 JORF 14 juillet 1961
-  - Loi n°72-660 1972-07-13 art. 32, art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
-
-_Cité par_:
-
-  - Loi n°91-558 du 17 juin 1991 - art. 5 (V)
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1651 (M)
-  - Code de la santé publique - art. L374 (Ab)
-  - Code de la santé publique - art. L454-1 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
-
-
-###### Article L454-1
-
-Les dispositions de l'article L. 399 [*règles de suppléance*]
-
-sont applicables au conseil régional de l'Ordre des médecins lorsqu'il est appelé à statuer dans les conditions prévues à
-l'article L. 454.
-
-**Nota:**
-
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (décret de codification)
-  - Loi n°58-356 1958-04-03 (loi de validation)
-
-_Créé par_:
-
-  - Loi n°72-660 1972-07-13 art. 33 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
-
-_Abrogé par_:
-
-  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
-
-_Cite_:
-
-  - Code de la santé publique - art. L399 (Ab)
-  - Code de la santé publique - art. L454 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la santé publique - art. L399 (Ab)
-
-
-###### Article L455
-
-Il peut être fait appel des décisions d'un conseil régional de l'Ordre des médecins devant la section disciplinaire du
-conseil national de l'Ordre des médecins [*organisme compétent, recours*] qui est alors complétée par deux sages-femmes élues
-dans son sein par le conseil national de l'Ordre des sages-femmes lors de chacun des renouvellements partiels
-[*composition*].
-
-Le mandat des intéressés est renouvelable.
-
-**Nota:**
-
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°58-1340 1958-12-20 art. 4 JORF 27 décembre 1958
-  - Loi n°72-660 1972-07-13 art. 34 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
-
-_Cité par_:
-
-  - Décret n°48-1671 du 26 octobre 1948 - art. 21 (Ab)
-  - Décret n°48-1671 du 26 octobre 1948 - art. 24 (Ab)
-  - Loi n°91-558 du 17 juin 1991 - art. 5 (V)
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (décret de codification)
-  - Loi n°58-356 1958-04-03 (loi de validation)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 5 (V)
-
-_Abrogé par_:
-
-  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
-
-
 ###### Article L456
 
 Les dispositions des articles L. 427 et L. 428 sont applicables aux sages-femmes.
@@ -24499,7 +24712,7 @@ _Cite_:
   - Code de la santé publique - art. L428 (Ab)
 
 
-#### Chapitre 5 : Dispositions communes à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme<a id=151></a>
+#### Chapitre 5 : Dispositions communes à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme<a id=152></a>
 
 ###### Article L457
 
@@ -24993,7 +25206,7 @@ _Cite_:
   - Code de la santé publique L404 4/, L439 3/
 
 
-#### Chapitre 6 : Mesures d'adaptation pour les départements d'outre-mer.<a id=152></a>
+#### Chapitre 6 : Mesures d'adaptation pour les départements d'outre-mer.<a id=153></a>
 
 ###### Article L466
 
@@ -25274,9 +25487,9 @@ _Cité par_:
   - Code de la santé publique - art. L471-7 (Ab)
 
 
-### Titre 2 : Profession d'infirmier ou d'infirmière<a id=153></a>
+### Titre 2 : Profession d'infirmier ou d'infirmière<a id=154></a>
 
-#### Chapitre 1 : Conditions auxquelles est subordonné l'exercice de la profession<a id=154></a>
+#### Chapitre 1 : Conditions auxquelles est subordonné l'exercice de la profession<a id=155></a>
 
 ###### Article L473
 
@@ -25384,14 +25597,15 @@ _Anciens textes_:
 
 Les diplômes, certificats et titres exigés en application de l'article L. 474 sont :
 
-Soit le diplôme français d'Etat d'infirmier ou d'infirmière ou l'un des brevets délivrés en application du décret du 27 juin
+Soit le diplôme français d'Etat d'infirmier ou d'infirmière, le diplôme d'infirmier ou d'infirmière délivré par l'école
+universitaire d'infirmiers de la principauté d'Andorre, ou l'un des brevets délivrés en application du décret du 27 juin
 1922 ;
 
 Soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
 l'Espace économique européen, un diplôme, certificat ou autre titre d'infirmier responsable des soins généraux délivré
 conformément aux obligations communautaires ou à celles résultant de l'accord sur l'Espace économique européen par l'un de
 ces Etats et figurant sur une liste établie par le ministre chargé de la santé, ou tout autre diplôme, certificat ou autre
-titre d'infirmier responsable des soins généraux délivré par l'un des Etats membres ou autre Etat partie sanctionnant une
+titre d'infirmier responsable des soins généraux délivré par l'un des Etats membres ou autres Etats parties sanctionnant une
 formation d'infirmier responsable des soins généraux acquise dans l'un de ces Etat commencée avant le 29 juin 1979 à la
 condition qu'il soit accompagné d'une attestation de cet Etat certifiant que :
 
@@ -25409,9 +25623,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 
 [*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
 et-Miquelon.*]
-
-[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
-loi.*]
 
 **Liens relatifs à cet article**
 
@@ -25443,8 +25654,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
-  - Loi n°93-1420 du 31 décembre 1993 - art. 3 () JORF 1er janvier 1994
+  - Loi n°95-116 du 4 février 1995 - art. 25 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 **Liens**:
 
@@ -25457,6 +25671,7 @@ _Modifié par_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L4311-11 (V)
+  - Code de la santé publique - art. L4311-3 (M)
   - Code de la santé publique - art. L4311-3 (V)
 
 _Cite_:
@@ -25666,7 +25881,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4311-12 (V)
 
 
-#### Chapitre 2 : Règles d'exercice de la profession et dispositions pénales.<a id=155></a>
+#### Chapitre 2 : Règles d'exercice de la profession et dispositions pénales.<a id=156></a>
 
 ###### Article L478
 
@@ -26831,18 +27046,17 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4311-9 (Ab)
 
 
-### Titre 3 : Professions de masseur-kinésithérapeute et de pédicure<a id=156></a>
+### Titre 3 : Professions de masseur-kinésithérapeute et de pédicure<a id=157></a>
 
-#### Chapitre 1 : Masseur-kinésithérapeute<a id=157></a>
+#### Chapitre 1 : Masseur-kinésithérapeute<a id=158></a>
 
 ###### Article L487
 
 Réserve faite des dérogations prévues à l'article L. 491, nul ne peut exercer la profession de masseur-kinésithérapeute,
 c'est-à-dire pratiquer le massage et la gymnastique médicale, s'il n'est muni du diplôme d'Etat de masseur-kinésithérapeute
-institué par l'article L. 488 du présent titre [*condition*].
-
-Lorsqu'ils agissent dans un but thérapeutique, les masseurs-kinésithérapeutes ne peuvent pratiquer leur art que sur
-ordonnance médicale [*obligation*].
+institué par l'article L. 488 du présent titre et inscrit au tableau de l'ordre des masseurs-kinésithérapeutes. Lorsqu'ils
+agissent dans un but thérapeutique, les masseurs-kinésithérapeutes ne peuvent pratiquer leur art que sur ordonnance
+médicale   . 
 
 La définition du massage et de la gymnastique médicale est précisée par un décret en Conseil d'Etat, après avis de l'Académie
 nationale de médecine.
@@ -26853,10 +27067,6 @@ nationale de médecine.
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°85-772 du 25 juillet 1985 - art. 9 () JORF 26 juillet 1985
 
 **Liens**:
 
@@ -26881,6 +27091,19 @@ _Cité par_:
   - Décret n°96-879 du 8 octobre 1996
   - Décret n°97-44 du 21 janvier 1997 - art. 23 (Ab)
   - Code de la santé publique - art. L510-9-1 (Ab)
+
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4321-1 (M)
+  - Code de la santé publique - art. L4321-2 (M)
 
 _Cite_:
 
@@ -26991,6 +27214,35 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
+###### Article L490
+
+Un décret en Conseil d'Etat, pris après avis du Conseil national de l'ordre des masseurs-kinésithérapeutes, fixe les règles
+du code de déontologie des masseurs-kinésithérapeutes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4321-22 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L491-2 (Ab)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 5 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
 ###### Article L491
 
 Les personnes qui ont fait la preuve qu'elles exerçaient le massage médical ou la gymnastique médicale depuis trois années
@@ -27057,13 +27309,300 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4321-7 (Ab)
 
 
-#### Chapitre 2 : Pédicure-podologue.<a id=158></a>
+#### Chapitre 1 bis : Organisation de la profession de masseur-kinésithérapeute<a id=159></a>
+
+##### Section 1 : Ordre national des masseurs-kinésithérapeutes<a id=160></a>
+
+###### Article L491-1
+
+Il est institué un ordre national des masseurs-kinésithérapeutes groupant obligatoirement tous les masseurs-kinésithérapeutes
+habilités à exercer leur profession en France, à l'exception des masseurs-kinésithérapeutes relevant du service de santé des
+armées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4321-13 (Ab)
+  - Code de la santé publique - art. L4321-13 (M)
+
+
+###### Article L491-2
+
+L'ordre des masseurs-kinésithérapeutes veille au maintien des principes de moralité indispensables à l'exercice de la masso-
+kinésithérapie et à l'observation, par tous ses membres, des droits, devoirs et obligations professionnels, ainsi que des
+règles édictées par le code de déontologie prévu à l'article L. 490.
+
+Il assure la défense de l'honneur de la profession de masseur-kinésithérapeute.
+
+Il peut organiser toute oeuvre d'entraide et de retraite au bénéfice de ses membres et de leurs ayants droit.
+
+Il peut être consulté par le ministre chargé de la santé, notamment sur les questions relatives à l'exercice de la profession
+de masseur-kinésithérapeute.
+
+Il accomplit sa mission par l'intermédiaire des conseils départementaux, des conseils régionaux et du Conseil national de
+l'ordre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4321-14 (Ab)
+  - Code de la santé publique - art. L4321-14 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L490 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L496-3 (Ab)
+
+
+##### Section 2 : Conseils de l'ordre des masseurs-kinésithérapeutes<a id=161></a>
+
+##### I. - Conseils départementaux<a id=162></a>
+
+###### Article L491-3
+
+Dans chaque département, un conseil départemental de l'ordre des masseurs-kinésithérapeutes possède, en ce qui concerne les
+masseurs-kinésithérapeutes, les mêmes attributions que le conseil départemental de l'ordre des médecins.
+
+Les règles fixées pour les médecins par les articles L. 385 à L. 397 sont applicables aux masseurs-kinésithérapeutes, à
+l'exception de l'exigence de nationalité posée par l'article L. 387.
+
+Le médecin inspecteur départemental assiste, avec voix consultative, au conseil départemental.
+
+Les conseils départementaux des médecins et des masseurs-kinésithérapeutes peuvent tenir des réunions communes sous la
+présidence du président du conseil départemental de l'ordre des médecins.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+_Cite_:
+
+  - Code de la santé publique - art. L387 (Ab)
+  - Code de la santé publique L385 à L397, L387
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4321-18 (V)
+
+
+##### II. - Conseil national<a id=163></a>
+
+###### Article L491-4
+
+Les membres du Conseil national de l'ordre des masseurs-kinésithérapeutes sont élus ou désignés pour six ans. Ses membres
+sont rééligibles. Le conseil est renouvelé par tiers tous les deux ans.
+
+Le conseil national élit son président après chaque renouvellement. Le président est rééligible.
+
+Les dispositions des articles L. 407 et L. 408, L. 449-1, L. 450 et L. 452 sont applicables aux masseurs-kinésithérapeutes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+_Cite_:
+
+  - Code de la santé publique - art. L407 (M)
+  - Code de la santé publique - art. L408 (Ab)
+  - Code de la santé publique - art. L449-1 (M)
+  - Code de la santé publique - art. L450 (M)
+  - Code de la santé publique - art. L452 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4321-15 (M)
+
+
+##### Section 3 : Inscription aux tableaux départementaux de l'ordre et discipline<a id=164></a>
+
+###### Article L491-5
+
+Les règles d'inscription au tableau de l'ordre fixées pour les médecins aux articles L. 412 à L. 416 sont applicables aux
+masseurs-kinésithérapeutes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4321-9 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique L412 à L416
+
+
+###### Article L491-6
+
+Dans chaque région, un conseil régional de l'ordre des masseurs-kinésithérapeutes dispose, en ce qui concerne les masseurs-
+kinésithérapeutes, des mêmes attributions que le conseil régional de l'ordre des médecins.
+
+Le conseil régional de l'ordre des masseurs-kinésithérapeutes est composé de neuf membres titulaires dont deux masseurs-
+kinésithérapeutes salariés et de neuf membres suppléants dont deux masseurs-kinésithérapeutes salariés.
+
+Toutefois, le conseil régional de l'ordre des masseurs-kinésithérapeutes de la région d'Ile-de-France comprend quinze membres
+titulaires et quinze membres suppléants dont trois salariés titulaires et trois salariés suppléants.
+
+Les membres du conseil régional de l'ordre des masseurs-kinésithérapeutes sont élus pour six ans par les masseurs-
+kinésithérapeutes des départements concernés, au scrutin uninominal à un tour, en même temps que les membres des conseils
+départementaux.
+
+Les membres du conseil régional élisent parmi eux un président.
+
+Il peut être fait appel des décisions d'un conseil régional de l'ordre des masseurs-kinésithérapeutes devant la section
+disciplinaire élue au sein du Conseil national de l'ordre des masseurs-kinésithérapeutes.
+
+Le mandat des intéressés est renouvelable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4321-16 (Ab)
+  - Code de la santé publique - art. L4321-17 (Ab)
+  - Code de la santé publique - art. L4321-19 (Ab)
+
+
+###### Article L491-7
+
+Les dispositions des articles L. 399, L. 401, à l'exception des deux derniers alinéas, L. 402, L. 403, L. 410, L. 410-1, L.
+417 à L. 428, L. 457 à L. 470 sont applicables aux masseurs-kinésithérapeutes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Cite_:
+
+  - Code de la santé publique - art. L399 (Ab)
+  - Code de la santé publique - art. L401 (Ab)
+  - Code de la santé publique - art. L402 (Ab)
+  - Code de la santé publique - art. L403 (Ab)
+  - Code de la santé publique - art. L410 (M)
+  - Code de la santé publique - art. L410-1 (Ab)
+  - Code de la santé publique L399, L401, L402, L403, L410, L410-1, L417 à L428, L457 à L470
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4321-20 (M)
+
+
+###### Article L491-8
+
+Un décret en Conseil d'Etat détermine les modalités d'application des dispositions des articles L. 491-1 à L. 491-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4321-21 (M)
+
+_Cite_:
+
+  - Code de la santé publique L491-1 à L491-6
+
+
+#### Chapitre 2 : Pédicure-podologue.<a id=165></a>
 
 ###### Article L492
 
 Nul ne peut exercer la profession de pédicure-podologue et porter le titre de pédicure-podologue, accompagné ou non d'un
-qualificatif, s'il n'est muni du diplôme d'Etat (décret du 11 mai 1955) institué par l'article L. 494 du présent titre
-[*condition*].
+qualificatif, s'il n'est muni du diplôme d'Etat (décret du 11 mai 1955) institué par l'article L. 494 du présent titre et
+inscrit au tableau de l'ordre des pédicures-podologues [*condition*].
 
 **Nota:**
 
@@ -27094,7 +27633,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-772 du 25 juillet 1985 - art. 10 () JORF 26 juillet 1985
+  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -27242,7 +27785,269 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4322-6 (Ab)
 
 
-#### Chapitre 3 : Dispositions communes et dispositions pénales<a id=159></a>
+###### Article L496-1
+
+Un décret en Conseil d'Etat, pris après avis du Conseil national de l'ordre des pédicures-podologues, fixe les règles du code
+de déontologie des pédicures-podologues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 7 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4322-16 (Ab)
+
+
+###### Article L496-2
+
+Il est institué un ordre des pédicures-podologues groupant obligatoirement tous les pédicures-podologues habilités à exercer
+leur profession en France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4322-8 (Ab)
+  - Code de la santé publique - art. L4322-8 (M)
+
+
+###### Article L496-3
+
+L'ordre des pédicures-podologues possède, en ce qui les concerne, les attributions de l'ordre national des masseurs-
+kinésithérapeutes énumérées à l'article L. 491-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4322-9 (Ab)
+  - Code de la santé publique - art. L4322-9 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L491-2 (Ab)
+
+
+###### Article L496-4
+
+Dans chaque région, un conseil régional de l'ordre des pédicures-podologues exerce pour cette profession les mêmes
+attributions que le conseil départemental de l'ordre des masseurs-kinésithérapeutes pour les masseurs-kinésithérapeutes.
+
+Les règles fixées pour les médecins par les articles L. 385 à L. 397 sont applicables aux pédicures-podologues pour leurs
+conseils régionaux, à l'exception de l'exigence de nationalité posée par l'article L. 387.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Cite_:
+
+  - Code de la santé publique - art. L387 (Ab)
+  - Code de la santé publique L385 à L397, L387
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4322-12 (Ab)
+  - Code de la santé publique - art. L4322-12 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L496-7 (Ab)
+
+
+###### Article L496-5
+
+Le Conseil national de l'ordre des pédicures-podologues possède les mêmes attributions, pour cette profession, que le Conseil
+national de l'ordre des masseurs-kinésithérapeutes pour ce qui les concerne.
+
+Ses membres et son président sont élus ou désignés dans les mêmes conditions que les membres et le président du Conseil
+national de l'ordre des masseurs-kinésithérapeutes.
+
+Les dispositions applicables au Conseil national de l'ordre des masseurs-kinésithérapeutes s'appliquent au Conseil national
+de l'ordre des pédicures-podologues pour ce qui les concerne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4322-10 (Ab)
+  - Code de la santé publique - art. L4322-10 (V)
+
+
+###### Article L496-6
+
+Les règles d'inscription au tableau de l'ordre fixées pour les médecins aux articles L. 412 à L. 416 sont applicables aux
+pédicures-podologues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4322-7 (Ab)
+  - Code de la santé publique - art. L4322-7 (V)
+
+_Cite_:
+
+  - Code de la santé publique L412 à L416
+
+
+###### Article L496-7
+
+Dans chaque région, un conseil régional de l'ordre des pédicures-podologues dispose, en ce qui concerne les pédicures-
+podologues, des mêmes attributions que le conseil régional de l'ordre des médecins.
+
+Le conseil régional de l'ordre des pédicures-podologues est composé de neuf membres titulaires et de neuf membres suppléants.
+
+Toutefois, le conseil régional de l'ordre des pédicures-podologues de la région Rhône-Alpes comprend onze membres titulaires
+et onze membres suppléants, et le conseil régional de l'ordre des pédicures-podologues de la région d'Ile-de-France comprend
+treize membres titulaires et treize membres suppléants.
+
+Les membres du conseil régional de l'ordre des pédicures-podologues sont élus pour six ans par les pédicures-podologues de la
+région concernée, au scrutin uninominal à un tour.
+
+Les membres du conseil régional élisent parmi eux un président.
+
+Il peut être fait appel des décisions d'un conseil régional de l'ordre des pédicures-podologues devant la section
+disciplinaire élue au sein du Conseil national de l'ordre des pédicures-podologues.
+
+Le mandat des intéressés est renouvelable.
+
+Sous réserve des adaptations découlant des dispositions de l'article L. 496-4, les règles fixées par les articles L. 399, L.
+401 - à l'exception des deux derniers alinéas -, L. 402, L. 403, L. 410, L. 410-1, L. 417 à L. 428 et L. 457 à L. 470 sont
+applicables aux pédicures-podologues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Cite_:
+
+  - Code de la santé publique - art. L399 (Ab)
+  - Code de la santé publique - art. L401 (Ab)
+  - Code de la santé publique - art. L496-4 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4322-11 (Ab)
+  - Code de la santé publique - art. L4322-13 (Ab)
+  - Code de la santé publique - art. L4322-14 (Ab)
+
+
+###### Article L496-8
+
+Un décret en Conseil d'Etat précise les conditions d'application des articles L. 496-2 à L. 496-7.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4322-15 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique L496-2 à L496-7
+
+
+#### Chapitre 3 : Dispositions communes et dispositions pénales<a id=166></a>
 
 ###### Article L497
 
@@ -27532,9 +28337,9 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-### Titre 3-1 : Professions d'orthophoniste et d'orthoptiste<a id=160></a>
+### Titre 3-1 : Professions d'orthophoniste et d'orthoptiste<a id=167></a>
 
-#### Chapitre 1 : Profession d'orthophoniste<a id=161></a>
+#### Chapitre 1 : Profession d'orthophoniste<a id=168></a>
 
 ###### Article L504-1
 
@@ -27659,7 +28464,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Décret n°65-240 1965-03-25
 
 
-#### Chapitre 2 : Profession d'orthoptiste<a id=162></a>
+#### Chapitre 2 : Profession d'orthoptiste<a id=169></a>
 
 ###### Article L504-3
 
@@ -27754,7 +28559,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4342-3 (V)
 
 
-#### Chapitre 3 : Dispositions communes aux deux professions<a id=163></a>
+#### Chapitre 3 : Dispositions communes aux deux professions<a id=170></a>
 
 ###### Article L504-5
 
@@ -27832,9 +28637,448 @@ _Cité par_:
   - Décret n°65-240 du 25 mars 1965 - art. 6 (Ab)
 
 
-### Titre 4 : Profession d'opticien-lunetier<a id=164></a>
+### Titre 3-2 : Professions d'ergothérapeute et de psychomotricien<a id=171></a>
 
-#### Règles de la profession et dispositions pénales<a id=165></a>
+#### Chapitre 1er : Profession d'ergothérapeute<a id=172></a>
+
+###### Article L504-7
+
+Est considérée comme exerçant la profession d'ergothérapeute toute personne qui, non titulaire du diplôme d'Etat de docteur
+en médecine, exécute habituellement des actes professionnels d'ergothérapie, définis par décret en Conseil d'Etat pris après
+avis de l'Académie nationale de médecine.
+
+Les ergothérapeutes exercent leur art sur prescription médicale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4331-1 (V)
+
+
+###### Article L504-8
+
+Peuvent seuls exercer la profession d'ergothérapeute et porter le titre d'ergothérapeute, accompagné ou non d'un
+qualificatif :
+
+1° Les titulaires du diplôme d'Etat français d'ergothérapeute ;
+
+2° Dans les centres hospitaliers spécialisés en psychiatrie et dans les services psychiatriques des établissements publics de
+santé, les infirmiers et infirmières intégrés avant le 11 avril 1983 dans un emploi d'ergothérapeute ;
+
+3° Les salariés ayant exercé, à titre principal, l'activité d'ergothérapeute pendant une durée au moins égale à trois ans au
+cours des dix années précédant la date du 23 novembre 1986 et qui ont satisfait, dans les trois ans suivant cette date, au
+contrôle des connaissances prévu par le décret n° 86-1195 du 21 novembre 1986 fixant les catégories de personnes habilitées à
+effectuer des actes professionnels en ergothérapie. Les personnes ayant satisfait à ce contrôle ne peuvent, selon leur
+option, accomplir les actes énumérés par ledit décret que dans des établissements ou services assurant des traitements,
+respectivement, de rééducation et de réadaptation fonctionnelles, de lutte contre les maladies mentales ou de gériatrie ;
+
+4° Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen qui ont obtenu une autorisation d'exercice dans des conditions et selon des modalités fixées par décret
+en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Décret n°86-1195 1986-11-21
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+_Cité par_:
+
+  - Arrêté du 17 septembre 1997 - art. 1 (V)
+  - Arrêté du 17 septembre 1997 - art. 3 (V)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4331-2 (M)
+  - Code de la santé publique - art. L4331-2 (V)
+  - Code de la santé publique - art. L4331-3 (V)
+  - Code de la santé publique - art. L4331-4 (M)
+  - Code de la santé publique - art. L4331-5 (V)
+
+
+#### Chapitre 2 : Profession de psychomotricien<a id=173></a>
+
+###### Article L504-9
+
+Est considérée comme exerçant la profession de psychomotricien toute personne qui, non titulaire du diplôme d'Etat de docteur
+en médecine, exécute habituellement des actes professionnels de rééducation psychomotrice, définis par décret en Conseil
+d'Etat pris après avis de l'Académie nationale de médecine.
+
+Les psychomotriciens exercent leur art sur prescription médicale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4332-1 (V)
+
+
+###### Article L504-10
+
+Peuvent seuls exercer la profession de psychomotricien et porter le titre de psychomotricien, accompagné ou non d'un
+qualificatif :
+
+1° Les titulaires du diplôme d'Etat français de psychomotricien ;
+
+2° Les salariés ayant exercé, à titre principal, l'activité de psychomotricien pendant une durée au moins égale à trois ans
+au cours des dix années précédant la date du 8 mai 1988 et qui ont satisfait, dans les trois ans suivant cette date, au
+contrôle des connaissances prévu par le décret n° 88-659 du 6 mai 1988 relatif à l'accomplissement de certains actes de
+rééducation psychomotrice ;
+
+3° Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen qui ont obtenu une autorisation d'exercice dans des conditions et selon des modalités fixées par décret
+en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Décret n°88-659 1988-05-06
+
+_Cité par_:
+
+  - Arrêté du 17 septembre 1997 - art. 1 (V)
+  - Arrêté du 17 septembre 1997 - art. 3 (V)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4332-2 (M)
+  - Code de la santé publique - art. L4332-2 (V)
+  - Code de la santé publique - art. L4332-3 (V)
+  - Code de la santé publique - art. L4332-4 (M)
+  - Code de la santé publique - art. L4332-5 (V)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+
+#### Chapitre 3 : Dispositions communes aux deux professions<a id=174></a>
+
+###### Article L504-11
+
+L'exercice illégal de la profession d'ergothérapeute ou de la profession de psychomotricien est passible d'une amende de 40
+000 F (1) et, en cas de récidive, d'une amende de 60 000 F (1) [*montant*] et d'une peine d'emprisonnement de cinq mois
+[*durée*] ou de l'une de ces deux peines seulement.
+
+L'usurpation des titres professionnels correspondants est punie des peines prévues à l'article 433-17 du code pénal.
+
+(1) Amende applicable depuis le 7 février 1995.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Code pénal - art. 433-17 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4334-1 (M)
+  - Code de la santé publique - art. L4334-2 (M)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+_Cité par_:
+
+  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L504-12
+
+Un ergothérapeute ou un psychomotricien ne peut exercer sa profession que s'il est inscrit sur une liste dressée, pour
+chacune de ces professions, par le préfet du département de sa résidence professionnelle, qui enregistre son diplôme, son
+certificat ou son autorisation.
+
+Tout changement de résidence professionnelle hors des limites du département oblige à une nouvelle inscription et à la
+radiation de l'ancienne.
+
+L'inscription n'est possible que dans un seul département. Dans le cas où l'activité est exercée dans plusieurs départements,
+l'intéressé est inscrit sur la liste du département dans lequel est situé son lieu principal d'exercice professionnel. Cette
+disposition n'est pas applicable aux ergothérapeutes et aux psychomotriciens militaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4333-1 (M)
+  - Code de la santé publique - art. L4333-1 (V)
+
+
+### Titre 3-3 : Profession de manipulateur d'électroradiologie médicale<a id=175></a>
+
+###### Article L504-13
+
+Est considérée comme exerçant la profession de manipulateur d'électroradiologie médicale toute personne qui, non titulaire du
+diplôme d'Etat de docteur en médecine, exécute habituellement, sous la responsabilité et la surveillance d'un médecin en
+mesure d'en contrôler l'exécution et d'intervenir immédiatement, des actes professionnels d'électroradiologie médicale,
+définis par décret en Conseil d'Etat pris après avis de l'Académie nationale de médecine.
+
+Les manipulateurs d'électroradiologie médicale exercent leur art sur prescription médicale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+_Cité par_:
+
+  - Décret n°97-1057 du 19 novembre 1997 - art. 4 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4351-1 (M)
+  - Code de la santé publique - art. L4351-1 (V)
+
+
+###### Article L504-14
+
+Peuvent seuls exercer la profession de manipulateur d'électroradiologie médicale et porter le titre de manipulateur
+d'électroradiologie médicale accompagné ou non d'un qualificatif :
+
+1° Les titulaires du diplôme d'Etat français de manipulateur d'électroradiologie médicale, du brevet de technicien supérieur
+d'électroradiologie médicale ou du diplôme de technicien supérieur en imagerie médicale et radiologie thérapeutique ;
+
+2° Les personnes recrutées jusqu'au 25 juillet 1984 par une collectivité publique ou un établissement public
+d'hospitalisation ou à caractère social pour un emploi permanent de manipulateur d'électroradiologie médicale ;
+
+3° Les personnes exerçant les fonctions de manipulateur d'électroradiologie médicale au 25 juillet 1984 ou ayant exercé ces
+fonctions avant cette date pendant une durée au moins égale à six mois et qui ont satisfait, au plus tard le 30 septembre
+1993, aux épreuves de vérification des connaissances prévues par le décret n° 84-710 du 17 juillet 1984 fixant les catégories
+de personnes habilitées à effectuer certains actes d'électroradiologie médicale ;
+
+4° Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen qui ont obtenu une autorisation d'exercice dans des conditions et selon des modalités fixées par décret
+en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Décret n°84-710 1984-07-17
+
+_Cité par_:
+
+  - Décret n°84-710 du 17 juillet 1984 - art. 2-2 (Ab)
+  - Décret n°84-710 du 17 juillet 1984 - art. 2-3 (Ab)
+  - Loi n°96-452 du 28 mai 1996 - art. 5 (Ab)
+  - Arrêté du 17 septembre 1997 - art. 1 (V)
+  - Arrêté du 17 septembre 1997 - art. 3 (V)
+  - Arrêté du 19 novembre 1997 - art. 1 (V)
+  - Arrêté du 19 novembre 1997 - art. 2 (V)
+  - Décret n°97-1058 du 19 novembre 1997 - art. 1 (Ab)
+  - Décret n°2004-802 du 29 juillet 2004 - art. 6 (V)
+  - Code de la santé publique - art. L504-16 (Ab)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 19 novembre 1997
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 7 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. Annexe I (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. Annexe II (V)
+  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997
+  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997 - art. 2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4351-2 (V)
+  - Code de la santé publique - art. L4351-3 (V)
+
+
+###### Article L504-15
+
+L'exercice illégal de la profession de manipulateur d'électroradiologie médicale est passible d'une amende de 40 000 F (1)
+et, en cas de récidive, d'une amende de 60 000 F (1) [*montant*] et d'une peine d'emprisonnement de cinq mois [*durée*] ou de
+l'une de ces deux peines seulement.
+
+L'usurpation du titre de manipulateur d'électroradiologie médicale est punie des peines prévues à l'article 433-17 du code
+pénal.
+
+(1) Amende applicable depuis le 7 février 1995.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+_Cité par_:
+
+  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+  - Loi n°96-452 du 28 mai 1996 - art. 5 (Ab)
+  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Cite_:
+
+  - Code pénal - art. 433-17 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4353-1 (M)
+  - Code de la santé publique - art. L4353-2 (M)
+
+
+###### Article L504-16
+
+Un manipulateur d'électroradiologie médicale ne peut exercer sa profession que s'il est inscrit sur une liste dressée par le
+préfet du département de sa résidence professionnelle, qui enregistre son diplôme, son certificat ou son autorisation.
+
+Tout changement de résidence professionnelle hors des limites du département oblige à une nouvelle inscription et à la
+radiation de l'ancienne.
+
+L'inscription n'est possible que dans un seul département. Dans le cas où l'activité est exercée dans plusieurs départements,
+l'intéressé est inscrit sur la liste du département dans lequel est situé son lieu principal d'exercice professionnel. Cette
+disposition n'est pas applicable aux manipulateurs d'électroradiologie militaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 19 novembre 1997
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 4 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 5 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 6 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 7 (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. Annexe I (V)
+  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. Annexe II (V)
+  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997
+  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997 - art. 2 (Ab)
+
+_Cité par_:
+
+  - Arrêté du 19 novembre 1997 - art. 1 (V)
+  - Décret n°97-1058 du 19 novembre 1997 - art. 1 (Ab)
+  - Décret n°2004-802 du 29 juillet 2004 - art. 6 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4352-1 (V)
+
+
+### Titre 4 : Profession d'opticien-lunetier<a id=176></a>
+
+#### Règles de la profession et dispositions pénales<a id=177></a>
 
 ###### Article L505
 
@@ -27842,13 +29086,19 @@ Nul ne peut exercer [*interdiction*] la profession d'opticien-lunetier détailla
 d'opticien-lunetier, du diplôme d'élève breveté des écoles nationales professionnelles, section d'optique-lunetterie, du
 certificat d'études de l'Ecole des métiers d'optique ou de tout autre titre désigné par arrêté du ministre de l'Education
 nationale, du ministre du Commerce, du ministre de la Santé publique et de la Population et du ministre des Affaires
-économiques [*condition*].
+économiques [*condition*] et s'il n'est inscrit sur une liste dressée par le préfet du département de sa résidence
+professionnelle qui enregistre son diplôme, certificat, titre ou autorisation.
+
+Tout changement de résidence professionnelle hors des limites du département oblige à une nouvelle inscription et à la
+radiation de l'ancienne.
+
+Un opticien-lunetier ne peut être inscrit que dans un seul département.
 
 **Nota:**
 
 [*Nota : Code de la santé publique L. 506, L. 506-1 :
 
-DEROGATION.
+dérogation.
 
 Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
 s'applique à la collectivité territoriale de Mayotte.*]
@@ -27870,18 +29120,25 @@ _Cité par_:
   - Code de la santé publique - art. L510 (Ab)
   - Code de la santé publique - art. L510-8 bis (Ab)
 
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L4362-1 (M)
+  - Code de la santé publique - art. L4362-2 (M)
+  - Code de la santé publique - art. L4362-4 (M)
   - Code de la santé publique - art. L4363-2 (V)
 
 **Liens**:
 
   - TXT_ASSOCIE: Code de la santé publique - art. L506 (Ab)
   - TXT_ASSOCIE: Code de la santé publique - art. L506-1 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°44-279 1944-06-05 art. 1
 
 
 ###### Article L506
@@ -28172,7 +29429,7 @@ _Cite_:
   - Code de la santé publique - art. L505 (M)
 
 
-### Titre 5 : Profession d'audioprothésiste<a id=166></a>
+### Titre 5 : Profession d'audioprothésiste<a id=178></a>
 
 ###### Article L510-1
 
@@ -28220,7 +29477,13 @@ fixé par décret pris sur le rapport conjoint du ministre des Affaires sociales
 ministre des Anciens combattants et victimes de guerre.
 
 Nul ne peut exercer la profession d'audioprothésiste [*interdiction*] s'il n'est titulaire de ce diplôme ou du diplôme d'Etat
-de docteur en médecine [*condition*].
+de docteur en médecine [*condition*] et s'il n'est inscrit sur une liste dressée par le préfet du département de sa résidence
+professionnelle qui enregistre son diplôme, certificat, titre ou autorisation.
+
+Tout changement de résidence professionnelle hors des limites du département oblige à une nouvelle inscription et à la
+radiation de l'ancienne.
+
+Un audioprothésiste ne peut être inscrit que dans un seul département.
 
 **Nota:**
 
@@ -28242,6 +29505,20 @@ _Cité par_:
   - Code de la santé publique - art. L510-3 (Ab)
   - Code de la santé publique - art. L510-6 (Ab)
   - Code de la santé publique - art. L510-8 bis (Ab)
+
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4361-2 (M)
+  - Code de la santé publique - art. L4361-3 (M)
+  - Code de la santé publique - art. L4361-8 (M)
 
 
 ###### Article L510-3
@@ -28460,7 +29737,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4363-6 (M)
 
 
-### Titre 5-1 : Dispositions communes aux professions de pédicure-podologue, opticien-lunetier et audioprothésiste.<a id=167></a>
+### Titre 5-1 : Dispositions communes aux professions de pédicure-podologue, opticien-lunetier et audioprothésiste.<a id=179></a>
 
 ###### Article L510-8 bis
 
@@ -28549,7 +29826,7 @@ _Cite_:
   - Code de la santé publique - art. L510-2 (M)
 
 
-### Titre 5 bis : Profession de diététicien<a id=168></a>
+### Titre 5 bis : Profession de diététicien<a id=180></a>
 
 ###### Article L510-8-1
 
@@ -28675,7 +29952,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4372-1 (V)
 
 
-### Titre 6 : Dispositions diverses<a id=169></a>
+### Titre 6 : Dispositions diverses<a id=181></a>
 
 ###### Article L510-9
 
@@ -29009,11 +30286,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4381-3 (V)
 
 
-## Livre 5 : Pharmacie<a id=170></a>
+## Livre 5 : Pharmacie<a id=182></a>
 
-### Titre 1 : Dispositions générales<a id=171></a>
+### Titre 1 : Dispositions générales<a id=183></a>
 
-#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=172></a>
+#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=184></a>
 
 ###### Article L511
 
@@ -29520,32 +30797,35 @@ réunit les conditions suivantes :
 aux II, III ou IV ci-après ;
 
 2° Etre de nationalité française, citoyen andorran, ressortissant de l'un des Etats membres de la Communauté européenne ou
-ressortissant d'un pays dans lequel les Français peuvent exercer la pharmacie lorsqu'ils sont titulaires du diplôme qui en
-ouvre l'exercice aux nationaux de ce pays ;
+parties à l'accord sur l'Espace économique européen ou ressortissant d'un pays dans lequel les Français peuvent exercer la
+pharmacie lorsqu'ils sont titulaires du diplôme qui en ouvre l'exercice aux nationaux de ce pays ;
 
 3° Etre inscrit à l'ordre des pharmaciens.
 
 II.  Le titulaire d'un diplôme, certificat ou autre titre de pharmacien délivré par l'un des Etats membres de la Communauté
-européenne autre que la France et répondant à l'ensemble des exigences minimales de formation prévues à l'article 2 de la
-directive 85/432/C.E.E. du 16 septembre 1985 visant à la coordination des dispositions législatives, réglementaires et
-administratives concernant certaines activités du domaine de la pharmacie peut exercer la pharmacie en France :
+européenne ou parties à l'accord sur l'Espace économique européen autre que la France et répondant à l'ensemble des exigences
+minimales de formation prévues à l'article 2 de la directive 85/432/CEE du 16 septembre 1985 visant à la coordination des
+dispositions législatives, réglementaires et administratives concernant certaines activités du domaine de la pharmacie peut
+exercer la pharmacie en France :
 
-1° Si ce diplôme, titre ou certificat figure sur une liste établie conformément aux obligations communautaires par arrêté
-conjoint du ministre chargé de la santé et du ministre chargé des universités ;
+1° Si ce diplôme, titre ou certificat figure sur une liste établie conformément aux obligations communautaires ou à celles
+résultant de l'accord sur l'Espace économique européen par arrêté conjoint du ministre chargé de la santé et du ministre
+chargé des universités ;
 
-2° Ou s'il est accompagné d'une attestation des autorités compétentes de l'Etat membre qui l'a délivré, certifiant qu'il
-sanctionne une formation répondant aux exigences énoncées ci-dessus et qu'il est assimilé dans cet Etat membre aux diplômes
-de la liste précitée.
+2° Ou s'il est accompagné d'une attestation des autorités compétentes de l'Etat membre ou autre Etat partie qui l'a délivré,
+certifiant qu'il sanctionne une formation répondant aux exigences énoncées ci-dessus et qu'il est assimilé dans cet Etat
+membre ou autre Etat partie aux diplômes de la liste précitée.
 
 III.  Le titulaire d'un diplôme, certificat ou autre titre de pharmacien délivré par l'un des Etats membres de la Communauté
-européenne autre que la France sanctionnant une formation commencée avant le 1er octobre 1987 et ne répondant pas à
-l'ensemble des exigences minimales de formation prévues au II ci-dessus peut exercer la pharmacie en France :
+européenne ou parties à l'accord sur l'Espace économique européen autre que la France sanctionnant une formation commencée
+avant le 1er octobre 1987 et ne répondant pas à l'ensemble des exigences minimales de formation prévues au II ci-dessus peut
+exercer la pharmacie en France :
 
 1° Si le diplôme, titre ou certificat figure sur la liste mentionnée au II ;
 
-2° S'il est accompagné en outre d'une attestation d'un Etat membre certifiant que le titulaire du diplôme, certificat ou
-autre titre de pharmacien s'est consacré de façon effective et licite aux activités de pharmacien pendant au moins trois
-années consécutives au cours des cinq années précédant la délivrance de l'attestation.
+2° S'il est accompagné en outre d'une attestation d'un Etat membre ou autre Etat partie certifiant que le titulaire du
+diplôme, certificat ou autre titre de pharmacien s'est consacré de façon effective et licite aux activités de pharmacien
+pendant au moins trois années consécutives au cours des cinq années précédant la délivrance de l'attestation.
 
 IV.  Le titulaire d'un diplôme, certificat ou autre titre de pharmacien sanctionnant une formation acquise sur le territoire
 de l'ancienne République démocratique allemande, commencée avant l'unification allemande et ne répondant pas à l'ensemble des
@@ -29568,17 +30848,15 @@ Les diplômes, certificats ou titres doivent être enregistrés sans frais à la
 Les diplômes, certificats ou autres titres délivrés par la République hellénique ne sont reconnus que pour l'exercice d'une
 activité salariée.
 
+**Nota:**
+
+[*Nota - Code de la santé publique L518 : dispositions pénales*]
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Directive CEE 85/432/ 1985-09-16 art. 2
-
-_Anciens textes_:
-
-  - Ordonnance 45-1014 1945-05-23
-  - Loi n°1898-04-19 art. 2
-  - Loi n°41-3890 1941-09-11 art. 2
 
 _Codifié par_:
 
@@ -29642,7 +30920,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°94-43 du 18 janvier 1994 - art. 15 () JORF 19 janvier 1994
+  - Loi n°95-116 du 4 février 1995 - art. 16 () JORF 5 février 1995
 
 **Liens**:
 
@@ -29658,7 +30936,23 @@ _Modifié par_:
   - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 7 (M)
   - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 8 (Ab)
   - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 9 (Ab)
-  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4221-1 (V)
+  - Code de la santé publique - art. L4221-16 (M)
+  - Code de la santé publique - art. L4221-2 (V)
+  - Code de la santé publique - art. L4221-4 (V)
+  - Code de la santé publique - art. L4221-5 (M)
+  - Code de la santé publique - art. L4221-6 (Ab)
+  - Code de la santé publique - art. L4221-7 (V)
+  - Code de la santé publique - art. L4221-8 (V)
+  - Code de la santé publique - art. L4422-6 (V)
 
 
 ###### Article L514-1
@@ -30091,7 +31385,7 @@ _Anciens textes_:
   - Loi n°41-3890 1941-09-11 art. 64
 
 
-#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=173></a>
+#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=185></a>
 
 ###### Article L520
 
@@ -31653,7 +32947,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4233-4 (V)
 
 
-#### Chapitre 3 : Prohibition de certaines conventions entre pharmaciens et membres de certaines professions<a id=174></a>
+#### Chapitre 3 : Prohibition de certaines conventions entre pharmaciens et membres de certaines professions<a id=186></a>
 
 ###### Article L549
 
@@ -31768,7 +33062,7 @@ _Anciens textes_:
   - Décret n°1938-06-17 art. 1 al. 4 et al. 5
 
 
-#### CHAPITRE 4 : REGLEMENTATION DE LA PUBLICITE.<a id=175></a>
+#### CHAPITRE 4 : REGLEMENTATION DE LA PUBLICITE.<a id=187></a>
 
 ###### Article L551
 
@@ -32492,7 +33786,7 @@ _Cite_:
   - Code de la santé publique L551-1, L551-2, L551-3, L551-4 à L551-6, L551-8 à L551-11, L552
 
 
-#### Chapitre 5 : De l'inspection de la pharmacie<a id=176></a>
+#### Chapitre 5 : De l'inspection de la pharmacie<a id=188></a>
 
 ###### Article L557
 
@@ -33038,9 +34332,9 @@ _Cité par_:
   - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
 
 
-### Titre 1 bis : Agence du médicament<a id=177></a>
+### Titre 1 bis : Agence du médicament<a id=189></a>
 
-#### Chapitre 1er : Dispositions générales<a id=178></a>
+#### Chapitre 1er : Dispositions générales<a id=190></a>
 
 ###### Article L567-1
 
@@ -33133,9 +34427,6 @@ décisions relatives à la politique du médicament et de participer à l'applic
 
 11° De mener toutes études, recherches, actions de formation ou d'information dans les domaines relevant de sa compétence.
 
-L'agence peut, en outre, à la demande des services concernés, procéder à tous contrôles ou expertises techniques relatifs à
-la qualité des eaux minérales ou de sources, de leurs conditions de captage, de transport et de conditionnement.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -33151,11 +34442,6 @@ _Cite_:
   - Code de la santé publique - art. L551-9 (Ab)
   - Code de la santé publique - art. L658-11 (M)
 
-_Modifié par_:
-
-  - Loi n°94-43 du 18 janvier 1994 - art. 31 () JORF 19 janvier 1994
-  - Loi n°94-43 du 18 janvier 1994 - art. 32 () JORF 19 janvier 1994
-
 _Cité par_:
 
   - Arrêté du 28 avril 1994 - art. 2 (V)
@@ -33164,8 +34450,12 @@ _Cité par_:
   - Code de la santé publique - art. L567-9 (Ab)
   - Code de la santé publique - art. R5089-2 (Ab)
 
+_Modifié par_:
 
-#### Chapitre 2 : Conseil d'administration, direction générale et personnel<a id=179></a>
+  - Loi n°95-116 du 4 février 1995 - art. 23 () JORF 5 février 1995
+
+
+#### Chapitre 2 : Conseil d'administration, direction générale et personnel<a id=191></a>
 
 ###### Article L567-3
 
@@ -33319,7 +34609,7 @@ _Cité par_:
   - Code de la santé publique - art. L617-14 (Ab)
 
 
-#### Chapitre 3 : Régime financier<a id=180></a>
+#### Chapitre 3 : Régime financier<a id=192></a>
 
 ###### Article L567-7
 
@@ -33327,10 +34617,10 @@ Les ressources [*financières*] de l'agence sont constituées :
 
 1° Par les subventions des collectivités publiques et de leurs établissements publics ;
 
-2° Par les redevances et taxes perçues en application des articles L. 602 et L. 602-1 du présent code, de l'article 33 de la
-loi de finances pour 1968 (n° 67-1114 du 21 décembre 1967), du II de l'article 70 de la loi de finances pour 1972 (n° 71-1061
-du 29 décembre 1971), de l'article 109 de la loi de finances pour 1979 (n° 78-1239 du 29 décembre 1978) et des articles 19 et
-21 de la loi n° 93-5 du 4 janvier 1993 relative à la sécurité en matière de transfusion sanguine et de médicament ;
+2° Par les redevances et taxes perçues en application des articles L. 602, L. 602-1 et L. 603-1 du présent code, de l'article
+33 de la loi de finances pour 1968 (n° 67-1114 du 21 décembre 1967), du II de l'article 70 de la loi de finances pour 1972
+(n° 71-1061 du 29 décembre 1971), de l'article 109 de la loi de finances pour 1979 (n° 78-1239 du 29 décembre 1978) et de
+l'article 19 de la loi n° 93-5 du 4 janvier 1993 relative à la sécurité en matière de transfusion sanguine et de médicament ;
 
 3° Par les redevances pour services rendus établies par décret en Conseil d'Etat ;
 
@@ -33347,17 +34637,21 @@ _Codifié par_:
 
 _Cite_:
 
-  - Ordonnance n°59-2 du 2 janvier 1959 - art. 5 (Ab)
-  - Loi n°67-1114 du 21 décembre 1967 - art. 33, v. init.
-  - Loi n°71-1061 du 29 décembre 1971 - art. 70, v. init.
-  - Loi n°78-1239 du 29 décembre 1978 - art. 109, v. init.
-  - Loi n°93-5 1993-01-04 art. 21, art. 23
+  - Loi n°67-1114 1967-12-21 art. 33 Finances pour 1968
+  - Loi n°71-1061 1971-12-29 art. 70 Finances pour 1972
+  - Loi n°78-1239 1978-12-29 art. 109 Finances pour 1979
+  - Loi n°93-5 1993-01-04 art. 19
   - Code de la santé publique - art. L602 (M)
   - Code de la santé publique - art. L602-1 (M)
+  - Code de la santé publique - art. L603-1 (Ab)
 
 _Modifié par_:
 
-  - Loi n°94-43 du 18 janvier 1994 - art. 31 () JORF 19 janvier 1994
+  - Loi n°95-116 du 4 février 1995 - art. 19 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Loi n°98-535 du 1 juillet 1998 - art. 8 () JORF 2 juillet 1998
 
 _Cité par_:
 
@@ -33389,7 +34683,7 @@ _Cité par_:
   - Code de la santé publique - art. L567-12 (Ab)
 
 
-#### Chapitre 4 : Inspection<a id=181></a>
+#### Chapitre 4 : Inspection<a id=193></a>
 
 ###### Article L567-9
 
@@ -33539,7 +34833,10 @@ _Abrogé par_:
 ###### Article L567-13
 
 Le directeur général de l'agence établit tous les ans [*périodicité*] un rapport sur l'activité de celle-ci, qui est adressé
-au Gouvernement et aux deux assemblées du Parlement. Ce rapport est rendu public.
+au Gouvernement et aux deux assemblées du Parlement. Ce rapport est rendu public. Ce rapport précise notamment les délais
+moyens nécessaires au traitement de chacune des catégories de nouveaux dossiers qui lui sont soumis. Il présente également un
+état comparatif des droits perçus par l'Agence du médicament, d'une part, et par les institutions comparables de l'Union
+européenne ainsi que de ses Etats membres, d'autre part.
 
 **Liens relatifs à cet article**
 
@@ -33548,20 +34845,24 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+  - Loi n°95-116 du 4 février 1995 - art. 19 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Loi n°98-535 du 1 juillet 1998 - art. 8 () JORF 2 juillet 1998
 
 _Cité par_:
 
   - Code de la santé publique - art. R5089-10 (Ab)
 
 
-### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=182></a>
+### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=194></a>
 
-#### Chapitre 1 : Conditions de l'exercice de la pharmacie d'officine<a id=183></a>
+#### Chapitre 1 : Conditions de l'exercice de la pharmacie d'officine<a id=195></a>
 
-##### Section 1 : Des officines de pharmacie<a id=184></a>
+##### Section 1 : Des officines de pharmacie<a id=196></a>
 
 ###### Article L568
 
@@ -33686,9 +34987,9 @@ Toute ouverture d'une nouvelle officine, tout transfert d'une officine d'un lieu
 d'une licence délivrée par le représentant de l'Etat dans le département après avis du conseil régional de l'ordre des
 pharmaciens et du directeur régional des affaires sanitaires et sociales.
 
-Un transfert peut être demandé pour le territoire d'une même commune, pour celui d'une commune limitrophe ou d'une même
-communauté urbaine. Les demandes de transfert bénéficient d'une priorité par rapport aux demandes d'ouverture d'une nouvelle
-officine.
+Un transfert d'officine peut être demandé à l'intérieur d'un même département. Lorsqu'elle est faite pour une commune de
+moins de 2 000 habitants, la demande de transfert est examinée au regard de la carte départementale des officines de
+pharmacie. Les demandes de transfert bénéficient d'une priorité par rapport aux demandes d'ouverture d'une nouvelle officine.
 
 Parmi les demandes d'ouverture d'une nouvelle officine, celles qui sont présentées par des pharmaciens n'ayant jamais été
 titulaires d'une licence d'officine ou n'en étant plus titulaires depuis au moins trois ans à la date du dépôt de la demande
@@ -33713,22 +35014,18 @@ la Santé publique et de la Population sur avis du préfet et du conseil supéri
 cédée avant l'expiration d'un délai de cinq ans, qui court à partir du jour de son ouverture.
 
 Tout refus de licence doit faire l'objet d'une décision motivée. Il peut en être fait appel au ministre de la Santé publique
-qui statue après avis du conseil régional [*recours*].
-
-Lors de la fermeture définitive de l'officine, la licence doit être remise à la préfecture par son dernier titulaire ou par
-ses héritiers.
+qui statue après avis du conseil régional [*recours*]. Lors de la fermeture définitive de l'officine, la licence doit être
+remise à la préfecture par son dernier titulaire ou par ses héritiers.
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 47.*]
 
+[*Nota - Loi 95-115 du 4 février 1995 art. 30 : les dispositions antérieures à la présente loi continuent à s'appliquer
+jusqu'à la publication de la carte départementale sanitaire.*]
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-1014 1945-05-23 art. 4
-  - Loi n°41-3890 1941-09-11 art. 21
 
 _Codifié par_:
 
@@ -33751,9 +35048,13 @@ _Cité par_:
   - Code de la santé publique - art. R5089-6 (Ab)
   - Code de la santé publique - art. R5089-7 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°95-115 du 4 février 1995 - art. 30 ()
+
 _Modifié par_:
 
-  - Loi n°94-43 du 18 janvier 1994 - art. 16 () JORF 19 janvier 1994
+  - Loi n°95-115 du 4 février 1995 - art. 30 () JORF 5 février 1995
 
 _Nouveaux textes_:
 
@@ -33768,8 +35069,9 @@ _Cite_:
 ###### Article L570-1
 
 Seuls les pharmaciens de nationalité française, citoyens andorrans ou ressortissants de l'un des Etats membres de la
-Communauté européenne, titulaires du diplôme français d'Etat de docteur en pharmacie ou de pharmacien, peuvent
-individuellement ou en société créer une officine ou racheter une officine ouverte depuis moins de trois ans.
+Communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen titulaires du diplôme français
+d'Etat de docteur en pharmacie ou de pharmacien, peuvent individuellement ou en société créer une officine ou racheter une
+officine ouverte depuis moins de trois ans.
 
 **Nota:**
 
@@ -33783,14 +35085,18 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 16 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L5125-8 (V)
   - Code de la santé publique - art. L5424-3 (V)
-
-_Modifié par_:
-
-  - Loi n°94-43 du 18 janvier 1994 - art. 17 () JORF 19 janvier 1994
 
 
 ###### Article L570-2
@@ -33845,10 +35151,9 @@ Une officine pour 2.500 habitants dans les villes d'une population égale ou sup
 Dans les communes d'une population inférieure à 5.000 habitants, il ne peut être délivré qu'une licence par tranche entière
 de 2.000 habitants recensés dans les limites de la commune.
 
-Une création d'officine peut toutefois être accordée dans une commune dépourvue d'officine et d'une population inférieure à
-2.000 habitants lorsqu'il sera justifié que cette commune constitue, pour la population des localités avoisinantes, un centre
-d'approvisionnement, sous réserve que l'officine à créer et les officines voisines déjà existantes puissent être assurées
-chacune d'un minimum de 2.000 habitants à desservir.
+Une création d'officine peut, toutefois, être accordée dans une commune dépourvue d'officine et d'une population inférieure à
+2 000 habitants lorsque les besoins de la population résidente et saisonnière sont insuffisamment couverts au regard de la
+carte départementale des officines de pharmacie.
 
 La population dont il est tenu compte pour l'application de l'article L. 571 du Code de la santé publique est la population
 municipale totale, telle qu'elle est définie par le décret ayant ordonné le dernier dénombrement général de la population
@@ -33874,6 +35179,9 @@ Dans tous les cas, le préfet peut imposer une distance minimum entre deux offic
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 47.*]
 
+[*Nota - Loi 95-115 du 4 février 1995 art. 30 : les dispositions antérieures à la présente loi continuent à s'appliquer
+jusqu'à la publication de la carte départementale sanitaire.*]
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -33893,18 +35201,19 @@ _Cité par_:
   - Code de la santé publique - art. L577 Bis (T)
   - Code de la santé publique - art. L578 (Ab)
 
-_Modifié par_:
-
-  - Loi n°94-43 du 18 janvier 1994 - art. 18 () JORF 19 janvier 1994
-
 **Liens**:
 
+  - SPEC_APPLI: Loi n°95-115 du 4 février 1995 - art. 30 ()
   - TXT_SOURCE: Arrêté du 22 avril 1986
   - TXT_SOURCE: Arrêté du 5 mars 1986
   - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 1 (V)
   - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 2 (V)
   - TXT_ASSOCIE: Code de la santé publique - art. L571-1 (Ab)
   - SPEC_APPLI: Décret n°65-1128 1965-12-22
+
+_Modifié par_:
+
+  - Loi n°95-115 du 4 février 1995 - art. 30 () JORF 5 février 1995
 
 _Nouveaux textes_:
 
@@ -33916,28 +35225,39 @@ _Nouveaux textes_:
 
 Par dérogation aux dispositions de l'article L. 571 aucune création ne peut être accordée dans les départements du Haut-Rhin,
 du Bas-Rhin et de la Moselle dans les villes où une licence a déjà été délivrée à une officine pour 5.000 habitants
-[*nombre*].
-
-Toutefois, une création d'officine peut être accordée dans une commune dépourvue d'officine et d'une population inférieure à
-5.000 habitants lorsqu'il sera justifié que cette commune constitue, pour les populations des localités avoisinantes, un
-centre d'approvisionnement, sous réserve que l'officine à créer et les officines voisines déjà existantes puissent être
-assurées chacune d'un minimum de 5.000 habitants à desservir.
+[*nombre*]. Une création d'officine peut, toutefois, être accordée dans une commune dépourvue d'officine et d'une population
+inférieure à 5 000 habitants lorsque les besoins de la population résidente et saisonnière sont insuffisamment couverts au
+regard de la carte départementale des officines de pharmacie.
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+[*Nota - Code de la santé publique L. 518 : dispositions pénales.*]
+
+[*Nota - Loi 95-115 du 4 février 1995 art. 30 : les dispositions antérieures à la présente loi continuent à s'appliquer
+jusqu'à la publication de la carte départementale sanitaire.*]
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-1976 1945-09-01 art. 2
 
 _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°95-115 du 4 février 1995 - art. 30 ()
+  - TXT_SOURCE: Arrêté du 5 mars 1986
+  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 2 (V)
+  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
+  - TXT_ASSOCIE: Code de la santé publique - art. L571-1 (Ab)
+
+_Modifié par_:
+
+  - Loi n°95-115 du 4 février 1995 - art. 30 () JORF 5 février 1995
 
 _Cité par_:
 
@@ -33948,14 +35268,6 @@ _Cité par_:
   - Code de la santé publique - art. L577 Bis (T)
   - Code de la santé publique - art. L578 (Ab)
 
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 5 mars 1986
-  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 2 (V)
-  - TXT_ASSOCIE: Code de la santé publique - art. L571-1 (Ab)
-  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
-
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L5125-14 (M)
@@ -33963,10 +35275,6 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de la santé publique - art. L571 (M)
-
-_Modifié par_:
-
-  - Loi n°57-220 1957-02-25 art. 2 JORF 26 février 1957
 
 
 ###### Article L573
@@ -34324,7 +35632,7 @@ _Anciens textes_:
   - Code de la santé publique L577 bis
 
 
-##### Section 2 : Exercice personnel de la profession<a id=185></a>
+##### Section 2 : Exercice personnel de la profession<a id=197></a>
 
 ###### Article L579
 
@@ -34433,7 +35741,7 @@ _Anciens textes_:
   - Loi n°41-3890 1941-09-11 art. 28
 
 
-##### Section 3 : Des préparateurs en pharmacie<a id=186></a>
+##### Section 3 : Des préparateurs en pharmacie<a id=198></a>
 
 ###### Article L581
 
@@ -34525,15 +35833,154 @@ _Anciens textes_:
   - Loi n°46-1182 1946-05-24 art. 2
 
 
+###### Article L582-1
+
+Est également qualifiée de préparateur en pharmacie toute personne ayant obtenu une autorisation d'exercice délivrée par le
+ministre chargé de la santé après avis de la commission mentionnée à l'article L. 583.
+
+Peuvent bénéficier de cette autorisation les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen qui, sans posséder le brevet professionnel mentionné à l'article L. 582,
+ont suivi avec succès un cycle d'études les préparant à l'exercice de la profession et répondant aux exigences fixées par
+voie réglementaire et qui sont titulaires :
+
+1° D'un ou plusieurs diplômes, certificats ou autres titres permettant l'exercice de la profession dans un Etat membre ou un
+Etat partie qui réglemente l'accès ou l'exercice de la profession, délivrés :
+
+a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans un Etat
+membre ou un Etat partie, ou dans un pays tiers dans des établissements d'enseignement qui dispensent une formation conforme
+aux dispositions législatives, réglementaires ou administratives de cet Etat membre ou partie ;
+
+b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre ou
+de l'Etat partie qui a reconnu le ou les diplômes, certificats ou autres titres certifiant que le titulaire de ce ou ces
+diplômes, certificats ou autres titres a une expérience professionnelle dans cet Etat de deux ans au moins ;
+
+2° Ou d'un ou plusieurs diplômes, certificats ou autres titres, sanctionnant une formation réglementée, spécifiquement
+orientée sur l'exercice de la profession, dans un Etat membre ou un Etat partie qui ne réglemente pas l'accès ou l'exercice
+de cette profession ;
+
+3° Ou d'un ou plusieurs diplômes, certificats ou autres titres obtenus dans un Etat membre ou un Etat partie qui ne
+réglemente ni l'accès ou l'exercice de cette profession ni la formation conduisant à l'exercice de cette profession, à
+condition de justifier d'un exercice à plein temps de la profession pendant deux ans au moins au cours des dix années
+précédentes, ou pendant une période équivalente à temps partiel, dans cet Etat, à condition que cet exercice soit attesté par
+l'autorité compétente de cet Etat.
+
+Lorsque la formation de l'intéressé porte sur des matières substantiellement différentes de celles qui figurent au programme
+du brevet professionnel mentionné à l'article L. 582 ou lorsqu'une ou plusieurs des activités professionnelles dont
+l'exercice est subordonné audit brevet ne sont pas réglementées par l'Etat d'origine ou de provenance ou sont réglementées de
+manière différente, le ministre chargé de la santé peut exiger que l'intéressé choisisse soit de se soumettre à une épreuve
+d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder deux ans et qui fait l'objet d'une
+évaluation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 17 () JORF 5 février 1995
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 6 (Ab)
+  - TXT_SOURCE: Décret n°2002-193 du 11 février 2002
+
+_Cité par_:
+
+  - Décret n°99-740 du 25 août 1999 - art. 1 (Ab)
+  - Décret n°99-740 du 25 août 1999 - art. 2 (Ab)
+  - Décret n°99-740 du 25 août 1999 - art. 4 (Ab)
+  - Décret n°99-740 du 25 août 1999 - art. 5 (Ab)
+  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+  - Code de la santé publique - art. L582-2 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4241-6 (T)
+  - Code de la santé publique - art. L4241-7 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. L582 (Ab)
+  - Code de la santé publique - art. L583 (M)
+
+
+###### Article L582-2
+
+Peuvent également bénéficier de l'autorisation d'exercice mentionnée à l'article L. 582-1, les ressortissants d'un Etat
+membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui, sans posséder
+de titre de formation conforme aux dispositions de l'article L. 582-1, ont exercé la profession de préparateur en pharmacie
+pendant trois ans consécutivement, ou pendant une période équivalente à temps partiel, au cours des dix années précédentes
+dans un Etat membre ou un Etat partie qui ne réglemente pas l'exercice de cette profession.
+
+Dans ce cas, le ministre chargé de la santé peut exiger de l'intéressé qu'il accomplisse un stage d'adaptation d'une durée
+maximale de deux ans, qui fait l'objet d'une évaluation, ou qu'il se soumette à une épreuve d'aptitude.
+
+Un décret en Conseil d'Etat pris après avis de la commission mentionnée à l'article L. 583 détermine les mesures nécessaires
+à l'application de l'article L. 582-1 et du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 17 () JORF 5 février 1995
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 6 (Ab)
+  - TXT_SOURCE: Décret n°2002-193 du 11 février 2002
+
+_Cité par_:
+
+  - Décret n°99-740 du 25 août 1999 - art. 1 (Ab)
+  - Décret n°99-740 du 25 août 1999 - art. 2 (Ab)
+  - Décret n°99-740 du 25 août 1999 - art. 4 (Ab)
+  - Décret n°99-740 du 25 août 1999 - art. 5 (Ab)
+  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4241-11 (T)
+  - Code de la santé publique - art. L4241-8 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. L582-1 (Ab)
+  - Code de la santé publique - art. L583 (M)
+
+
 ###### Article L583
 
-Les conditions de délivrance du brevet professionnel de préparateur en pharmacie sont fixées par décret, pris après avis
-d'une commission composée paritairement de représentants des pharmaciens, des préparateurs en pharmacie et de
-l'administration.
-
-La composition de cette commission est définie par arrêté ministériel. Ses membres sont nommés sur proposition du conseil
-supérieur de la pharmacie en ce qui concerne les pharmaciens et sur proposition des organisations syndicales les plus
-représentatives des préparateurs en ce qui les concerne.
+Les conditions de délivrance du brevet professionnel de préparateur en pharmacie sont fixées par décret après avis d'une
+commission comprenant des représentants de l'Etat, des pharmaciens et des préparateurs en pharmacie et dont la composition
+est fixée par décret.
 
 **Nota:**
 
@@ -34542,30 +35989,10 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1978-02-03 JORF NC 11 février MODIFIE PAR Arrêté 1978-03-28 :
-  - TXT_ASSOCIE: COMPOSITION DE LA COMMISSION
-  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997
-  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 1 (M)
-  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 10 (M)
-  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 2 (M)
-  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 3 (M)
-  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 4 (M)
-  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 5 (M)
-  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 6 (M)
-  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 7 (M)
-  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 8 (M)
-  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 9 (M)
-
 _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
-
-_Modifié par_:
-
-  - Loi n°77-745 1977-07-08 art. 2 JORF 10 juillet 1977
 
 _Cité par_:
 
@@ -34579,13 +36006,32 @@ _Cité par_:
   - Code de la santé publique - art. L582-1 (Ab)
   - Code de la santé publique - art. L582-2 (Ab)
 
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 17 () JORF 5 février 1995
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997
+  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 1 (M)
+  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 10 (M)
+  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 2 (M)
+  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 3 (M)
+  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 4 (M)
+  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 5 (M)
+  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 6 (M)
+  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 7 (M)
+  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 8 (M)
+  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 9 (M)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L4241-5 (T)
   - Code de la santé publique - art. L4241-5 (V)
-
-_Anciens textes_:
-
-  - Loi n°46-1182 1946-05-24 art. 3
 
 
 ###### Article L584
@@ -34677,10 +36123,10 @@ _Anciens textes_:
 
 ###### Article L586
 
-Sous réserve des dispositions de l'article L. 663 ci-après, nul, s'il ne répond aux conditions fixées à l'article L. 582 du
-présent titre [*brevet professionnel*], ne peut se qualifier préparateur en pharmacie ni, notamment sur le plan
-professionnel, user des droits et prérogatives attachés à cette qualité, sous peine de sanctions encourues pour le délit
-d'usurpation de titre prévu par l'article 433-17 du code pénal. En cas de récidive, la peine sera doublée.
+Sous réserve des dispositions de l'article L. 663 ci-après, nul, s'il ne répond aux conditions fixées à l'article L. 582 ou
+aux articles L. 582-1 et L. 582-2 du présent titre [*brevet professionnel*], ne peut se qualifier préparateur en pharmacie
+ni, notamment sur le plan professionnel, user des droits et prérogatives attachés à cette qualité, sous peine de sanctions
+prévues à l'article 433-17 du code pénal. En cas de récidive, la peine sera doublée.
 
 Les dispositions du présent article ne sont applicables [*non*] ni aux étudiants en pharmacie, qui peuvent être employés dans
 une pharmacie aux conditions [*d'exercice*] prévues à l'article L. 588, ni aux personnes titulaires du diplôme de pharmacien,
@@ -34701,7 +36147,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+  - Loi n°95-116 du 4 février 1995 - art. 17 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Cite_:
 
@@ -34819,7 +36269,7 @@ _Anciens textes_:
   - Loi n°46-1182 1946-05-24 art. 9
 
 
-##### Section 4 : Règles générales de la pharmacie d'officine<a id=187></a>
+##### Section 4 : Règles générales de la pharmacie d'officine<a id=199></a>
 
 ###### Article L588-1
 
@@ -35148,7 +36598,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L5424-12 (V)
 
 
-##### Section 5 : Délivrance des médicaments par les médecins<a id=188></a>
+##### Section 5 : Délivrance des médicaments par les médecins<a id=200></a>
 
 ###### Article L594
 
@@ -35243,9 +36693,9 @@ _Anciens textes_:
   - Loi n°41-3890 1941-09-11 art. 30
 
 
-#### Chapitre 1er bis : Des pharmacies à usage intérieur<a id=189></a>
+#### Chapitre 1er bis : Des pharmacies à usage intérieur<a id=201></a>
 
-##### Section 1 : Dispositions générales<a id=190></a>
+##### Section 1 : Dispositions générales<a id=202></a>
 
 ###### Article L595-1
 
@@ -35503,7 +36953,7 @@ _Cité par_:
   - Code de la santé publique - art. R711-1-4 (Ab)
 
 
-##### Section 2 : Pharmacies des établissements de santé et des établissements médico-sociaux<a id=191></a>
+##### Section 2 : Pharmacies des établissements de santé et des établissements médico-sociaux<a id=203></a>
 
 ###### Article L595-6
 
@@ -35622,7 +37072,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R163-19 (M)
 
 
-##### Section 3 : Autres pharmacies à usage intérieur<a id=192></a>
+##### Section 3 : Autres pharmacies à usage intérieur<a id=204></a>
 
 ###### Article L595-8
 
@@ -35778,7 +37228,7 @@ _Cite_:
   - Code de la santé publique - art. L595-3 (Ab)
 
 
-##### Section 4 : Dispositions communes<a id=193></a>
+##### Section 4 : Dispositions communes<a id=205></a>
 
 ###### Article L595-11
 
@@ -35831,9 +37281,9 @@ _Cité par_:
   - Code de la santé publique - art. R5028 (M)
 
 
-#### Chapitre 2 : Fabrication, importation, exportation et distribution en gros des produits pharmaceutiques et exploitation des spécialités ou autres médicaments<a id=194></a>
+#### Chapitre 2 : Fabrication, importation, exportation et distribution en gros des produits pharmaceutiques et exploitation des spécialités ou autres médicaments<a id=206></a>
 
-##### Section 1 : Des établissements pharmaceutiques<a id=195></a>
+##### Section 1 : Des établissements pharmaceutiques<a id=207></a>
 
 ###### Article L596
 
@@ -35969,8 +37419,8 @@ central compétent de l'ordre national des pharmaciens, peuvent comporter un ét
 propriétaires, qui distribue en gros des médicaments, fabriqués en conformité avec les normes visées à l'article L. 600, à
 des organismes similaires ayant la même vocation en France ou dans un Etat de la Communauté européenne ou autre Etat partie à
 l'accord sur l'Espace économique européen, ou qui les exporte aux mêmes fins humanitaires dans un Etat non membre de ladite
-Communauté en vue de leur distribution et dispensation sans but lucratif. Le pharmacien responsable de l'établissement doit
-participer à la direction générale de l'organisme propriétaire.
+Communauté ou non partie à l'accord sur l'Espace économique européen en vue de leur distribution et dispensation sans but
+lucratif. Le pharmacien responsable de l'établissement doit participer à la direction générale de l'organisme propriétaire.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article et les adaptations qui pourront être
 apportées, en ce qui concerne ces établissements pharmaceutiques, aux troisième, quatrième et cinquième alinéas de l'article
@@ -35990,8 +37440,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
-  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+  - Loi n°95-116 du 4 février 1995 - art. 16 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -36156,13 +37609,11 @@ _Cite_:
 ###### Article L598
 
 L'ouverture d'un établissement pharmaceutique est subordonnée à une autorisation délivrée par l'Agence du médicament
-lorsqu'il s'agit d'un établissement pharmaceutique se livrant à la fabrication, l'exploitation, l'exportation ou à
-l'importation des médicaments, des générateurs, trousses ou précurseurs mentionnés au 3° de l'article L. 512 et des produits
-mentionnés à l'article L. 658-11, et par le ministre chargé de la santé pour les autres établissements pharmaceutiques.
-Lorsqu'un établissement pharmaceutique se livre exclusivement à l'exportation de ces médicaments, générateurs, trousses,
-précurseurs ou produits, cette autorisation est délivrée par le ministre chargé de la santé. Cette autorisation peut, après
-mise en demeure, être suspendue ou retirée en cas d'infraction aux dispositions du présent livre. Les modalités d'octroi, de
-suspension ou de retrait de cette autorisation sont définies par décret en Conseil d'Etat.
+lorsqu'il s'agit d'un établissement pharmaceutique se livrant à la fabrication, l'exploitation ou à l'importation des
+médicaments, des générateurs, trousses ou précurseurs mentionnés au 3° de l'article L. 512 et des produits mentionnés à
+l'article L. 658-11, et par le ministre chargé de la santé pour les autres établissements pharmaceutiques. Cette autorisation
+peut, après mise en demeure, être suspendue ou retirée en cas d'infraction aux dispositions du présent livre. Les modalités
+d'octroi, de suspension ou de retrait de cette autorisation sont définies par décret en Conseil d'Etat.
 
 Toute modification des éléments figurant dans l'autorisation initiale doit faire l'objet d'une nouvelle autorisation
 préalable.
@@ -36171,6 +37622,8 @@ préalable.
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+[*Nota - Code de la santé publique L. 518 : dispositions pénales.*]
 
 **Liens relatifs à cet article**
 
@@ -36209,7 +37662,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°94-43 du 18 janvier 1994 - art. 31 () JORF 19 janvier 1994
+  - Loi n°95-116 du 4 février 1995 - art. 18 () JORF 5 février 1995
 
 _Cite_:
 
@@ -36224,7 +37677,7 @@ _Nouveaux textes_:
 
 **Liens**:
 
-  - TXT_ASSOCIE: Code de la santé publique L518 : dispositions pénales
+  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
 
 
 ###### Article L599
@@ -36330,7 +37783,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
 
 
-##### Section 2 : Des médicaments et produits soumis à autorisation<a id=196></a>
+##### Section 2 : Des médicaments et produits soumis à autorisation<a id=208></a>
 
 ###### Article L601
 
@@ -36704,12 +38157,16 @@ _Cite_:
 
 ###### Article L602
 
-Toute demande d'autorisation de mise sur le marché doit être accompagnée du versement d'un droit progréssif dont le montant
-sera fixé par décret dans la limite de 100.000 F.
+Toute demande d'autorisation de mise sur le marché doit être accompagnée du versement d'un droit progressif dont le montant
+sera fixé par décret dans la limite de 150.000 F.
 
 Son montant est versé à l'Agence du médicament.
 
 Les dispositions du III de l'article L. 602-3 sont applicables à ce droit.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 518 : dispositions pénales.*]
 
 **Liens relatifs à cet article**
 
@@ -36730,10 +38187,6 @@ _Cité par_:
   - Code de la santé publique - art. L605 (M)
   - Code de la santé publique - art. L658-11 (Ab)
 
-_Modifié par_:
-
-  - Loi n°93-5 1993-01-04 art. 16 6° JORF 5 janvier 1993
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°93-1322 du 20 décembre 1993
@@ -36743,7 +38196,11 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°96-653 du 16 juillet 1996 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°96-653 du 16 juillet 1996 - art. 2 (Ab)
   - TXT_SOURCE: Décret n°96-653 du 16 juillet 1996 - art. 3 (Ab)
-  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
+
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 19 () JORF 5 février 1995
 
 _Nouveaux textes_:
 
@@ -36935,10 +38392,10 @@ _Cité par_:
 ###### Article L603
 
 Un établissement pharmaceutique exportant un médicament [*à l'étranger*] doit demander à l'autorité administrative de
-certifier qu'i possède l'autorisation mentionnée à l'article L. 598. Un établissement pharmaceutique fabriquant un médicament
-en vue de son exportation doit demander de plus à l'autorité administrative de certifier qu'il s'est doté des bonnes
-pratiques de fabrication prévues à l'article L. 600. Un Etat non membre de la Communauté européenne important un médicament
-peut effectuer les mêmes demandes.
+certifier qu'il possède l'autorisation mentionnée à l'article L. 598. Un établissement pharmaceutique fabriquant un
+médicament en vue de son exportation doit demander de plus à l'autorité administrative de certifier qu'il s'est doté des
+bonnes pratiques de fabrication prévues à l'article L. 600. Un Etat non membre de la Communauté européenne ou non partie à
+l'accord sur l'Espace économique européen important un médicament peut effectuer les mêmes demandes.
 
 L'Agence du médicament peut, pour des raisons de santé publique, interdire l'exportation de médicaments qui ne
 bénéficieraient pas d'une autorisation de mise sur le marché telle que définie dans l'article L. 601 du présent code ou qui
@@ -36980,7 +38437,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°94-43 1994-01-18 art. 33 II JORF 19 janvier 1994
+  - Loi n°95-116 du 4 février 1995 - art. 16 () JORF 5 février 1995
 
 _Nouveaux textes_:
 
@@ -36997,6 +38454,41 @@ _Cite_:
 **Liens**:
 
   - TXT_ASSOCIE: Code de la santé publique L518 : dispositions pénales
+
+
+###### Article L603-1
+
+Chaque demande présentée par un établissement pharmaceutique exportant un médicament en vue d'obtenir, conformément au
+premier alinéa de l'article L. 603, le ou les certificats qui lui sont nécessaires et chaque déclaration mentionnée au
+quatrième alinéa du même article donnent lieu au versement d'un droit fixe dont le montant est fixé par décret dans la limite
+de 1 500 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 19 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L5124-12 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L567-7 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L603 (M)
 
 
 ###### Article L604
@@ -37092,15 +38584,18 @@ essais organisés après la délivrance de cette autorisation.
 7° Les restrictions qui peuvent être apportées dans l'intérêt de la santé publique à la prescription et à la délivrance de
 certains médicaments ;
 
-8° Les règles applicables en cas de changement du titulaire de l'autorisation de mise sur le marché.
+8° Les règles applicables en cas de changement du titulaire de l'autorisation de mise sur le marché ;
 
-9° Les conditions d'application des articles L. 602 à L. 602-4 relatifs à la taxe annuelle des médicaments et produits.
+9° Les conditions d'application des articles L. 602 à L. 602-4 relatifs à la taxe annuelle des médicaments et produits ;
 
 10° Les règles applicables à la pharmacovigilance exercée sur les médicaments postérieurement à la délivrance de
-l'autorisation administrative de mise sur le marché.
+l'autorisation administrative de mise sur le marché prévue à l'article L. 601, de l'autorisation temporaire d'utilisation
+prévue à l'article L. 601-2 ou postérieurement à l'enregistrement des médicaments homéopathiques prévu aux articles L. 601-3
+et L. 601-4 ; ces règles fixent notamment les obligations de signalement incombant aux membres des professions de santé et
+aux entreprises exploitant un médicament ou un produit soumis à la présente section ;
 
 11° Les règles particulières applicables à la pharmacovigilance exercée sur les médicaments dérivés du sang et les autres
-médicaments d'origine humaine.
+médicaments d'origine humaine ;
 
 12° Les modalités de présentation des demandes tendant à obtenir l'enregistrement des médicaments homéopathiques prévu aux
 articles L. 601-3 et L. 601-4, la nature du dossier ainsi que les règles relatives à l'étiquetage et à la notice de ces
@@ -37119,7 +38614,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-43 du 18 janvier 1994 - art. 12 () JORF 19 janvier 1994
+  - Loi n°95-116 du 4 février 1995 - art. 21 () JORF 5 février 1995
 
 _Cité par_:
 
@@ -37135,15 +38630,16 @@ _Cité par_:
 _Cite_:
 
   - Code de la santé publique - art. L601 (M)
+  - Code de la santé publique - art. L601-2 (M)
   - Code de la santé publique - art. L601-3 (M)
   - Code de la santé publique - art. L601-4 (Ab)
   - Code de la santé publique - art. L603 (M)
-  - Code de la santé publique L601 à L604, L601, L603, L602 à L602-4, L601-3, L601-4
+  - Code de la santé publique L601 à L604, L601, L603, L602 à L602-4, L601-2, L601-3, L601-4
 
 
-#### Chapitre 3 : Pharmacie vétérinaire<a id=197></a>
+#### Chapitre 3 : Pharmacie vétérinaire<a id=209></a>
 
-##### Section 1 : Définitions<a id=198></a>
+##### Section 1 : Définitions<a id=210></a>
 
 ###### Article L606
 
@@ -37367,9 +38863,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L5143-1 (M)
 
 
-##### Section 2 : Préparation extemporanée et vente au détail<a id=199></a>
+##### Section 2 : Préparation extemporanée et vente au détail<a id=211></a>
 
-##### Paragraphe 1 : Plein exercice.<a id=200></a>
+##### Paragraphe 1 : Plein exercice.<a id=212></a>
 
 ###### Article L610
 
@@ -37588,7 +39084,7 @@ _Anciens textes_:
   - Loi n°42-277 1942-02-08 art. 1
 
 
-##### Paragraphe 2 : Exercice soumis à restrictions.<a id=201></a>
+##### Paragraphe 2 : Exercice soumis à restrictions.<a id=213></a>
 
 ###### Article L612
 
@@ -37739,7 +39235,7 @@ _Anciens textes_:
   - Loi n°42-277 1942-02-08 art. 3
 
 
-##### Paragraphe 3 : Modalités d'exercice<a id=202></a>
+##### Paragraphe 3 : Modalités d'exercice<a id=214></a>
 
 ###### Article L614
 
@@ -37796,9 +39292,9 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-##### SECTION 3 : PREPARATION INDUSTRIELLE ET VENTE EN GROS<a id=203></a>
+##### SECTION 3 : PREPARATION INDUSTRIELLE ET VENTE EN GROS<a id=215></a>
 
-##### PARAGRAPHE 1 : ETABLISSEMENTS DE PREPARATION ET DE VENTE EN GROS.<a id=204></a>
+##### PARAGRAPHE 1 : ETABLISSEMENTS DE PREPARATION ET DE VENTE EN GROS.<a id=216></a>
 
 ###### Article L615
 
@@ -37808,6 +39304,9 @@ vétérinaires, ne peuvent être effectuées que dans des établissements régis
 
 Toute entreprise qui comporte au moins un établissement visé au premier alinéa doit être la propriété d'un pharmacien, d'un
 vétérinaire ou d'une société à la gérance ou à la direction générale de laquelle participe un pharmacien ou un vétérinaire.
+Elle peut être, en tout ou partie, concédée en location-gérance à une société. Cette société doit être la propriété d'un
+pharmacien ou d'un vétérinaire ou comporter la participation d'un pharmacien ou d'un vétérinaire à sa direction générale ou à
+sa gérance. Les modalités d'exercice de la location-gérance sont déterminées par décret en Conseil d'Etat.
 
 Les pharmaciens ou vétérinaires mentionnés à l'alinéa précédent sont dénommés : " pharmaciens ou vétérinaires responsables ".
 Ils sont personnellement responsables du respect des dispositions du présent livre ayant trait à leur activité, sans
@@ -37832,6 +39331,8 @@ société.
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+[*Nota - Code de la santé publique L. 617-24 : dispositions pénales.*]
 
 **Liens relatifs à cet article**
 
@@ -37877,7 +39378,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°92-650 du 13 juillet 1992 - art. 7 () JORF 16 juillet 1992 rectificatif JORF 4 novembre 1992
+  - Loi n°95-116 du 4 février 1995 - art. 33 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -38045,7 +39550,7 @@ _Cité par_:
   - Code de la santé publique - art. R5146-51 (Ab)
 
 
-##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=205></a>
+##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=217></a>
 
 ###### Article L617-1
 
@@ -38053,7 +39558,8 @@ Exception faite des aliments médicamenteux, aucun médicament vétérinaire ne 
 préalable, une autorisation de mise sur le marché délivrée par l'autorité administrative.
 
 Toutefois, lorsque la situation sanitaire l'exige [*condition*], la commercialisation ou l'utilisation d'un médicament
-vétérinaire autorisé par un autre Etat membre de la Communauté européenne peut être autorisée par l'autorité administrative.
+vétérinaire autorisé par un autre Etat membre de la Communauté européenne ou autre Etat partie à l'accord sur l'Espace
+économique européen peut être autorisée par l'autorité administrative.
 
 En cas d'épizootie et sans préjudice des dispositions de l'article L. 617-4, l'autorité administrative peut autoriser, en
 l'absence de médicaments vétérinaires adéquats, l'utilisation, pour une durée limitée, de médicaments vétérinaires
@@ -38104,7 +39610,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
+  - Loi n°95-116 du 4 février 1995 - art. 16 () JORF 5 février 1995
 
 **Liens**:
 
@@ -38322,7 +39828,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L5141-8 (M)
 
 
-##### Section 4 : Dispositions particulières à certaines matières destinées au diagnostic, à la prévention et au traitement des maladies des animaux.<a id=206></a>
+##### Section 4 : Dispositions particulières à certaines matières destinées au diagnostic, à la prévention et au traitement des maladies des animaux.<a id=218></a>
 
 ###### Article L617-6
 
@@ -38439,7 +39945,7 @@ _Modifié par_:
   - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
 
 
-##### Section 5 : Dispositions diverses<a id=207></a>
+##### Section 5 : Dispositions diverses<a id=219></a>
 
 ###### Article L617-8
 
@@ -38600,7 +40106,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code de la santé publique L617-27 : DISPOSITIONS PENALES
 
 
-##### Section 6 : Dispositions transitoires.<a id=208></a>
+##### Section 6 : Dispositions transitoires.<a id=220></a>
 
 ###### Article L617-17
 
@@ -38650,7 +40156,7 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-##### Section 5 bis : Agence nationale du médicament vétérinaire<a id=209></a>
+##### Section 5 bis : Agence nationale du médicament vétérinaire<a id=221></a>
 
 ###### Article L617-12
 
@@ -38741,7 +40247,7 @@ _Cité par_:
   - Code de la santé publique - art. R5146-43 (M)
 
 
-##### Section 7 : Modalités d'application.<a id=210></a>
+##### Section 7 : Modalités d'application.<a id=222></a>
 
 ###### Article L617-18
 
@@ -38860,7 +40366,7 @@ _Modifié par_:
   - Loi n°92-650 du 13 juillet 1992 - art. 17 () JORF 16 juillet 1992
 
 
-##### Section 8 : Inspection<a id=211></a>
+##### Section 8 : Inspection<a id=223></a>
 
 ###### Article L617-20
 
@@ -39027,7 +40533,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L5146-3 (Ab)
 
 
-##### Section 9 : Dispositions pénales et mesures administratives<a id=212></a>
+##### Section 9 : Dispositions pénales et mesures administratives<a id=224></a>
 
 ###### Article L617-23
 
@@ -39275,9 +40781,9 @@ _Cite_:
   - Code de la santé publique - art. L617-11 (Ab)
 
 
-#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurité sociale<a id=213></a>
+#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurité sociale<a id=225></a>
 
-##### Section 1 : Agrément pour les collectivités publiques.<a id=214></a>
+##### Section 1 : Agrément pour les collectivités publiques.<a id=226></a>
 
 ###### Article L618
 
@@ -39507,7 +41013,7 @@ _Cite_:
   - Code des pensions militaires d'invalidité et des victimes de la guerre 115
 
 
-##### Section 3 : Dispositions communes.<a id=215></a>
+##### Section 3 : Dispositions communes.<a id=227></a>
 
 ###### Article L625
 
@@ -39593,9 +41099,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L5123-7 (V)
 
 
-### Titre 3 : Restrictions au commerce de certaines substances ou de certains objets<a id=216></a>
+### Titre 3 : Restrictions au commerce de certaines substances ou de certains objets<a id=228></a>
 
-#### Chapitre 1 : Substances vénéneuses.<a id=217></a>
+#### Chapitre 1 : Substances vénéneuses.<a id=229></a>
 
 ###### Article L626
 
@@ -40360,7 +41866,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L3421-4 (V)
 
 
-#### Chapitre 2 : Radio-éléments artificiels<a id=218></a>
+#### Chapitre 2 : Radio-éléments artificiels<a id=230></a>
 
 ###### Article L631
 
@@ -40788,7 +42294,7 @@ _Cite_:
   - Code de la santé publique - art. L635 (Ab)
 
 
-#### Chapitre 3 : Essences pouvant servir à la fabrication des boissons alcooliques<a id=219></a>
+#### Chapitre 3 : Essences pouvant servir à la fabrication des boissons alcooliques<a id=231></a>
 
 ###### Article L641
 
@@ -40955,9 +42461,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L3351-4 (V)
 
 
-#### Chapitre 5 : Abortifs<a id=220></a>
+#### Chapitre 5 : Abortifs<a id=232></a>
 
-##### Provocation à l'avortement.<a id=221></a>
+##### Provocation à l'avortement.<a id=233></a>
 
 ###### Article L645
 
@@ -41138,7 +42644,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L2221-1 (Ab)
 
 
-#### Chapitre 6 : Thermomètres médicaux.<a id=222></a>
+#### Chapitre 6 : Thermomètres médicaux.<a id=234></a>
 
 ###### Article L655
 
@@ -41236,7 +42742,7 @@ _Anciens textes_:
   - Loi n°44-149 1944-04-01 art. 3
 
 
-#### Chapitre 7 : Biberons à tube et tétines<a id=223></a>
+#### Chapitre 7 : Biberons à tube et tétines<a id=235></a>
 
 ###### Article L657
 
@@ -41325,7 +42831,7 @@ _Anciens textes_:
   - Loi n°1910-04-06 art. 3
 
 
-#### Chapitre 8 : Produits cosmétiques et produits d'hygiène corporelle<a id=224></a>
+#### Chapitre 8 : Produits cosmétiques et produits d'hygiène corporelle<a id=236></a>
 
 ###### Article L658-1
 
@@ -41849,7 +43355,7 @@ _Créé par_:
   - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
 
 
-#### Chapitre 9 : Autres substances et objets<a id=225></a>
+#### Chapitre 9 : Autres substances et objets<a id=237></a>
 
 ###### Article L658-11
 
@@ -41857,9 +43363,7 @@ Les insecticides et les acaricides destinés à être appliqués sur l'homme et 
 l'application des lentilles de contact doivent, avant leur mise sur le marché à titre onéreux ou à titre gratuit, faire
 l'objet d'une autorisation [*obligatoire*] par l'Agence du médicament [*autorité compétente*].
 
-Cette autorisation peut être assortie de conditions adéquates ;
-
-elle n'est accordée que lorsque le fabricant justifie :
+Cette autorisation peut être assortie de conditions adéquates ; elle n'est accordée que lorsque le fabricant justifie :
 
 1° Qu'il a fait procéder à la vérification de l'innocuité du produit dans des conditions normales d'emploi ainsi qu'à son
 analyse qualitative et quantitative ;
@@ -41867,9 +43371,7 @@ analyse qualitative et quantitative ;
 2° Qu'il dispose effectivement d'une méthode de fabrication et de procédés de contrôle de nature à garantir la qualité du
 produit au stade de la fabrication en série.
 
-Cette autorisation est délivrée pour une durée de cinq ans ;
-
-elle est ensuite renouvelable par période quinquennale.
+Cette autorisation est délivrée pour une durée de cinq ans ; elle est ensuite renouvelable par période quinquennale.
 
 Elle peut être suspendue ou supprimée par l'Agence du médicament.
 
@@ -41878,7 +43380,10 @@ qu'il peut encourir dans les conditions du droit commun en raison de la fabricat
 
 Toute demande d'autorisation doit être accompagnée du versement du droit fixe prévu à l'article L. 602.
 
-Un décret en Conseil d'Etat précisera les conditions d'application du présent article.
+Des décrets en Conseil d'Etat précisent les conditions d'application du présent article ainsi que les règles applicables à la
+pharmacovigilance exercée sur ces produits postérieurement à la délivrance de l'autorisation administrative précitée ; ces
+règles fixent notamment les obligations de signalement incombant aux membres des professions de santé et aux entreprises
+exploitant ces produits.
 
 **Nota:**
 
@@ -41945,7 +43450,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
+  - Loi n°95-116 du 4 février 1995 - art. 21 () JORF 5 février 1995
 
 _Nouveaux textes_:
 
@@ -41961,9 +43466,9 @@ _Cite_:
   - Code de la santé publique - art. L602 (M)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=226></a>
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=238></a>
 
-#### Chapitre 1 : Exercice de la profession d'herboriste<a id=227></a>
+#### Chapitre 1 : Exercice de la profession d'herboriste<a id=239></a>
 
 ###### Article L659
 
@@ -42063,7 +43568,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
 
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie dans les départements de la Guadeloupe, de la Guyane francaise, de la Martinique et de la Réunion.<a id=228></a>
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie dans les départements de la Guadeloupe, de la Guyane francaise, de la Martinique et de la Réunion.<a id=240></a>
 
 ###### Article L662
 
@@ -42148,7 +43653,7 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie<a id=229></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie<a id=241></a>
 
 ###### Article L663
 
@@ -42219,7 +43724,7 @@ _Anciens textes_:
   - Loi n°46-1182 1946-05-24 art. 8
 
 
-#### Chapitre 4 : Autorisation de mise sur le marché des spécialités anciennes<a id=230></a>
+#### Chapitre 4 : Autorisation de mise sur le marché des spécialités anciennes<a id=242></a>
 
 ###### Article L665
 
@@ -42253,7 +43758,7 @@ _Cité par_:
   - Code de la santé publique - art. R5272 (M)
 
 
-#### Chapitre 5 : Homologation de certains produits ou appareils.<a id=231></a>
+#### Chapitre 5 : Homologation de certains produits ou appareils.<a id=243></a>
 
 ###### Article L665-1
 
@@ -42325,16 +43830,12 @@ _Abrogé par_:
 
 ###### Article L665-2
 
-La mise sur le marché est autorisée selon les dispositions de l'article L. 665-1 :
+La mise sur le marché est autorisée selon les dispositions de l'article L. 665-4. Toutefois, restent applicables :
 
-1° Pour les dispositifs médicaux implantables actifs, jusqu'au 31 décembre 1994 ;
+1° Pour les dispositifs médicaux implantables actifs, jusqu'au 31 décembre 1994, les dispositions de l'article L. 665-1 ;
 
-2° Pour les autres dispositifs médicaux, jusqu'au 13 juin 1998.
-
-Jusqu'aux dates précitées, ces dispositions s'appliqueront à ces dispositifs concurremment avec celles du livre V  bis.
-
-Les dispositions de l'article L. 665-4 ne sont applicables aux dispositifs médicaux autres que les dispositifs médicaux
-implantables actifs qu'à compter du 1er janvier  1995.
+2° Pour les autres dispositifs médicaux, à compter du 1er janvier 1995 et jusqu'au 13 juin 1998, la réglementation à laquelle
+ils étaient soumis au 31 décembre 1994.
 
 **Liens relatifs à cet article**
 
@@ -42343,9 +43844,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-43 du 18 janvier 1994 - art. 27 () JORF 19 janvier 1994
+  - Loi n°95-116 du 4 février 1995 - art. 27 (V) JORF 5 février 1995
 
 _Cité par_:
 
@@ -42355,23 +43856,27 @@ _Cité par_:
   - Arrêté du 28 mai 1997 - art. 2 (V)
   - Arrêté du 28 mai 1998 - art. 2 (V)
 
+_Abrogé par_:
+
+  - Loi n°98-535 du 1 juillet 1998 - art. 14 () JORF 2 juillet 1998
+
 _Cite_:
 
   - Code de la santé publique - art. L665-1 (M)
   - Code de la santé publique - art. L665-4 (M)
 
 
-## Livre 5 bis : Dispositions relatives aux dispositifs médicaux<a id=232></a>
+## Livre 5 bis : Dispositions relatives aux dispositifs médicaux<a id=244></a>
 
-### Chapitre 1 : Dispositions générales<a id=233></a>
+### Chapitre 1 : Dispositions générales<a id=245></a>
 
 ###### Article L665-3
 
-On entend [*définition*] par dispositif médical tout instrument, appareil, équipement, matière, produit d'origine ni humaine
-ni animale ou autre article utilisé seul ou en association, y compris les accessoires et logiciels intervenant dans son
-fonctionnement, destiné par le fabricant à être utilisé chez l'homme à des fins médicales et dont l'action principale voulue
-n'est pas obtenue par des moyens pharmacologiques ou immunologiques ni par métabolisme, mais dont la fonction peut être
-assistée par de tels moyens.
+On entend    par dispositif médical tout instrument, appareil, équipement, matière, produit, à l'exception des produits
+d'origine humaine ou autre article utilisé seul ou en association, y compris les accessoires et logiciels intervenant dans
+son fonctionnement, destiné par le fabricant à être utilisé chez l'homme à des fins médicales et dont l'action principale
+voulue n'est pas obtenue par des moyens pharmacologiques ou immunologiques ni par métabolisme, mais dont la fonction peut
+être assistée par de tels moyens. 
 
 Les dispositifs médicaux qui sont conçus pour être implantés en totalité ou en partie dans le corps humain ou placés dans un
 orifice naturel, et qui dépendent pour leur bon fonctionnement d'une source d'énergie électrique ou de toute source d'énergie
@@ -42385,9 +43890,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-43 du 18 janvier 1994 - art. 28 () JORF 19 janvier 1994
+  - Loi n°95-116 du 4 février 1995 - art. 27 (V) JORF 5 février 1995
 
 **Liens**:
 
@@ -42410,6 +43915,10 @@ _Cité par_:
   - Code de la santé publique - art. R791-4-5 (Ab)
   - Code de la santé publique - art. R791-4-6 (Ab)
 
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L5211-1 (M)
@@ -42417,7 +43926,7 @@ _Nouveaux textes_:
 
 ###### Article L665-4
 
-Les dispositifs médicaux ne peuvent [*obligation*] être mis sur le marché, mis en service ni utilisés dans le cadre
+Les dispositifs médicaux ne peuvent [*obligation*] être importés, mis sur le marché, mis en service ni utilisés dans le cadre
 d'investigations cliniques s'ils n'ont reçu, au préalable, un certificat attestant leurs performances ainsi que leur
 conformité à des exigences essentielles concernant la sécurité et la santé des patients, des utilisateurs et des tiers.
 
@@ -42434,9 +43943,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-43 du 18 janvier 1994 - art. 28 () JORF 19 janvier 1994
+  - Loi n°95-116 du 4 février 1995 - art. 27 (V) JORF 5 février 1995
 
 _Cité par_:
 
@@ -42557,7 +44066,7 @@ _Créé par_:
   - Loi n°94-43 du 18 janvier 1994 - art. 28 () JORF 19 janvier 1994
 
 
-### Chapitre 2 : Dispositions particulières relatives aux systèmes et aux éléments destinés à être assemblés en vue de constituer un dispositif médical<a id=234></a>
+### Chapitre 2 : Dispositions particulières relatives aux systèmes et aux éléments destinés à être assemblés en vue de constituer un dispositif médical<a id=246></a>
 
 ###### Article L665-8
 
@@ -42585,7 +44094,7 @@ _Cite_:
   - Code de la santé publique - art. L665-4 (M)
 
 
-### Chapitre 3 : Dispositions communes<a id=235></a>
+### Chapitre 3 : Dispositions communes<a id=247></a>
 
 ###### Article L665-9
 
@@ -42616,9 +44125,9 @@ _Cite_:
   - Code de la santé publique - art. L665-4 (M)
 
 
-## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=236></a>
+## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=248></a>
 
-### Titre 1 : Principes généraux applicables au don et à l'utilisation des éléments et produits du corps humain<a id=237></a>
+### Titre 1 : Principes généraux applicables au don et à l'utilisation des éléments et produits du corps humain<a id=249></a>
 
 ###### Article L665-10
 
@@ -42879,9 +44388,9 @@ _Créé par_:
   - Loi n°94-654 du 29 juillet 1994 - art. 2 () JORF 30 juillet 1994
 
 
-### Titre 2 : Du sang humain<a id=238></a>
+### Titre 2 : Du sang humain<a id=250></a>
 
-#### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=239></a>
+#### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=251></a>
 
 ###### Article L666-1
 
@@ -43462,9 +44971,9 @@ _Cite_:
   - Code de la santé publique - art. L666-2 (M)
 
 
-#### Chapitre 2 : Du comité de sécurité transfusionnelle et de l'Agence française du sang<a id=240></a>
+#### Chapitre 2 : Du comité de sécurité transfusionnelle et de l'Agence française du sang<a id=252></a>
 
-##### Section 1 : Du comité de sécurité transfusionnelle<a id=241></a>
+##### Section 1 : Du comité de sécurité transfusionnelle<a id=253></a>
 
 ###### Article L667-1
 
@@ -43561,7 +45070,7 @@ _Abrogé par_:
   - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
 
 
-##### Section 2 : De l'Agence française du sang<a id=242></a>
+##### Section 2 : De l'Agence française du sang<a id=254></a>
 
 ###### Article L667-4
 
@@ -44088,7 +45597,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L1222-10 (M)
 
 
-#### Chapitre 3 : Des établissements de transfusion sanguine<a id=243></a>
+#### Chapitre 3 : Des établissements de transfusion sanguine<a id=255></a>
 
 ###### Article L668-1
 
@@ -44707,7 +46216,7 @@ _Cite_:
   - Code de la santé publique - art. L669-4 (M)
 
 
-#### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine<a id=244></a>
+#### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine<a id=256></a>
 
 ###### Article L669-1
 
@@ -44868,7 +46377,7 @@ _Cité par_:
   - Code de la santé publique - art. R669-5 (Ab)
 
 
-#### Chapitre 5 : Des médicaments dérivés du sang et du Laboratoire français du fractionnement et des biotechnologies<a id=245></a>
+#### Chapitre 5 : Des médicaments dérivés du sang et du Laboratoire français du fractionnement et des biotechnologies<a id=257></a>
 
 ###### Article L670-1
 
@@ -45086,11 +46595,11 @@ _Cite_:
   - Code de la santé publique - art. L670-3 (M)
 
 
-### Titre 3 : Des organes, tissus, cellules et produits du corps humain<a id=246></a>
+### Titre 3 : Des organes, tissus, cellules et produits du corps humain<a id=258></a>
 
-#### Chapitre 1er : Des organes<a id=247></a>
+#### Chapitre 1er : Des organes<a id=259></a>
 
-##### Section 1 : Dispositions communes<a id=248></a>
+##### Section 1 : Dispositions communes<a id=260></a>
 
 ###### Article L671-1
 
@@ -45155,7 +46664,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L675-2 (Ab)
 
 
-##### Section 2 : Du prélèvement d'organes sur une personne vivante<a id=249></a>
+##### Section 2 : Du prélèvement d'organes sur une personne vivante<a id=261></a>
 
 ###### Article L671-3
 
@@ -45349,7 +46858,7 @@ _Cité par_:
   - Code de la santé publique - art. R665-70-3 (Ab)
 
 
-##### Section 3 : Du prélèvement d'organes sur une personne décédée<a id=250></a>
+##### Section 3 : Du prélèvement d'organes sur une personne décédée<a id=262></a>
 
 ###### Article L671-7
 
@@ -45536,7 +47045,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L1232-5 (V)
 
 
-##### Section 4 : De l'autorisation des établissements effectuant des prélèvements d'organes en vue de dons<a id=251></a>
+##### Section 4 : De l'autorisation des établissements effectuant des prélèvements d'organes en vue de dons<a id=263></a>
 
 ###### Article L671-12
 
@@ -45643,7 +47152,7 @@ _Cité par_:
   - Code de la santé publique - art. L678 (Ab)
 
 
-##### Section 5 : Des transplantations d'organes<a id=252></a>
+##### Section 5 : Des transplantations d'organes<a id=264></a>
 
 ###### Article L671-15
 
@@ -45767,9 +47276,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L1234-3 (V)
 
 
-#### Chapitre 2 : Des tissus, cellules et produits<a id=253></a>
+#### Chapitre 2 : Des tissus, cellules et produits<a id=265></a>
 
-##### Section 1 : Dispositions communes<a id=254></a>
+##### Section 1 : Dispositions communes<a id=266></a>
 
 ###### Article L672-1
 
@@ -45868,7 +47377,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L1245-5 (V)
 
 
-##### Section 2 : Du prélèvement de tissus et de cellules et de la collecte des produits du corps humain en vue de dons<a id=255></a>
+##### Section 2 : Du prélèvement de tissus et de cellules et de la collecte des produits du corps humain en vue de dons<a id=267></a>
 
 ###### Article L672-4
 
@@ -45973,7 +47482,7 @@ _Cite_:
   - Code de la santé publique - art. L671-9 (Ab)
 
 
-##### Section 3 : De l'autorisation des établissements et organismes effectuant des prélèvements de tissus ou de cellules du corps humain en vue de dons<a id=256></a>
+##### Section 3 : De l'autorisation des établissements et organismes effectuant des prélèvements de tissus ou de cellules du corps humain en vue de dons<a id=268></a>
 
 ###### Article L672-7
 
@@ -46071,7 +47580,7 @@ _Cité par_:
   - Code de la santé publique - art. L678 (Ab)
 
 
-##### Section 4 : De la conservation et de l'utilisation des tissus et cellules du corps humain<a id=257></a>
+##### Section 4 : De la conservation et de l'utilisation des tissus et cellules du corps humain<a id=269></a>
 
 ###### Article L672-10
 
@@ -46277,6 +47786,11 @@ fonctionnement conforme aux principes généraux énoncés par le titre Ier du p
 
 Ces conditions et les modalités de délivrance sont fixées pour chacune des autorisations par décret en Conseil d'Etat.
 
+Les fonctionnaires du ministère de la santé habilités à cet effet par arrêté du ministre chargé de la santé s'assurent de la
+conformité du fonctionnement des établissements mentionnés aux articles L. 672-10 à L. 672-13 aux conditions techniques
+sanitaires, médicales et financières mentionnées au premier alinéa du présent article ainsi qu'aux bonnes pratiques prévues
+par l'article L. 673-8. A cette fin, ils ont accès aux locaux professionnels.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -46284,9 +47798,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+  - Code de la santé publique - art. L1243-5 (M)
+  - Code de la santé publique - art. L1243-7 (M)
 
 _Cité par_:
 
@@ -46297,9 +47812,19 @@ _Cite_:
 
   - Code de la santé publique - art. L672-10 (M)
   - Code de la santé publique - art. L672-13 (M)
+  - Code de la santé publique - art. L673-8 (M)
+  - Code de la santé publique L672-10, L672-13, L672-10 à L672-13, L673-8
+
+_Modifié par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 30 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-##### Section 5 : Dispositions spécifiques au don et à l'utilisation de gamètes<a id=258></a>
+##### Section 5 : Dispositions spécifiques au don et à l'utilisation de gamètes<a id=270></a>
 
 ###### Article L673-1
 
@@ -46583,7 +48108,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de la santé publique - art. L675-14 (Ab)
 
 
-#### Chapitre 2 bis : De l'Etablissement français des greffes<a id=259></a>
+#### Chapitre 2 bis : De l'Etablissement français des greffes<a id=271></a>
 
 ###### Article L673-8
 
@@ -46706,7 +48231,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L174-2 (M)
 
 
-#### Chapitre 3 : Sanctions pénales et administratives relatives à l'utilisation des éléments et produits du corps humain<a id=260></a>
+#### Chapitre 3 : Sanctions pénales et administratives relatives à l'utilisation des éléments et produits du corps humain<a id=272></a>
 
 ###### Article L674-1
 
@@ -47829,15 +49354,15 @@ _Cité par_:
   - Code de la santé publique - art. L678 (Ab)
 
 
-## Livre 6 : Utilisation thérapeutique de produits d'origine humaine<a id=261></a>
+## Livre 6 : Utilisation thérapeutique de produits d'origine humaine<a id=273></a>
 
-## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires<a id=262></a>
+## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires<a id=274></a>
 
-### Titre 1 : Etablissements de santé<a id=263></a>
+### Titre 1 : Etablissements de santé<a id=275></a>
 
-#### Chapitre 1 A : Principes fondamentaux<a id=264></a>
+#### Chapitre 1 A : Principes fondamentaux<a id=276></a>
 
-##### Section 1 : Des droits du malade accueilli dans un établissement de santé<a id=265></a>
+##### Section 1 : Des droits du malade accueilli dans un établissement de santé<a id=277></a>
 
 ###### Article L710-1
 
@@ -47932,7 +49457,56 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L6113-1 (V)
 
 
-##### Section 2 : De l'évaluation et de l'analyse de l'activité des établissements de santé<a id=266></a>
+###### Article L710-3-1
+
+Les établissements de santé mettent en oeuvre les moyens propres à prendre en charge la douleur des patients qu'ils
+accueillent. Ces moyens sont définis par le projet d'établissement visé à l'article L. 714-11.
+
+Les centres hospitaliers et universitaires assurent, à cet égard, la formation initiale des médecins et diffusent les
+connaissances acquises en vue de permettre la réalisation de cet objectif en ville comme dans les établissements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 31 () JORF 5 février 1995
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1112-4 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-11 (M)
+
+
+###### Article L710-3-2
+
+Les établissements sociaux et médico-sociaux hébergeant notamment des personnes âgées mettent en oeuvre les moyens propres à
+prendre en charge la douleur des personnes qu'ils reçoivent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 32 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Loi n°96-452 du 28 mai 1996 - art. 14 () JORF 29 mai 1996
+
+
+##### Section 2 : De l'évaluation et de l'analyse de l'activité des établissements de santé<a id=278></a>
 
 ###### Article L710-4
 
@@ -48112,9 +49686,9 @@ _Anciens textes_:
   - Code de la santé publique - art. L710-5 (T)
 
 
-#### Chapitre 1 : Missions et obligations des établissements de santé<a id=267></a>
+#### Chapitre 1 : Missions et obligations des établissements de santé<a id=279></a>
 
-##### Section 1 : Dispositions générales<a id=268></a>
+##### Section 1 : Dispositions générales<a id=280></a>
 
 ###### Article L711-1
 
@@ -48320,7 +49894,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L6111-3 (M)
 
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=269></a>
+##### Section 2 : Dispositions propres au service public hospitalier<a id=281></a>
 
 ###### Article L711-3
 
@@ -48774,7 +50348,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L3221-4 (V)
 
 
-##### Section 3 : De la participation du service public hospitalier à l'enseignement médical, odontologique et pharmaceutique<a id=270></a>
+##### Section 3 : De la participation du service public hospitalier à l'enseignement médical, odontologique et pharmaceutique<a id=282></a>
 
 ###### Article L711-12
 
@@ -48941,9 +50515,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L6142-16 (M)
 
 
-#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=271></a>
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=283></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=272></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=284></a>
 
 ###### Article L712-1
 
@@ -49376,7 +50950,7 @@ _Cité par_:
   - Code de la santé publique - art. R712-59 (T)
 
 
-##### Section 2 : Autorisations<a id=273></a>
+##### Section 2 : Autorisations<a id=285></a>
 
 ###### Article L712-8
 
@@ -50074,9 +51648,9 @@ _Nouveaux textes_:
   - SPEC_APPLI: Ordonnance 96-1122 1996-12-20 : les dispositions du présent article sont applicables dans la collectivité territoriale de Mayotte
 
 
-#### Chapitre 3 : Les actions de coopération<a id=274></a>
+#### Chapitre 3 : Les actions de coopération<a id=286></a>
 
-##### Section 1 : Les conférences sanitaires de secteur<a id=275></a>
+##### Section 1 : Les conférences sanitaires de secteur<a id=287></a>
 
 ###### Article L713-1
 
@@ -50199,7 +51773,7 @@ _Cité par_:
   - Code de la santé publique - art. R713-3 (T)
 
 
-##### Section 2 : Les syndicats interhospitaliers<a id=276></a>
+##### Section 2 : Les syndicats interhospitaliers<a id=288></a>
 
 ###### Article L713-5
 
@@ -50478,7 +52052,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L6132-6 (V)
 
 
-##### Section 3 : Conventions de coopération<a id=277></a>
+##### Section 3 : Conventions de coopération<a id=289></a>
 
 ###### Article L713-12
 
@@ -50527,9 +52101,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L6134-1 (V)
 
 
-#### Chapitre 4 : Les établissements publics de santé<a id=278></a>
+#### Chapitre 4 : Les établissements publics de santé<a id=290></a>
 
-##### Section 1 : Organisation administrative et financière<a id=279></a>
+##### Section 1 : Organisation administrative et financière<a id=291></a>
 
 ###### Article L714-1
 
@@ -51330,7 +52904,7 @@ _Cité par_:
   - Code des juridictions financières - art. L233-4 (T)
 
 
-##### Section 2 : Organes représentatifs<a id=280></a>
+##### Section 2 : Organes représentatifs<a id=292></a>
 
 ###### Article L714-16
 
@@ -51585,7 +53159,7 @@ _Cite_:
   - SPEC_APPLI: Ordonnance 96-1122 1996-12-20 : les dispositions du présent article sont applicables dans la collectivité territoriale de Mayotte
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=281></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=293></a>
 
 ###### Article L714-20
 
@@ -52007,7 +53581,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-26-7 (Ab)
 
 
-##### Section 4 : Les personnels des établissements publics de santé<a id=282></a>
+##### Section 4 : Les personnels des établissements publics de santé<a id=294></a>
 
 ###### Article L714-27
 
@@ -52178,7 +53752,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L6152-3 (Ab)
 
 
-##### Section 5 : Dispositions diverses<a id=283></a>
+##### Section 5 : Dispositions diverses<a id=295></a>
 
 ###### Article L714-30
 
@@ -52672,9 +54246,9 @@ _Anciens textes_:
   - Code de la santé publique - art. L724 (T)
 
 
-#### Chapitre 5 : Les établissements de santé privés<a id=284></a>
+#### Chapitre 5 : Les établissements de santé privés<a id=296></a>
 
-##### Section 1 : Dispositions générales<a id=285></a>
+##### Section 1 : Dispositions générales<a id=297></a>
 
 ###### Article L715-1
 
@@ -52793,7 +54367,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L6161-3 (V)
 
 
-##### Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement<a id=286></a>
+##### Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement<a id=298></a>
 
 ###### Article L715-5
 
@@ -53105,7 +54679,7 @@ _Cite_:
   - Code de la santé publique - art. L713-10 (M)
 
 
-##### Section 3 : Dispositions relatives aux établissements de santé privés ne participant pas au service public hospitalier<a id=287></a>
+##### Section 3 : Dispositions relatives aux établissements de santé privés ne participant pas au service public hospitalier<a id=299></a>
 
 ###### Article L715-12
 
@@ -53157,9 +54731,9 @@ _Cite_:
   - Code de la sécurité sociale. - art. L162-22 (M)
 
 
-#### Chapitre 6 : Expérimentations et dispositions diverses<a id=288></a>
+#### Chapitre 6 : Expérimentations et dispositions diverses<a id=300></a>
 
-##### Section 1 : Expérimentations<a id=289></a>
+##### Section 1 : Expérimentations<a id=301></a>
 
 ###### Article L716-1
 
@@ -53249,7 +54823,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-3-21 (M)
 
 
-##### Section 2 : Dispositions diverses<a id=290></a>
+##### Section 2 : Dispositions diverses<a id=302></a>
 
 ###### Article L716-3
 
@@ -53562,11 +55136,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L6161-11 (V)
 
 
-### Titre 2 : Thermo-climatisme<a id=291></a>
+### Titre 2 : Thermo-climatisme<a id=303></a>
 
-#### Chapitre 1 : Sources d'eaux minérales<a id=292></a>
+#### Chapitre 1 : Sources d'eaux minérales<a id=304></a>
 
-##### Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent.<a id=293></a>
+##### Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent.<a id=305></a>
 
 ###### Article L735
 
@@ -54008,7 +55582,7 @@ _Cite_:
   - Code de la santé publique - art. L744 (M)
 
 
-##### Section 2 : Dispositions pénales.<a id=294></a>
+##### Section 2 : Dispositions pénales.<a id=306></a>
 
 ###### Article L747
 
@@ -54159,7 +55733,7 @@ _Anciens textes_:
   - Loi n°1856-07-14 ART. 16
 
 
-##### Section 3 : Modalités d'application.<a id=295></a>
+##### Section 3 : Modalités d'application.<a id=307></a>
 
 ###### Article L751
 
@@ -54210,7 +55784,7 @@ _Anciens textes_:
   - Loi n°1856-07-14 ART. 19
 
 
-#### Chapitre 2 : Stations hydrominérales, climatiques et uvales.<a id=296></a>
+#### Chapitre 2 : Stations hydrominérales, climatiques et uvales.<a id=308></a>
 
 ###### Article L752
 
@@ -54241,11 +55815,11 @@ _Modifié par_:
   - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
 
 
-### Titre 3 : Laboratoires<a id=297></a>
+### Titre 3 : Laboratoires<a id=309></a>
 
-#### Chapitre 1 : Laboratoires d'analyses de biologie médicale<a id=298></a>
+#### Chapitre 1 : Laboratoires d'analyses de biologie médicale<a id=310></a>
 
-##### Section 1 : Conditions de fonctionnement des laboratoires d'analyses de biologie médicale<a id=299></a>
+##### Section 1 : Conditions de fonctionnement des laboratoires d'analyses de biologie médicale<a id=311></a>
 
 ###### Article L753
 
@@ -54253,8 +55827,9 @@ Les laboratoires dans lesquels sont effectuées des analyses de biologie médica
 l'article L. 761-11, répondre aux conditions fixées par le présent chapitre.
 
 Les analyses de biologie médicale sont les examens biologiques qui concourent au diagnostic, au traitement ou à la prévention
-des maladies humaines ou qui font apparaître toute autre modification de l'état physiologique ; les analyses ne peuvent être
-effectuées que dans les laboratoires mentionnés à l'alinéa précédent, sous la responsabilité de leurs directeurs et
+des maladies humaines ou qui font apparaître toute autre modification de l'état physiologique, à l'exclusion des actes
+d'anatomie et de cytologie pathologiques exécutés par les médecins spécialistes de cette discipline. Les analyses ne peuvent
+être effectuées que dans les laboratoires mentionnés à l'alinéa précédent, sous la responsabilité de leurs directeurs et
 directeurs adjoints.
 
 **Nota:**
@@ -54262,11 +55837,9 @@ directeurs adjoints.
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 52 : le présent article du code de la santé publique, en vigueur le 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+[*Nota - Code de la santé publique L. 761-11 : hors champ d'application.*]
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°46-447 1946-03-18 art. 1
 
 _Codifié par_:
 
@@ -54290,7 +55863,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+  - Loi n°95-116 du 4 février 1995 - art. 29 () JORF 5 février 1995
 
 _Nouveaux textes_:
 
@@ -54721,7 +56294,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la santé publique l761-17 : dispositions pénales
 
 
-##### Section 2 : Dispositions applicables aux directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale<a id=300></a>
+##### Section 2 : Dispositions applicables aux directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale<a id=312></a>
 
 ###### Article L761
 
@@ -55262,7 +56835,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
 
 
-##### Section 3 : Dispositions diverses<a id=301></a>
+##### Section 3 : Dispositions diverses<a id=313></a>
 
 ###### Article L761-11
 
@@ -55607,7 +57180,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
 
 
-##### Section 4 : Dispositions pénales<a id=302></a>
+##### Section 4 : Dispositions pénales<a id=314></a>
 
 ###### Article L761-16
 
@@ -55969,7 +57542,7 @@ _Modifié par_:
   - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
 
 
-#### Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales<a id=303></a>
+#### Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales<a id=315></a>
 
 ###### Article L762
 
@@ -56123,11 +57696,11 @@ _Cité par_:
   - Code de la santé publique - art. L764 (Ab)
 
 
-## Livre 8 : Institutions<a id=304></a>
+## Livre 8 : Institutions<a id=316></a>
 
-### Chapitre 1 : Services administratifs locaux<a id=305></a>
+### Chapitre 1 : Services administratifs locaux<a id=317></a>
 
-#### Section 2 : Service communal d'hygiène et de santé.<a id=306></a>
+#### Section 2 : Service communal d'hygiène et de santé.<a id=318></a>
 
 ###### Article L772
 
@@ -56181,7 +57754,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L1422-1 (V)
 
 
-#### SECTION 3 : MODALITES D'APPLICATION.<a id=307></a>
+#### SECTION 3 : MODALITES D'APPLICATION.<a id=319></a>
 
 ###### Article L775
 
@@ -56217,9 +57790,9 @@ _Cite_:
   - Code de la santé publique - art. L772 (M)
 
 
-### CHAPITRE 2 : CONSEILS ET COMMISSIONS<a id=308></a>
+### CHAPITRE 2 : CONSEILS ET COMMISSIONS<a id=320></a>
 
-#### Section 1 : Conseils départementaux d'hygiène et commissions sanitaires<a id=309></a>
+#### Section 1 : Conseils départementaux d'hygiène et commissions sanitaires<a id=321></a>
 
 ###### Article L776
 
@@ -56259,7 +57832,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L1416-1 (V)
 
 
-#### Section 3 : Conseil permanent d'hygiène sociale.<a id=310></a>
+#### Section 3 : Conseil permanent d'hygiène sociale.<a id=322></a>
 
 ###### Article L782
 
@@ -56292,11 +57865,11 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-## Livre IX : Personnel<a id=311></a>
+## Livre IX : Personnel<a id=323></a>
 
-### Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social<a id=312></a>
+### Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social<a id=324></a>
 
-#### Chapitre II : Dispositions organiques<a id=313></a>
+#### Chapitre II : Dispositions organiques<a id=325></a>
 
 ###### Article L803
 
@@ -56765,7 +58338,7 @@ _Abrogé par_:
   - Décret n°98-674 du 30 juillet 1998 - art. 12 (V) JORF 6 août 1998
 
 
-#### Chapitre V : Notation et avancement.<a id=314></a>
+#### Chapitre V : Notation et avancement.<a id=326></a>
 
 ###### Article L818
 
@@ -57006,9 +58579,9 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 2° JORF 22 juin 2000
 
 
-#### Chapitre VII : Positions.<a id=315></a>
+#### Chapitre VII : Positions.<a id=327></a>
 
-##### Section 1 : Activités, congés.<a id=316></a>
+##### Section 1 : Activités, congés.<a id=328></a>
 
 ###### Article L850
 
@@ -57065,7 +58638,7 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-#### Chapitre X : Dispositions diverses et transitoires.<a id=317></a>
+#### Chapitre X : Dispositions diverses et transitoires.<a id=329></a>
 
 ###### Article L895
 
@@ -57097,7 +58670,7 @@ _Abrogé par_:
   - Loi n°96-452 du 28 mai 1996 - art. 22 () JORF 29 mai 1996
 
 
-#### Dispositions finales.<a id=318></a>
+#### Dispositions finales.<a id=330></a>
 
 ###### Article L897
 
@@ -57350,11 +58923,11 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-# Partie réglementaire ancienne<a id=319></a>
+# Partie réglementaire ancienne<a id=331></a>
 
-## Livre 1 : Protection générale de la santé publique<a id=320></a>
+## Livre 1 : Protection générale de la santé publique<a id=332></a>
 
-### Titre 4 : Lutte contre les intoxications<a id=321></a>
+### Titre 4 : Lutte contre les intoxications<a id=333></a>
 
 ###### Article R145-1
 
@@ -57647,11 +59220,11 @@ _Cité par_:
   - Code de la santé publique - art. R145-9 (Ab)
 
 
-## Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales<a id=322></a>
+## Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales<a id=334></a>
 
-### Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale<a id=323></a>
+### Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale<a id=335></a>
 
-#### Chapitre 2 : Organisation et agrément.<a id=324></a>
+#### Chapitre 2 : Organisation et agrément.<a id=336></a>
 
 ###### Article R2009
 
@@ -57743,7 +59316,7 @@ _Cite_:
   - Code de la santé publique - art. R2010 (Ab)
 
 
-#### Chapitre 1 : Constitution<a id=325></a>
+#### Chapitre 1 : Constitution<a id=337></a>
 
 ###### Article R2001
 
@@ -58093,7 +59666,7 @@ _Cite_:
   - Code de la santé publique - art. R2001 (Ab)
 
 
-#### Chapitre 3 : Financement et fonctionnement.<a id=326></a>
+#### Chapitre 3 : Financement et fonctionnement.<a id=338></a>
 
 ###### Article R2012
 
@@ -58355,7 +59928,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1123-23 (M)
 
 
-### Titre 3 : Informations communiquées par l'investigateur au comité consultatif de protection des personnes dans la recherche biomédicale.<a id=327></a>
+### Titre 3 : Informations communiquées par l'investigateur au comité consultatif de protection des personnes dans la recherche biomédicale.<a id=339></a>
 
 ###### Article R2029
 
@@ -58508,7 +60081,7 @@ _Cite_:
   - Code de la santé publique - art. R2030 (Ab)
 
 
-### Titre 2 : Autorisation des lieux de recherches biomédicales sans bénéfice individuel direct<a id=328></a>
+### Titre 2 : Autorisation des lieux de recherches biomédicales sans bénéfice individuel direct<a id=340></a>
 
 ###### Article R2021
 
@@ -58790,7 +60363,7 @@ _Cite_:
   - Code de la santé publique - art. R2027 (M)
 
 
-### Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct.<a id=329></a>
+### Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct.<a id=341></a>
 
 ###### Article R2039
 
@@ -59069,7 +60642,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1124-8 (Ab)
 
 
-### Titre 5 : Dispositions financières.<a id=330></a>
+### Titre 5 : Dispositions financières.<a id=342></a>
 
 ###### Article R2038
 
@@ -59114,7 +60687,7 @@ _Cité par_:
   - Code de la santé publique - art. R5124 (Ab)
 
 
-### Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention.<a id=331></a>
+### Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention.<a id=343></a>
 
 ###### Article R2032
 
@@ -59364,7 +60937,7 @@ _Cite_:
   - Code de la santé publique - art. R2036 (M)
 
 
-### Titre 7 : Assurance des promoteurs de recherches biomédicales<a id=332></a>
+### Titre 7 : Assurance des promoteurs de recherches biomédicales<a id=344></a>
 
 ###### Article R2047
 
@@ -59610,11 +61183,11 @@ _Cite_:
   - Code de la santé publique - art. R2047 (M)
 
 
-## Livre 3 : Lutte contre les fléaux sociaux<a id=333></a>
+## Livre 3 : Lutte contre les fléaux sociaux<a id=345></a>
 
-### Titre 8 : Lutte contre le tabagisme<a id=334></a>
+### Titre 8 : Lutte contre le tabagisme<a id=346></a>
 
-#### Chapitre 1 : Interdiction de fumer dans les lieux affectés à un usage collectif.<a id=335></a>
+#### Chapitre 1 : Interdiction de fumer dans les lieux affectés à un usage collectif.<a id=347></a>
 
 ###### Article R355-28-1
 
@@ -60115,9 +61688,9 @@ _Cite_:
   - Décret n°1942-03-22 art. 74-1
 
 
-## Livre 5 : Pharmacie<a id=336></a>
+## Livre 5 : Pharmacie<a id=348></a>
 
-### Titre 1 : Dispositions générales<a id=337></a>
+### Titre 1 : Dispositions générales<a id=349></a>
 
 ###### Article R5000
 
@@ -60194,11 +61767,11 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5145-1 (T)
 
 
-#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=338></a>
+#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=350></a>
 
-##### Section 1 : Pharmacopée et formulaire<a id=339></a>
+##### Section 1 : Pharmacopée et formulaire<a id=351></a>
 
-##### Paragraphe 1 : Pharmacopée<a id=340></a>
+##### Paragraphe 1 : Pharmacopée<a id=352></a>
 
 ###### Article R5001
 
@@ -60478,7 +62051,7 @@ _Modifié par_:
   - Décret n°85-1297 1985-12-03 art. 3 JORF 5 décembre 1985
 
 
-##### Paragraphe 2 : Formulaire<a id=341></a>
+##### Paragraphe 2 : Formulaire<a id=353></a>
 
 ###### Article R5006
 
@@ -60542,7 +62115,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5112-5 (V)
 
 
-##### Section 3 : Pharmaciens assistants<a id=342></a>
+##### Section 3 : Pharmaciens assistants<a id=354></a>
 
 ###### Article R5008
 
@@ -60682,7 +62255,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-38 (V)
 
 
-##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.<a id=343></a>
+##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.<a id=355></a>
 
 ###### Article R*5013
 
@@ -60756,9 +62329,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4221-12 (T)
 
 
-#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=344></a>
+#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=356></a>
 
-##### Section 1 : Organisation<a id=345></a>
+##### Section 1 : Organisation<a id=357></a>
 
 ###### Article R5014
 
@@ -60788,9 +62361,9 @@ _Abrogé par_:
   - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 
-##### Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens<a id=346></a>
+##### Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens<a id=358></a>
 
-##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux<a id=347></a>
+##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux<a id=359></a>
 
 ###### Article R*5017
 
@@ -61131,7 +62704,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4234-1 (V)
 
 
-##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.<a id=348></a>
+##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.<a id=360></a>
 
 ###### Article R*5029
 
@@ -61457,7 +63030,7 @@ _Codifié par_:
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=349></a>
+##### Paragraphe 3 : Dispositions communes.<a id=361></a>
 
 ###### Article R*5042
 
@@ -61505,7 +63078,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4234-28 (T)
 
 
-##### Section 2 : Déontologie pharmaceutique<a id=350></a>
+##### Section 2 : Déontologie pharmaceutique<a id=362></a>
 
 ###### Article R*5015-1
 
@@ -61546,9 +63119,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-1 (V)
 
 
-##### Paragraphe 1 : Devoirs généraux des pharmaciens<a id=351></a>
+##### Paragraphe 1 : Devoirs généraux des pharmaciens<a id=363></a>
 
-##### 1) Dispositions générales.<a id=352></a>
+##### 1) Dispositions générales.<a id=364></a>
 
 ###### Article R*5015-2
 
@@ -61592,7 +63165,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-3 (V)
 
 
-##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.<a id=353></a>
+##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.<a id=365></a>
 
 ###### Article R*5015-4
 
@@ -61738,7 +63311,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-10 (V)
 
 
-##### 3) De la responsabilité et de l'indépendance des pharmaciens.<a id=354></a>
+##### 3) De la responsabilité et de l'indépendance des pharmaciens.<a id=366></a>
 
 ###### Article R*5015-11
 
@@ -62003,7 +63576,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-22 (V)
 
 
-##### 4) De la tenue des établissements pharmaceutiques.<a id=355></a>
+##### 4) De la tenue des établissements pharmaceutiques.<a id=367></a>
 
 ###### Article R*5015-23
 
@@ -62068,9 +63641,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-25 (V)
 
 
-##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle<a id=356></a>
+##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle<a id=368></a>
 
-##### 1) De la publicité.<a id=357></a>
+##### 1) De la publicité.<a id=369></a>
 
 ###### Article R*5015-26
 
@@ -62173,7 +63746,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-29 (V)
 
 
-##### 2) De la concurrence déloyale.<a id=358></a>
+##### 2) De la concurrence déloyale.<a id=370></a>
 
 ###### Article R*5015-30
 
@@ -62262,7 +63835,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-33 (V)
 
 
-##### 3) Prohibition de certaines conventions ou ententes<a id=359></a>
+##### 3) Prohibition de certaines conventions ou ententes<a id=371></a>
 
 ###### Article R*5015-34
 
@@ -62395,7 +63968,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-38 (V)
 
 
-##### Paragraphe 3 : Relations avec des agents de l'administration.<a id=360></a>
+##### Paragraphe 3 : Relations avec des agents de l'administration.<a id=372></a>
 
 ###### Article R*5015-39
 
@@ -62484,7 +64057,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-42 (V)
 
 
-##### Paragraphe 4 : Des règles à observer dans les relations avec le public.<a id=361></a>
+##### Paragraphe 4 : Des règles à observer dans les relations avec le public.<a id=373></a>
 
 ###### Article R*5015-43
 
@@ -62591,9 +64164,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-47 (V)
 
 
-##### Paragraphe 5 : Relations avec les membres des professions médicales<a id=362></a>
+##### Paragraphe 5 : Relations avec les membres des professions médicales<a id=374></a>
 
-##### 1) Relations avec les membres des professions non pharmaceutiques.<a id=363></a>
+##### 1) Relations avec les membres des professions non pharmaceutiques.<a id=375></a>
 
 ###### Article R*5015-48
 
@@ -62726,7 +64299,7 @@ _Cité par_:
   - Code de la santé publique - art. R5053-3 (Ab)
 
 
-##### 2) Relations des pharmaciens avec leurs collaborateurs.<a id=364></a>
+##### 2) Relations des pharmaciens avec leurs collaborateurs.<a id=376></a>
 
 ###### Article R*5015-53
 
@@ -62789,7 +64362,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-55 (V)
 
 
-##### 3) Devoirs des maîtres de stage.<a id=365></a>
+##### 3) Devoirs des maîtres de stage.<a id=377></a>
 
 ###### Article R*5015-56
 
@@ -62863,7 +64436,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-59 (V)
 
 
-##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.<a id=366></a>
+##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.<a id=378></a>
 
 ###### Article R*5015-59
 
@@ -62892,7 +64465,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-60 (V)
 
 
-##### 5) Devoirs de confraternité.<a id=367></a>
+##### 5) Devoirs de confraternité.<a id=379></a>
 
 ###### Article R*5015-60
 
@@ -63002,7 +64575,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-64 (V)
 
 
-##### Section 1 bis : Inscription au tableau<a id=368></a>
+##### Section 1 bis : Inscription au tableau<a id=380></a>
 
 ###### Article R5014-1
 
@@ -63206,9 +64779,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4222-4 (V)
 
 
-#### Chapitre 4 : Réglementation de la publicité<a id=369></a>
+#### Chapitre 4 : Réglementation de la publicité<a id=381></a>
 
-##### Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551.<a id=370></a>
+##### Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551.<a id=382></a>
 
 ###### Article R5047
 
@@ -63543,7 +65116,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5134-11 (V)
 
 
-##### Section 1 : Dispositions générales.<a id=371></a>
+##### Section 1 : Dispositions générales.<a id=383></a>
 
 ###### Article R5045
 
@@ -63749,7 +65322,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-5 (V)
 
 
-##### Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement<a id=372></a>
+##### Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement<a id=384></a>
 
 ###### Article R5055
 
@@ -63962,7 +65535,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-24 (Ab)
 
 
-##### Section 4 : Publicité en faveur des établissements pharmaceutiques.<a id=373></a>
+##### Section 4 : Publicité en faveur des établissements pharmaceutiques.<a id=385></a>
 
 ###### Article R5053
 
@@ -63987,7 +65560,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-65 (V)
 
 
-##### Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments<a id=374></a>
+##### Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments<a id=386></a>
 
 ###### Article R5054
 
@@ -64213,7 +65786,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-47 (Ab)
 
 
-##### Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art.<a id=375></a>
+##### Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art.<a id=387></a>
 
 ###### Article R5052
 
@@ -64354,9 +65927,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-22 (V)
 
 
-#### Chapitre 5 : De l'inspection<a id=376></a>
+#### Chapitre 5 : De l'inspection<a id=388></a>
 
-##### Section 1 : Contrôle exercé par les inspecteurs de pharmacie et les inspecteurs de l'Agence du médicament<a id=377></a>
+##### Section 1 : Contrôle exercé par les inspecteurs de pharmacie et les inspecteurs de l'Agence du médicament<a id=389></a>
 
 ###### Article R5056
 
@@ -64558,9 +66131,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-3 (V)
 
 
-##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques<a id=378></a>
+##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques<a id=390></a>
 
-##### Paragraphe 2 : Prélèvements d'échantillons<a id=379></a>
+##### Paragraphe 2 : Prélèvements d'échantillons<a id=391></a>
 
 ###### Article R5061
 
@@ -64888,7 +66461,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-18 (V)
 
 
-##### Paragraphe 1 : Généralités<a id=380></a>
+##### Paragraphe 1 : Généralités<a id=392></a>
 
 ###### Article R5060
 
@@ -64921,7 +66494,7 @@ _Cite_:
   - Code de la santé publique - art. R5059 (M)
 
 
-##### Paragraphe 3 : Analyse des échantillons prélevés et suites administratives<a id=381></a>
+##### Paragraphe 3 : Analyse des échantillons prélevés et suites administratives<a id=393></a>
 
 ###### Article R5071
 
@@ -65049,7 +66622,7 @@ _Cite_:
   - Code de la santé publique - art. R5071 (M)
 
 
-##### Paragraphe 4 : Saisies<a id=382></a>
+##### Paragraphe 4 : Saisies<a id=394></a>
 
 ###### Article R5076
 
@@ -65125,7 +66698,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-19 (V)
 
 
-##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire<a id=383></a>
+##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire<a id=395></a>
 
 ###### Article R5079
 
@@ -65342,7 +66915,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-27 (V)
 
 
-##### Paragraphe 6 : Dispositions diverses<a id=384></a>
+##### Paragraphe 6 : Dispositions diverses<a id=396></a>
 
 ###### Article R5087
 
@@ -65420,13 +66993,13 @@ _Cite_:
   - Code de la santé publique - art. R5073 (M)
 
 
-### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=385></a>
+### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=397></a>
 
-#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine<a id=386></a>
+#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine<a id=398></a>
 
-##### Section 1 : Des officines de pharmacie<a id=387></a>
+##### Section 1 : Des officines de pharmacie<a id=399></a>
 
-##### Paragraphe 3 : Délivrance des médicaments<a id=388></a>
+##### Paragraphe 3 : Délivrance des médicaments<a id=400></a>
 
 ###### Article R5092
 
@@ -65482,7 +67055,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-46 (V)
 
 
-##### Paragraphe 5 : Médicaments spécialisés de l'officine<a id=389></a>
+##### Paragraphe 5 : Médicaments spécialisés de l'officine<a id=401></a>
 
 ###### Article R5097
 
@@ -65557,7 +67130,7 @@ _Modifié par_:
   - Décret n°60-326 1960-04-05 art. 2 JORF 7 avril 1960
 
 
-##### Paragraphe 4 : Remèdes secrets<a id=390></a>
+##### Paragraphe 4 : Remèdes secrets<a id=402></a>
 
 ###### Article R5094
 
@@ -65664,7 +67237,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-59 (V)
 
 
-##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes<a id=391></a>
+##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes<a id=403></a>
 
 ###### Article R5091
 
@@ -65962,7 +67535,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-25 (V)
 
 
-##### Paragraphe 1 : Exploitation des officines<a id=392></a>
+##### Paragraphe 1 : Exploitation des officines<a id=404></a>
 
 ###### Article R5090
 
@@ -66370,7 +67943,7 @@ _Cité par_:
   - Décret n°2004-802 du 29 juillet 2004 - art. 4 (V)
 
 
-##### Paragraphe 6 : Produits officinaux divisés<a id=393></a>
+##### Paragraphe 6 : Produits officinaux divisés<a id=405></a>
 
 ###### Article R5098-1
 
@@ -66440,9 +68013,9 @@ _Créé par_:
   - Décret n°62-509 1962-04-13 art. 1 JORF 19 avril 1962
 
 
-##### Section 2 : Exercice personnel de la profession<a id=394></a>
+##### Section 2 : Exercice personnel de la profession<a id=406></a>
 
-##### Paragraphe 1 : Assistance par des pharmaciens<a id=395></a>
+##### Paragraphe 1 : Assistance par des pharmaciens<a id=407></a>
 
 ###### Article R5099
 
@@ -66466,7 +68039,7 @@ _Cite_:
   - Code de la santé publique L579, R5008 à R5011
 
 
-##### Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis<a id=396></a>
+##### Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis<a id=408></a>
 
 ###### Article R5100
 
@@ -66677,11 +68250,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-43 (V)
 
 
-#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=397></a>
+#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=409></a>
 
-##### Section 1 : Des établissements de préparation et de vente en gros<a id=398></a>
+##### Section 1 : Des établissements de préparation et de vente en gros<a id=410></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=399></a>
+##### Paragraphe 1 : Dispositions générales.<a id=411></a>
 
 ###### Article R5105
 
@@ -67102,7 +68675,7 @@ _Cite_:
   - Code de la santé publique - art. L598 (M)
 
 
-##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=400></a>
+##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=412></a>
 
 ###### Article R5113
 
@@ -67247,7 +68820,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-37 (V)
 
 
-##### Paragraphe 4 : Dispositions d'exécution.<a id=401></a>
+##### Paragraphe 4 : Dispositions d'exécution.<a id=413></a>
 
 ###### Article R5116
 
@@ -67283,9 +68856,9 @@ _Cite_:
   - Code de la santé publique - art. R5113-2 (M)
 
 
-##### Paragraphe 3 : Fonctionnement des établissements<a id=402></a>
+##### Paragraphe 3 : Fonctionnement des établissements<a id=414></a>
 
-##### 1° Exercice personnel de la profession.<a id=403></a>
+##### 1° Exercice personnel de la profession.<a id=415></a>
 
 ###### Article R5114-1
 
@@ -67521,7 +69094,7 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=404></a>
+##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=416></a>
 
 ###### Article R5115-1
 
@@ -67916,9 +69489,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-56 (V)
 
 
-##### Section 2 : Médicaments et produits soumis à autorisation<a id=405></a>
+##### Section 2 : Médicaments et produits soumis à autorisation<a id=417></a>
 
-##### Paragraphe 1 : Expérimentation des médicaments<a id=406></a>
+##### Paragraphe 1 : Expérimentation des médicaments<a id=418></a>
 
 ###### Article R5117
 
@@ -68485,7 +70058,7 @@ _Cite_:
   - Code de la santé publique - art. R5122 (M)
 
 
-##### Paragraphe 2 : Autorisation de mise sur le marché<a id=407></a>
+##### Paragraphe 2 : Autorisation de mise sur le marché<a id=419></a>
 
 ###### Article R5128
 
@@ -69797,7 +71370,7 @@ _Cite_:
   - Code de la santé publique R5060 à R5089
 
 
-##### Paragraphe 3 : Etiquetage des médicaments ou produits soumis à autorisation<a id=408></a>
+##### Paragraphe 3 : Etiquetage des médicaments ou produits soumis à autorisation<a id=420></a>
 
 ###### Article R5143
 
@@ -70011,7 +71584,7 @@ _Cite_:
   - Code de la santé publique - art. R5143 (M)
 
 
-##### Paragraphe 5 : Dispositions diverses<a id=409></a>
+##### Paragraphe 5 : Dispositions diverses<a id=421></a>
 
 ###### Article R5144
 
@@ -70045,7 +71618,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5121-202 (V)
 
 
-##### Paragraphe 4 : Notice des médicaments ou produits soumis à autorisation<a id=410></a>
+##### Paragraphe 4 : Notice des médicaments ou produits soumis à autorisation<a id=422></a>
 
 ###### Article R5143-4
 
@@ -70184,7 +71757,7 @@ _Créé par_:
   - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 
-##### Paragraphe 5 : Médicaments soumis à prescription restreinte<a id=411></a>
+##### Paragraphe 5 : Médicaments soumis à prescription restreinte<a id=423></a>
 
 ###### Article R5143-5-1
 
@@ -70518,7 +72091,7 @@ _Cité par_:
   - Code de la santé publique - art. R5208 (Ab)
 
 
-##### Paragraphe 6 : Dispositions diverses<a id=412></a>
+##### Paragraphe 6 : Dispositions diverses<a id=424></a>
 
 ###### Article R5143-6
 
@@ -70588,9 +72161,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5143-27 (M)
 
 
-##### Paragraphe 2 bis : Importation et exportation des médicaments<a id=413></a>
+##### Paragraphe 2 bis : Importation et exportation des médicaments<a id=425></a>
 
-##### Importation<a id=414></a>
+##### Importation<a id=426></a>
 
 ###### Article R5142-11
 
@@ -70726,7 +72299,7 @@ _Cite_:
   - Code de la santé publique - art. L601-2 (M)
 
 
-##### Exportation<a id=415></a>
+##### Exportation<a id=427></a>
 
 ###### Article R5142-16
 
@@ -70833,7 +72406,7 @@ _Cite_:
   - Code de la santé publique - art. L603 (M)
 
 
-##### Dispositions applicables aux médicaments classés comme stupéfiants ou psychotropes<a id=416></a>
+##### Dispositions applicables aux médicaments classés comme stupéfiants ou psychotropes<a id=428></a>
 
 ###### Article R5142-19
 
@@ -70864,7 +72437,7 @@ _Cite_:
   - Code de la santé publique - art. R5209 (M)
 
 
-##### Paragraphe 2 ter : Autorisation temporaire d'utilisation<a id=417></a>
+##### Paragraphe 2 ter : Autorisation temporaire d'utilisation<a id=429></a>
 
 ###### Article R5142-20
 
@@ -71225,9 +72798,9 @@ _Créé par_:
   - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
 
 
-#### CHAPITRE 3 : PHARMACIE VETERINAIRE<a id=418></a>
+#### CHAPITRE 3 : PHARMACIE VETERINAIRE<a id=430></a>
 
-##### DISPOSITIONS GENERALES.<a id=419></a>
+##### DISPOSITIONS GENERALES.<a id=431></a>
 
 ###### Article R5145
 
@@ -71279,7 +72852,7 @@ _Cité par_:
   - Code de la santé publique - art. R5163 (M)
 
 
-##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.<a id=420></a>
+##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.<a id=432></a>
 
 ###### Article R5146
 
@@ -71303,7 +72876,7 @@ _Abrogé par_:
   - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
 
 
-##### Paragraphe 1 : Autorisation administrative.<a id=421></a>
+##### Paragraphe 1 : Autorisation administrative.<a id=433></a>
 
 ###### Article R5146-1
 
@@ -71436,7 +73009,7 @@ _Cite_:
   - Code de la santé publique L616, R5146-1
 
 
-##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.<a id=422></a>
+##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.<a id=434></a>
 
 ###### Article R5146-6
 
@@ -71583,7 +73156,7 @@ _Cité par_:
   - Code de la santé publique - art. R5146-17 bis (Ab)
 
 
-##### Paragraphe 3 : Fonctionnement des établissements<a id=423></a>
+##### Paragraphe 3 : Fonctionnement des établissements<a id=435></a>
 
 ###### Article R5146-10
 
@@ -71963,9 +73536,9 @@ _Cité par_:
   - Arrêté du 5 mai 1997 - art. 1 (Ab)
 
 
-##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=424></a>
+##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=436></a>
 
-##### Paragraphe 1 : Expérimentation des médicaments vétérinaires.<a id=425></a>
+##### Paragraphe 1 : Expérimentation des médicaments vétérinaires.<a id=437></a>
 
 ###### Article R5146-18
 
@@ -72274,7 +73847,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-18 (M)
 
 
-##### Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché<a id=426></a>
+##### Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché<a id=438></a>
 
 ###### Article R5146-26
 
@@ -72622,7 +74195,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5146-28 (M)
 
 
-##### Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché.<a id=427></a>
+##### Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché.<a id=439></a>
 
 ###### Article R5146-33
 
@@ -73249,7 +74822,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-38 (M)
 
 
-##### Paragraphe 4 : Prélèvements d'échantillons.<a id=428></a>
+##### Paragraphe 4 : Prélèvements d'échantillons.<a id=440></a>
 
 ###### Article R5146-40
 
@@ -73311,7 +74884,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-29 (M)
 
 
-##### Section 3 : Réglementation de la publicité.<a id=429></a>
+##### Section 3 : Réglementation de la publicité.<a id=441></a>
 
 ###### Article R5146-42
 
@@ -73571,7 +75144,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
 
 
-##### SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES.<a id=430></a>
+##### SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES.<a id=442></a>
 
 ###### Article R5146-49
 
@@ -73738,7 +75311,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
 
 
-##### SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS.<a id=431></a>
+##### SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS.<a id=443></a>
 
 ###### Article R5146-51
 
@@ -74174,7 +75747,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5141-124 (M)
 
 
-##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.<a id=432></a>
+##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.<a id=444></a>
 
 ###### Article R5146-56
 
@@ -74207,7 +75780,7 @@ _Nouveaux textes_:
   - Code de la santé publique R5143-5
 
 
-##### Section 6 bis : Dispositions particulières relatives au contrôle<a id=433></a>
+##### Section 6 bis : Dispositions particulières relatives au contrôle<a id=445></a>
 
 ###### Article R5146-56-1
 
@@ -74242,7 +75815,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5146-1 (V)
 
 
-##### SECTION 7 : SANCTIONS.<a id=434></a>
+##### SECTION 7 : SANCTIONS.<a id=446></a>
 
 ###### Article R5146-57
 
@@ -74291,9 +75864,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5442-5 (V)
 
 
-#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=435></a>
+#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=447></a>
 
-##### Section 3 : Dispositions communes.<a id=436></a>
+##### Section 3 : Dispositions communes.<a id=448></a>
 
 ###### Article R5147
 
@@ -74449,9 +76022,9 @@ _Créé par_:
   - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
 
 
-#### Chapitre 2 bis : Pharmacovigilance<a id=437></a>
+#### Chapitre 2 bis : Pharmacovigilance<a id=449></a>
 
-##### Section 1 : Organisation de la pharmacovigilance.<a id=438></a>
+##### Section 1 : Organisation de la pharmacovigilance.<a id=450></a>
 
 ###### Article R5144-1
 
@@ -74707,7 +76280,7 @@ _Cite_:
   - Code de la santé publique - art. R5144-8 (M)
 
 
-##### Section 2 : Déclarations obligatoires.<a id=439></a>
+##### Section 2 : Déclarations obligatoires.<a id=451></a>
 
 ###### Article R5144-8
 
@@ -74803,9 +76376,9 @@ _Cite_:
   - Code de la santé publique - art. R5144-9 (M)
 
 
-### Titre 1 bis : Agence du médicament<a id=440></a>
+### Titre 1 bis : Agence du médicament<a id=452></a>
 
-#### Chapitre 1 : Dispositions générales<a id=441></a>
+#### Chapitre 1 : Dispositions générales<a id=453></a>
 
 ###### Article R5089-1
 
@@ -74882,7 +76455,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-2 (V)
 
 
-#### Chapitre 2 : Conseil d'administration<a id=442></a>
+#### Chapitre 2 : Conseil d'administration<a id=454></a>
 
 ###### Article R5089-3
 
@@ -75223,7 +76796,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-11 (V)
 
 
-#### Chapitre 3 : Le directeur général de l'agence<a id=443></a>
+#### Chapitre 3 : Le directeur général de l'agence<a id=455></a>
 
 ###### Article R5089-12
 
@@ -75335,7 +76908,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L162-38 (M)
 
 
-#### Chapitre 4 : Le conseil scientifique<a id=444></a>
+#### Chapitre 4 : Le conseil scientifique<a id=456></a>
 
 ###### Article R5089-15
 
@@ -75421,7 +76994,7 @@ _Abrogé par_:
   - Décret n°99-142 du 4 mars 1999 - art. 7 () JORF 5 mars 1999
 
 
-#### Chapitre 5 : Les inspecteurs et les missions d'inspection de l'Agence du médicament<a id=445></a>
+#### Chapitre 5 : Les inspecteurs et les missions d'inspection de l'Agence du médicament<a id=457></a>
 
 ###### Article R5089-16
 
@@ -75567,7 +77140,7 @@ _Abrogé par_:
   - Décret n°99-142 du 4 mars 1999 - art. 7 () JORF 5 mars 1999
 
 
-#### Chapitre 6 : Dispositions financières et comptables<a id=446></a>
+#### Chapitre 6 : Dispositions financières et comptables<a id=458></a>
 
 ###### Article R5089-21
 
@@ -75771,7 +77344,7 @@ _Cite_:
   - Code de la santé publique - art. R5089-24-1 (Ab)
 
 
-#### Chapitre 7 : Dispositions relatives au personnel<a id=447></a>
+#### Chapitre 7 : Dispositions relatives au personnel<a id=459></a>
 
 ###### Article R5089-25
 
@@ -75825,11 +77398,11 @@ _Abrogé par_:
   - Décret n°99-142 du 4 mars 1999 - art. 7 () JORF 5 mars 1999
 
 
-### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=448></a>
+### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=460></a>
 
-#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=449></a>
+#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=461></a>
 
-##### SECTION 1 : GENERALITES.<a id=450></a>
+##### SECTION 1 : GENERALITES.<a id=462></a>
 
 ###### Article R5149
 
@@ -75882,9 +77455,9 @@ _Cite_:
   - Code de la santé publique - art. R5152 (M)
 
 
-##### Section 2 : Substances dangereuses, stupéfiantes ou psychotropes<a id=451></a>
+##### Section 2 : Substances dangereuses, stupéfiantes ou psychotropes<a id=463></a>
 
-##### 1 : Dispositions communes.<a id=452></a>
+##### 1 : Dispositions communes.<a id=464></a>
 
 ###### Article R5150
 
@@ -75960,7 +77533,7 @@ _Cite_:
   - Code de la santé publique - art. R5182 (M)
 
 
-##### 2 : Substances dangereuses.<a id=453></a>
+##### 2 : Substances dangereuses.<a id=465></a>
 
 ###### Article R5152
 
@@ -77407,7 +78980,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
-##### 3 : Substances stupéfiantes.<a id=454></a>
+##### 3 : Substances stupéfiantes.<a id=466></a>
 
 ###### Article R5171
 
@@ -78003,7 +79576,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
-##### 4 : Substances psychotropes.<a id=455></a>
+##### 4 : Substances psychotropes.<a id=467></a>
 
 ###### Article R5183
 
@@ -78373,9 +79946,9 @@ _Cite_:
   - Code de la santé publique - art. R5182 (M)
 
 
-##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact<a id=456></a>
+##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact<a id=468></a>
 
-##### 1) Dispositions communes.<a id=457></a>
+##### 1) Dispositions communes.<a id=469></a>
 
 ###### Article R5190
 
@@ -79189,7 +80762,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-42 (V)
 
 
-##### 3) Régime particulier des stupéfiants.<a id=458></a>
+##### 3) Régime particulier des stupéfiants.<a id=470></a>
 
 ###### Article R5209
 
@@ -79777,7 +81350,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-##### 2) Régime particulier des listes 1 et 2.<a id=459></a>
+##### 2) Régime particulier des listes 1 et 2.<a id=471></a>
 
 ###### Article R5204
 
@@ -80062,7 +81635,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-##### 4) Régime particulier des psychotropes.<a id=460></a>
+##### 4) Régime particulier des psychotropes.<a id=472></a>
 
 ###### Article R5219
 
@@ -80133,7 +81706,7 @@ _Anciens textes_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=461></a>
+#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=473></a>
 
 ###### Article R5220
 
@@ -80245,7 +81818,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=462></a>
+#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=474></a>
 
 ###### Article R5230
 
@@ -81151,7 +82724,7 @@ _Cite_:
   - Code de la santé publique - art. R5235 (M)
 
 
-#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=463></a>
+#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=475></a>
 
 ###### Article R5242
 
@@ -81214,7 +82787,7 @@ _Cite_:
   - Code de la santé publique - art. L645 (Ab)
 
 
-#### Chapitre 7 : Biberons à tube et tétines.<a id=464></a>
+#### Chapitre 7 : Biberons à tube et tétines.<a id=476></a>
 
 ###### Article R5262
 
@@ -81375,7 +82948,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=465></a>
+#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=477></a>
 
 ###### Article R5266-1
 
@@ -81919,9 +83492,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5136-18 (V)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=466></a>
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=478></a>
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=467></a>
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=479></a>
 
 ###### Article R5267
 
@@ -81976,7 +83549,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=468></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=480></a>
 
 ###### Article R5269
 
@@ -82069,7 +83642,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 5 : Homologation de certains produits et appareils.<a id=469></a>
+#### Chapitre 5 : Homologation de certains produits et appareils.<a id=481></a>
 
 ###### Article R5274
 
@@ -82532,15 +84105,15 @@ _Cite_:
   - Code de la santé publique - art. R5274 (Ab)
 
 
-## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=470></a>
+## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=482></a>
 
-### Titre 2 : Du sang humain<a id=471></a>
+### Titre 2 : Du sang humain<a id=483></a>
 
-#### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=472></a>
+#### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=484></a>
 
-##### Section 1 : Hémovigilance<a id=473></a>
+##### Section 1 : Hémovigilance<a id=485></a>
 
-##### Sous-section 1 : Dispositions générales<a id=474></a>
+##### Sous-section 1 : Dispositions générales<a id=486></a>
 
 ###### Article R666-12-1
 
@@ -82662,7 +84235,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1221-19 (M)
 
 
-##### Sous-section 2 : Modalités de distribution des produits sanguins labiles<a id=475></a>
+##### Sous-section 2 : Modalités de distribution des produits sanguins labiles<a id=487></a>
 
 ###### Article R666-12-5
 
@@ -82840,7 +84413,7 @@ _Cite_:
   - Code de la santé publique - art. L716-3 (M)
 
 
-##### Sous-section 3 : Rôle des établissements de transfusion sanguine distributeurs<a id=476></a>
+##### Sous-section 3 : Rôle des établissements de transfusion sanguine distributeurs<a id=488></a>
 
 ###### Article R666-12-11
 
@@ -82951,7 +84524,7 @@ _Cité par_:
   - Code de la santé publique - art. R666-12-21 (Ab)
 
 
-##### Sous-section 4 : Rôle des établissements de santé<a id=477></a>
+##### Sous-section 4 : Rôle des établissements de santé<a id=489></a>
 
 ###### Article R666-12-13
 
@@ -83212,7 +84785,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1221-35 (V)
 
 
-##### Sous-section 5 : Les coordonnateurs régionaux de l'hémovigilance<a id=478></a>
+##### Sous-section 5 : Les coordonnateurs régionaux de l'hémovigilance<a id=490></a>
 
 ###### Article R666-12-20
 
@@ -83349,7 +84922,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1221-39 (V)
 
 
-##### Sous-section 6 : Déclaration d'incident transfusionnel<a id=479></a>
+##### Sous-section 6 : Déclaration d'incident transfusionnel<a id=491></a>
 
 ###### Article R666-12-25
 
@@ -83402,9 +84975,9 @@ _Cité par_:
   - Code de la santé publique - art. R666-12-2 (Ab)
 
 
-#### Chapitre 2 : Organisation et fonctionnement de l'Agence française du sang<a id=480></a>
+#### Chapitre 2 : Organisation et fonctionnement de l'Agence française du sang<a id=492></a>
 
-##### Section 1 : Dispositions générales<a id=481></a>
+##### Section 1 : Dispositions générales<a id=493></a>
 
 ###### Article R667-1
 
@@ -83497,9 +85070,9 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-##### Section 2 : Organisation générale<a id=482></a>
+##### Section 2 : Organisation générale<a id=494></a>
 
-##### Sous-section 1 : Le conseil d'administration<a id=483></a>
+##### Sous-section 1 : Le conseil d'administration<a id=495></a>
 
 ###### Article R667-3
 
@@ -84045,7 +85618,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-##### Sous-section 2 : Le président de l'Agence française du sang<a id=484></a>
+##### Sous-section 2 : Le président de l'Agence française du sang<a id=496></a>
 
 ###### Article R667-13
 
@@ -84185,7 +85758,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-##### Sous-section 3 : Le conseil scientifique<a id=485></a>
+##### Sous-section 3 : Le conseil scientifique<a id=497></a>
 
 ###### Article R667-16
 
@@ -84390,7 +85963,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-##### Sous-section 4 : Le comité d'orientation<a id=486></a>
+##### Sous-section 4 : Le comité d'orientation<a id=498></a>
 
 ###### Article R667-21
 
@@ -84635,7 +86208,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-##### Sous-section 5 : Le directeur de l'Agence française du sang<a id=487></a>
+##### Sous-section 5 : Le directeur de l'Agence française du sang<a id=499></a>
 
 ###### Article R667-26
 
@@ -84725,7 +86298,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-##### Sous-section 6 : Les inspecteurs et les missions d'inspection de l'Agence française du sang<a id=488></a>
+##### Sous-section 6 : Les inspecteurs et les missions d'inspection de l'Agence française du sang<a id=500></a>
 
 ###### Article R667-28
 
@@ -84927,9 +86500,9 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-##### Section 3 : Dispositions financières et comptables<a id=489></a>
+##### Section 3 : Dispositions financières et comptables<a id=501></a>
 
-##### Sous-section 1 : Dispositions générales<a id=490></a>
+##### Sous-section 1 : Dispositions générales<a id=502></a>
 
 ###### Article R667-33
 
@@ -85085,7 +86658,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-##### Sous-section 2 : La dotation globale de l'Agence française du sang<a id=491></a>
+##### Sous-section 2 : La dotation globale de l'Agence française du sang<a id=503></a>
 
 ###### Article R667-37
 
@@ -85241,7 +86814,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. R174-1-4 (M)
 
 
-##### Sous-section 3 : Dispositions relatives au fonds d'orientation de la transfusion sanguine<a id=492></a>
+##### Sous-section 3 : Dispositions relatives au fonds d'orientation de la transfusion sanguine<a id=504></a>
 
 ###### Article R667-41
 
@@ -85321,7 +86894,7 @@ _Cite_:
   - Code de la santé publique - art. R667-9 (M)
 
 
-##### Section 4 : Dispositions diverses<a id=493></a>
+##### Section 4 : Dispositions diverses<a id=505></a>
 
 ###### Article R667-43
 
@@ -85440,11 +87013,11 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R667-9 (Ab)
 
 
-#### Chapitre 3 : Des établissements de transfusion sanguine<a id=494></a>
+#### Chapitre 3 : Des établissements de transfusion sanguine<a id=506></a>
 
-##### Section 1 : Des organismes agréés en qualité d'établissement de transfusion sanguine<a id=495></a>
+##### Section 1 : Des organismes agréés en qualité d'établissement de transfusion sanguine<a id=507></a>
 
-##### Sous-section 1 : Des associations agréées en qualité d'établissement de transfusion sanguine<a id=496></a>
+##### Sous-section 1 : Des associations agréées en qualité d'établissement de transfusion sanguine<a id=508></a>
 
 ###### Article R668-1-1
 
@@ -85477,7 +87050,7 @@ _Anciens textes_:
   - Code de la santé publique - art. R668-1 (T)
 
 
-##### Sous-section 2 : Des groupements d'intérêt public agréés en qualité d'établissement de transfusion sanguine<a id=497></a>
+##### Sous-section 2 : Des groupements d'intérêt public agréés en qualité d'établissement de transfusion sanguine<a id=509></a>
 
 ###### Article R668-1-2
 
@@ -85705,7 +87278,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R668-1-4 (M)
 
 
-##### Section 2 : De l'agrément des établissements de transfusion sanguine<a id=498></a>
+##### Section 2 : De l'agrément des établissements de transfusion sanguine<a id=510></a>
 
 ###### Article R668-2-1
 
@@ -85803,9 +87376,9 @@ _Cite_:
   - Code de la santé publique - art. R668-2-22 (Ab)
 
 
-##### Sous-section 1 : Conditions relatives aux normes de fonctionnement et d'équipement des établissements de transfusion sanguine<a id=499></a>
+##### Sous-section 1 : Conditions relatives aux normes de fonctionnement et d'équipement des établissements de transfusion sanguine<a id=511></a>
 
-##### Paragraphe 1 : Conditions d'exercice de la collecte<a id=500></a>
+##### Paragraphe 1 : Conditions d'exercice de la collecte<a id=512></a>
 
 ###### Article R668-2-4
 
@@ -85970,7 +87543,7 @@ _Abrogé par_:
   - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
 
 
-##### Paragraphe 2 : Conditions de la qualification biologique du don<a id=501></a>
+##### Paragraphe 2 : Conditions de la qualification biologique du don<a id=513></a>
 
 ###### Article R668-2-9
 
@@ -86060,7 +87633,7 @@ _Cite_:
   - Code de la santé publique - art. L668-9 (M)
 
 
-##### Paragraphe 3 : Conditions de la préparation des produits sanguins labiles<a id=502></a>
+##### Paragraphe 3 : Conditions de la préparation des produits sanguins labiles<a id=514></a>
 
 ###### Article R668-2-11
 
@@ -86300,7 +87873,7 @@ _Abrogé par_:
   - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
 
 
-##### Paragraphe 4 : Conditions de transformation des produits sanguins labiles<a id=503></a>
+##### Paragraphe 4 : Conditions de transformation des produits sanguins labiles<a id=515></a>
 
 ###### Article R668-2-17
 
@@ -86362,7 +87935,7 @@ _Cite_:
   - Code de la santé publique - art. L668-9 (M)
 
 
-##### Paragraphe 5 : Conditions de la distribution des produits sanguins labiles<a id=504></a>
+##### Paragraphe 5 : Conditions de la distribution des produits sanguins labiles<a id=516></a>
 
 ###### Article R668-2-19
 
@@ -86523,7 +88096,7 @@ _Cité par_:
   - Code de la santé publique - art. R668-2-3 (M)
 
 
-##### Sous-section 2 : Conditions d'agrément relatives à la continuité du service public de la transfusion sanguine<a id=505></a>
+##### Sous-section 2 : Conditions d'agrément relatives à la continuité du service public de la transfusion sanguine<a id=517></a>
 
 ###### Article R668-2-23
 
@@ -86568,7 +88141,7 @@ _Cite_:
   - Code de la santé publique R668-2-4 à R668-2-23, L668-9
 
 
-##### Sous-section 3 : Dispositions relatives à la procédure de l'agrément<a id=506></a>
+##### Sous-section 3 : Dispositions relatives à la procédure de l'agrément<a id=518></a>
 
 ###### Article R668-2-24
 
@@ -86674,7 +88247,7 @@ _Cité par_:
   - Code de la santé publique - art. R668-2-1 (M)
 
 
-#### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine<a id=507></a>
+#### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine<a id=519></a>
 
 ###### Article R669-1
 
@@ -86859,11 +88432,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1224-4 (Ab)
 
 
-### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=508></a>
+### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=520></a>
 
-#### Section 1 : Hémovigilance<a id=509></a>
+#### Section 1 : Hémovigilance<a id=521></a>
 
-##### Sous-section 4 : Rôle des établissements de santé<a id=510></a>
+##### Sous-section 4 : Rôle des établissements de santé<a id=522></a>
 
 ###### Article R666-12-17
 
@@ -86891,7 +88464,7 @@ _Cité par_:
   - Code de la santé publique - art. R5144-24 (Ab)
 
 
-##### Sous-section 6 : Déclaration d'incident transfusionnel<a id=511></a>
+##### Sous-section 6 : Déclaration d'incident transfusionnel<a id=523></a>
 
 ###### Article R666-12-24
 
@@ -86931,11 +88504,11 @@ _Cité par_:
   - Code de la santé publique - art. R721-1 (Ab)
 
 
-### Titre 3 : Des organes, tissus, cellules et produits du corps humain<a id=512></a>
+### Titre 3 : Des organes, tissus, cellules et produits du corps humain<a id=524></a>
 
-#### Chapitre 2 bis : De l'Etablissement français des greffes<a id=513></a>
+#### Chapitre 2 bis : De l'Etablissement français des greffes<a id=525></a>
 
-##### Section 1 : Dispositions générales<a id=514></a>
+##### Section 1 : Dispositions générales<a id=526></a>
 
 ###### Article R673-8-1
 
@@ -87047,9 +88620,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1251-2 (Ab)
 
 
-##### Section 2 : Organisation de l'établissement<a id=515></a>
+##### Section 2 : Organisation de l'établissement<a id=527></a>
 
-##### Sous-section 1 : Le conseil d'administration<a id=516></a>
+##### Sous-section 1 : Le conseil d'administration<a id=528></a>
 
 ###### Article R673-8-4
 
@@ -87439,7 +89012,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1252-10 (Ab)
 
 
-##### Sous-section 2 : Le directeur général de l'Etablissement français des greffes<a id=517></a>
+##### Sous-section 2 : Le directeur général de l'Etablissement français des greffes<a id=529></a>
 
 ###### Article R673-8-14
 
@@ -87539,7 +89112,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1252-14 (Ab)
 
 
-##### Sous-section 3 : Le conseil médical et scientifique<a id=518></a>
+##### Sous-section 3 : Le conseil médical et scientifique<a id=530></a>
 
 ###### Article R673-8-17
 
@@ -87707,7 +89280,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1252-18 (Ab)
 
 
-##### Sous-section 4 : Dispositions financières et comptables<a id=519></a>
+##### Sous-section 4 : Dispositions financières et comptables<a id=531></a>
 
 ###### Article R673-9-1
 
@@ -88037,13 +89610,13 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1252-29 (Ab)
 
 
-## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires<a id=520></a>
+## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires<a id=532></a>
 
-### Titre 1 : Etablissements de santé<a id=521></a>
+### Titre 1 : Etablissements de santé<a id=533></a>
 
-#### Chapitre 1 A : Principes fondamentaux<a id=522></a>
+#### Chapitre 1 A : Principes fondamentaux<a id=534></a>
 
-##### Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés<a id=523></a>
+##### Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés<a id=535></a>
 
 ###### Article R710-2-1
 
@@ -88370,7 +89943,7 @@ _Créé par_:
   - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
 
 
-##### Section 2 : De l'analyse de l'activité des établissements de santé<a id=524></a>
+##### Section 2 : De l'analyse de l'activité des établissements de santé<a id=536></a>
 
 ###### Article R710-5-1
 
@@ -88775,11 +90348,11 @@ _Cite_:
   - Code de la santé publique - art. R710-5-10 (M)
 
 
-#### Chapitre 1 : Missions et obligations des établissements de santé<a id=525></a>
+#### Chapitre 1 : Missions et obligations des établissements de santé<a id=537></a>
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=526></a>
+##### Section 2 : Dispositions propres au service public hospitalier<a id=538></a>
 
-##### Sous-section 1 : Catégories d'établissements publics de santé<a id=527></a>
+##### Sous-section 1 : Catégories d'établissements publics de santé<a id=539></a>
 
 ###### Article R711-6-1
 
@@ -88871,7 +90444,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6141-16 (V)
 
 
-##### Sous-section 2 : Fonctionnement médical des hôpitaux locaux<a id=528></a>
+##### Sous-section 2 : Fonctionnement médical des hôpitaux locaux<a id=540></a>
 
 ###### Article R711-6-4
 
@@ -89508,7 +91081,7 @@ _Cite_:
   - Code de la santé publique - art. R711-6-18 (M)
 
 
-##### Section 3 : Soins dispensés aux détenus par certains établissements de santé assurant le service public hospitalier et actions de prévention exercées par ces établissements<a id=529></a>
+##### Section 3 : Soins dispensés aux détenus par certains établissements de santé assurant le service public hospitalier et actions de prévention exercées par ces établissements<a id=541></a>
 
 ###### Article R711-7
 
@@ -90134,11 +91707,11 @@ _Cite_:
   - Code de la santé publique - art. R714-3-12 (M)
 
 
-#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=530></a>
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=542></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=531></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=543></a>
 
-##### Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire.<a id=532></a>
+##### Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire.<a id=544></a>
 
 ###### Article R712-1
 
@@ -91024,7 +92597,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-6 (Ab)
 
 
-##### Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale<a id=533></a>
+##### Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale<a id=545></a>
 
 ###### Article R712-14
 
@@ -91438,7 +93011,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-6 (Ab)
 
 
-##### Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale<a id=534></a>
+##### Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale<a id=546></a>
 
 ###### Article R712-22
 
@@ -91885,7 +93458,7 @@ _Cite_:
   - Code de la santé publique - art. R712-27 (M)
 
 
-##### Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale<a id=535></a>
+##### Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale<a id=547></a>
 
 ###### Article R712-30
 
@@ -92144,7 +93717,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-11 (Ab)
 
 
-##### Section 2 : Autorisations<a id=536></a>
+##### Section 2 : Autorisations<a id=548></a>
 
 ###### Article R712-37
 
@@ -92816,7 +94389,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-13 (M)
 
 
-##### Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie<a id=537></a>
+##### Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie<a id=549></a>
 
 ###### Article R712-52
 
@@ -93120,9 +94693,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R710-5-19 (Ab)
 
 
-#### Chapitre 3 : Les actions de coopération<a id=538></a>
+#### Chapitre 3 : Les actions de coopération<a id=550></a>
 
-##### Section 1 : Les conférences sanitaires de secteur<a id=539></a>
+##### Section 1 : Les conférences sanitaires de secteur<a id=551></a>
 
 ###### Article R713-1
 
@@ -93738,11 +95311,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R713-1-16 (Ab)
 
 
-#### Chapitre 4 : Les établissements publics de santé<a id=540></a>
+#### Chapitre 4 : Les établissements publics de santé<a id=552></a>
 
-##### Section 1 : Organisation administrative et financière<a id=541></a>
+##### Section 1 : Organisation administrative et financière<a id=553></a>
 
-##### Sous-section 1 : Création, transformation et suppression des établissements publics de sante<a id=542></a>
+##### Sous-section 1 : Création, transformation et suppression des établissements publics de sante<a id=554></a>
 
 ###### Article R714-1-1
 
@@ -93863,7 +95436,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6141-12 (V)
 
 
-##### Sous-section 2 : Composition et fonctionnement du conseil d'administration<a id=543></a>
+##### Sous-section 2 : Composition et fonctionnement du conseil d'administration<a id=555></a>
 
 ###### Article R714-2-1
 
@@ -94869,9 +96442,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6143-20 (V)
 
 
-##### Sous-section 3 : Budget et comptabilité des établissements publics de santé<a id=544></a>
+##### Sous-section 3 : Budget et comptabilité des établissements publics de santé<a id=556></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=545></a>
+##### Paragraphe 1 : Dispositions générales<a id=557></a>
 
 ###### Article R714-3-1
 
@@ -95087,7 +96660,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-7-1 (M)
 
 
-##### Paragraphe 2 : Présentation et vote du budget<a id=546></a>
+##### Paragraphe 2 : Présentation et vote du budget<a id=558></a>
 
 ###### Article R714-3-7
 
@@ -95693,7 +97266,7 @@ _Cite_:
   - Code de la santé publique - art. L712-4 (Ab)
 
 
-##### Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale<a id=547></a>
+##### Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale<a id=559></a>
 
 ###### Article R714-3-19
 
@@ -95997,7 +97570,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-30 (T)
 
 
-##### Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget<a id=548></a>
+##### Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget<a id=560></a>
 
 ###### Article R714-3-27
 
@@ -96613,7 +98186,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (Ab)
 
 
-##### Paragraphe 5 : Du directeur, ordonnateur du budget<a id=549></a>
+##### Paragraphe 5 : Du directeur, ordonnateur du budget<a id=561></a>
 
 ###### Article R714-3-41
 
@@ -96794,7 +98367,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-3-29 (M)
 
 
-##### Paragraphe 6 : Clôture de l'exercice et affectation des résultats<a id=550></a>
+##### Paragraphe 6 : Clôture de l'exercice et affectation des résultats<a id=562></a>
 
 ###### Article R714-3-46
 
@@ -97095,7 +98668,7 @@ _Cite_:
   - Code de la santé publique - art. R714-3-9 (M)
 
 
-##### Paragraphe 7 : Du comptable<a id=551></a>
+##### Paragraphe 7 : Du comptable<a id=563></a>
 
 ###### Article R714-3-51
 
@@ -97176,7 +98749,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-57 (T)
 
 
-##### Sous-section 4 : Programmes d'investissement<a id=552></a>
+##### Sous-section 4 : Programmes d'investissement<a id=564></a>
 
 ###### Article R714-4-1
 
@@ -97355,13 +98928,13 @@ _Cite_:
   - Code de la santé publique - art. R714-4-4 (Ab)
 
 
-##### Section 2 : Organes représentatifs<a id=553></a>
+##### Section 2 : Organes représentatifs<a id=565></a>
 
-##### Sous-section 1 : Commissions médicales d'établissement<a id=554></a>
+##### Sous-section 1 : Commissions médicales d'établissement<a id=566></a>
 
-##### Paragraphe 1 : Composition de commissions médicales d'établissement<a id=555></a>
+##### Paragraphe 1 : Composition de commissions médicales d'établissement<a id=567></a>
 
-##### I : Centres hospitaliers autres que les centres hospitaliers universitaires<a id=556></a>
+##### I : Centres hospitaliers autres que les centres hospitaliers universitaires<a id=568></a>
 
 ###### Article R714-16-1
 
@@ -97653,7 +99226,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-7 (V)
 
 
-##### II : Centres hospitaliers universitaires<a id=557></a>
+##### II : Centres hospitaliers universitaires<a id=569></a>
 
 ###### Article R714-16-6
 
@@ -97953,7 +99526,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-3 (M)
 
 
-##### III : Hôpitaux locaux<a id=558></a>
+##### III : Hôpitaux locaux<a id=570></a>
 
 ###### Article R714-16-11
 
@@ -98014,7 +99587,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-14 (V)
 
 
-##### IV : Syndicats interhospitaliers<a id=559></a>
+##### IV : Syndicats interhospitaliers<a id=571></a>
 
 ###### Article R714-16-12
 
@@ -98133,7 +99706,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-12 (M)
 
 
-##### Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement<a id=560></a>
+##### Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement<a id=572></a>
 
 ###### Article R714-16-14
 
@@ -98848,7 +100421,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-24 (M)
 
 
-##### Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux<a id=561></a>
+##### Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux<a id=573></a>
 
 ###### Article R714-16-29
 
@@ -99111,9 +100684,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-39 (V)
 
 
-##### Sous-section 2 : Comités techniques d'établissement<a id=562></a>
+##### Sous-section 2 : Comités techniques d'établissement<a id=574></a>
 
-##### Paragraphe 1 : Composition des comités techniques d'établissement<a id=563></a>
+##### Paragraphe 1 : Composition des comités techniques d'établissement<a id=575></a>
 
 ###### Article R714-17-1
 
@@ -100167,7 +101740,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-67 (V)
 
 
-##### Paragraphe 2 : Attributions des comités techniques d'établissement<a id=564></a>
+##### Paragraphe 2 : Attributions des comités techniques d'établissement<a id=576></a>
 
 ###### Article R714-18-1
 
@@ -100204,7 +101777,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-40 (V)
 
 
-##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement<a id=565></a>
+##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement<a id=577></a>
 
 ###### Article R714-18-2
 
@@ -100674,7 +102247,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-80 (V)
 
 
-##### Paragraphe 3 : Dispositions diverses<a id=566></a>
+##### Paragraphe 3 : Dispositions diverses<a id=578></a>
 
 ###### Article R714-18-15
 
@@ -100707,11 +102280,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-41 (V)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=567></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=579></a>
 
-##### Sous-section 1 : Des chefs de service ou de département<a id=568></a>
+##### Sous-section 1 : Des chefs de service ou de département<a id=580></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=569></a>
+##### Paragraphe 1 : Dispositions générales<a id=581></a>
 
 ###### Article R714-21-1
 
@@ -100788,7 +102361,7 @@ _Cite_:
   - Code de la santé publique - art. L714-21 (M)
 
 
-##### Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires<a id=570></a>
+##### Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires<a id=582></a>
 
 ###### Article R714-21-3
 
@@ -100897,7 +102470,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-21-1 (V)
 
 
-##### Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires<a id=571></a>
+##### Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires<a id=583></a>
 
 ###### Article R714-21-6
 
@@ -100934,7 +102507,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-21-8 (V)
 
 
-##### Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958<a id=572></a>
+##### Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958<a id=584></a>
 
 ###### Article R714-21-7
 
@@ -100974,7 +102547,7 @@ _Cité par_:
   - Arrêté du 20 août 1992 - art. 1 (V)
 
 
-##### I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein<a id=573></a>
+##### I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein<a id=585></a>
 
 ###### Article R714-21-8
 
@@ -101103,7 +102676,7 @@ _Cité par_:
   - Arrêté du 20 août 1992 - art. 4 (V)
 
 
-##### II. - Nomination aux fonctions de chef de service ou de département à temps partiel<a id=574></a>
+##### II. - Nomination aux fonctions de chef de service ou de département à temps partiel<a id=586></a>
 
 ###### Article R714-21-12
 
@@ -101172,9 +102745,9 @@ _Cite_:
   - Code de la santé publique - art. R714-21-12 (M)
 
 
-##### III<a id=575></a>
+##### III<a id=587></a>
 
-##### - Dispositions propres aux fonctions de chef de service ou de département de psychiatrie<a id=576></a>
+##### - Dispositions propres aux fonctions de chef de service ou de département de psychiatrie<a id=588></a>
 
 ###### Article R714-21-14
 
@@ -101302,9 +102875,9 @@ _Cité par_:
   - Loi n°2004-806 du 9 août 2004 - art. 155 (V)
 
 
-##### IV<a id=577></a>
+##### IV<a id=589></a>
 
-##### - Dispositions particulières aux pharmacies hospitalières<a id=578></a>
+##### - Dispositions particulières aux pharmacies hospitalières<a id=590></a>
 
 ###### Article R714-21-18
 
@@ -101334,7 +102907,7 @@ _Créé par_:
   - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
 
 
-##### V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre<a id=579></a>
+##### V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre<a id=591></a>
 
 ###### Article R714-21-19
 
@@ -101367,7 +102940,7 @@ _Cite_:
   - Code de la santé publique - art. R714-21-8 (M)
 
 
-##### Paragraphe 5 : Dispositions communes<a id=580></a>
+##### Paragraphe 5 : Dispositions communes<a id=592></a>
 
 ###### Article R714-21-20
 
@@ -101536,7 +103109,7 @@ _Créé par_:
   - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
 
 
-##### Sous-section 2 : Conseil de service ou de département<a id=581></a>
+##### Sous-section 2 : Conseil de service ou de département<a id=593></a>
 
 ###### Article R714-22-1
 
@@ -101865,7 +103438,7 @@ _Modifié par_:
   - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
-##### Sous-section 3 : Des responsables d'unité fonctionnelle<a id=582></a>
+##### Sous-section 3 : Des responsables d'unité fonctionnelle<a id=594></a>
 
 ###### Article R714-24-1
 
@@ -101914,7 +103487,7 @@ _Cité par_:
   - Code de la santé publique - art. R6146-18 (M)
 
 
-##### Sous-section 4 : Service de soins infirmiers<a id=583></a>
+##### Sous-section 4 : Service de soins infirmiers<a id=595></a>
 
 ###### Article R714-26-1
 
@@ -102211,7 +103784,7 @@ _Modifié par_:
   - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
-##### Section 4 : Les personnels des établissements publics de santé<a id=584></a>
+##### Section 4 : Les personnels des établissements publics de santé<a id=596></a>
 
 ###### Article R714-28-1
 
@@ -102359,13 +103932,13 @@ _Cité par_:
   - Code de la santé publique - art. R714-28-1 (Ab)
 
 
-#### Chapitre 5 : Les établissements de santé privés<a id=585></a>
+#### Chapitre 5 : Les établissements de santé privés<a id=597></a>
 
-##### Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement<a id=586></a>
+##### Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement<a id=598></a>
 
-##### Sous-section 2 : De la participation des établissements de santé privés à but non lucratif à l'exécution du service public hospitalier<a id=587></a>
+##### Sous-section 2 : De la participation des établissements de santé privés à but non lucratif à l'exécution du service public hospitalier<a id=599></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=588></a>
+##### Paragraphe 1 : Dispositions générales<a id=600></a>
 
 ###### Article R715-6-1
 
@@ -102432,7 +104005,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-3 (V)
 
 
-##### Paragraphe 2 : Modalités d'admission à la participation<a id=589></a>
+##### Paragraphe 2 : Modalités d'admission à la participation<a id=601></a>
 
 ###### Article R715-6-3
 
@@ -102679,7 +104252,7 @@ _Cite_:
   - Code de la santé publique - art. R715-6-8 (M)
 
 
-##### Paragraphe 3 : Situation des personnels médicaux<a id=590></a>
+##### Paragraphe 3 : Situation des personnels médicaux<a id=602></a>
 
 ###### Article R715-6-10
 
@@ -102814,7 +104387,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-8 (V)
 
 
-##### Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier<a id=591></a>
+##### Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier<a id=603></a>
 
 ###### Article R715-7-1
 
@@ -103055,9 +104628,9 @@ _Cite_:
   - Code de la santé publique L312 à L314
 
 
-##### Sous-section 4 : De la concession du service public hospitalier<a id=592></a>
+##### Sous-section 4 : De la concession du service public hospitalier<a id=604></a>
 
-##### Paragraphe 1 : Objet, contenu et durée du contrat de concession<a id=593></a>
+##### Paragraphe 1 : Objet, contenu et durée du contrat de concession<a id=605></a>
 
 ###### Article R715-10-1
 
@@ -103203,7 +104776,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-10-10 (Ab)
 
 
-##### Paragraphe 2 : Procédure<a id=594></a>
+##### Paragraphe 2 : Procédure<a id=606></a>
 
 ###### Article R715-10-4
 
@@ -103404,7 +104977,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-10-10 (Ab)
 
 
-##### Paragraphe 3 : Renouvellement et prorogation du contrat de concession<a id=595></a>
+##### Paragraphe 3 : Renouvellement et prorogation du contrat de concession<a id=607></a>
 
 ###### Article R715-10-10
 
@@ -103449,7 +105022,7 @@ _Cite_:
   - Code de la santé publique - art. R715-10-9 (M)
 
 
-##### Paragraphe 4 : Contrôle<a id=596></a>
+##### Paragraphe 4 : Contrôle<a id=608></a>
 
 ###### Article R715-10-11
 
@@ -103508,7 +105081,7 @@ _Cité par_:
   - Code de la santé publique - art. R712-15 (M)
 
 
-##### Paragraphe 5 : Mesures diverses<a id=597></a>
+##### Paragraphe 5 : Mesures diverses<a id=609></a>
 
 ###### Article R715-10-13
 
@@ -103577,9 +105150,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-31 (V)
 
 
-##### Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier<a id=598></a>
+##### Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier<a id=610></a>
 
-##### Paragraphe 1 : Nature et objet de l'accord d'association<a id=599></a>
+##### Paragraphe 1 : Nature et objet de l'accord d'association<a id=611></a>
 
 ###### Article R715-11-1
 
@@ -103694,7 +105267,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-34 (V)
 
 
-##### Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association<a id=600></a>
+##### Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association<a id=612></a>
 
 ###### Article R715-11-4
 
@@ -103734,11 +105307,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-35 (V)
 
 
-#### Chapitre 6 : Expérimentation et dispositions diverses<a id=601></a>
+#### Chapitre 6 : Expérimentation et dispositions diverses<a id=613></a>
 
-##### Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux<a id=602></a>
+##### Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux<a id=614></a>
 
-##### Sous-section 1 : Assistance publique - hôpitaux de Paris<a id=603></a>
+##### Sous-section 1 : Assistance publique - hôpitaux de Paris<a id=615></a>
 
 ###### Article R716-3-1
 
@@ -103774,7 +105347,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6147-1 (V)
 
 
-##### Paragraphe 1 : Conseil d'administration<a id=604></a>
+##### Paragraphe 1 : Conseil d'administration<a id=616></a>
 
 ###### Article R716-3-2
 
@@ -104124,7 +105697,7 @@ _Cité par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 2 : Le directeur général et le secrétaire général<a id=605></a>
+##### Paragraphe 2 : Le directeur général et le secrétaire général<a id=617></a>
 
 ###### Article R716-3-10
 
@@ -104222,9 +105795,9 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 3 : Les instances représentatives centrales<a id=606></a>
+##### Paragraphe 3 : Les instances représentatives centrales<a id=618></a>
 
-##### A. - Commission médicale d'établissement<a id=607></a>
+##### A. - Commission médicale d'établissement<a id=619></a>
 
 ###### Article R716-3-13
 
@@ -104329,7 +105902,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-26 (Ab)
 
 
-##### B. - Comité technique central d'établissement<a id=608></a>
+##### B. - Comité technique central d'établissement<a id=620></a>
 
 ###### Article R716-3-15
 
@@ -104447,7 +106020,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### C : Commission centrale du service de soins infirmiers<a id=609></a>
+##### C : Commission centrale du service de soins infirmiers<a id=621></a>
 
 ###### Article R716-3-18
 
@@ -104500,9 +106073,9 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général<a id=610></a>
+##### Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général<a id=622></a>
 
-##### A. - Budget<a id=611></a>
+##### A. - Budget<a id=623></a>
 
 ###### Article R716-3-19
 
@@ -104521,7 +106094,7 @@ _Créé par_:
   - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
 
 
-##### B. - Direction<a id=612></a>
+##### B. - Direction<a id=624></a>
 
 ###### Article R716-3-20
 
@@ -104548,7 +106121,7 @@ _Créé par_:
   - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
 
 
-##### C. - Instances représentatives locales<a id=613></a>
+##### C. - Instances représentatives locales<a id=625></a>
 
 ###### Article R716-3-21
 
@@ -104597,7 +106170,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Commission de surveillance<a id=614></a>
+##### Commission de surveillance<a id=626></a>
 
 ###### Article R716-3-22
 
@@ -104778,7 +106351,7 @@ _Cite_:
   - Code de la santé publique - art. R716-3-9 (V)
 
 
-##### Comité consultatif médical<a id=615></a>
+##### Comité consultatif médical<a id=627></a>
 
 ###### Article R716-3-26
 
@@ -104811,7 +106384,7 @@ _Cite_:
   - Code de la santé publique R714-16-29 à R714-16-34, R716-3-14
 
 
-##### Comité technique local d'établissement<a id=616></a>
+##### Comité technique local d'établissement<a id=628></a>
 
 ###### Article R716-3-27
 
@@ -104930,7 +106503,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Commission locale du service de soins infirmiers<a id=617></a>
+##### Commission locale du service de soins infirmiers<a id=629></a>
 
 ###### Article R716-3-30
 
@@ -104974,7 +106547,7 @@ _Cité par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 5 : Contrôle financier<a id=618></a>
+##### Paragraphe 5 : Contrôle financier<a id=630></a>
 
 ###### Article R716-3-31
 
@@ -105006,7 +106579,7 @@ _Cite_:
   - Loi n°1922-08-10
 
 
-##### Paragraphe 6 : Marchés<a id=619></a>
+##### Paragraphe 6 : Marchés<a id=631></a>
 
 ###### Article R716-3-32
 
@@ -105042,7 +106615,7 @@ _Cite_:
   - Code de la santé publique - art. R716-3-33 (M)
 
 
-##### Paragraphe 7 : Contrôle de l'Etat<a id=620></a>
+##### Paragraphe 7 : Contrôle de l'Etat<a id=632></a>
 
 ###### Article R716-3-33
 
@@ -105190,7 +106763,7 @@ _Cite_:
   - Code de la santé publique - art. L714-9 (M)
 
 
-##### Paragraphe 8 : Dispositions diverses<a id=621></a>
+##### Paragraphe 8 : Dispositions diverses<a id=633></a>
 
 ###### Article R716-3-36
 
@@ -105277,7 +106850,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille<a id=622></a>
+##### Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille<a id=634></a>
 
 ###### Article R716-3-39
 
@@ -105314,7 +106887,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6147-3 (V)
 
 
-##### Paragraphe 1 : Conseil d'administration<a id=623></a>
+##### Paragraphe 1 : Conseil d'administration<a id=635></a>
 
 ###### Article R716-3-40
 
@@ -105530,7 +107103,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 2 : Directeur général et secrétaire général<a id=624></a>
+##### Paragraphe 2 : Directeur général et secrétaire général<a id=636></a>
 
 ###### Article R716-3-45
 
@@ -105578,7 +107151,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 3 : Instances représentatives centrales<a id=625></a>
+##### Paragraphe 3 : Instances représentatives centrales<a id=637></a>
 
 ###### Article R716-3-46
 
@@ -105757,7 +107330,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 4 : Instances représentatives locales<a id=626></a>
+##### Paragraphe 4 : Instances représentatives locales<a id=638></a>
 
 ###### Article R716-3-50
 
@@ -106057,7 +107630,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Sous-section 3 : Etablissements publics nationaux<a id=627></a>
+##### Sous-section 3 : Etablissements publics nationaux<a id=639></a>
 
 ###### Article R716-3-57
 
@@ -106401,7 +107974,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif<a id=628></a>
+##### Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif<a id=640></a>
 
 ###### Article R716-5-1
 
@@ -106719,7 +108292,7 @@ _Abrogé par_:
   - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
 
 
-##### Section 5 : Dispositions diverses<a id=629></a>
+##### Section 5 : Dispositions diverses<a id=641></a>
 
 ###### Article R716-9-1
 
@@ -106755,11 +108328,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-5 (T)
 
 
-# Partie réglementaire ancienne - Décrets simples<a id=630></a>
+# Partie réglementaire ancienne - Décrets simples<a id=642></a>
 
-## Livre VI : Utilisation thérapeutique de produits d'origine humaine<a id=631></a>
+## Livre VI : Utilisation thérapeutique de produits d'origine humaine<a id=643></a>
 
-### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=632></a>
+### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=644></a>
 
 ###### Article D666-3-1
 
@@ -106874,13 +108447,13 @@ _Cite_:
   - Code de la santé publique - art. L667-9 (M)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=633></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=645></a>
 
-### Titre Ier : Etablissements de santé<a id=634></a>
+### Titre Ier : Etablissements de santé<a id=646></a>
 
-#### Chapitre Ier : Missions et obligations des établissements de santé<a id=635></a>
+#### Chapitre Ier : Missions et obligations des établissements de santé<a id=647></a>
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=636></a>
+##### Section 2 : Dispositions propres au service public hospitalier<a id=648></a>
 
 ###### Article D711-6-1
 
@@ -106973,7 +108546,7 @@ _Cite_:
   - Code de la santé publique - art. L711-6 (M)
 
 
-##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=637></a>
+##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=649></a>
 
 ###### Article D711-9-1
 
@@ -107279,7 +108852,7 @@ _Cite_:
   - Code de la santé publique R711-9-1
 
 
-##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=638></a>
+##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=650></a>
 
 ###### Article D711-16-3
 
@@ -107366,11 +108939,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-50 (T)
 
 
-#### Chapitre II : L'organisation et l'équipement sanitaires<a id=639></a>
+#### Chapitre II : L'organisation et l'équipement sanitaires<a id=651></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=640></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=652></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=641></a>
+##### Sous-section 1 : Du collège national d'experts<a id=653></a>
 
 ###### Article D712-2
 
@@ -107465,7 +109038,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=642></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=654></a>
 
 ###### Article D712-7
 
@@ -107549,7 +109122,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=643></a>
+##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=655></a>
 
 ###### Article D712-13-1
 
@@ -107606,7 +109179,7 @@ _Cite_:
   - Code de la santé publique - art. L712-4 (Ab)
 
 
-##### Sous-section 4 : Regroupements et reconversions<a id=644></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=656></a>
 
 ###### Article D712-13-3
 
@@ -107733,9 +109306,9 @@ _Créé par_:
   - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
 
 
-##### Section 2 : Autorisations<a id=645></a>
+##### Section 2 : Autorisations<a id=657></a>
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=646></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=658></a>
 
 ###### Article D712-16
 
@@ -107763,11 +109336,11 @@ _Cite_:
   - Code de la santé publique - art. D712-15 (M)
 
 
-##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=647></a>
+##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=659></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=648></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=660></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=649></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=661></a>
 
 ###### Article D712-30
 
@@ -107906,7 +109479,7 @@ _Cite_:
   - Code de la santé publique - art. D712-30 (M)
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=650></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=662></a>
 
 ###### Article D712-35
 
@@ -107992,9 +109565,9 @@ _Cité par_:
   - Code de la santé publique - art. D712-37 (Ab)
 
 
-##### Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie<a id=651></a>
+##### Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie<a id=663></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=652></a>
+##### Paragraphe 1 : Dispositions générales<a id=664></a>
 
 ###### Article D712-40
 
@@ -108034,7 +109607,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6124-91 (V)
 
 
-##### Paragraphe 2 : De la consultation pré-anesthésique<a id=653></a>
+##### Paragraphe 2 : De la consultation pré-anesthésique<a id=665></a>
 
 ###### Article D712-41
 
@@ -108084,7 +109657,7 @@ _Cité par_:
   - Code de la santé publique - art. D766-2-12 (Ab)
 
 
-##### Paragraphe 3 : De l'anesthésie<a id=654></a>
+##### Paragraphe 3 : De l'anesthésie<a id=666></a>
 
 ###### Article D712-44
 
@@ -108138,7 +109711,7 @@ _Cite_:
   - Code de la santé publique - art. D712-43 (M)
 
 
-##### Paragraphe 4 : De la surveillance continue post-interventionnelle<a id=655></a>
+##### Paragraphe 4 : De la surveillance continue post-interventionnelle<a id=667></a>
 
 ###### Article D712-45
 
@@ -108372,11 +109945,11 @@ _Cite_:
   - Code de la santé publique - art. D712-47 (M)
 
 
-#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=656></a>
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=668></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=657></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=669></a>
 
-##### Sous-section 4 : Regroupements et reconversions<a id=658></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=670></a>
 
 ###### Article D712-13-2
 
@@ -108423,11 +109996,11 @@ _Cite_:
   - Code de la santé publique - art. L712-11 (M)
 
 
-#### Chapitre IV : Les établissements publics de santé<a id=659></a>
+#### Chapitre IV : Les établissements publics de santé<a id=671></a>
 
-##### Section 1 : Organisation administrative et financière<a id=660></a>
+##### Section 1 : Organisation administrative et financière<a id=672></a>
 
-##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=661></a>
+##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=673></a>
 
 ###### Article D714-2-1
 
@@ -108564,7 +110137,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (M)
 
 
-##### Sous-section 4 : Composition des groupes fonctionnels<a id=662></a>
+##### Sous-section 4 : Composition des groupes fonctionnels<a id=674></a>
 
 ###### Article D714-7-1
 
@@ -108620,7 +110193,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6145-6 (Ab)
 
 
-##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=663></a>
+##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=675></a>
 
 ###### Article D714-12-1
 
@@ -108720,7 +110293,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6143-36 (V)
 
 
-##### Sous-section 5 : Virements de crédits<a id=664></a>
+##### Sous-section 5 : Virements de crédits<a id=676></a>
 
 ###### Article D714-12-5
 
@@ -108763,9 +110336,9 @@ _Cite_:
   - Code de la santé publique R714-3-38, R714-3-11 à R714-3-13, R714-3-27
 
 
-##### Section 2 : organes représentatifs<a id=665></a>
+##### Section 2 : organes représentatifs<a id=677></a>
 
-##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=666></a>
+##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=678></a>
 
 ###### Article D714-17-1
 
@@ -108796,7 +110369,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=667></a>
+##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=679></a>
 
 ###### Article D714-19-1
 
@@ -108853,7 +110426,7 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Section 2 : Organisation des soins et fonctionnement médical<a id=668></a>
+##### Section 2 : Organisation des soins et fonctionnement médical<a id=680></a>
 
 ###### Article D714-21-1
 
@@ -108899,7 +110472,7 @@ _Cité par_:
   - Code de la santé publique - art. D714-21-2 (M)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=669></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=681></a>
 
 ###### Article D714-21-2
 
@@ -108962,11 +110535,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6151-1 (V)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=670></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=682></a>
 
-### Chapitre Ier : Missions et obligations des établissements de santé<a id=671></a>
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=683></a>
 
-#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=672></a>
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=684></a>
 
 ###### Article D711-16-1
 
@@ -109101,11 +110674,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-47 (T)
 
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=673></a>
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=685></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=674></a>
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=686></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=675></a>
+##### Sous-section 1 : Du collège national d'experts<a id=687></a>
 
 ###### Article D712-1
 
@@ -109203,7 +110776,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=676></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=688></a>
 
 ###### Article D712-8
 
@@ -109350,9 +110923,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=677></a>
+#### Section 2 : Autorisations<a id=689></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=678></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=690></a>
 
 ###### Article D712-14
 
@@ -109391,7 +110964,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L712-12 (M)
 
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=679></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=691></a>
 
 ###### Article D712-15
 
@@ -109452,11 +111025,11 @@ _Cite_:
   - Code de la santé publique - art. L712-2 (M)
 
 
-#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=680></a>
+#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=692></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=681></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=693></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=682></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=694></a>
 
 ###### Article D712-31
 
@@ -109563,7 +111136,7 @@ _Cite_:
   - Code de la santé publique D712-30, D712-32, D712-33, R710-2-1 à R710-2-10
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=683></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=695></a>
 
 ###### Article D712-36
 
@@ -109680,9 +111253,9 @@ _Cité par_:
   - Code de la santé publique - art. D712-39 (Ab)
 
 
-##### Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie<a id=684></a>
+##### Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie<a id=696></a>
 
-##### Paragraphe 3 : De l'anesthésie<a id=685></a>
+##### Paragraphe 3 : De l'anesthésie<a id=697></a>
 
 ###### Article D712-42
 
@@ -109763,7 +111336,7 @@ _Cite_:
   - Code de la santé publique - art. D712-41 (M)
 
 
-##### Paragraphe 4 : De la surveillance continue post-interventionnelle<a id=686></a>
+##### Paragraphe 4 : De la surveillance continue post-interventionnelle<a id=698></a>
 
 ###### Article D712-48
 
@@ -109804,15 +111377,15 @@ _Cite_:
   - Code de la santé publique - art. D712-49 (M)
 
 
-# Annexes<a id=687></a>
+# Annexes<a id=699></a>
 
-## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=688></a>
+## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=700></a>
 
-### Titre 2 : Du sang humain<a id=689></a>
+### Titre 2 : Du sang humain<a id=701></a>
 
-#### Chapitre 3 : Des établissements de transfusion sanguine<a id=690></a>
+#### Chapitre 3 : Des établissements de transfusion sanguine<a id=702></a>
 
-##### Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public.<a id=691></a>
+##### Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public.<a id=703></a>
 
 ###### Article Annexe II aux articles R668-1-1 à R668-21
 
