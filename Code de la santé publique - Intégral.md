@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-06-26
+Version Consolidée au 1984-07-02
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -22355,9 +22355,17 @@ celui de la grossesse ;
 
 4° La vente des plantes médicinales inscrites à la pharmacopée sous réserve des dérogations établies par décret.
 
-La fabrication et la vente en gros des drogues simples et des substances chimiques destinées à la pharmacie sont libres à
+5° La vente au détail et toute délivrance au public des huiles essentielles dont la liste est fixée par décret ainsi que de
+leurs dilutions et préparations ne constituant ni des produits cosmétiques ou d'hygiène corporelle, ni des produits à usage
+ménager, ni des denrées ou boissons alimentaires .
+
+La fabrication ety la vente en gros des drogues simples et des substances chimiques destinées à la pharmacie sont libres à
 condition que ces produits ne soient jamais délivrés directement aux consommateurs pour l'usage pharmaceutique et sous
-réserve des règlements particuliers concernant certains d'entre eux.
+réserve des règlements particuliers concernant certains d'entre eux .
+
+**Nota:**
+
+[*Nota : Décret 60-679 du 4 juillet 1960 : DEROGATIONS RELATIVES  AUX PLANTES MEDICINALES.*]
 
 **Liens relatifs à cet article**
 
@@ -22366,15 +22374,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-_Modifié par_:
-
-  - Ordonnance n°59-250 du 4 février 1959 - art. 6 () JORF 8 FEVRIER 1959
-  - Ordonnance 67-827 1967-09-23 ART. 7 JORF 28 SEPTEMBRE 1967
-  - Loi n°78-699 1978-07-06 ART. 1 JORF 7 JUILLET 1978
-
 **Liens**:
 
-  - TXT_ASSOCIE: Décret n°60-679 1960-07-04 : DEROGATIONS RELATIVES AUX PLANTES MEDICINALES
+  - TXT_ASSOCIE: Décret n°60-679 1960-07-04
   - TXT_SOURCE: Arrêté du 28 avril 1988
   - TXT_SOURCE: Arrêté du 28 avril 1988 - art. 1 (Ab)
   - TXT_SOURCE: Arrêté du 28 avril 1988 - art. 2 (Ab)
@@ -22441,6 +22443,10 @@ _Cité par_:
   - Code de la santé publique - art. R5115-6 (Ab)
   - Code de la santé publique - art. R5115-8 (Ab)
   - Code de la santé publique - art. R5115-9 (Ab)
+
+_Modifié par_:
+
+  - Loi n°84-534 1984-06-30 ART. 1 JORF 2 JUILLET 1984
 
 _Nouveaux textes_:
 
