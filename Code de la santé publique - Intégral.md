@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1968-02-11
+Version Consolidée au 1968-05-09
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -40744,11 +40744,23 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Créé par_:
+
+  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
 _Cite_:
 
   - Code de la santé publique - art. R5213 (M)
   - Code de la santé publique - art. R5217 (M)
   - Code de la santé publique - art. R5222 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 522
 
 
 ##### SECTION 4 : PRODUITS CAPILLAIRES<a id=385></a>
@@ -41127,22 +41139,30 @@ _Cité par_:
 
 ###### Article R5222
 
-Aucune teinture capillaire visée à l'article R. 5221 ne peut être délivrée au public s'il n'est adjoint au récipient la
-renfermant, en quantité suffisante, un produit de lavage neutralisant.
-
-La dénomination générique, la composition et le volume net du produit de lavage doivent figurer sur le récipient le contenant
-[*mentions obligatoires*].
+Il est interdit, sauf aux personnes réunissant les conditions exigées pour l'exercice de la profession de pharmacien, de
+fabriquer ou de vendre, dans les conditions fixées aux articles ci-après, les produits d'hygiène corporelle et de beauté
+renfermant les substances vénéneuses autres que celles dont la liste limitative, les concentrations et les doses maximum sont
+fixées par arrêté conjoint du ministre des affaires sociales, du ministre de l'agriculture et du ministre de l'industrie,
+après avis du conseil supérieur d'hygiène publique de France.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 Recueil P. 527 : le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 5226, et en t
 
 _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Cite_:
+_Créé par_:
 
-  - Code de la santé publique - art. R5221 (M)
+  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 _Cité par_:
 
@@ -41155,23 +41175,25 @@ _Cité par_:
 
 ###### Article R5223
 
-Les récipients qui contiennent les produits visés à l'article R. 5221 et les emballages qui les renferment doivent être munis
-d'étiquettes indiquant  :
+Les récipients qui contiennent les produits visés à l'article R. 5222 et les emballages qui les renferment doivent comporter
+les indications suivantes :
 
-Le dénomination générique de vente du produit ;
+La dénomination générique de vente du produit ;
 
-Le nom de la ou des substances vénéneuses y contenues tel qu'il figure au tableau des substances vénéneuses :
+Le nom de la ou des substances vénéneuses y contenues, tel qu'il figure dans la liste fixée par l'arrêté prévu à l'article R.
+5222 ;
 
-Le pourcentage de ces substances ;
+Le pourcentage pondéral de ces substances ;
 
-Le volume net contenu dans le récipient :
+Le poids net du produit contenu dans le récipient ;
 
-Le nom et l'adresse du fabricant ou du vendeur ;
+Le nom et l'adresse du fabricant, ainsi que, le cas échéant, ceux du distributeur français d'un produit importé ;
 
-La mention ci-après portée sur une étiquette ayant au moins deux centimètres de côté :
+La mention ci-après qui doit occuper une surface ayant au moins deux centimètres de côté :
 
-"Ce produit est exclusivement destiné à l'emploi indiqué. Il serait dangereux de s'en servir pour un autre usage ; se
-conformer à la notice".
+"Ce produit ne doit être utilisé que pour l'emploi indiqué.
+
+"Se conformer à la notice."
 
 **Liens relatifs à cet article**
 
@@ -41180,76 +41202,112 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Créé par_:
+
+  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
 _Cite_:
 
-  - Code de la santé publique - art. R5221 (M)
+  - Code de la santé publique - art. R5222 (M)
 
 _Cité par_:
 
   - Code de la santé publique - art. R5224 (M)
 
+**Liens**:
+
+  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS, 1971-07-09, N° 76-922 Recueil P. 527 : le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 et R.
+
 
 ###### Article R5224
 
-La notice prévue à l'article précédent doit être jointe à l'emballage renfermant les produits visés à l'article R. 5221. Elle
-comporte obligatoirement le mode d'emploi, la manière de procéder à une touche d'essai, l'indication du délai minimum à
-observer avant de procéder à l'application de la teinture, ainsi que l'avis ci-après qui sera inscrit en caractères très
-apparents [*mentions obligatoires*] :
-
-Avis important    "L'usage des teintures et lotions capillaires renfermant des substances vénéneuses peut, chez certains
-sujets, donner lieu à des accidents graves. L'épreuve de la touche d'essai constitue une mesure de précaution qui peut
-permettre de prévoir de tels accidents. Cette épreuve est obligatoire, même pour les personnes ayant supporté sans
-inconvénient les précédentes applications. Un rinçage neutralisant doit être appliqué immédiatement après l'emploi des
-teintures."
+Une notice doit être jointe à l'emballage des produits visés à l'article R. 5222. Elle comporte obligatoirement un mode
+d'emploi précis et détaillé et, éventuellement, les contre-indications à l'usage du produit [*mentions*].
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 522
 
 _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Créé par_:
+
+  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
 _Cite_:
 
-  - Code de la santé publique - art. R5221 (M)
-  - Code de la santé publique - art. R5223 (M)
+  - Code de la santé publique - art. R5222 (M)
 
 
 ###### Article R5225
 
-L'avis prévu ci-dessus doit être affiché chez les coiffeurs qui utilisent les produits visés à l'article R. 5221 et chez tous
-les commerçants qui en délivrent au public.
-
-L'affiche doit être placée en évidence et écrite en caractères gras d'au moins six millimètres de hauteur.
+Les produits visés à l'article R. 5222 ne doivent comporter aucune mention, ni faire l'objet d'aucune publicité, quelle qu'en
+soit la forme, relative à des propriétés préventives ou curatives à l'égard des maladies humaines [*interdiction*].
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 522
 
 _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Créé par_:
+
+  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
 _Cite_:
 
-  - Code de la santé publique - art. R5221 (M)
+  - Code de la santé publique - art. R5222 (M)
 
 
 ###### Article R5226
 
-Il est interdit aux coiffeurs sous les sanctions prévues à l'article L. 626, d'appliquer les produits visés à l'article R.
-5221 sans avoir procédé au préalable à la touche d'essai [*obligatoire*].
+Tout fabricant ou vendeur de produits visés à l'article R. 5222 doit, dès qu'il a connaissance d'un accident attribué à leur
+application, en informer le directeur départemental de l'action sanitaire et sociale.
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09, N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 52
 
 _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Créé par_:
+
+  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
 _Cite_:
 
-  - Code de la santé publique - art. L626 (M)
-  - Code de la santé publique - art. R5221 (M)
+  - Code de la santé publique - art. R5222 (M)
 
 
 ##### SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS<a id=390></a>
