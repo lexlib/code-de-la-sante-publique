@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1988-12-31
+Version Consolidée au 1989-01-01
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -392,25 +392,23 @@ Version Consolidée au 1988-12-31
             - [2 : Substances dangereuses. (art. R5152 à R5170)](#389)
             - [3 : Substances stupéfiantes. (art. R5171 à R5182)](#390)
             - [4 : Substances psychotropes. (art. R5183 à R5189)](#391)
-          - [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE (art. R5178)](#392)
-            - [PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5178)](#393)
-          - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact (art. R5190 à R5219)](#394)
-            - [1) Dispositions communes. (art. R5190 à R5203)](#395)
-            - [3) Régime particulier des stupéfiants. (art. R5209 à R5218)](#396)
-            - [2) Régime particulier des listes 1 et 2. (art. R5204 à R5208)](#397)
-            - [4) Régime particulier des psychotropes. (art. R5219)](#398)
-        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#399)
-        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#400)
-        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#401)
-        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#402)
-        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#403)
-        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-15)](#404)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#405)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#406)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#407)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#408)
-          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#409)
-          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#410)
+          - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact (art. R5190 à R5219)](#392)
+            - [1) Dispositions communes. (art. R5190 à R5203)](#393)
+            - [3) Régime particulier des stupéfiants. (art. R5209 à R5218)](#394)
+            - [2) Régime particulier des listes 1 et 2. (art. R5204 à R5208)](#395)
+            - [4) Régime particulier des psychotropes. (art. R5219)](#396)
+        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#397)
+        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#398)
+        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#399)
+        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#400)
+        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#401)
+        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-15)](#402)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#403)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#404)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#405)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#406)
+          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#407)
+          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#408)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -51682,6 +51680,57 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5182 : champ d'application du paragraphe 3
 
 
+###### Article R5178
+
+Les personnes titulaires de l'autorisation prévue à l'article R. 5171 sont tenues de dresser un état annuel indiquant
+[*mentions obligatoires*] pour chaque stupéfiant :
+
+1° Les quantités reçues ;
+
+2° Les quantités utilisées pour la fabrication ou la transformation, en indiquant la nature et la quantité des produits
+obtenus ;
+
+3° Les quantités cédées ;
+
+4° Les stocks en fin d'année, y compris les stocks de produits en cours de transformation.
+
+Cet état, qui couvre l'année civile écoulée, est adressé au ministre chargé de la santé [*autorité compétente*] au plus tard
+le 15 février [*date limite*].
+
+L'autorisation prévue à l'article R. 5171 peut imposer à son titulaire l'établissement et la production au cours de chaque
+année civile de plusieurs états récapitulatifs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988 en vigueur le 1er janvier 1989
+  - Décret n°88-1232 du 28 décembre 1988 - art. 5 (Ab) JORF 31 décembre 1988 en vigueur le 1er janvier 1989
+
+_Cité par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 5 (Ab)
+  - Arrêté du 21 décembre 1990 - art. 5 (V)
+  - Code de la santé publique - art. R5209 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-83 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5171 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+
 ###### Article R5179
 
 Sont interdits la production, la mise sur le marché, l'emploi et l'usage des substances suivantes, de leurs sels et des
@@ -52161,52 +52210,9 @@ _Cite_:
   - Code de la santé publique - art. R5182 (M)
 
 
-##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE<a id=392></a>
+##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact<a id=392></a>
 
-##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=393></a>
-
-###### Article R5178
-
-Les substances inscrites au tableau C et leurs dilutions, à l'exception des médicaments spécialisés, doivent être conservées
-dans un endroit où n'ont pas accès les personnes étrangères à l'établissement.
-
-Les récipients contenant lesdites substances doivent comporter le nom des substances tel qu'il figure au tableau C.
-
-Cette inscription doit être faite en caractères noirs très apparents sur une étiquette verte [*couleur*] fixée de telle sorte
-qu'elle ne puisse pas être involontairement détachée.
-
-Elle doit être accompagnée de la mention "DANGEREUX" inscrite en caractères noirs très apparents sur une bande de couleur
-verte, faisant le tour de l'enveloppe ou du récipient.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cité par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 5 (Ab)
-  - Arrêté du 21 décembre 1990 - art. 5 (V)
-  - Code de la santé publique - art. R5209 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-83 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact<a id=394></a>
-
-##### 1) Dispositions communes.<a id=395></a>
+##### 1) Dispositions communes.<a id=393></a>
 
 ###### Article R5190
 
@@ -52960,7 +52966,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-42 (V)
 
 
-##### 3) Régime particulier des stupéfiants.<a id=396></a>
+##### 3) Régime particulier des stupéfiants.<a id=394></a>
 
 ###### Article R5209
 
@@ -53483,7 +53489,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-##### 2) Régime particulier des listes 1 et 2.<a id=397></a>
+##### 2) Régime particulier des listes 1 et 2.<a id=395></a>
 
 ###### Article R5204
 
@@ -53713,7 +53719,7 @@ _Cité par_:
   - Code de la santé publique - art. R5209 (M)
 
 
-##### 4) Régime particulier des psychotropes.<a id=398></a>
+##### 4) Régime particulier des psychotropes.<a id=396></a>
 
 ###### Article R5219
 
@@ -53747,7 +53753,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=399></a>
+#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=397></a>
 
 ###### Article R5220
 
@@ -53859,7 +53865,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=400></a>
+#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=398></a>
 
 ###### Article R5230
 
@@ -54744,7 +54750,7 @@ _Cite_:
   - Code de la santé publique - art. R5235 (M)
 
 
-#### Chapitre 4 : Médicaments antivénériens.<a id=401></a>
+#### Chapitre 4 : Médicaments antivénériens.<a id=399></a>
 
 ###### Article R5239
 
@@ -54830,7 +54836,7 @@ _Cite_:
   - Code de la santé publique L643, R5060 à R5089
 
 
-#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=402></a>
+#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=400></a>
 
 ###### Article R5242
 
@@ -54891,7 +54897,7 @@ _Cite_:
   - Code de la santé publique - art. L645 (Ab)
 
 
-#### Chapitre 7 : Biberons à tube et tétines.<a id=403></a>
+#### Chapitre 7 : Biberons à tube et tétines.<a id=401></a>
 
 ###### Article R5262
 
@@ -55052,7 +55058,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=404></a>
+#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=402></a>
 
 ###### Article R5266-1
 
@@ -55551,9 +55557,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5136-17 (V)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=405></a>
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=403></a>
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=406></a>
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=404></a>
 
 ###### Article R5267
 
@@ -55608,7 +55614,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=407></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=405></a>
 
 ###### Article R5269
 
@@ -55701,9 +55707,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 4 : Visa des spécialités anciennes<a id=408></a>
+#### Chapitre 4 : Visa des spécialités anciennes<a id=406></a>
 
-##### Section 1 : Spécialités pharmaceutiques.<a id=409></a>
+##### Section 1 : Spécialités pharmaceutiques.<a id=407></a>
 
 ###### Article R5272
 
@@ -55744,7 +55750,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-33 (V)
 
 
-##### Section 2 : Produits d'origine microbienne.<a id=410></a>
+##### Section 2 : Produits d'origine microbienne.<a id=408></a>
 
 ###### Article R5273
 
