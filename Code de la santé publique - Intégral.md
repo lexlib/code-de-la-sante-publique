@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1986-01-10
+Version Consolidée au 1986-01-11
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -289,160 +289,151 @@ Version Consolidée au 1986-01-10
       - [CHAPITRE 2 : CONSEILS ET COMMISSIONS (art. L776 à L782)](#286)
         - [Section 1 : Conseils départementaux d'hygiène et commissions sanitaires (art. L776)](#287)
         - [Section 3 : Conseil permanent d'hygiène sociale. (art. L782)](#288)
-    - [LIVRE 9 : PERSONNEL (art. L792 à L799)](#289)
-      - [TITRE UNIQUE : STATUT GENERAL DU PERSONNEL DES ETABLISSEMENTS D'HOSPITALISATION PUBLICS ET DE CERTAINS ETABLISSEMENTS A CARACTERE SOCIAL (art. L792 à L799)](#290)
-        - [CHAPITRE 1 : DISPOSITIONS GENERALES. (art. L792 à L799)](#291)
-    - [Livre IX : Personnel (art. L800 à L897)](#292)
-      - [Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social (art. L800 à L897)](#293)
-        - [Chapitre Ier : Dispositions générales. (art. L800 à L802)](#294)
-        - [Chapitre II : Dispositions organiques (art. L803 à L807)](#295)
-        - [Chapitre III : Recrutement. (art. L808 à L811)](#296)
-        - [Chapitre IV : Rémunération. (art. L812 à L813)](#297)
-        - [Chapitre V : Notation et avancement. (art. L814 à L828)](#298)
-        - [Chapitre VI : Discipline. (art. L829 à L847)](#299)
-        - [Chapitre VII : Positions. (art. L848 à L881-1)](#300)
-          - [Section 1 : Activités, congés. (art. L849 à L863)](#301)
-          - [Section 2 : Détachement. (art. L865 à L869)](#302)
-          - [Section 3 : Disponibilité. (art. L870 à L879)](#303)
-          - [Section 4 : Position "sous les drapeaux". (art. L880 à L881)](#304)
-          - [Section 5 : Congé postnatal. (art. L881-1)](#305)
-        - [Chapitre 7 : Positions (art. L867)](#306)
-          - [Section 2 : Détachement. (art. L867)](#307)
-        - [Chapitre VIII : Cessation de fonctions. (art. L882 à L890)](#308)
-        - [Chapitre IX : Pensions et sécurité sociale. (art. L891 à L892)](#309)
-        - [Chapitre X : Dispositions diverses et transitoires. (art. L893 à L896)](#310)
-        - [Dispositions finales. (art. L897)](#311)
-  - [Partie réglementaire ancienne (art. R5001 à R5273)](#312)
-    - [Livre 5 : Pharmacie (art. R5001 à R5273)](#313)
-      - [Titre 1 : Dispositions générales (art. R5001 à R5089)](#314)
-        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5001 à R5013 bis)](#315)
-          - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#316)
-            - [Paragraphe 1 : Pharmacopée (art. R5001 à R5005)](#317)
-            - [Paragraphe 2 : Formulaire (art. R5006 à R5006-1)](#318)
-          - [Section 3 : Pharmaciens assistants (art. R5008 à R5012)](#319)
-          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#320)
-        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R*5015-64)](#321)
-          - [Section 1 : Organisation (art. R5014)](#322)
-          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5016 à R*5043)](#323)
-            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5016 à R*5028)](#324)
-            - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#325)
-            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#326)
-          - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#327)
-            - [Paragraphe 1 : Devoirs généraux des pharmaciens (art. R*5015-2 à R*5015-25)](#328)
-              - [1) Dispositions générales. (art. R*5015-2 à R*5015-3)](#329)
-              - [2) Du concours du pharmacien à l'oeuvre de protection de la santé. (art. R*5015-4 à R*5015-10)](#330)
-              - [3) De la responsabilité et de l'indépendance des pharmaciens. (art. R*5015-11 à R*5015-22)](#331)
-              - [4) De la tenue des établissements pharmaceutiques. (art. R*5015-23 à R*5015-25)](#332)
-            - [Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle (art. R*5015-26 à R*5015-38)](#333)
-              - [1) De la publicité. (art. R*5015-26 à R*5015-29)](#334)
-              - [2) De la concurrence déloyale. (art. R*5015-30 à R*5015-33)](#335)
-              - [3) Prohibition de certaines conventions ou ententes (art. R*5015-34 à R*5015-38)](#336)
-            - [Paragraphe 3 : Relations avec des agents de l'administration. (art. R*5015-39 à R*5015-42)](#337)
-            - [Paragraphe 4 : Des règles à observer dans les relations avec le public. (art. R*5015-43 à R*5015-47)](#338)
-            - [Paragraphe 5 : Relations avec les membres des professions médicales (art. R*5015-48 à R*5015-64)](#339)
-              - [1) Relations avec les membres des professions non pharmaceutiques. (art. R*5015-48 à R*5015-52)](#340)
-              - [2) Relations des pharmaciens avec leurs collaborateurs. (art. R*5015-53 à R*5015-55)](#341)
-              - [3) Devoirs des maîtres de stage. (art. R*5015-56 à R*5015-58)](#342)
-              - [4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires. (art. R*5015-59)](#343)
-              - [5) Devoirs de confraternité. (art. R*5015-60 à R*5015-64)](#344)
-        - [Chapitre 4 : Réglementation de la publicité (art. R5047 à R5052-1)](#345)
-          - [Section 2 : Dispositions concernant la publicité pour les médicaments. (art. R5047 à R5052)](#346)
-          - [Section 1 : Dispositions générales. (art. R5045 à R5046)](#347)
-          - [Section 4 : Dispositions concernant la publicité pour les officines et les établissements de préparation et de vente en gros des produits pharmaceutiques. (art. R5053 à R5054)](#348)
-          - [Section 5 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement (art. R5055 à R5055-4)](#349)
-          - [Section 3 : Dispositions concernant la publicité pour les produits présentés comme favorisant le diagnostic, la prévention ou le traitement des maladies. (art. R5052-1)](#350)
-        - [Chapitre 5 : De l'inspection de la pharmacie (art. R5056 à R5089)](#351)
-          - [Section 1 : Fonctions des inspecteurs de la pharmacie. (art. R5056 à R5059)](#352)
-          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5060 à R5089)](#353)
-            - [Paragraphe 1 : Généralités (art. R5060)](#354)
-            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#355)
-            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#356)
-            - [Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives. (art. R5071 à R5075)](#357)
-            - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#358)
-            - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#359)
-      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#360)
-        - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#361)
-          - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#362)
-            - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#363)
-            - [Paragraphe 5 : Médicaments spécialisés de l'officine (art. R5097 à R5098)](#364)
-            - [Paragraphe 4 : Remèdes secrets (art. R5094 à R5096)](#365)
-            - [Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes (art. R5091 à R5091-9)](#366)
-            - [Paragraphe 1 : Exploitation des officines (art. R5090)](#367)
-            - [Paragraphe 6 : Produits officinaux divisés (art. R5098-1 à R5098-2)](#368)
-          - [Section 2 : Exercice personnel de la profession (art. R5099 à R5104)](#369)
-            - [Paragraphe 1 : Assistance par des pharmaciens (art. R5099)](#370)
-            - [Paragraphe 2 : Remplacement et gérance (art. R5100 à R5104)](#371)
-        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5144)](#372)
-          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-7)](#373)
-            - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#374)
-            - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#375)
-            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#376)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-7)](#377)
-              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#378)
-              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-7)](#379)
-          - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5144)](#380)
-            - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#381)
-            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142)](#382)
-            - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#383)
-        - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#384)
-          - [DISPOSITIONS GENERALES. (art. R5145)](#385)
-          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 bis)](#386)
-            - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#387)
-            - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#388)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 bis)](#389)
-          - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#390)
-            - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#391)
-            - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#392)
-            - [Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché. (art. R5146-33 à R5146-39)](#393)
-            - [Paragraphe 4 : Prélèvements d'échantillons. (art. R5146-40 à R5146-41)](#394)
-          - [Section 3 : Réglementation de la publicité. (art. R5146-42 à R5146-48)](#395)
-          - [SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES. (art. R5146-49 à R5146-50 bis)](#396)
-          - [SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS. (art. R5146-51 à R5146-55)](#397)
-          - [Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents. (art. R5146-56)](#398)
-          - [SECTION 7 : SANCTIONS. (art. R5146-57)](#399)
-        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#400)
-          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#401)
-        - [Chapitre 2 bis : Pharmacovigilance (art. R5144-1 à R5144-11)](#402)
-          - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#403)
-          - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#404)
-      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-15)](#405)
-        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5229)](#406)
-          - [SECTION 1 : GENERALITES. (art. R5149)](#407)
-          - [SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5152)](#408)
-            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5152)](#409)
-          - [SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5151 à R5166-1)](#410)
-            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5151 à R5164)](#411)
-            - [PARAGRAPHE 1 : GENERALITES. (art. R5150)](#412)
-            - [PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C). (art. R5167)](#413)
-            - [PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*. (art. R5168)](#414)
-            - [PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B). (art. R5165 à R5166-1)](#415)
-          - [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE (art. R5169 à R5211)](#416)
-            - [PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*. (art. R5169 à R5177)](#417)
-            - [PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5178 à R5182)](#418)
-            - [PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5183 à R5188)](#419)
-            - [PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5189 à R5211)](#420)
-              - [1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE. (art. R5190 à R5198)](#421)
-              - [2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE. (art. R5199 à R5211)](#422)
-          - [SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5212 à R5227)](#423)
-            - [PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*. (art. R5227)](#424)
-          - [SECTION 4 : PRODUITS CAPILLAIRES (art. R5213 à R5221)](#425)
-            - [PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX. (art. R5213 à R5216)](#426)
-            - [PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES. (art. R5217 à R5221)](#427)
-          - [SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE (art. R5222 à R5226)](#428)
-            - [PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5222 à R5226)](#429)
-          - [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS (art. R5228 à R5229)](#430)
-            - [INSPECTION. (art. R5228 à R5229)](#431)
-        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#432)
-        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#433)
-        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#434)
-        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#435)
-        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-15)](#436)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#437)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#438)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#439)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#440)
-          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#441)
-          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#442)
+    - [LIVRE 9 : PERSONNEL (art. L793)](#289)
+      - [TITRE UNIQUE : STATUT GENERAL DU PERSONNEL DES ETABLISSEMENTS D'HOSPITALISATION PUBLICS ET DE CERTAINS ETABLISSEMENTS A CARACTERE SOCIAL (art. L793)](#290)
+        - [CHAPITRE 1 : DISPOSITIONS GENERALES. (art. L793)](#291)
+    - [Livre IX : Personnel (art. L803 à L897)](#292)
+      - [Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social (art. L803 à L897)](#293)
+        - [Chapitre II : Dispositions organiques (art. L803 à L807)](#294)
+        - [Chapitre V : Notation et avancement. (art. L818 à L826)](#295)
+        - [Chapitre VI : Discipline. (art. L834 à L847)](#296)
+        - [Chapitre VII : Positions. (art. L850 à L878)](#297)
+          - [Section 1 : Activités, congés. (art. L850 à L860)](#298)
+          - [Section 2 : Détachement. (art. L866 à L868)](#299)
+          - [Section 3 : Disponibilité. (art. L872 à L878)](#300)
+        - [Chapitre X : Dispositions diverses et transitoires. (art. L895)](#301)
+        - [Dispositions finales. (art. L897)](#302)
+  - [Partie réglementaire ancienne (art. R5001 à R5273)](#303)
+    - [Livre 5 : Pharmacie (art. R5001 à R5273)](#304)
+      - [Titre 1 : Dispositions générales (art. R5001 à R5089)](#305)
+        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5001 à R5013 bis)](#306)
+          - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#307)
+            - [Paragraphe 1 : Pharmacopée (art. R5001 à R5005)](#308)
+            - [Paragraphe 2 : Formulaire (art. R5006 à R5006-1)](#309)
+          - [Section 3 : Pharmaciens assistants (art. R5008 à R5012)](#310)
+          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#311)
+        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R*5015-64)](#312)
+          - [Section 1 : Organisation (art. R5014)](#313)
+          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5016 à R*5043)](#314)
+            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5016 à R*5028)](#315)
+            - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#316)
+            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#317)
+          - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#318)
+            - [Paragraphe 1 : Devoirs généraux des pharmaciens (art. R*5015-2 à R*5015-25)](#319)
+              - [1) Dispositions générales. (art. R*5015-2 à R*5015-3)](#320)
+              - [2) Du concours du pharmacien à l'oeuvre de protection de la santé. (art. R*5015-4 à R*5015-10)](#321)
+              - [3) De la responsabilité et de l'indépendance des pharmaciens. (art. R*5015-11 à R*5015-22)](#322)
+              - [4) De la tenue des établissements pharmaceutiques. (art. R*5015-23 à R*5015-25)](#323)
+            - [Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle (art. R*5015-26 à R*5015-38)](#324)
+              - [1) De la publicité. (art. R*5015-26 à R*5015-29)](#325)
+              - [2) De la concurrence déloyale. (art. R*5015-30 à R*5015-33)](#326)
+              - [3) Prohibition de certaines conventions ou ententes (art. R*5015-34 à R*5015-38)](#327)
+            - [Paragraphe 3 : Relations avec des agents de l'administration. (art. R*5015-39 à R*5015-42)](#328)
+            - [Paragraphe 4 : Des règles à observer dans les relations avec le public. (art. R*5015-43 à R*5015-47)](#329)
+            - [Paragraphe 5 : Relations avec les membres des professions médicales (art. R*5015-48 à R*5015-64)](#330)
+              - [1) Relations avec les membres des professions non pharmaceutiques. (art. R*5015-48 à R*5015-52)](#331)
+              - [2) Relations des pharmaciens avec leurs collaborateurs. (art. R*5015-53 à R*5015-55)](#332)
+              - [3) Devoirs des maîtres de stage. (art. R*5015-56 à R*5015-58)](#333)
+              - [4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires. (art. R*5015-59)](#334)
+              - [5) Devoirs de confraternité. (art. R*5015-60 à R*5015-64)](#335)
+        - [Chapitre 4 : Réglementation de la publicité (art. R5047 à R5052-1)](#336)
+          - [Section 2 : Dispositions concernant la publicité pour les médicaments. (art. R5047 à R5052)](#337)
+          - [Section 1 : Dispositions générales. (art. R5045 à R5046)](#338)
+          - [Section 4 : Dispositions concernant la publicité pour les officines et les établissements de préparation et de vente en gros des produits pharmaceutiques. (art. R5053 à R5054)](#339)
+          - [Section 5 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement (art. R5055 à R5055-4)](#340)
+          - [Section 3 : Dispositions concernant la publicité pour les produits présentés comme favorisant le diagnostic, la prévention ou le traitement des maladies. (art. R5052-1)](#341)
+        - [Chapitre 5 : De l'inspection de la pharmacie (art. R5056 à R5089)](#342)
+          - [Section 1 : Fonctions des inspecteurs de la pharmacie. (art. R5056 à R5059)](#343)
+          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5060 à R5089)](#344)
+            - [Paragraphe 1 : Généralités (art. R5060)](#345)
+            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#346)
+            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#347)
+            - [Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives. (art. R5071 à R5075)](#348)
+            - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#349)
+            - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#350)
+      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#351)
+        - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#352)
+          - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#353)
+            - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#354)
+            - [Paragraphe 5 : Médicaments spécialisés de l'officine (art. R5097 à R5098)](#355)
+            - [Paragraphe 4 : Remèdes secrets (art. R5094 à R5096)](#356)
+            - [Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes (art. R5091 à R5091-9)](#357)
+            - [Paragraphe 1 : Exploitation des officines (art. R5090)](#358)
+            - [Paragraphe 6 : Produits officinaux divisés (art. R5098-1 à R5098-2)](#359)
+          - [Section 2 : Exercice personnel de la profession (art. R5099 à R5104)](#360)
+            - [Paragraphe 1 : Assistance par des pharmaciens (art. R5099)](#361)
+            - [Paragraphe 2 : Remplacement et gérance (art. R5100 à R5104)](#362)
+        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5144)](#363)
+          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-7)](#364)
+            - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#365)
+            - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#366)
+            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#367)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-7)](#368)
+              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#369)
+              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-7)](#370)
+          - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5144)](#371)
+            - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#372)
+            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142)](#373)
+            - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#374)
+        - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#375)
+          - [DISPOSITIONS GENERALES. (art. R5145)](#376)
+          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 bis)](#377)
+            - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#378)
+            - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#379)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 bis)](#380)
+          - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#381)
+            - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#382)
+            - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#383)
+            - [Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché. (art. R5146-33 à R5146-39)](#384)
+            - [Paragraphe 4 : Prélèvements d'échantillons. (art. R5146-40 à R5146-41)](#385)
+          - [Section 3 : Réglementation de la publicité. (art. R5146-42 à R5146-48)](#386)
+          - [SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES. (art. R5146-49 à R5146-50 bis)](#387)
+          - [SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS. (art. R5146-51 à R5146-55)](#388)
+          - [Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents. (art. R5146-56)](#389)
+          - [SECTION 7 : SANCTIONS. (art. R5146-57)](#390)
+        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#391)
+          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#392)
+        - [Chapitre 2 bis : Pharmacovigilance (art. R5144-1 à R5144-11)](#393)
+          - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#394)
+          - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#395)
+      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-15)](#396)
+        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5229)](#397)
+          - [SECTION 1 : GENERALITES. (art. R5149)](#398)
+          - [SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5152)](#399)
+            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5152)](#400)
+          - [SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5151 à R5166-1)](#401)
+            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5151 à R5164)](#402)
+            - [PARAGRAPHE 1 : GENERALITES. (art. R5150)](#403)
+            - [PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C). (art. R5167)](#404)
+            - [PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*. (art. R5168)](#405)
+            - [PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B). (art. R5165 à R5166-1)](#406)
+          - [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE (art. R5169 à R5211)](#407)
+            - [PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*. (art. R5169 à R5177)](#408)
+            - [PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5178 à R5182)](#409)
+            - [PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5183 à R5188)](#410)
+            - [PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5189 à R5211)](#411)
+              - [1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE. (art. R5190 à R5198)](#412)
+              - [2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE. (art. R5199 à R5211)](#413)
+          - [SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5212 à R5227)](#414)
+            - [PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*. (art. R5227)](#415)
+          - [SECTION 4 : PRODUITS CAPILLAIRES (art. R5213 à R5221)](#416)
+            - [PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX. (art. R5213 à R5216)](#417)
+            - [PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES. (art. R5217 à R5221)](#418)
+          - [SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE (art. R5222 à R5226)](#419)
+            - [PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5222 à R5226)](#420)
+          - [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS (art. R5228 à R5229)](#421)
+            - [INSPECTION. (art. R5228 à R5229)](#422)
+        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#423)
+        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#424)
+        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#425)
+        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#426)
+        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-15)](#427)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#428)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#429)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#430)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#431)
+          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#432)
+          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#433)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -35393,21 +35384,12 @@ _Créé par_:
 
 ###### Article L685
 
-Le statut général du personnel des établissements de soins et de cure publics fixé par le livre IX du code de la santé
-publique n'est pas applicable aux membres du personnel médical et aux biologistes des hôpitaux et hospices publics, qu'ils
-exercent à temps partiel dans ces établissements ou qu'ils leur consacrent toute leur activité professionnelle. Le statut de
-ce personnel est déterminé par décret en Conseil d'Etat.
+Le statut général du personnel des établissements de soins et de cure publics fixé par les titres Ier et IV du statut général
+des fonctionnaires de l'Etat et des collectivités territoriales n'est pas applicable aux membres du personnel médical et aux
+biologistes des hôpitaux et hospices publics, qu'ils exercent à temps partiel dans ces établissements ou qu'ils leur
+consacrent toute leur activité professionnelle. Le statut de ce personnel est déterminé par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Ordonnance 58-1198 1958-12-11 ART. 1 JORF 12 décembre
 
 _Cité par_:
 
@@ -35415,9 +35397,9 @@ _Cité par_:
   - Loi n°87-39 du 27 janvier 1987 - art. 29 (V)
   - Code de la santé publique - art. L686 (Ab)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la santé publique L792 à L896
+  - Loi n°86-33 du 9 janvier 1986 - art. 135 (V) JORF 11 janvier 1986
 
 
 #### CHAPITRE 5 : AUTRES DISPOSITIONS FINANCIERES<a id=276></a>
@@ -35692,358 +35674,7 @@ _Abrogé par_:
 
 #### CHAPITRE 1 : DISPOSITIONS GENERALES.<a id=291></a>
 
-###### Article L792
-
-Le présent statut s'applique aux agents titularisés dans un emploi permanent des établissements ci-après énumérés :
-
-1° Etablissements d'hospitalisation publics prévus par la loi n° 70-1318 du 31 décembre 1970 ;
-
-2° Hospices publics ;
-
-3° Maisons de retraite publiques, à l'exclusion de celles qui sont rattachées au bureau d'aide sociale de Paris ;
-
-4° Etablissements relevant des services départementaux de l'aide sociale à l'enfance ;
-
-5° Etablissements à caractère public pour mineurs inadaptés, autres que les établissements nationaux et les établissements
-d'enseignement ou d'éducation surveillée.
-
-Toutefois pour les médecins à plein temps des établissements de cure et hôpitaux psychiatriques publics, il ne sera pas
-dérogé aux textes réglementaires instituant une organisation spéciale en ce qui concerne la nomination, la notation,
-l'avancement et la discipline des intéressés.
-
-La commission administrative, le conseil municipal, le conseil général ou le conseil d'administration fixe la liste des
-emplois permanents dont les titulaires sont soumis au présent statut par délibération soumise, après avis des directeurs
-départementaux de la santé et de la population et de l'aide sociale, à l'approbation du préfet.
-
-Les agents peuvent, sur leur demande et dans les cas et conditions déterminés par décret en conseil d'Etat, être autorisés,
-compte tenu des nécessités de fonctionnement du service, à exercer leurs fonctions à temps partiel.
-
-Ce service ne peut être inférieur au mi-temps [*durée minimum du temps partiel*]. A l'issue de la période de travail à temps
-partiel, les agents sont admis de plein droit à occuper à temps plein leur emploi ou à défaut un autre emploi conforme à leur
-statut. Pour la détermination des droits à avancement, à promotion et à formation, les périodes de travail à temps partiel
-sont assimilées à des périodes à temps plein.
-
-**Nota:**
-
-[*Nota : Ordonnance 82-296 du 31 mars 1982 ART. 12 : Les dispositions du dernier alinéa de l'article L. 792 du code de la
-santé publique sont applicables aux agents stagiaires et aux agents non titulaires des établissements mentionnés audit
-article. Arrêté du 10 décembre 1984 fixant pour l'année 1984 les taux de responsabilite attribuée aux personnels de direction
-des établissements énumérés à l'article L. 792 du présent code.*]
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Arrêté 1984-12-10
-  - TXT_ASSOCIE: Décret n°70-1329 du 31 décembre 1970 - art. 3 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 1 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 10 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 11 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 12 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 13 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 14 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 15 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 16 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 17 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 18 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 2 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 3 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 4 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 5 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 6 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 7 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 8 (Ab)
-  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 9 (Ab)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 1 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 10 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 11 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 12 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 13 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 14 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 15 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 16 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 17 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 18 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 19 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 2 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 20 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 21 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 22 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 23 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 24 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 25 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 26 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 27 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 28 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 29 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 3 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 4 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 5 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 6 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 7 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 8 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 9 (V)
-  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980
-  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 1 (V)
-  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 2 (V)
-  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 3 (V)
-  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 4 (V)
-  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980
-  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 1 (Ab)
-  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 2 (Ab)
-  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 3 (Ab)
-  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 4 (Ab)
-  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 5 (Ab)
-  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 6 (Ab)
-  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 7 (Ab)
-  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 8 (Ab)
-  - TXT_ASSOCIE: Arrêté du 4 février 1981
-  - TXT_ASSOCIE: Arrêté du 4 février 1981 - art. 1 (V)
-  - TXT_ASSOCIE: Arrêté du 4 février 1981 - art. 2 (V)
-  - TXT_ASSOCIE: Arrêté du 4 février 1981 - art. 3 (V)
-  - SPEC_APPLI: Ordonnance n°82-296 du 31 mars 1982 - art. 12 (V)
-  - TXT_ASSOCIE: Arrêté du 14 octobre 1982
-  - TXT_ASSOCIE: Arrêté du 14 octobre 1982 - art. 1 (V)
-  - TXT_ASSOCIE: Arrêté du 14 octobre 1982 - art. 2 (V)
-  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983
-  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983
-  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 1 (V)
-  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 2 (V)
-  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 3 (V)
-  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 4 (V)
-  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 5 (V)
-  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 6 (V)
-  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 7 (V)
-  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 16 juillet 1984
-  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 23 octobre 1984
-  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 5 (V)
-  - TXT_ASSOCIE: Arrêté du 10 décembre 1984
-  - TXT_ASSOCIE: Arrêté du 10 décembre 1984 - art. 1 (P)
-  - TXT_ASSOCIE: Décret n°85-946 du 16 août 1985
-  - TXT_ASSOCIE: Décret n°85-946 du 16 août 1985 - art. 2 (V)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 1 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 10 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 11 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 12 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 13 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 14 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 15 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 16 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 2 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 3 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 4 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 5 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 6 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 7 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 8 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 9 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 1 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 10 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 11 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 12 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 13 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 2 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 3 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 4 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 5 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 6 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 7 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 8 (Ab)
-  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 9 (Ab)
-  - TXT_ASSOCIE: Arrêté du 9 juin 1981
-  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 1 (Ab)
-  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 2 (Ab)
-  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 3 (Ab)
-  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 4 (Ab)
-  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 5 (Ab)
-  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 6 (Ab)
-  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Cité par_:
-
-  - Décret n°56-1294 du 14 décembre 1956 - art. 1 (Ab)
-  - Décret n°56-1294 du 14 décembre 1956 - art. 5 (Ab)
-  - Décret n°56-1294 du 14 décembre 1956 - art. 6 (Ab)
-  - Décret n°58-1202 du 11 décembre 1958 - art. 22 (Ab)
-  - Arrêté du 29 juin 1960 - art. 1 (V)
-  - Arrêté du 29 juin 1960 - art. 12 (V)
-  - Arrêté du 29 juin 1960 - art. 2 (V)
-  - Arrêté du 29 juin 1960 - art. 9 (V)
-  - Décret n°62-1198 du 3 octobre 1962 - art. 27 (Ab)
-  - Décret n°64-436 du 21 mai 1964 - art. 1 (V)
-  - Décret n°64-942 du 3 septembre 1964 - art. 15 (Ab)
-  - Décret n°68-132 du 9 février 1968 - art. 4 (V)
-  - Décret n°69-662 du 13 juin 1969 - art. 1 (V)
-  - Décret n°69-662 du 13 juin 1969 - art. 10 (V)
-  - Décret n°69-662 du 13 juin 1969 - art. 11 (V)
-  - Décret n°69-662 du 13 juin 1969 - art. 18 (V)
-  - Décret n°69-662 du 13 juin 1969 - art. 2 (V)
-  - Décret n°69-662 du 13 juin 1969 - art. 22 (V)
-  - Décret n°69-662 du 13 juin 1969 - art. 3 (V)
-  - Décret n°69-662 du 13 juin 1969 - art. 4 (V)
-  - Décret n°69-662 du 13 juin 1969 - art. 8 (V)
-  - Décret n°70-79 du 27 janvier 1970 - art. 6 bis (Ab)
-  - Arrêté du 3 février 1970 - art. 11 (V)
-  - Décret n°70-1186 du 17 décembre 1970 - art. 6 (V)
-  - Décret n°72-849 du 11 septembre 1972 - art. 3 (V)
-  - Décret n°72-849 du 11 septembre 1972 - art. 7 (V)
-  - Décret n°75-236 du 11 avril 1975 - art. 14 (V)
-  - Loi n°75-535 du 30 juin 1975 - art. 24 (M)
-  - Décret n°75-789 du 21 août 1975 - art. 4 (Ab)
-  - Décret n°75-789 du 21 août 1975 - art. 5 (Ab)
-  - Décret n°76-700 du 13 juillet 1976 - art. 1 (V)
-  - Décret n°76-700 du 13 juillet 1976 - art. 17 (V)
-  - Décret n°77-539 du 27 mai 1977 - art. 3 (M)
-  - Décret n°77-795 du 8 juillet 1977 - art. 1 (V)
-  - Décret n°77-962 du 11 août 1977 - art. 2 (V)
-  - Arrêté du 6 septembre 1977 - art. 1 (V)
-  - Décret n°77-1536 du 21 décembre 1977 - art. 1 (V)
-  - Décret n°77-1536 du 21 décembre 1977 - art. 4 (V)
-  - Décret n°77-1536 du 21 décembre 1977 - art. 6 (V)
-  - Décret n°78-517 du 30 mars 1978 - art. 1 (Ab)
-  - Arrêté du 6 septembre 1978 - art. 1 (M)
-  - Décret n°79-505 du 28 juin 1979 - art. 1 (Ab)
-  - Décret n°80-172 du 25 février 1980 - art. 16 (V)
-  - Décret n°80-177 du 25 février 1980 - art. 1 (V)
-  - Décret n°80-253 du 3 avril 1980 - art. 1 (V)
-  - Décret n°80-253 du 3 avril 1980 - art. 30 (V)
-  - Décret n°80-253 du 3 avril 1980 - art. 5 (V)
-  - Arrêté du 9 juin 1980 - art. 1 (V)
-  - Décret n°80-793 du 1 octobre 1980 - art. 1 (V)
-  - Décret n°80-793 du 1 octobre 1980 - art. 10 (V)
-  - Décret n°80-793 du 1 octobre 1980 - art. 14 (V)
-  - Décret n°80-793 du 1 octobre 1980 - art. 2 (V)
-  - Décret n°80-793 du 1 octobre 1980 - art. 20 (V)
-  - Décret n°80-793 du 1 octobre 1980 - art. 25 (V)
-  - Décret n°80-793 du 1 octobre 1980 - art. 5 (V)
-  - Décret n°80-966 du 2 décembre 1980 - art. 1 (V)
-  - Décret n°80-967 du 2 décembre 1980 - art. 1 (Ab)
-  - Décret n°80-967 du 2 décembre 1980 - art. 2 (Ab)
-  - Décret n°80-967 du 2 décembre 1980 - art. 4 (Ab)
-  - Décret n°80-967 du 2 décembre 1980 - art. 5 (Ab)
-  - Décret n°80-967 du 2 décembre 1980 - art. 6 (Ab)
-  - Arrêté du 24 décembre 1980 - art. 1 (V)
-  - Arrêté du 4 février 1981 - art. 3 (V)
-  - Arrêté du 12 mars 1981 - art. ANNEXE I (V)
-  - Arrêté du 12 mars 1981 - art. ANNEXE II (V)
-  - Arrêté du 12 mars 1981 - art. ANNEXE III (V)
-  - Arrêté du 18 mars 1981 - art. 3 (V)
-  - Arrêté du 18 mars 1981 - art. 3-2 (V)
-  - Arrêté du 20 mars 1981 - art. 1 (Ab)
-  - Arrêté du 15 février 1982 - art. 1 (V)
-  - Arrêté du 15 février 1982 - art. 10 (V)
-  - Arrêté du 15 février 1982 - art. 11 (V)
-  - Arrêté du 15 février 1982 - art. 15 (V)
-  - Arrêté du 15 février 1982 - art. 20 (V)
-  - Ordonnance n°82-272 du 26 mars 1982 - art. 1 (M)
-  - Ordonnance n°82-296 du 31 mars 1982 - art. 12 (V)
-  - Ordonnance n°82-296 du 31 mars 1982 - art. 9 (V)
-  - Ordonnance n°82-298 du 31 mars 1982 - art. 1 (M)
-  - Décret n°82-870 du 6 octobre 1982 - art. 1 (Ab)
-  - Arrêté du 14 octobre 1982 - art. 1 (V)
-  - Arrêté du 23 novembre 1982 - art. 1 (V)
-  - Décret n°82-1003 du 23 novembre 1982 - art. 1 (V)
-  - Arrêté du 21 décembre 1982 - art. 1 (M)
-  - Décret n°82-1089 du 21 décembre 1982 - art. 1 (M)
-  - Loi n°83-634 du 13 juillet 1983 - art. 2 (M)
-  - Décret n°83-862 du 23 septembre 1983 - art. 1 (Ab)
-  - Décret n°83-863 du 23 septembre 1983 - art. 1 (V)
-  - Arrêté du 19 décembre 1983 - art. 1 (V)
-  - Loi n°84-53 du 26 janvier 1984 - art. 2 (M)
-  - Décret n°84-710 du 17 juillet 1984 - art. 2 (Ab)
-  - Arrêté du 23 octobre 1984 - art. 1 (V)
-  - Arrêté du 10 décembre 1984 - art. 1 (P)
-  - Loi n°85-772 du 25 juillet 1985 - art. 12 (M)
-  - Loi n°86-33 du 9 janvier 1986 - art. 135 (V)
-  - Décret n°86-68 du 13 janvier 1986 - art. 2 (V)
-  - Décret n°88-976 du 13 octobre 1988 - art. 45 (V)
-  - Décret n°90-319 du 5 avril 1990 - art. 16 (T)
-  - Décret n°90-319 du 5 avril 1990 - art. 23 (Ab)
-  - Arrêté du 28 janvier 1991 - art. 16 (V)
-  - Décret n°91-155 du 6 février 1991 - art. 55 (V)
-  - Arrêté du 26 août 1991 - art. 2 (V)
-  - Arrêté du 18 mars 1981 - art. 5 (Ab)
-  - Arrêté du 2 mai 1977 - art. 1 (Ab)
-  - Arrêté du 2 mai 1977 - art. 10 (Ab)
-  - Arrêté du 22 novembre 1985 - art. 1 (M)
-  - Arrêté du 22 novembre 1985 - art. 2 (V)
-  - Arrêté du 22 novembre 1985 - art. 3 (V)
-  - Arrêté du 22 novembre 1985 - art. 8 (V)
-  - Arrêté du 28 octobre 1958 - art. 6 (V)
-  - Arrêté du 6 mai 1959 - art. 1 (V)
-  - Arrêté du 7 mai 1958 - art. 3 (V)
-  - Arrêté du 9 avril 1984 - art. 16 (Ab)
-  - Arrêté du 9 avril 1984 - art. 6 (Ab)
-  - Arrêté du 9 juin 1981 - art. 5 (Ab)
-  - CODE DES COMMUNES. - art. R*422-4 (V)
-  - Code de la santé publique - art. L686 (Ab)
-  - Code de la santé publique - art. L793 (M)
-  - Code de la santé publique - art. L808 (Ab)
-  - Code de la santé publique - art. L809 (Ab)
-  - Code de la santé publique - art. L811 (Ab)
-  - Code de la santé publique - art. L829 (Ab)
-  - Code de la santé publique - art. L862 (Ab)
-  - Code de la santé publique - art. L880 (Ab)
-  - Code de la santé publique - art. L891 (Ab)
-  - Code de la santé publique - art. L892 (Ab)
-  - Code de la santé publique - art. L893 (Ab)
-  - Code de procédure pénale - art. R79 (V)
-  - Code du travail - art. L231-1 (M)
-  - Code du travail - art. L970-5 (M)
-  - Code du travail - art. R232-2-5 (VT)
-  - Code du travail - art. R236-23 (M)
-  - Code du travail - art. R236-29 (VT)
-  - Code du travail - art. R241-1 (VT)
-  - Code du travail - art. R242-1 (M)
-  - Code du travail - art. R242-4 (M)
-  - Décret n°1964-10-13 du 13 octobre 1964 - art. 1 (V)
-  - Décret n°1986-11-19 du 19 novembre 1986 - art. 1 (V)
-
-_Cite_:
-
-  - Loi n°70-1318 1970-12-31
-
-_Modifié par_:
-
-  - Ordonnance 82-296 1982-03-31 ART. 11 JORF 2 AVRIL 1982
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
 ###### Article L793
-
-Le droit syndical est reconnu aux personnels visés à l'article L. 792. Les syndicats professionnels régis par le livre III du
-Code du travail peuvent ester en justice devant toute juridiction. Ils peuvent notamment, devant les juridictions de l'ordre
-administratif, se pourvoir contre les actes réglementaires concernant le statut du personnel et contre les décisions
-individuelles portant atteinte aux intérêts collectifs des agents.
-
-L'appartenance ou la non-appartenance à un syndicat ne doit entraîner aucune conséquence en ce qui concerne le recrutement,
-l'avancement, l'affectation et, d'une manière générale, la situation des agents soumis au présent statut [*non
-discrimination*]. L'exercice du droit syndical ne doit pas avoir pour conséquence des actes contraires aux lois.
 
 Toute organisation syndicale d'agents soumis au présent statut est tenue d'effectuer, dans les deux mois de sa création
 [*délai*], le dépôt de ses statuts et de la liste de ses administrateurs auprès de l'autorité hiérarchique dont dépendent les
@@ -36052,313 +35683,25 @@ dans les deux mois à compter du 22 mai 1955.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 ART. 2
-
 _Modifié par_:
 
-  - Loi n°74-873 1974-10-22 ART. 1 JORF 23 octobre 1974
+  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
+
+_Abrogé par_:
+
+  - Décret n°88-981 1988-10-13 art. 29 JORF 15 octobre 1988
 
 _Cité par_:
 
   - Décret n°88-981 du 13 octobre 1988 - art. 29 (T)
   - Décret n°88-981 du 13 octobre 1988 - art. 34 (Ab)
 
-_Cite_:
-
-  - Code du travail L410-1 à L463-2
-  - Code de la santé publique - art. L792 (M)
-
-
-###### Article L794
-
-Sous réserve des dispositions spéciales prévues par le présent statut et des dispositions législatives en vigueur, aucune
-distinction n'est faite pour son application entre les agents des deux sexes [*non discrimination*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 ART. 3
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 ART. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L795
-
-Il est interdit à tout agent soumis au présent statut, quelle que soit sa position et sous quelque dénomination que ce soit,
-d'avoir, par lui-même ou par personne interposée, des intérêts dans une entreprise soumise au contrôle de l'administration ou
-service dont il fait partie ou en relation avec son administration ou service [*incompatibilité*].
-
-Un décret fixera le délai pendant lequel, à la suite de la cessation de ses fonctions, l'agent demeurera soumis à cette
-interdiction.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 ART. 4
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 ART. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L796
-
-Il est interdit à tout agent soumis au présent statut d'exercer, à titre professionnel, une activité privée lucrative de
-quelque nature que ce soit. Il peut être dérogé à cette interdiction dans les conditions prévues par la réglementation
-générale sur les cumuls.
-
-Lorsque le conjoint d'un agent exerce, à titre professionnel, une activité privée lucrative, déclaration doit en être faite à
-l'autorité investie du pouvoir de nomination. Celle-ci prend, s'il y a lieu, les mesures propres à sauvegarder les intérêts
-du service après avis de l'une ou l'autre des commissions paritaires prévues aux articles L. 804 et L. 805.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 ART. 5
-
-_Cité par_:
-
-  - Arrêté du 9 août 1960 - art. 20 (V)
-  - Arrêté du 15 février 1982 - art. 41 (V)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 ART. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L804 (Ab)
-  - Code de la santé publique - art. L805 (Ab)
-
-
-###### Article L797
-
-Tout agent, quel que soit son rang dans la hiérarchie, est responsable de l'exécution des tâches qui lui sont confiées. En
-cas d'empêchement de l'agent chargé d'un travail déterminé, et en cas d'urgence, aucun autre agent ayant reçu l'ordre
-d'exécuter ce travail ne peut s'y soustraire pour le motif que celui-ci n'entre pas dans sa spécialité ou n'est pas en
-rapport avec ses attributions ou son grade.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 ART. 6
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 ART. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L798
-
-L'agent chargé d'assurer la marche d'un service est responsable à l'égard de ses chefs de l'autorité qui lui a été conférée
-pour cet objet et de l'exécution des ordres qu'il a donnés. Il n'est dégagé d'aucune des responsabilités qui lui incombent
-par la responsabilité propre de ses subordonnés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 ART. 7
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 ART. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L799
-
-Indépendamment des règles instituées dans le Code pénal en matière de secret professionnel, tout agent est lié par
-l'obligation de discrétion professionnelle pour tout ce qui concerne les faits et informations dont il a connaissance dans
-l'exercice ou à l'occasion de l'exercice de ses fonctions.
-
-Tout détournement, toute communication contraires aux règlements, de pièces ou documents de service à des tiers sont
-formellement interdits.
-
-En dehors des cas expressément prévus par la réglementation en vigueur, et notamment par les codes de déontologie édictés en
-vertu des dispositions de l'article L. 366, l'agent ne peut être délié de cette obligation de discrétion ou relevé de
-l'interdiction prononcée à l'alinéa précédent qu'avec l'autorisation de l'autorité investie du pouvoir de nomination, après
-avis du président de l'assemblée gestionnaire de l'établissement dans le cas où cette assemblée ne nomme pas.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 ART. 9
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 ART. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L366 (Ab)
-
 
 ## Livre IX : Personnel<a id=292></a>
 
 ### Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social<a id=293></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=294></a>
-
-###### Article L800
-
-Toute faute commise par un agent dans l'exercice ou à l'occasion de l'exercice de ses fonctions l'expose à une sanction
-disciplinaire sans préjudice, le cas échéant, des peines prévues par la loi pénale. Dans le cas où un agent a été poursuivi
-par un tiers pour faute de service et où le conflit d'attribution n'a pas été élevé, l'établissement doit couvrir l'agent des
-condamnations civiles prononcées contre lui et des frais de procédure.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 9
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L801
-
-Les agents ont droit, conformément aux règles fixées par le code pénal et les lois spéciales, à une protection contre les
-menaces, outrages, injures et diffamations dont ils peuvent être l'objet.
-
-L'autorité investie du pouvoir de nomination est tenue de protéger les agents contre les menaces, attaques, de quelque nature
-que ce soit, dont ils peuvent être l'objet à l'occasion de leurs fonctions.
-
-L'établissement doit réparer, le cas échéant, le préjudice qui en est résulté dans tous les cas non prévus par la
-réglementation des pensions des personnels en cause.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 10
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L802
-
-L'autorité investie du pouvoir de nomination tient un dossier individuel pour chaque agent soumis au présent statut ; ce
-dossier doit contenir toutes les pièces intéressant la situation administrative de l'agent. Celles-ci doivent être
-enregistrées, numérotées et classées sans discontinuité. Ne pourra figurer au dossier aucune mention faisant état des
-opinions politiques, philosophiques ou religieuses de l'intéressé.
-
-Le dossier doit suivre l'agent lorsque celui-ci est nommé à un emploi dans un autre établissement hospitalier public.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 11
-
-_Cité par_:
-
-  - Code de la santé publique - art. L847 (Ab)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-#### Chapitre II : Dispositions organiques<a id=295></a>
+#### Chapitre II : Dispositions organiques<a id=294></a>
 
 ###### Article L803
 
@@ -36731,88 +36074,6 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-###### Article L806
-
-Les représentants du personnel au sein des commissions paritaires sont élus au bulletin secret à la proportionnelle par les
-agents en activité ou détachés dans un emploi des cadres hospitaliers.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 15
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 15 février 1982
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 12 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 13 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 14 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 15 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 16 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 17 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 18 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 19 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 20 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 21 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 22 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 23 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 24 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 25 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 26 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 27 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 28 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 29 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 30 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 31 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 32 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 33 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 34 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 35 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 36 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 37 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 38 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 39 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 40 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 41 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 42 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 43 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 44 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 45 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 46 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 47 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 48 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 49 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 50 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 51 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 52 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 53 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 54 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 55 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 56 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 57 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 9 (V)
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
 ###### Article L807
 
 Les modalités de désignation des membres, l'organisation et le fonctionnement des commissions paritaires font l'objet
@@ -36909,728 +36170,15 @@ _Abrogé par_:
   - Décret n°98-674 du 30 juillet 1998 - art. 12 (V) JORF 6 août 1998
 
 
-#### Chapitre III : Recrutement.<a id=296></a>
-
-###### Article L808
-
-Les autorités qualifiées pour procéder à la nomination des personnels visés à l'article L. 792 sont désignées par les textes
-relatifs à l'organisation des différentes catégories d'établissements.
-
-Toutefois, sont nommés par le préfet, dans les conditions déterminées par décret pris sur le rapport des ministres de la
-santé publique et de la population et de l'intérieur, et sous réserve des dispositions des textes pris en application de
-l'article L. 893, les directeurs généraux, directeurs généraux adjoints, directeurs, directeurs adjoints, directeurs
-d'établissements annexes, sous-directeurs, directeurs économes et économes des hôpitaux et hospices publics, ainsi que les
-pharmaciens résidents des établissements visés à l'article L. 792.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 17
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L792 (M)
-  - Code de la santé publique - art. L893 (Ab)
-
-
-###### Article L809
-
-Nul ne peut être nommé à un emploi relevant des établissements visés à l'article L. 792 :
-
-1° S'il ne possède la nationalité française sous réserve des incapacités prévues par le code de la nationalité française ;
-
-2° S'il ne jouit de ses droits civiques et s'il n'est de bonne moralité ;
-
-3° S'il ne se trouve en position régulière au regard des lois sur le recrutement de l'armée ;
-
-4° S'il ne remplit les conditions d'aptitude physique exigées pour l'exercice de la fonction, et s'il n'est reconnu, soit
-indemne de toute affection tuberculeuse, cancéreuse ou mentale, soit définitivement guéri.
-
-Par dérogation aux dispositions du 4°, peuvent être titularisés dans les emplois des sanatoriums publics pour tuberculose
-pulmonaire, après une durée de service qui sera fixée par un texte pris en application de l'article L. 893 ci-après,
-d'anciens malades tuberculeux, susceptibles de fournir un certificat médical établi par un phtisiologue agréé, attestant
-qu'ils sont stabilisés et aptes à remplir les fonctions qu'ils postulent.
-
-Pour ces agents, la titularisation ne comporte pas l'accès au bénéfice éventuel des dispositions de l'article L. 856 ci-
-dessous en ce qui concerne l'octroi de congés de longue durée pour tuberculose, à moins qu'un examen médical postérieur,
-suivi de l'avis concordant du comité médical compétent, ait conclu à la guérison définitive.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Décret n°59-707 du 8 juin 1959 - art. 17 (V)
-  - Décret n°62-132 du 2 février 1962 - art. 14 (Ab)
-  - Décret n°62-132 du 2 février 1962 - art. 18 (Ab)
-  - Décret n°62-569 du 15 mai 1962 - art. 14 (Ab)
-  - Décret n°62-1198 du 3 octobre 1962 - art. 26 (Ab)
-  - Décret n°64-748 du 17 juillet 1964 - art. 11 (Ab)
-  - Décret n°64-748 du 17 juillet 1964 - art. 14 (Ab)
-  - Décret n°64-748 du 17 juillet 1964 - art. 16 (Ab)
-  - Décret n°64-748 du 17 juillet 1964 - art. 23 (Ab)
-  - Décret n°64-748 du 17 juillet 1964 - art. 4 (Ab)
-  - Décret n°64-748 du 17 juillet 1964 - art. 6 (Ab)
-  - Décret n°64-748 du 17 juillet 1964 - art. 9 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 22 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 25 (Ab)
-  - Décret n°68-97 du 10 janvier 1968 - art. 11 (V)
-  - Décret n°68-97 du 10 janvier 1968 - art. 13 (M)
-  - Décret n°68-97 du 10 janvier 1968 - art. 18 (M)
-  - Décret n°68-97 du 10 janvier 1968 - art. 24 (V)
-  - Décret n°68-97 du 10 janvier 1968 - art. 26 (V)
-  - Décret n°68-97 du 10 janvier 1968 - art. 4 (V)
-  - Décret n°68-97 du 10 janvier 1968 - art. 6 (V)
-  - Décret n°68-132 du 9 février 1968 - art. 4 (M)
-  - Décret n°70-1186 du 17 décembre 1970 - art. 8 (M)
-  - Décret n°70-1186 du 17 décembre 1970 - art. 9 (Ab)
-  - Décret n°71-988 du 3 décembre 1971 - art. 4 (V)
-  - Décret n°71-988 du 3 décembre 1971 - art. 7 (V)
-  - Décret n°72-849 du 11 septembre 1972 - art. 15 (V)
-  - Décret n°72-849 du 11 septembre 1972 - art. 16 (V)
-  - Décret n°72-877 du 12 septembre 1972 - art. 21 (M)
-  - Décret n°72-877 du 12 septembre 1972 - art. 24 (Ab)
-  - Décret n°73-317 du 6 mars 1973 - art. 16 (V)
-  - Décret n°73-317 du 6 mars 1973 - art. 18 (V)
-  - Décret n°73-317 du 6 mars 1973 - art. 22 (V)
-  - Décret n°73-1094 du 29 novembre 1973 - art. 20 (Ab)
-  - Décret n°73-1094 du 29 novembre 1973 - art. 25 (Ab)
-  - Décret n°77-1536 du 21 décembre 1977 - art. 5 (V)
-  - Décret n°77-1536 du 21 décembre 1977 - art. 9 (V)
-  - Décret n°80-253 du 3 avril 1980 - art. 22 (V)
-  - Décret n°80-253 du 3 avril 1980 - art. 27 (V)
-  - Décret n°80-793 du 1 octobre 1980 - art. 19 (V)
-  - Arrêté du 12 mars 1981 - art. 3 (V)
-  - Arrêté du 12 mars 1981 - art. ANNEXE I (V)
-  - Arrêté du 12 mars 1981 - art. ANNEXE II (V)
-  - Arrêté du 12 mars 1981 - art. ANNEXE III (V)
-  - Décret n°69-281 du 24 mars 1969 - art. 16 (V)
-  - Décret n°69-281 du 24 mars 1969 - art. 19 (V)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L792 (M)
-  - Code de la santé publique - art. L856 (M)
-  - Code de la santé publique - art. L893 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983
-  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 1 (V)
-  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 2 (V)
-  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 3 (V)
-  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 4 (V)
-
-
-###### Article L811
-
-A l'exception des bénéficiaires de la législation sur les emplois réservés, titulaires d'un emploi de début à ce titre, nul
-ne peut être titularisé dans un emploi permanent dans les établissements visés à l'article L. 792 s'il n'a pas satisfait aux
-épreuves soit d'un concours, soit d'un examen d'aptitude ou s'il ne possède un diplôme spécial et en ce dernier cas, après
-concours sur titres, et s'il n'a dans tous les cas effectué, dans l'emploi qu'il sollicite, un stage dont la durée est fixée
-par les textes prévus à l'article L. 893.
-
-Peuvent toutefois être dispensés des concours et examens ainsi que du stage, les candidats occupant un emploi identique dans
-l'un des établissements visés à l'article L. 792.
-
-Les conditions d'accès aux divers emplois du personnel hospitalier sont déterminées par les règlements d'administration
-publique, décrets et arrêtés prévus à l'article L. 893.
-
-La nomination a un caractère conditionnel. Elle peut être annulée au cours de la période de stage à l'issue de laquelle est
-prononcée l'admission définitive dans les cadres. En cas d'insuffisance professionnelle, les agents recrutés peuvent être
-licenciés lorsqu'ils sont en service depuis un temps au moins égal à la moitié de la durée normale du stage.
-
-Le licenciement d'un stagiaire ne donne droit à aucune indemnité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 20
-
-_Cité par_:
-
-  - Décret n°59-707 du 8 juin 1959 - art. 16 (V)
-  - Décret n°59-707 du 8 juin 1959 - art. 6 (M)
-  - Décret n°62-132 du 2 février 1962 - art. 14 (Ab)
-  - Décret n°62-569 du 15 mai 1962 - art. 14 (Ab)
-  - Décret n°62-1198 du 3 octobre 1962 - art. 27 (Ab)
-  - Décret n°64-436 du 21 mai 1964 - art. 1 (V)
-  - Décret n°64-942 du 3 septembre 1964 - art. 10 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 11 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 12 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 13 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 14 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 16 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 17 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 18 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 19 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 2 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 20 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 21 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 22 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 7 (Ab)
-  - Décret n°64-942 du 3 septembre 1964 - art. 9 (Ab)
-  - Décret n°68-97 du 10 janvier 1968 - art. 24 (V)
-  - Décret n°68-132 du 9 février 1968 - art. 5 (V)
-  - Décret n°69-662 du 13 juin 1969 - art. 16 (V)
-  - Décret n°69-662 du 13 juin 1969 - art. 21 (V)
-  - Décret n°70-1186 du 17 décembre 1970 - art. 3 (Ab)
-  - Décret n°70-1186 du 17 décembre 1970 - art. 5 (V)
-  - Décret n°70-1186 du 17 décembre 1970 - art. 8 (V)
-  - Décret n°71-988 du 3 décembre 1971 - art. 4 (V)
-  - Décret n°72-361 du 20 avril 1972 - art. 9 (V)
-  - Décret n°72-849 du 11 septembre 1972 - art. 15 (V)
-  - Décret n°72-877 du 12 septembre 1972 - art. 17 (V)
-  - Décret n°72-877 du 12 septembre 1972 - art. 21 (V)
-  - Décret n°73-317 du 6 mars 1973 - art. 10 (M)
-  - Décret n°73-317 du 6 mars 1973 - art. 11 (V)
-  - Décret n°73-317 du 6 mars 1973 - art. 15 (V)
-  - Décret n°73-317 du 6 mars 1973 - art. 16 (V)
-  - Décret n°73-317 du 6 mars 1973 - art. 5 (V)
-  - Décret n°73-317 du 6 mars 1973 - art. 9 (V)
-  - Décret n°73-1094 du 29 novembre 1973 - art. 20 (Ab)
-  - Décret n°75-245 du 11 avril 1975 - art. 4 (Ab)
-  - Décret n°75-245 du 11 avril 1975 - art. 6 (Ab)
-  - Décret n°75-245 du 11 avril 1975 - art. 9 (Ab)
-  - Décret n°75-489 du 16 juin 1975 - art. 2 (Ab)
-  - Décret n°77-1536 du 21 décembre 1977 - art. 5 (V)
-  - Décret n°80-253 du 3 avril 1980 - art. 22 (V)
-  - Décret n°80-793 du 1 octobre 1980 - art. 17 (V)
-  - Décret n°80-793 du 1 octobre 1980 - art. 20 (V)
-  - Arrêté du 12 mars 1981 - art. 1 (V)
-  - Décret n°69-281 du 24 mars 1969 - art. 16 (V)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983
-  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983 - art. 2 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L792 (M)
-  - Code de la santé publique - art. L893 (Ab)
-
-
-#### Chapitre IV : Rémunération.<a id=297></a>
-
-###### Article L812
-
-La rémunération des agents comprend le traitement, l'indemnité de résidence, les suppléments pour charges de famille et
-toutes autres indemnités instituées par un texte législatif ou réglementaire.
-
-Dans chaque grade ou emploi, les échelons et les traitements et indemnités correspondants sont ceux fixés par arrêtés
-concertés des ministres de la santé publique et de la population, de l'intérieur et des finances et des affaires économiques,
-après avis du comité supérieur de la fonction hospitalière. Toutefois et nonobstant les dispositions de l'article L. 803 ci-
-dessus, sont applicables de plein droit aux agents régis par le présent livre les dispositions législatives et réglementaires
-relatives à la valeur du traitement correspondant à l'indice de base des fonctionnaires de l'Etat, de l'indemnité de
-résidence, du supplément familial de traitement, ainsi que de toutes autres indemnités instituées par un texte législatif ou
-réglementaires et ayant le caractère de complément de traitement.
-
-L'échelon le plus bas de la première catégorie devra comporter un traitement net qui ne pourra être inférieur à 120 p. 100 du
-minimum vital fixé dans les conditions prévues par l'article 32 de la loi n° 46-2294 du 19 octobre 1946.
-
-La période de stage entre en ligne de compte pour l'avancement et pour la retraite, après validation, conformément au
-règlement de la caisse nationale de retraite des agents des collectivités locales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 21
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 13 février 1962
-  - TXT_SOURCE: Arrêté du 13 février 1962 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 13 février 1962 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 13 février 1962 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 13 février 1962 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 1 février 1963
-  - TXT_SOURCE: Arrêté du 1 février 1963 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 1 février 1963 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 1 février 1963 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 1 février 1963 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 1 février 1963 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 1 février 1963 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 1 février 1963 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 1 février 1963 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 1 février 1963 - art. Annexe 3 (V)
-  - TXT_SOURCE: Arrêté du 8 mars 1963
-  - TXT_SOURCE: Arrêté du 8 mars 1963 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 8 mars 1963 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 8 mars 1963 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 8 juillet 1963
-  - TXT_SOURCE: Arrêté du 8 juillet 1963 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 8 juillet 1963 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 8 juillet 1963 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 2 décembre 1963
-  - TXT_SOURCE: Arrêté du 2 décembre 1963 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 2 décembre 1963 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 2 décembre 1963 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1967
-  - TXT_SOURCE: Arrêté du 23 juin 1967 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 23 juin 1967 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1969
-  - TXT_SOURCE: Arrêté du 24 mars 1969 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1969 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1969 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1969 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 27 novembre 1969
-  - TXT_SOURCE: Arrêté du 27 novembre 1969 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 27 novembre 1969 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 27 novembre 1969 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 27 novembre 1969 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 27 novembre 1969 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 27 novembre 1969 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 4 mars 1970
-  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 17 décembre 1970
-  - TXT_SOURCE: Arrêté du 17 décembre 1970 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 3 décembre 1971
-  - TXT_SOURCE: Arrêté du 3 décembre 1971 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 3 décembre 1971 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 20 avril 1972
-  - TXT_SOURCE: Arrêté du 20 avril 1972 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 20 avril 1972 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 20 avril 1972 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 6 mars 1973
-  - TXT_SOURCE: Arrêté du 6 mars 1973 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 6 mars 1973 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 6 mars 1973 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 6 mars 1973 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 29 novembre 1973 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 24 mai 1974
-  - TXT_SOURCE: Arrêté du 24 mai 1974 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 24 mai 1974 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 24 mai 1974 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 11 avril 1975
-  - TXT_SOURCE: Arrêté du 11 avril 1975 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 11 avril 1975 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 15 octobre 1975
-  - TXT_SOURCE: Arrêté du 15 octobre 1975 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 15 octobre 1975 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 15 octobre 1975 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 15 octobre 1975 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 15 octobre 1975 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 15 octobre 1975 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 2 février 1977
-  - TXT_SOURCE: Arrêté du 2 février 1977 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 2 février 1977 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 2 février 1977 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 2 février 1977 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 2 février 1977 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 2 février 1977 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 21 décembre 1977
-  - TXT_SOURCE: Arrêté du 21 décembre 1977 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 21 décembre 1977 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 21 décembre 1977 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 14 mars 1978
-  - TXT_SOURCE: Arrêté du 14 mars 1978 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 14 mars 1978 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 11 juin 1979
-  - TXT_SOURCE: Arrêté du 11 juin 1979 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 25 février 1980
-  - TXT_SOURCE: Arrêté du 25 février 1980 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 25 février 1980 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 3 avril 1980
-  - TXT_SOURCE: Arrêté du 3 avril 1980 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 3 avril 1980 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 3 avril 1980 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 3 avril 1980 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 3 avril 1980 - art. Annexe 2 (V)
-  - TXT_SOURCE: Arrêté du 5 janvier 1982
-  - TXT_SOURCE: Arrêté du 11 juin 1982
-  - TXT_SOURCE: Arrêté du 11 juin 1982 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 11 juin 1982 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 11 juin 1982 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 11 juin 1982 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 2 novembre 1973
-  - TXT_SOURCE: Arrêté du 2 novembre 1973 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 2 novembre 1973 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 2 novembre 1973 - art. Annexe (Ab)
-  - TXT_SOURCE: Arrêté du 29 novembre 1973
-  - TXT_SOURCE: Arrêté du 29 novembre 1973 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 29 novembre 1973 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 29 novembre 1973 - art. Annexe (Ab)
-  - TXT_SOURCE: Arrêté du 3 novembre 1970
-  - TXT_SOURCE: Arrêté du 3 novembre 1970 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 3 novembre 1970 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 3 novembre 1970 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 3 novembre 1970 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 3 novembre 1970 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 3 novembre 1970 - art. 6 (Ab)
-  - TXT_SOURCE: Arrêté du 3 novembre 1970 - art. 7 (Ab)
-  - TXT_SOURCE: Arrêté du 3 novembre 1970 - art. Annexe (Ab)
-  - TXT_SOURCE: Arrêté du 3 septembre 1964
-  - TXT_SOURCE: Arrêté du 3 septembre 1964 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 3 septembre 1964 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 3 septembre 1964 - art. Annexe (Ab)
-  - TXT_SOURCE: Arrêté du 9 mars 1977
-  - TXT_SOURCE: Arrêté du 9 mars 1977 - art. Annexe (Ab)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-  - Loi n°77-574 1977-06-07 art. 18 JORF 8 juin
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cité par_:
-
-  - Code de la santé publique - art. L803 (Ab)
-
-_Cite_:
-
-  - Loi n°46-2294 1946-10-19 art. 32
-
-
-###### Article L813
-
-Des arrêtés concertés des ministres de la santé publique et de la population, de l'intérieur et des finances et des affaires
-économiques fixeront également, après avis du comité supérieur de la fonction hospitalière, la liste des agents astreints de
-par leurs fonctions à résider dans l'établissement et détermineront les conditions dans lesquelles les personnels soumis au
-présent statut pourront, à titre exceptionnel, bénéficier d'avantages en nature et recevoir des primes et indemnités,
-notamment pour travaux pénibles ou insalubres et pour travaux supplémentaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 22
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 24 mars 1967
-  - TXT_SOURCE: Arrêté du 24 mars 1967 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1967 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1967 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1967 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1967 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1967 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 24 mars 1967 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 13 janvier 1970
-  - TXT_SOURCE: Arrêté du 13 janvier 1970 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 13 janvier 1970 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 13 janvier 1970 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 13 janvier 1970 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 4 mars 1970
-  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 4 mars 1970 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 20 avril 1972
-  - TXT_SOURCE: Arrêté du 20 avril 1972 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 20 avril 1972 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 24 novembre 1972
-  - TXT_SOURCE: Arrêté du 24 novembre 1972 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 24 novembre 1972 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 24 novembre 1972 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 24 novembre 1972 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 14 juin 1973
-  - TXT_SOURCE: Arrêté du 14 juin 1973 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 14 juin 1973 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 14 juin 1973 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 14 juin 1973 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 14 juin 1973 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 14 juin 1973 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 14 juin 1973 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 14 juin 1973 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 14 juin 1973 - art. 8 (Ab)
-  - TXT_SOURCE: Arrêté du 14 juin 1973 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 23 avril 1975
-  - TXT_SOURCE: Arrêté du 23 avril 1975 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 23 avril 1975 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 20 juillet 1976
-  - TXT_SOURCE: Arrêté du 20 juillet 1976 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 6 septembre 1978
-  - TXT_SOURCE: Arrêté du 6 septembre 1978 - art. 1 (M)
-  - TXT_SOURCE: Arrêté du 6 septembre 1978 - art. 2 (M)
-  - TXT_SOURCE: Arrêté du 6 septembre 1978 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 6 septembre 1978 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 6 septembre 1978 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 11 juin 1979
-  - TXT_SOURCE: Arrêté du 11 juin 1979 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 3-1 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 3-2 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 3-3 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 3-4 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 3-5 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. Annexe 2 (M)
-  - TXT_SOURCE: Arrêté du 19 mars 1981
-  - TXT_SOURCE: Arrêté du 19 mars 1981 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 19 mars 1981 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 19 mars 1981 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 19 mars 1981 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 20 mars 1981
-  - TXT_SOURCE: Arrêté du 20 mars 1981 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 20 mars 1981 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 20 mars 1981 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 20 mars 1981 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 20 mars 1981 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 5 janvier 1982
-  - TXT_SOURCE: Arrêté du 22 octobre 1984
-  - TXT_SOURCE: Arrêté du 22 octobre 1984 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 22 octobre 1984 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 22 octobre 1984 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 13 février 1962
-  - TXT_SOURCE: Arrêté du 13 février 1962 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 13 février 1962 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 22 août 1958
-  - TXT_SOURCE: Arrêté du 22 août 1958 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 22 août 1958 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 22 août 1958 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 22 août 1958 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 22 août 1958 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 22 août 1958 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 29 juillet 1976
-  - TXT_SOURCE: Arrêté du 29 juillet 1976 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 29 juillet 1976 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 29 juillet 1976 - art. 3 (Ab)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Cité par_:
-
-  - Arrêté du 18 mars 1981 - art. 1 (V)
-  - Arrêté du 19 mars 1981 - art. 1 (V)
-  - Ordonnance n°82-272 du 26 mars 1982 - art. 4 (Ab)
-  - Ordonnance n°82-272 du 26 mars 1982 - art. 5 (M)
-  - Décret n°82-1003 du 23 novembre 1982 - art. 3 (M)
-  - Code de la santé publique - art. L803 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-#### Chapitre V : Notation et avancement.<a id=298></a>
-
-###### Article L814
-
-Il est attribué chaque année, à tout agent en activité ou en service détaché, une note chiffrée accompagnée d'une
-appréciation écrite exprimant sa valeur professionnelle. L'autorité investie du pouvoir de nomination note les agents après
-avis du chef de service et, éventuellement, du directeur de l'établissement, consigné sur la feuille de notation.
-
-Les notes chiffrées ainsi attribuées sont obligatoirement portées à la connaissance des intéressés et des commissions
-paritaires. Celles-ci peuvent, à la requête de l'intéressé, proposer la révision de la note attribuée. Dans ce cas,
-communication doit être faite à la commission de tous les éléments d'information utiles.
-
-Les éléments entrant en ligne de compte pour la détermination des notes seront fixés par arrêtés du ministre de la santé
-publique et de la population, après avis du comité supérieur de la fonction hospitalière.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 23
-
-_Cité par_:
-
-  - Arrêté du 9 août 1960 - art. 20 (V)
-  - Arrêté du 9 août 1960 - art. 26 (V)
-  - Arrêté du 15 février 1982 - art. 41 (V)
-  - Arrêté du 15 février 1982 - art. 49 (V)
-  - Arrêté du 6 mai 1959 - art. 1 (V)
-  - Arrêté du 6 mai 1959 - art. 2 (V)
-  - Code de la santé publique - art. L803 (Ab)
-  - Code de la santé publique - art. L815 (Ab)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L815
-
-Il est établi pour chaque agent une fiche annuelle de notation annexée au dossier et comportant les indications prévues à
-l'article L. 814.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 24
-
-_Cite_:
-
-  - Code de la santé publique - art. L814 (Ab)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L816
-
-L'avancement des agents soumis au présent statut comprend l'avancement d'échelon et l'avancement de grade. Il a lieu de façon
-continue d'échelon à échelon et de grade à grade.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 25
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L817
-
-L'avancement d'échelon se traduit par une augmentation de traitement. Il est fonction à la fois de l'ancienneté et des notes
-de l'agent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 26
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
+#### Chapitre V : Notation et avancement.<a id=295></a>
 
 ###### Article L818
 
-La durée maximum et la durée minimum du temps susceptible d'être passé dans chaque échelon sont fixées pour chaque catégorie
-d'emplois par les textes visés à l'article L. 893.
-
-L'avancement d'échelon à l'ancienneté maximum est accordé de plein droit. L'avancement d'échelon à l'ancienneté minimum peut
-être accordé par l'autorité investie du pouvoir de nomination, après avis de la commission paritaire, aux agents auxquels a
-été attribuée une note supérieure à la note moyenne obtenue par les agents du même grade, sans que plus d'une promotion sur
-trois puisse être prononcée par application de ces dispositions.
+L'avancement d'échelon à l'ancienneté minimum peut être accordé par l'autorité investie du pouvoir de nomination, après avis
+de la commission paritaire, aux agents auxquels a été attribuée une note supérieure à la note moyenne obtenue par les agents
+du même grade, sans que plus d'une promotion sur trois puisse être prononcée par application de ces dispositions.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 27
 
 _Cité par_:
 
@@ -37638,17 +36186,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
+  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la santé publique - art. L893 (Ab)
+  - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 2° JORF 22 juin 2000
 
 
 ###### Article L819
-
-L'avancement de grade a lieu exclusivement au choix d'après le tableau d'avancement dressé selon les dispositions prévues à
-l'article L. 821.
 
 L'agent bénéficiant d'un avancement de grade dans son établissement ou après nomination dans un autre établissement est
 classé dans son nouveau grade à l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont il
@@ -37664,15 +36209,6 @@ pouvoir cependant bénéficier d'un avancement dans son ancien grade, ni conserv
 attachées.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 28
 
 _Cité par_:
 
@@ -37712,11 +36248,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Cite_:
-
-  - Code de la santé publique - art. L821 (M)
+  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
 
 
 ###### Article L820
@@ -37748,27 +36280,17 @@ _Abrogé par_:
 
 ###### Article L821
 
-L'avancement de grade ne peut avoir lieu qu'au profit d'agents inscrits à un tableau d'avancement. Le tableau est préparé
-chaque année par l'administration auprès de laquelle siègent les commissions paritaires compétentes et soumis à ces
-commissions qui fonctionnent alors comme commissions d'avancement et soumettent leurs propositions à l'autorité investie du
-pouvoir de nomination.
+Le tableau est préparé chaque année par l'administration auprès de laquelle siègent les commissions paritaires compétentes et
+soumis à ces commissions qui fonctionnent alors comme commissions d'avancement et soumettent leurs propositions à l'autorité
+investie du pouvoir de nomination. 
 
 Le tableau d'avancement doit comprendre un nombre de candidats égal au nombre d'emplois susceptibles de devenir vacants dans
-l'année majoré de 50 p. 100.
+l'année majoré de 50  %. 
 
 Le tableau doit être arrêté par l'autorité investie du pouvoir de nomination le 15 décembre au plus tard pour prendre effet
 au 1er janvier suivant. Il cesse d'être valable à l'expiration de l'année pour laquelle il est dressé.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 30
 
 _Cité par_:
 
@@ -37784,29 +36306,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
+  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 2° JORF 22 juin 2000
 
 
 ###### Article L822
 
-Pour l'établissement du tableau d'avancement, il doit être procédé à un examen approfondi de la valeur professionnelle de
-l'agent, compte tenu des notes obtenues par l'intéressé et des propositions motivées formulées par les chefs de service. Les
-agents sont inscrits au tableau par ordre de mérite.
-
-Les candidats dont le mérite est jugé égal sont départagés par l'ancienneté.
-
 Sous réserve des nécessités de service, les promotions doivent avoir lieu dans l'ordre du tableau.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 31
 
 _Cité par_:
 
@@ -37817,7 +36328,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
+  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
+
+_Abrogé par_:
+
+  - Loi n°96-452 du 28 mai 1996 - art. 22 () JORF 29 mai 1996
 
 
 ###### Article L823
@@ -37947,248 +36462,22 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 2° JORF 22 juin 2000
 
 
-###### Article L827
-
-Tout agent inscrit au tableau d'avancement de grade est tenu d'accepter l'emploi qui lui est assigné dans son nouveau grade.
-Son refus peut entraîner sa radiation du tableau d'avancement, sauf justification reconnue valable après avis de la
-commission administrative paritaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 36
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L828
-
-La durée minimum des services exigibles dans chaque grade pour donner vocation à une promotion au grade supérieur est fixée
-par les textes visés à l'article L. 893.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 37
-
-_Cite_:
-
-  - Code de la santé publique - art. L893 (Ab)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-#### Chapitre VI : Discipline.<a id=299></a>
-
-###### Article L829
-
-Les sanctions disciplinaires applicables aux personnels des établissements visés à l'article L. 792 sont les suivantes :
-
-1° L'avertissement ;
-
-2° Le blâme ;
-
-3° La radiation du tableau d'avancement ;
-
-4° L'exclusion temporaire de fonctions pour une durée qui ne peut excéder quinze jours ;
-
-5° L'abaissement d'échelon ;
-
-6° La rétrogradation ;
-
-7° La révocation sans suspension des droits à pension ;
-
-8° La révocation avec suspension des droits à pension.
-
-La sanction prévue au 4° entraîne pour la période correspondante la privation de toute rémunération, à l'exception des
-prestations familiales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 38
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L792 (M)
-
-
-###### Article L830
-
-Le pouvoir disciplinaire appartient à l'autorité investie du pouvoir de nomination.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 39
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L831
-
-Les commissions paritaires jouent le rôle de conseils de discipline. Leur composition est alors modifiée conformément aux
-dispositions de l'article L. 823.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 40
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Cité par_:
-
-  - Arrêté du 15 février 1982 - art. 50 (V)
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L823 (Ab)
-
-
-###### Article L832
-
-L'avertissement et le blâme sont prononcés par décision motivée de l'autorité ayant pouvoir disciplinaire, sans consultation
-du conseil de discipline, mais après accomplissement des formalités prescrites par l'article 65 de la loi du 2 avril 1905.
-Les autres sanctions disciplinaire sont prononcées après avis du conseil de discipline.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 41
-
-_Cite_:
-
-  - Loi n°1905-04-02 art. 65
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L833
-
-Le conseil de discipline est saisi par un rapport émanant soit de l'autorité ayant pouvoir disciplinaire, soit de l'autorité
-de tutelle. Ce rapport doit indiquer clairement les faits répréhensibles et, s'il y a lieu, les circonstances dans lesquelles
-ils ont été commis.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 42
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
+#### Chapitre VI : Discipline.<a id=296></a>
 
 ###### Article L834
 
-L'agent incriminé a le droit d'obtenir, aussitôt que l'action disciplinaire est engagée, la communication intégrale de son
-dossier individuel et de tous les documents annexes.
-
 Il peut récuser l'un des membres du conseil de discipline ; le même droit appartient à l'autorité investie du pouvoir de
-nomination. L'agent incriminé peut présenter devant le conseil de discipline des observations écrites ou verbales, citer des
-témoins et se faire assister d'un défenseur de son choix.
-
-Le droit de citer des témoins appartient également à l'administration.
+nomination. L'agent incriminé peut présenter devant le conseil de discipline des observations écrites ou verbales.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 43
-
 _Modifié par_:
 
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
+  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
+
+_Abrogé par_:
+
+  - Décret n°89-822 du 7 novembre 1989 - art. 15 (V) JORF 9 novembre 1989
 
 _Cité par_:
 
@@ -38288,83 +36577,6 @@ _Cité par_:
   - Décret n°89-822 du 7 novembre 1989 - art. 15 (V)
 
 
-###### Article L845
-
-En cas de faute grave commise par l'agent, qu'il s'agisse d'un manquement à ses obligations professionnelles ou d'une
-infraction de droit commun, l'auteur de cette faute peut être immédiatement suspendu.
-
-L'agent qui est l'objet d'une mesure de suspension continue, pendant la durée de celle-ci, à percevoir soit l'intégralité de
-son traitement, soit une fraction de celui-ci.
-
-Dans ce dernier cas, la décision prononçant la suspension doit déterminer la quotité de la retenue qui, en toute hypothèse,
-ne peut être supérieure à la moitié du traitement.
-
-En tout état de cause, l'intéressé continue à percevoir la totalité des suppléments pour charges de famille s'il reste sans
-emploi et ne relève pas d'un régime d'allocations familiales pendant la durée de sa suspension.
-
-En cas de suspension préalable, l'autorité investie du pouvoir de nomination avise immédiatement le président du conseil de
-discipline, lequel doit convoquer celui-ci dans le mois qui suit.
-
-La situation de l'agent suspendu doit être définitivement réglée par l'autorité ayant le pouvoir de discipline dans un délai
-de quatre mois si l'agent est déféré devant un conseil de discipline, de six mois si l'agent est déféré devant la commission
-des recours et, dans les deux cas, à compter du jour où la décision de suspension a pris effet. Lorsque aucune décision n'est
-intervenue au bout de quatre ou six mois, l'intéressé reçoit à nouveau l'intégralité de son traitement, sauf s'il est l'objet
-de poursuites pénales.
-
-Lorsque l'intéressé n'a subi aucune sanction ou n'a été l'objet que d'un avertissement, d'un blâme ou d'une radiation du
-tableau d'avancement, ou si, à l'expiration des délais prévus à l'alinéa précédent, il n'a pu être statué sur son cas, il a
-droit au remboursement des retenues opérées sur son traitement.
-
-Toutefois, lorsque l'agent est l'objet de poursuites pénales, sa situation n'est définitivement réglée qu'après que la
-décision rendue par la juridiction saisie est devenue définitive.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 54
-
-_Modifié par_:
-
-  - Loi n°70-1319 du 31 décembre 1970 - art. 5 () JORF 3 janvier 1971
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L846
-
-Les décisions de sanction sont versées au dossier individuel de l'agent intéressé. Il en est de même, le cas échéant, des
-avis ou recommandations émis par les conseils de discipline ou la commission des recours et de toutes pièces et documents
-annexes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 55
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
 ###### Article L847
 
 L'agent frappé d'une peine disciplinaire et qui n'a pas été exclu des cadres peut, après cinq années, s'il s'agit d'un
@@ -38408,88 +36620,11 @@ _Cite_:
   - Code de la santé publique - art. L802 (Ab)
 
 
-#### Chapitre VII : Positions.<a id=300></a>
+#### Chapitre VII : Positions.<a id=297></a>
 
-###### Article L848
-
-Tout agent soumis au présent statut est placé dans une des positions suivantes :
-
-1° En activité ;
-
-2° En service détaché ;
-
-3° En disponibilité ;
-
-4° Sous les drapeaux ;
-
-5° En congé postnatal.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 57
-
-_Cité par_:
-
-  - Arrêté du 23 juin 1967 - art. 2 (V)
-  - Décret n°71-988 du 3 décembre 1971 - art. 9 (V)
-  - Décret n°72-849 du 11 septembre 1972 - art. 21 (V)
-  - Décret n°72-849 du 11 septembre 1972 - art. 24 (V)
-  - Décret n°72-849 du 11 septembre 1972 - art. 27 (V)
-  - Décret n°72-877 du 12 septembre 1972 - art. 26 (Ab)
-  - Décret n°73-1094 du 29 novembre 1973 - art. 31 (Ab)
-  - Décret n°80-172 du 25 février 1980 - art. 21 (V)
-  - Décret n°80-253 du 3 avril 1980 - art. 33 (V)
-  - Décret n°84-895 du 1 octobre 1984 - art. 14 (V)
-  - Décret n°85-270 du 18 février 1985 - art. 22 (V)
-  - Décret n°69-281 du 24 mars 1969 - art. 24-1 (V)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-  - Loi n°76-617 du 9 juillet 1976 - art. 19 () JORF 10 juillet
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-##### Section 1 : Activités, congés.<a id=301></a>
-
-###### Article L849
-
-L'activité est la position de l'agent qui, régulièrement titulaire d'un grade, exerce effectivement les fonctions de l'un des
-emplois correspondants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 58
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
+##### Section 1 : Activités, congés.<a id=298></a>
 
 ###### Article L850
-
-Tout agent en activité a droit à un congé annuel dont la durée est fixée par décret pour une année de service accompli.
 
 Les congés de maladie ainsi que ceux visés aux articles L. 880 et L. 881 sont considérés, pour l'application de cette
 disposition, comme service accompli.
@@ -38502,98 +36637,20 @@ Les agents chargés de famille bénéficient autant que possible d'une priorité
 Le congé dû pour une année de service accompli ne peut se reporter sur l'année suivante sauf autorisation exceptionnelle
 donnée par le chef de service.
 
-Toutefois, les agents originaires de la Corse, des départements et territoires d'outre-mer, de l'Algérie ou des Etats
-antérieurement placés sous la souveraineté, la protection ou la tutelle de la France peuvent, sur leur demande, bénéficier,
-tous les deux ans, pour se rendre dans leur département, territoire ou Etat d'origine, d'un congé bloqué d'une durée double
-de celle prévue au premier alinéa du présent article.
-
-Sans préjudice des avantages spéciaux qui pourront être accordés aux personnels des services de radiologie et de
-radiothérapie par les textes prévus à l'article L. 893, le règlement intérieur de chaque établissement déterminera les
-conditions dans lesquelles les autorisations d'absence pourront être accordées aux agents soumis au présent statut à
-l'occasion de certains événements familiaux ou de la nature particulière de leurs fonctions.
-
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Décret n°55-683 1955-05-20 art. 59
+  - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 2° JORF 22 juin 2000
 
 _Cite_:
 
   - Code de la santé publique - art. L880 (Ab)
   - Code de la santé publique - art. L881 (Ab)
-  - Code de la santé publique - art. L893 (Ab)
-
-_Modifié par_:
-
-  - Loi n°70-1319 du 31 décembre 1970 - art. 6 () JORF 3 janvier 1970
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-
-###### Article L851
-
-Un décret fixera les conditions dans lesquelles des autorisations spéciales d'absence n'entrant pas en compte dans le calcul
-des congés annuels :
-
-A) - seront accordées :
-
-1° Aux agents occupant des fonctions publiques électives pour la durée totale des sessions des assemblées dont ils font
-partie, lorsque la condition à laquelle l'article L. 864 subordonne le détachement n'est pas réalisée ;
-
-2° Aux représentants dûment mandatés des syndicats à l'occasion de la convocation des congrès professionnels, syndicaux,
-fédéraux, confédéraux et internationaux, ainsi que des organismes directeurs dont ils sont membres élus ;
-
-3° Aux membres des conseils d'administration ou commissions administratives, des commissions paritaires, des conseils de
-discipline, des comités techniques paritaires et des comités d'hygiène et de sécurité ;
-
-4° Aux représentants qualifiés des organisations syndicales représentatives, dans la limite d'un effectif fixé par décret.
-
-B. - Pourront être accordées :
-
-1° Aux agents fréquentant les cours de formation professionnelle et de perfectionnement ;
-
-2° Aux agents participant aux congrès nationaux et internationaux de leur spécialité ;
-
-3° Aux agents chargés d'études à l'étranger.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 60
-
-_Modifié par_:
-
-  - Loi n°70-1319 du 31 décembre 1970 - art. 7 () JORF 3 janvier 1971
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Cité par_:
-
-  - Décret n°72-350 du 2 mai 1972 - art. 20 (Ab)
-  - Décret n°72-352 du 2 mai 1972 - art. 15 (Ab)
-  - Décret n°72-353 du 2 mai 1972 - art. 16 (Ab)
-  - Décret n°72-354 du 3 mai 1972 - art. 17 (Ab)
-  - Décret n°77-962 du 11 août 1977 - art. 70 (V)
-  - Décret n°86-435 du 12 mars 1986 - art. 22 (Ab)
-  - Code de la santé publique - art. L686 (Ab)
-
-_Cite_:
-
-  - Code de la santé publique - art. L864 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
 
 
 ###### Article L852
@@ -38631,79 +36688,7 @@ _Abrogé par_:
   - Décret n°88-386 du 19 avril 1988 - art. 39 (V) JORF 21 avril 1988
 
 
-###### Article L853
-
-L'agent en congé de maladie conserve l'intégralité de son traitement pendant une durée de trois mois. Ce traitement est
-réduit de moitié pendant les trois mois suivants.
-
-L'agent conserve en outre ses droits à la totalité des suppléments pour charge de famille.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 62
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L854
-
-L'agent ayant obtenu pendant une période de douze mois consécutifs des congés de maladie d'une durée totale de six mois et ne
-pouvant, à l'expiration de son dernier congé, reprendre son service est, soit mis en disponibilité, soit sur sa demande et,
-s'il est reconnu définitivement inapte, admis à la retraite.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 63
-
-_Cité par_:
-
-  - Décret n°56-1294 du 14 décembre 1956 - art. 22 (Ab)
-  - Code de la santé publique - art. L871 (Ab)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
 ###### Article L855
-
-L'agent atteint d'une maladie provenant de l'une des causes exceptionnelles prévues à l'article L. 39 du code des pensions
-civiles et militaires de retraite ou d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de ses fonctions,
-conserve l'intégralité de ses émoluments jusqu'à ce qu'il soit en état de reprendre son service ou jusqu'à la mise à la
-retraite.
-
-Il a droit, en outre, au remboursement des honoraires médicaux et des frais directement entraînés par la maladie ou
-l'accident.
-
-L'établissement est subrogé dans les droits éventuels de l'agent victime d'un accident provoqué par un tiers jusqu'à
-concurrence du montant des charges qu'il a supportées ou supportera du fait de cet accident.
-
-Pour l'application du présent article, l'imputabilité au service de la maladie ou de l'accident est appréciée par la
-commission de réforme instituée par le régime des pensions des personnels des collectivités locales.
 
 Quant un agent aura été atteint d'une maladie longue et sérieuse ou susceptible de rechute ou se trouvera en état
 d'invalidité partielle ou de diminution physique permanentes ne lui permettant pas d'assurer ses fonctions, l'autorité
@@ -38714,15 +36699,6 @@ Dans ce cas, les avantages assurés à l'intéressé devront lui être maintenus
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 64
-
 _Cité par_:
 
   - Décret n°56-1294 du 14 décembre 1956 - art. 8 (Ab)
@@ -38732,23 +36708,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
+  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
 
-_Cite_:
+_Abrogé par_:
 
-  - Code des pensions civiles et militaires de retrait - art. L39 (M)
+  - Décret n°89-376 du 8 juin 1989 - art. 6 (V) JORF 14 juin 1989
 
 
 ###### Article L856
-
-Sous réserve des dispositions de l'article L. 809, l'agent atteint de tuberculose, de maladie mentale, de poliomyélite ou
-d'une affection cancéreuse est de droit mis en congé de longue durée. Il est aussitôt remplacé dans sa fonction. Il conserve
-pendant les trois premières années l'intégralité de son traitement. Pendant les deux années qui suivent, ce traitement est
-réduit de moitié.
-
-Toutefois, s'il est constaté dans les formes prévues ci-après que la maladie ouvrant droit à un congé de longue durée a été
-contractée dans l'exercice des fonctions, les délais fixés par l'alinéa précédent sont respectivement portés à cinq et trois
-années.
 
 Les congés de longue durée peuvent être accordés et renouvelés par périodes successives ne devant pas dépasser six mois,
 après avis du comité médical départemental chargé d'examiner les fonctionnaires de l'Etat.
@@ -38758,15 +36725,6 @@ doit être prise après consultation de la commission départementale de réform
 médical supérieur siégeant auprès du ministère de la santé publique et de la population.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 65
 
 _Cité par_:
 
@@ -38788,86 +36746,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-
-###### Article L857
-
-Les agents remplissant les conditions exigées des fonctionnaires de l'Etat pour bénéficier des dispositions de l'article 41
-de la loi du 19 mars 1928 peuvent demander qu'il leur en soit fait application.
-
-Le bénéfice de ces dispositions est étendu aux agents atteints d'infirmités contractées ou aggravées au cours d'une guerre ou
-d'une expédition déclarée campagne de guerre ayant ouvert droit à pension au titre de la loi du 31 mars 1919 et des textes
-subséquents.
-
-Peuvent également bénéficier du même congé les agents atteints d'une infirmité ayant ouvert droit à une pension au titre de
-la loi du 24 juin 1919 et des textes subséquents.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 66
-
-_Cité par_:
-
-  - Arrêté du 15 février 1982 - art. 19 (V)
-  - Arrêté du 28 octobre 1958 - art. 19 (V)
-  - Code de la santé publique - art. L858 (Ab)
-
-_Cite_:
-
-  - Loi n°1919-03-31
-  - Loi n°1919-06-24
-  - Loi n°1928-03-19 art. 41
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
+  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
 
 _Abrogé par_:
 
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L858
-
-L'agent ne pouvant, à l'expiration des congés prévus par les articles L. 856 et L. 857, reprendre son service est, soit mis
-en disponibilité, soit, sur sa demande et s'il est définitivement inapte, admis à la retraite.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 67
-
-_Cité par_:
-
-  - Décret n°56-1294 du 14 décembre 1956 - art. 22 (Ab)
-  - Code de la santé publique - art. L871 (Ab)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L856 (M)
-  - Code de la santé publique - art. L857 (Ab)
+  - Décret n°88-386 du 19 avril 1988 - art. 39 (V) JORF 21 avril 1988
 
 
 ###### Article L859
@@ -38935,138 +36818,7 @@ _Modifié par_:
   - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
 
 
-###### Article L861
-
-Le personnel féminin bénéficie d'un congé avec traitement pour couches et allaitement ou pour adoption.
-
-La durée de ce congé est égale à celle prévue par la législation sur la sécurité sociale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 70
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-  - Loi n°76-617 du 9 juillet 1976 - art. 11 () JORF 10 juillet
-
-_Cité par_:
-
-  - Décret n°80-967 du 2 décembre 1980 - art. 1 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L862
-
-Lorsqu'un agent en activité est hospitalisé dans l'un des établissements visés à l'article L. 792, l'établissement employeur
-prend à sa charge pendant une durée maximum de six mois le montant des frais d'hospitalisation non remboursé par les
-organismes de sécurité sociale. Pour une hospitalisation dans un établissement autre que celui où l'agent est en fonctions,
-cette charge ne pourra être toutefois assumée qu'en cas de nécessité reconnue par un médecin désigné par l'administration de
-l'établissement employeur ou sur le vu d'un certificat délivré par l'administration de l'établissement où l'intéressé a été
-hospitalisé et attestant l'urgence de l'hospitalisation.
-
-Les agents en activité bénéficient en outre de la gratuité des soins médicaux qui leur sont dispensés dans l'établissement où
-ils exercent ainsi que de la gratuité des produits pharmaceutiques qui leur sont délivrés pour leur usage personnel par la
-pharmacie de l'établissement, sur prescription d'un médecin de l'établissement.
-
-L'établissement est subrogé dans les droits qu'ouvre en faveur de l'agent le régime de sécurité sociale auquel il est soumis.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 71
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L792 (M)
-
-
-###### Article L863
-
-Un décret fixe les conditions dans lesquelles seront étendues aux agents les dispositions du décret n° 47-1456 du 5 août
-1947.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°47-1456 1947-08-05
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 72
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cité par_:
-
-  - Décret n°88-386 du 19 avril 1988 - art. 39 (V)
-
-
-##### Section 2 : Détachement.<a id=302></a>
-
-###### Article L865
-
-Il existe deux sortes de détachement :
-
-1° Le détachement de courte durée ou délégation ;
-
-2° Le détachement de longue durée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 74
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
+##### Section 2 : Détachement.<a id=299></a>
 
 ###### Article L866
 
@@ -39091,6 +36843,28 @@ _Anciens textes_:
 _Modifié par_:
 
   - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
+
+_Abrogé par_:
+
+  - Décret n°88-976 du 13 octobre 1988 - art. 45 (V) JORF 14 octobre 1988
+
+_Cité par_:
+
+  - Décret n°88-976 du 13 octobre 1988 - art. 45 (V)
+
+
+###### Article L867
+
+Le détachement de longue durée ne peut excéder cinq années. Il peut toutefois être indéfiniment renouvelé par périodes de
+cinq années.
+
+L'agent qui fait l'objet d'un détachement de longue durée peut être aussitôt remplacé dans son emploi.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
 
 _Abrogé par_:
 
@@ -39136,99 +36910,7 @@ _Cité par_:
   - Décret n°88-976 du 13 octobre 1988 - art. 45 (V)
 
 
-###### Article L869
-
-L'agent détaché conserve son droit à l'avancement de classe et de grade.
-
-Il reste tributaire de son régime de retraites et doit effectuer les versements fixés par le règlement des retraites sur le
-traitement d'activité afférent à son grade et à son échelon dans le service dont il est détaché.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 78
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-##### Section 3 : Disponibilité.<a id=303></a>
-
-###### Article L870
-
-La disponibilité est la position de l'agent qui, placé hors des cadres de l'établissement employeur, cesse de bénéficier dans
-cette position de ses droits à l'avancement et à la retraite.
-
-La disponibilité est prononcée par décision de l'autorité investie du pouvoir de nomination, soit d'office, soit à la demande
-de l'intéressé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 79
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-  - Décret n°78-208 du 27 février 1978 - art. 3 (Ab) JORF 1er mars
-
-_Cité par_:
-
-  - Décret n°78-208 du 27 février 1978 - art. 5 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L871
-
-La mise en disponibilité ne peut être prononcée d'office que dans les cas prévus aux articles L. 854 et L. 858.
-
-Dans le premier cas, l'agent mis d'office en disponibilité perçoit pendant six mois la moitié de son traitement d'activité
-ainsi que la totalité des suppléments pour charges de famille.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 80
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L854 (Ab)
-  - Code de la santé publique - art. L858 (Ab)
-
+##### Section 3 : Disponibilité.<a id=300></a>
 
 ###### Article L872
 
@@ -39307,38 +36989,6 @@ _Cité par_:
   - Code de la santé publique - art. L877 (Ab)
 
 
-###### Article L875
-
-L'agent mis en disponibilité sur sa demande n'a droit à aucune rémunération.
-
-Toutefois, les agents féminins placés en disponibilité en application des dispositions de l'article L. 876, alinéa 1er,
-perçoivent la totalité des allocations prévues à la loi n° 46-1835 du 22 août 1946.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 84
-
-_Cite_:
-
-  - Code de la santé publique - art. L876 (Ab)
-  - Loi n°46-1835 1946-08-22
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
 ###### Article L877
 
 La disponibilité prononcée en application de l'article L. 874 ne peut excéder trois années ; elle peut être renouvelée une
@@ -39403,1175 +37053,7 @@ _Cité par_:
   - Décret n°88-976 du 13 octobre 1988 - art. 45 (V)
 
 
-###### Article L879
-
-L'agent mis en disponibilité qui, lors de sa réintégration, refuse le poste qui lui est assigné peut être rayé des cadres par
-licenciement après avis de la commission paritaire compétente.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 88
-
-_Cité par_:
-
-  - Arrêté du 9 août 1960 - art. 20 (V)
-  - Arrêté du 15 février 1982 - art. 41 (V)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-##### Section 4 : Position "sous les drapeaux".<a id=304></a>
-
-###### Article L880
-
-Pendant la durée légale de son service militaire, l'agent est placé dans une position spéciale dite "sous les drapeaux".
-
-Il perd alors son traitement d'activité et ne perçoit que sa solde militaire.
-
-En cas de mobilisation générale ou de rappel sous les drapeaux, les agents des établissements visés à l'article L. 792
-bénéficient des mêmes dispositions que les fonctionnaires de l'Etat, en ce qui concerne leur situation administrative et
-leurs traitements.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 89
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L792 (M)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L850 (V)
-
-
-###### Article L881
-
-L'agent qui accomplit une période d'instruction obligatoire est mis en congé avec traitement pour la durée de cette période.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 90
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cité par_:
-
-  - Code de la santé publique - art. L850 (V)
-
-
-##### Section 5 : Congé postnatal.<a id=305></a>
-
-###### Article L881-1
-
-Le congé postnatal est une position de l'agent qui est placé hors des cadres de l'établissement employeur pour élever son
-enfant.
-
-Dans cette position, accordée après un congé de maternité ou l'adoption d'un enfant de moins de trois ans, et pour une durée
-maximale de deux ans, l'intéressé cesse de bénéficier de ses droits à la retraite ; il conserve ses droits à l'avancement
-d'échelon, réduits de moitié. A l'expiration de son congé, il est réintégré de plein droit, au besoin en surnombre, dans les
-cadres de l'établissement employeur.
-
-Le congé postnatal est accordé de droit, sur simple demande, pour la mère agent ; il peut être ouvert au père agent si la
-mère ne peut bénéficier ni du congé postnatal ni du congé parental prévu à l'art. L. 122-28-1 du code du travail ou si elle y
-renonce.
-
-Si une nouvelle maternité ou adoption survient au cours du congé postnatal, ce congé est prolongé d'une durée maximale de
-deux ans, à compter de la naissance du nouvel enfant ou de son adoption, dans les conditions prévues ci-dessus.
-
-Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Décret n°77-887 du 27 juillet 1977 - art. 4 bis (Ab)
-  - Décret n°80-966 du 2 décembre 1980 - art. 1 (V)
-  - Décret n°80-967 du 2 décembre 1980 - art. 1 (Ab)
-  - Décret n°80-967 du 2 décembre 1980 - art. 2 (Ab)
-
-_Modifié par_:
-
-  - Loi n°78-753 1978-07-17 art. 21 VI JORF 18 juillet
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code du travail - art. L122-28-1 (M)
-
-
-#### Chapitre 7 : Positions<a id=306></a>
-
-##### Section 2 : Détachement.<a id=307></a>
-
-###### Article L867
-
-Le détachement de longue durée ne peut excéder cinq années. Il peut toutefois être indéfiniment renouvelé par périodes de
-cinq années.
-
-L'agent qui fait l'objet d'un détachement de longue durée peut être aussitôt remplacé dans son emploi.
-
-A l'expiration du détachement de longue durée, l'agent est obligatoirement réintégré, à la première vacance, dans son cadre
-d'origine et réaffecté à un emploi correspondant à son grade dans ce cadre. Il a priorité pour être affecté au poste qu'il
-occupait avant son détachement.
-
-S'il refuse le poste qui lui est assigné, il ne pourra être nommé au poste auquel il peut prétendre ou à un poste équivalent
-que lorsqu'une vacance sera budgétairement ouverte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 76
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Cité par_:
-
-  - Décret n°88-976 du 13 octobre 1988 - art. 45 (V)
-
-
-#### Chapitre VIII : Cessation de fonctions.<a id=308></a>
-
-###### Article L882
-
-La cessation définitive des fonctions entraînant radiation des cadres et perte de la qualité d'agent hospitalier résulte :
-
-1° De la démission régulièrement acceptée ;
-
-2° Du licenciement ;
-
-3° De la révocation ;
-
-4° De l'admission à la retraite.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 91
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L883
-
-La démission ne peut résulter que d'une demande écrite de l'intéressé marquant sa volonté non équivoque de cesser ses
-fonctions.
-
-Elle n'a d'effet qu'autant qu'elle est acceptée par l'autorité investie du pouvoir de nomination, et prend effet à la date
-fixée par cette autorité.
-
-La décision de l'autorité compétente doit intervenir dans le délai d'un mois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 92
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L884
-
-L'acceptation de la démission la rend irrévocable. Elle ne fait pas d'obstacle, le cas échéant, à l'exercice de l'action
-disciplinaire, en raison de faits qui n'auraient été révélés à l'administration qu'après cette acceptation.
-
-Si l'autorité compétente refuse d'accepter la démission, l'intéressé peut saisir la commission paritaire. Celle-ci émet un
-avis motivé qu'elle transmet à l'autorité compétente.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 93
-
-_Cité par_:
-
-  - Arrêté du 9 août 1960 - art. 20 (V)
-  - Arrêté du 15 février 1982 - art. 41 (V)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L885
-
-L'agent qui cesse ses fonctions avant la date fixée par l'autorité compétente pour accepter la démission peut faire l'objet
-d'une sanction disciplinaire.
-
-S'il a droit à pension, il peut subir une retenue correspondant au plus à la rémunération des services non effectués ; cette
-retenue est répartie sur les premiers versements qui lui sont faits à ce titre à concurrence d'un cinquième du montant de ces
-versements.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 94
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L886
-
-En dehors de l'application d'une sanction disciplinaire, le dégagement des cadres d'un agent hospitalier ne peut être
-prononcé qu'à la suite de suppression d'emploi décidée par mesure d'économie.
-
-L'agent licencié dans ces conditions sans avoir droit à pension, peut prétendre à un reclassement par priorité dans l'un des
-emplois vacants similaires des établissements publics d'hospitalisation, de soins ou de cure sous réserve qu'il remplisse les
-conditions d'aptitude nécessaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 95
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L887
-
-Les agents titulaires dont les emplois auront été supprimés et qui ne pourront être affectés à des emplois équivalents
-recevront une indemnité en capital, égale à un mois de traitement par année de service, à moins de remplir, au moment du
-licenciement, les conditions exigées pour avoir droit à une retraite proportionnelle avec jouissance immédiate.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 96
-
-_Cité par_:
-
-  - Arrêté du 23 novembre 1982 - art. 5 (V)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L888
-
-L'agent qui fait preuve d'insuffisance professionnelle et qui ne peut être reclassé dans un autre service ou dans un autre
-établissement peut, soit être admis à faire valoir ses droits à la retraite, soit être licencié. La décision est prise par
-l'autorité investie du pouvoir de nomination après observation des formalités prescrites en matière disciplinaire.
-
-L'agent licencié pour insuffisance professionnelle peut recevoir une indemnité dans des conditions qui seront déterminées par
-un arrêté concerté des ministres de la santé publique et de la population, de l'intérieur et des finances et des affaires
-économiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 97
-
-_Cité par_:
-
-  - Arrêté du 9 août 1960 - art. 20 (V)
-  - Arrêté du 9 août 1960 - art. 26 (V)
-  - Arrêté du 15 février 1982 - art. 37 (V)
-  - Arrêté du 15 février 1982 - art. 49 (V)
-  - Arrêté du 23 novembre 1982 - art. 6 (M)
-  - Arrêté du 19 décembre 1983 - art. 1 (V)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L889
-
-Les agents soumis au présent statut peuvent être admis d'office à faire valoir leurs droits à la retraite à soixante ans
-s'ils occupent un emploi de la catégorie A, et à cinquante-cinq ans, s'ils occupent un emploi de la catégorie B.
-
-Sont applicables aux intéressés les dispositions législatives ou réglementaires portant recul des limites d'âge des
-fonctionnaires de l'Etat ou permettant à ces derniers de solliciter, dans certains cas, leur maintien en activité au-delà de
-la limite d'âge.
-
-Les veuves et orphelins mineurs des agents soumis au présent statut décédés en service auront droit au paiement d'une
-indemnité égale au reliquat des appointements du mois en cours. Les ayants droit de ces agents auront droit au paiement du
-capital-décès prévu par le régime de sécurité sociale applicable aux fonctionnaires de l'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 98
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-###### Article L890
-
-L'agent qui cesse définitivement d'exercer ses fonctions peut se voir conférer l'honorariat, soit dans son grade, soit dans
-le grade immédiatement supérieur.
-
-L'agent révoqué ou licencié pour insuffisance professionnelle est privé du bénéfice de l'honorariat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 99
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-#### Chapitre IX : Pensions et sécurité sociale.<a id=309></a>
-
-###### Article L891
-
-Les établissements visés à l'article L. 792 sont obligatoirement immatriculés à la caisse nationale de retraites des agents
-des collectivités locales créée par l'ordonnance du 17 mai 1945 et sont tenus d'affilier tous ceux de leurs agents qui
-remplissent les conditions prévues par le règlement de cette caisse.
-
-Toutefois, les agents hospitaliers qui bénéficient à la date du 22 mai 1955 d'un régime de retraites plus avantageux
-conservent à titre personnel le bénéfice de ce régime.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 100
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L792 (M)
-  - Ordonnance 1945-05-17
-
-
-###### Article L892
-
-Les personnels visés à l'article L. 792 du code de la santé publique sont soumis au régime de sécurité sociale des agents des
-collectivités locales institué par le décret n° 60-58 du 11 janvier 1960.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 101
-
-_Cite_:
-
-  - Décret n°60-58 1960-01-11
-  - Code de la santé publique - art. L792 (M)
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-#### Chapitre X : Dispositions diverses et transitoires.<a id=310></a>
-
-###### Article L893
-
-Des règlements d'administration publique pris sur le rapport des ministres de la santé publique et de la population, de
-l'intérieur et des finances et des affaires économiques fixeront les statuts des personnels de l'administration de
-l'assistance publique à Paris, de l'administration de l'assistance publique à Marseille, des hospices civils de Lyon et des
-établissements hospitaliers départementaux de la Seine.
-
-Des décrets déterminent les conditions de recrutement et d'avancement des différentes catégorie de personnels énumérées à
-l'article L. 792.
-
-Les mesures de prophylaxie, d'hygiène et de sécurité qui devront être prises par les administrations hospitalières en vue de
-la protection médicale de leur personnel feront l'objet d'arrêtés concertés des ministres de la santé publique et de la
-population et de l'intérieur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 102
-
-_Cité par_:
-
-  - Décret n°56-1294 du 14 décembre 1956 - art. 6 (Ab)
-  - Décret n°68-132 du 9 février 1968 - art. 2 (V)
-  - Décret n°68-132 du 9 février 1968 - art. 3 (V)
-  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-  - Décret n°77-962 du 11 août 1977 - art. 122 (V)
-  - Ordonnance n°82-272 du 26 mars 1982 - art. 1 (M)
-  - Décret n°82-870 du 6 octobre 1982 - art. 1 (Ab)
-  - Décret n°86-1195 du 21 novembre 1986 - art. 2 (Ab)
-  - Arrêté du 28 octobre 1958 - art. 23 (V)
-  - Code de la santé publique - art. L808 (Ab)
-  - Code de la santé publique - art. L809 (Ab)
-  - Code de la santé publique - art. L811 (Ab)
-  - Code de la santé publique - art. L818 (M)
-  - Code de la santé publique - art. L828 (Ab)
-  - Code de la santé publique - art. L850 (M)
-  - Décret n°1964-10-13 du 13 octobre 1964 - art. 1 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 1 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 10 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 11 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 12 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 13 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 14 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 15 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 16 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 17 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 18 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 19 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 20 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 5 (Ab)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 6 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 6 bis (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 7 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 8 (V)
-  - TXT_SOURCE: Décret n°59-707 du 8 juin 1959 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 29 juin 1960
-  - TXT_SOURCE: Arrêté du 29 juin 1960 - art. 1 (V)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 10 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 11 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 12 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 13 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 14 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 15 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 16 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 17 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 18 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 19 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 20 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 21 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 22 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 3 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 5 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 6 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 7 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 8 (Ab)
-  - TXT_SOURCE: Décret n°62-132 du 2 février 1962 - art. 9 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 10 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 11 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 12 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 13 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 14 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 15 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 16 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 17 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 18 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 19 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 20 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 21 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 3 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 5 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 6 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 7 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 8 (Ab)
-  - TXT_SOURCE: Décret n°62-569 du 15 mai 1962 - art. 9 (Ab)
-  - TXT_SOURCE: Décret n°63-303 du 19 mars 1963
-  - TXT_SOURCE: Décret n°63-303 du 19 mars 1963 - art. 4 (V)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 10 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 11 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 12 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 13 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 14 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 15 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 16 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 17 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 18 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 19 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 20 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 21 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 22 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 23 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 24 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 25 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 26 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 27 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 28 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 29 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 3 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 30 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 31 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 32 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 33 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 5 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 6 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 7 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 8 (Ab)
-  - TXT_SOURCE: Décret n°64-748 du 17 juillet 1964 - art. 9 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 10 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 11 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 12 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 13 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 14 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 15 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 16 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 17 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 18 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 19 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 20 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 21 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 22 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 23 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 24 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 25 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 26 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 27 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 3 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 5 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 6 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 7 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 8 (Ab)
-  - TXT_SOURCE: Décret n°64-942 du 3 septembre 1964 - art. 9 (Ab)
-  - TXT_SOURCE: Arrêté du 22 décembre 1966
-  - TXT_SOURCE: Arrêté du 22 décembre 1966 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 22 décembre 1966 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 22 décembre 1966 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 22 décembre 1966 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 22 décembre 1966 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 22 décembre 1966 - art. 6 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 1 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 10 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 11 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 12 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 13 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 14 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 15 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 16 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 17 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 18 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 19 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 2 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 20 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 21 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 22 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 23 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 24 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 25 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 25 bis (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 26 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 26 bis (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 26 ter (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 27 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 28 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 29 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 3 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 30 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 31 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 32 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 33 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 34 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 35 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 36 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 4 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 5 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 6 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 7 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 8 (V)
-  - TXT_SOURCE: Décret n°68-97 du 10 janvier 1968 - art. 9 (V)
-  - TXT_SOURCE: Décret n°70-1014 du 3 novembre 1970
-  - TXT_SOURCE: Décret n°70-1014 du 3 novembre 1970 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°70-1014 du 3 novembre 1970 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°70-1014 du 3 novembre 1970 - art. 3 (Ab)
-  - TXT_SOURCE: Décret n°70-1014 du 3 novembre 1970 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°70-1014 du 3 novembre 1970 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 17 août 1971
-  - TXT_SOURCE: Arrêté du 17 août 1971 - art. 1 (V)
-  - TXT_SOURCE: Décret n°71-988 du 3 décembre 1971 - art. 1 (V)
-  - TXT_SOURCE: Décret n°71-988 du 3 décembre 1971 - art. 2 (V)
-  - TXT_SOURCE: Décret n°71-988 du 3 décembre 1971 - art. 3 (M)
-  - TXT_SOURCE: Décret n°71-988 du 3 décembre 1971 - art. 4 (V)
-  - TXT_SOURCE: Décret n°71-988 du 3 décembre 1971 - art. 5 (V)
-  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972
-  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 1 (V)
-  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 2 (V)
-  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 3 (V)
-  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 4 (V)
-  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 5 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 1 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 10 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 11 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 12 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 13 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 14 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 15 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 16 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 17 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 18 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 19 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 2 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 20 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 3 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 4 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 5 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 6 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 7 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 8 (V)
-  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 9 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 1 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 10 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 11 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 12 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 13 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 14 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 15 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 16 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 17 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 18 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 19 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 2 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 20 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 21 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 22 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 23 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 24 (Ab)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 25 (Ab)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 26 (Ab)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 27 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 3 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 4 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 5 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 6 (M)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 7 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 8 (V)
-  - TXT_SOURCE: Décret n°72-877 du 12 septembre 1972 - art. 9 (Ab)
-  - TXT_SOURCE: Arrêté du 18 octobre 1972
-  - TXT_SOURCE: Arrêté du 18 octobre 1972 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 31 octobre 1972
-  - TXT_SOURCE: Arrêté du 31 octobre 1972 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 31 octobre 1972 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 31 octobre 1972 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 31 octobre 1972 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 31 octobre 1972 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 31 octobre 1972 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 31 octobre 1972 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 31 octobre 1972 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 31 octobre 1972 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 31 octobre 1972 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 31 octobre 1972 - art. 9 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 1 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 10 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 11 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 12 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 13 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 14 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 14 bis (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 15 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 16 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 16 bis (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 17 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 18 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 19 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 2 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 20 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 21 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 22 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 23 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 23 bis (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 3 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 4 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 5 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 6 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 7 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 8 (V)
-  - TXT_SOURCE: Décret n°73-317 du 6 mars 1973 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 10 mai 1973
-  - TXT_SOURCE: Arrêté du 10 mai 1973 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 10 mai 1973 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 10 mai 1973 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 10 mai 1973 - art. Annexe (V)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 10 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 11 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 12 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 13 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 14 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 15 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 16 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 17 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 18 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 19 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 20 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 21 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 22 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 23 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 24 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 25 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 26 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 27 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 28 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 28 bis (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 29 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 3 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 30 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 31 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 32 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 4 bis (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 5 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 6 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 7 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 8 (Ab)
-  - TXT_SOURCE: Décret n°73-1094 du 29 novembre 1973 - art. 9 (Ab)
-  - TXT_SOURCE: Décret n°73-1095 du 29 novembre 1973
-  - TXT_SOURCE: Décret n°73-1095 du 29 novembre 1973 - art. 12 (V)
-  - TXT_SOURCE: Arrêté du 5 décembre 1975
-  - TXT_SOURCE: Arrêté du 5 décembre 1975 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 5 décembre 1975 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 5 décembre 1975 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 5 décembre 1975 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 5 décembre 1975 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 5 décembre 1975 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 5 décembre 1975 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 5 décembre 1975 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 5 décembre 1975 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 5 décembre 1975 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 5 décembre 1975 - art. Annexe (V)
-  - TXT_SOURCE: Décret n°76-215 du 27 février 1976
-  - TXT_SOURCE: Décret n°76-215 du 27 février 1976 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°76-215 du 27 février 1976 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°76-215 du 27 février 1976 - art. 3 (Ab)
-  - TXT_SOURCE: Décret n°76-215 du 27 février 1976 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°76-215 du 27 février 1976 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 10 mai 1976 - art. Annexe (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 10 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 11 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 12 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 13 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 14 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 15 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. Annexe - 3 A, Annexe 3 B (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. Annexe - 4 A, annexe 4 B (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. Annexe - 5 A, annexe 5 B (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. Annexe - 6 A, annexe 6 B (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. Annexe 1 (V)
-  - TXT_SOURCE: Arrêté du 19 juillet 1976 - art. Annexe 2 (V)
-  - TXT_SOURCE: Décret n°77-45 du 7 janvier 1977
-  - TXT_SOURCE: Décret n°77-45 du 7 janvier 1977 - art. 14 (Ab)
-  - TXT_SOURCE: Décret n°77-45 du 7 janvier 1977 - art. 15 (Ab)
-  - TXT_SOURCE: Décret n°77-45 du 7 janvier 1977 - art. 16 (Ab)
-  - TXT_SOURCE: Décret n°77-262 du 14 mars 1977
-  - TXT_SOURCE: Décret n°77-262 du 14 mars 1977 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°77-262 du 14 mars 1977 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 28 février 1979
-  - TXT_SOURCE: Arrêté du 28 février 1979 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 28 février 1979 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 28 février 1979 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 28 février 1979 - art. Annexe (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 1 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 10 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 11 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 12 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 13 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 14 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 15 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 16 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 17 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 18 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 19 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 2 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 20 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 21 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 22 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 23 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 24 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 25 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 26 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 27 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 28 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 29 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 3 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 30 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 31 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 32 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 33 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 34 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 35 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 36 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 4 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 5 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 6 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 7 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 8 (V)
-  - TXT_SOURCE: Décret n°80-253 du 3 avril 1980 - art. 9 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 1 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 10 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 11 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 12 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 13 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 14 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 15 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 16 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 17 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 18 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 19 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 2 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 20 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 21 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 22 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 23 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 24 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 25 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 26 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 27 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 28 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 29 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 3 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 4 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 5 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 6 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 7 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 8 (V)
-  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 9 (V)
-  - TXT_SOURCE: Arrêté du 29 octobre 1980
-  - TXT_SOURCE: Arrêté du 29 octobre 1980 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 29 octobre 1980 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 24 décembre 1980 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 4 février 1981
-  - TXT_SOURCE: Arrêté du 4 février 1981 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 4 février 1981 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 4 février 1981 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 13 juillet 1982
-  - TXT_SOURCE: Arrêté du 13 juillet 1982 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 13 juillet 1982 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 13 juillet 1982 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 13 juillet 1982 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 13 juillet 1982 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 13 juillet 1982 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 13 juillet 1982 - art. 7 (V)
-  - TXT_SOURCE: Arrêté du 13 juillet 1982 - art. 8 (V)
-  - TXT_SOURCE: Arrêté du 13 juillet 1982 - art. 9 (V)
-  - TXT_SOURCE: Décret n°82-1089 du 21 décembre 1982 - art. Annexe (Ab)
-  - TXT_SOURCE: Arrêté du 11 septembre 1984
-  - TXT_SOURCE: Arrêté du 10 avril 1970
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. 10 (Ab)
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. 11 (Ab)
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. 6 (Ab)
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. 7 (Ab)
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. 8 (Ab)
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. 9 (Ab)
-  - TXT_SOURCE: Arrêté du 10 avril 1970 - art. Annexe (Ab)
-  - TXT_SOURCE: Arrêté du 17 mai 1973
-  - TXT_SOURCE: Arrêté du 17 mai 1973 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 17 mai 1973 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 17 mai 1973 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 17 mai 1973 - art. Annexe 1 (Ab)
-  - TXT_SOURCE: Arrêté du 17 mai 1973 - art. Annexe 2 (Ab)
-  - TXT_SOURCE: Arrêté du 17 mai 1973 - art. Annexe 3 (Ab)
-  - TXT_SOURCE: Arrêté du 18 mars 1981
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 18 mars 1981 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 24 août 1976
-  - TXT_SOURCE: Arrêté du 24 août 1976 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 25 juillet 1975
-  - TXT_SOURCE: Arrêté du 25 juillet 1975 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 25 juillet 1975 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 27 novembre 1985
-  - TXT_SOURCE: Arrêté du 3 juillet 1979
-  - TXT_SOURCE: Arrêté du 3 juillet 1979 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 3 juillet 1979 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 3 juillet 1979 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 3 juillet 1979 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 3 juillet 1979 - art. Annexe (Ab)
-  - TXT_SOURCE: Arrêté du 4 mai 1973
-  - TXT_SOURCE: Arrêté du 4 mai 1973 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983
-  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 1 (V)
-  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 2 (V)
-  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 3 (V)
-  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 4 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 1 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 10 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 11 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 12 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 12-1 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 12-2 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 12-3 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 13 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 14 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 15 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 16 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 17 (Ab)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 18 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 19 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 2 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 20 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 21 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 22 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 23 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 24 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 24-1 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 24-2 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 24-3 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 25 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 3 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 4 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 5 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 6 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 7 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 8 (V)
-  - TXT_SOURCE: Décret n°69-281 du 24 mars 1969 - art. 9 (V)
-
-_Modifié par_:
-
-  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-_Cite_:
-
-  - Code de la santé publique - art. L792 (M)
-
-
-###### Article L894
-
-Les personnels en fonction à la date du 22 mai 1955 dans un emploi de début permanent à temps complet pourront être
-titularisés dans leur emploi dans un délai d'un an à compter de cette date, selon des modalités qui seront fixées par arrêtés
-concertés des ministres de la santé publique et de la population, de l'intérieur et des finances et des affaires économiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 103
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
+#### Chapitre X : Dispositions diverses et transitoires.<a id=301></a>
 
 ###### Article L895
 
@@ -40603,32 +37085,7 @@ _Abrogé par_:
   - Loi n°96-452 du 28 mai 1996 - art. 22 () JORF 29 mai 1996
 
 
-###### Article L896
-
-Les statuts en vigueur à la date du 22 mai 1955 demeurent provisoirement applicables jusqu'à l'intervention des textes prévus
-par le présent titre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Anciens textes_:
-
-  - Décret n°55-683 1955-05-20 art. 106
-
-_Modifié par_:
-
-  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-_Abrogé par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-
-#### Dispositions finales.<a id=311></a>
+#### Dispositions finales.<a id=302></a>
 
 ###### Article L897
 
@@ -40881,17 +37338,17 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-# Partie réglementaire ancienne<a id=312></a>
+# Partie réglementaire ancienne<a id=303></a>
 
-## Livre 5 : Pharmacie<a id=313></a>
+## Livre 5 : Pharmacie<a id=304></a>
 
-### Titre 1 : Dispositions générales<a id=314></a>
+### Titre 1 : Dispositions générales<a id=305></a>
 
-#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=315></a>
+#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=306></a>
 
-##### Section 1 : Pharmacopée et formulaire<a id=316></a>
+##### Section 1 : Pharmacopée et formulaire<a id=307></a>
 
-##### Paragraphe 1 : Pharmacopée<a id=317></a>
+##### Paragraphe 1 : Pharmacopée<a id=308></a>
 
 ###### Article R5001
 
@@ -41171,7 +37628,7 @@ _Modifié par_:
   - Décret n°85-1297 1985-12-03 art. 3 JORF 5 décembre 1985
 
 
-##### Paragraphe 2 : Formulaire<a id=318></a>
+##### Paragraphe 2 : Formulaire<a id=309></a>
 
 ###### Article R5006
 
@@ -41236,7 +37693,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5112-5 (V)
 
 
-##### Section 3 : Pharmaciens assistants<a id=319></a>
+##### Section 3 : Pharmaciens assistants<a id=310></a>
 
 ###### Article R5008
 
@@ -41376,7 +37833,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-38 (V)
 
 
-##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.<a id=320></a>
+##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.<a id=311></a>
 
 ###### Article R*5013
 
@@ -41450,9 +37907,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4221-12 (T)
 
 
-#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=321></a>
+#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=312></a>
 
-##### Section 1 : Organisation<a id=322></a>
+##### Section 1 : Organisation<a id=313></a>
 
 ###### Article R5014
 
@@ -41482,9 +37939,9 @@ _Abrogé par_:
   - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 
-##### Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens<a id=323></a>
+##### Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens<a id=314></a>
 
-##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux<a id=324></a>
+##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux<a id=315></a>
 
 ###### Article R*5016
 
@@ -41804,7 +38261,7 @@ _Cité par_:
   - Code de la santé publique - art. R5040 (Ab)
 
 
-##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.<a id=325></a>
+##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.<a id=316></a>
 
 ###### Article R*5029
 
@@ -42122,7 +38579,7 @@ _Codifié par_:
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=326></a>
+##### Paragraphe 3 : Dispositions communes.<a id=317></a>
 
 ###### Article R*5042
 
@@ -42170,7 +38627,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4234-28 (T)
 
 
-##### Section 2 : Déontologie pharmaceutique<a id=327></a>
+##### Section 2 : Déontologie pharmaceutique<a id=318></a>
 
 ###### Article R*5015-1
 
@@ -42206,9 +38663,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-1 (V)
 
 
-##### Paragraphe 1 : Devoirs généraux des pharmaciens<a id=328></a>
+##### Paragraphe 1 : Devoirs généraux des pharmaciens<a id=319></a>
 
-##### 1) Dispositions générales.<a id=329></a>
+##### 1) Dispositions générales.<a id=320></a>
 
 ###### Article R*5015-2
 
@@ -42252,7 +38709,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-3 (V)
 
 
-##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.<a id=330></a>
+##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.<a id=321></a>
 
 ###### Article R*5015-4
 
@@ -42398,7 +38855,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-10 (V)
 
 
-##### 3) De la responsabilité et de l'indépendance des pharmaciens.<a id=331></a>
+##### 3) De la responsabilité et de l'indépendance des pharmaciens.<a id=322></a>
 
 ###### Article R*5015-11
 
@@ -42663,7 +39120,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-22 (V)
 
 
-##### 4) De la tenue des établissements pharmaceutiques.<a id=332></a>
+##### 4) De la tenue des établissements pharmaceutiques.<a id=323></a>
 
 ###### Article R*5015-23
 
@@ -42728,9 +39185,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-25 (V)
 
 
-##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle<a id=333></a>
+##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle<a id=324></a>
 
-##### 1) De la publicité.<a id=334></a>
+##### 1) De la publicité.<a id=325></a>
 
 ###### Article R*5015-26
 
@@ -42833,7 +39290,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-29 (V)
 
 
-##### 2) De la concurrence déloyale.<a id=335></a>
+##### 2) De la concurrence déloyale.<a id=326></a>
 
 ###### Article R*5015-30
 
@@ -42922,7 +39379,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-33 (V)
 
 
-##### 3) Prohibition de certaines conventions ou ententes<a id=336></a>
+##### 3) Prohibition de certaines conventions ou ententes<a id=327></a>
 
 ###### Article R*5015-34
 
@@ -43055,7 +39512,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-38 (V)
 
 
-##### Paragraphe 3 : Relations avec des agents de l'administration.<a id=337></a>
+##### Paragraphe 3 : Relations avec des agents de l'administration.<a id=328></a>
 
 ###### Article R*5015-39
 
@@ -43140,7 +39597,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-42 (V)
 
 
-##### Paragraphe 4 : Des règles à observer dans les relations avec le public.<a id=338></a>
+##### Paragraphe 4 : Des règles à observer dans les relations avec le public.<a id=329></a>
 
 ###### Article R*5015-43
 
@@ -43247,9 +39704,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-47 (V)
 
 
-##### Paragraphe 5 : Relations avec les membres des professions médicales<a id=339></a>
+##### Paragraphe 5 : Relations avec les membres des professions médicales<a id=330></a>
 
-##### 1) Relations avec les membres des professions non pharmaceutiques.<a id=340></a>
+##### 1) Relations avec les membres des professions non pharmaceutiques.<a id=331></a>
 
 ###### Article R*5015-48
 
@@ -43382,7 +39839,7 @@ _Cité par_:
   - Code de la santé publique - art. R5053-3 (Ab)
 
 
-##### 2) Relations des pharmaciens avec leurs collaborateurs.<a id=341></a>
+##### 2) Relations des pharmaciens avec leurs collaborateurs.<a id=332></a>
 
 ###### Article R*5015-53
 
@@ -43445,7 +39902,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-55 (V)
 
 
-##### 3) Devoirs des maîtres de stage.<a id=342></a>
+##### 3) Devoirs des maîtres de stage.<a id=333></a>
 
 ###### Article R*5015-56
 
@@ -43519,7 +39976,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-59 (V)
 
 
-##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.<a id=343></a>
+##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.<a id=334></a>
 
 ###### Article R*5015-59
 
@@ -43548,7 +40005,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-60 (V)
 
 
-##### 5) Devoirs de confraternité.<a id=344></a>
+##### 5) Devoirs de confraternité.<a id=335></a>
 
 ###### Article R*5015-60
 
@@ -43658,9 +40115,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-64 (V)
 
 
-#### Chapitre 4 : Réglementation de la publicité<a id=345></a>
+#### Chapitre 4 : Réglementation de la publicité<a id=336></a>
 
-##### Section 2 : Dispositions concernant la publicité pour les médicaments.<a id=346></a>
+##### Section 2 : Dispositions concernant la publicité pour les médicaments.<a id=337></a>
 
 ###### Article R5047
 
@@ -44035,7 +40492,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-19 (V)
 
 
-##### Section 1 : Dispositions générales.<a id=347></a>
+##### Section 1 : Dispositions générales.<a id=338></a>
 
 ###### Article R5045
 
@@ -44085,7 +40542,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-3 (V)
 
 
-##### Section 4 : Dispositions concernant la publicité pour les officines et les établissements de préparation et de vente en gros des produits pharmaceutiques.<a id=348></a>
+##### Section 4 : Dispositions concernant la publicité pour les officines et les établissements de préparation et de vente en gros des produits pharmaceutiques.<a id=339></a>
 
 ###### Article R5053
 
@@ -44141,7 +40598,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R163-7 (V)
 
 
-##### Section 5 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement<a id=349></a>
+##### Section 5 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement<a id=340></a>
 
 ###### Article R5055
 
@@ -44355,7 +40812,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-24 (Ab)
 
 
-##### Section 3 : Dispositions concernant la publicité pour les produits présentés comme favorisant le diagnostic, la prévention ou le traitement des maladies.<a id=350></a>
+##### Section 3 : Dispositions concernant la publicité pour les produits présentés comme favorisant le diagnostic, la prévention ou le traitement des maladies.<a id=341></a>
 
 ###### Article R5052-1
 
@@ -44408,9 +40865,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-20 (V)
 
 
-#### Chapitre 5 : De l'inspection de la pharmacie<a id=351></a>
+#### Chapitre 5 : De l'inspection de la pharmacie<a id=342></a>
 
-##### Section 1 : Fonctions des inspecteurs de la pharmacie.<a id=352></a>
+##### Section 1 : Fonctions des inspecteurs de la pharmacie.<a id=343></a>
 
 ###### Article R5056
 
@@ -44542,9 +40999,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-3 (V)
 
 
-##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques<a id=353></a>
+##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques<a id=344></a>
 
-##### Paragraphe 1 : Généralités<a id=354></a>
+##### Paragraphe 1 : Généralités<a id=345></a>
 
 ###### Article R5060
 
@@ -44568,7 +41025,7 @@ _Cite_:
   - Loi n°1905-08-01
 
 
-##### Paragraphe 2 : Prélèvements d'échantillons<a id=355></a>
+##### Paragraphe 2 : Prélèvements d'échantillons<a id=346></a>
 
 ###### Article R5061
 
@@ -44851,7 +41308,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-18 (V)
 
 
-##### Paragraphe 4 : Saisies<a id=356></a>
+##### Paragraphe 4 : Saisies<a id=347></a>
 
 ###### Article R5076
 
@@ -44906,7 +41363,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-19 (V)
 
 
-##### Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives.<a id=357></a>
+##### Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives.<a id=348></a>
 
 ###### Article R5071
 
@@ -45002,7 +41459,7 @@ _Cite_:
   - Code de la santé publique - art. R5071 (M)
 
 
-##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire<a id=358></a>
+##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire<a id=349></a>
 
 ###### Article R5079
 
@@ -45187,7 +41644,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-27 (V)
 
 
-##### Paragraphe 6 : Dispositions diverses<a id=359></a>
+##### Paragraphe 6 : Dispositions diverses<a id=350></a>
 
 ###### Article R5087
 
@@ -45241,13 +41698,13 @@ _Cite_:
   - Code de la santé publique - art. R5073 (M)
 
 
-### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=360></a>
+### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=351></a>
 
-#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine<a id=361></a>
+#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine<a id=352></a>
 
-##### Section 1 : Des officines de pharmacie<a id=362></a>
+##### Section 1 : Des officines de pharmacie<a id=353></a>
 
-##### Paragraphe 3 : Délivrance des médicaments<a id=363></a>
+##### Paragraphe 3 : Délivrance des médicaments<a id=354></a>
 
 ###### Article R5092
 
@@ -45305,7 +41762,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-46 (V)
 
 
-##### Paragraphe 5 : Médicaments spécialisés de l'officine<a id=364></a>
+##### Paragraphe 5 : Médicaments spécialisés de l'officine<a id=355></a>
 
 ###### Article R5097
 
@@ -45380,7 +41837,7 @@ _Modifié par_:
   - Décret n°60-326 1960-04-05 art. 2 JORF 7 avril 1960
 
 
-##### Paragraphe 4 : Remèdes secrets<a id=365></a>
+##### Paragraphe 4 : Remèdes secrets<a id=356></a>
 
 ###### Article R5094
 
@@ -45487,7 +41944,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-59 (V)
 
 
-##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes<a id=366></a>
+##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes<a id=357></a>
 
 ###### Article R5091
 
@@ -45778,7 +42235,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-25 (V)
 
 
-##### Paragraphe 1 : Exploitation des officines<a id=367></a>
+##### Paragraphe 1 : Exploitation des officines<a id=358></a>
 
 ###### Article R5090
 
@@ -45816,7 +42273,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-13 (V)
 
 
-##### Paragraphe 6 : Produits officinaux divisés<a id=368></a>
+##### Paragraphe 6 : Produits officinaux divisés<a id=359></a>
 
 ###### Article R5098-1
 
@@ -45886,9 +42343,9 @@ _Créé par_:
   - Décret n°62-509 1962-04-13 art. 1 JORF 19 avril 1962
 
 
-##### Section 2 : Exercice personnel de la profession<a id=369></a>
+##### Section 2 : Exercice personnel de la profession<a id=360></a>
 
-##### Paragraphe 1 : Assistance par des pharmaciens<a id=370></a>
+##### Paragraphe 1 : Assistance par des pharmaciens<a id=361></a>
 
 ###### Article R5099
 
@@ -45912,7 +42369,7 @@ _Cite_:
   - Code de la santé publique L579, R5008 à R5011
 
 
-##### Paragraphe 2 : Remplacement et gérance<a id=371></a>
+##### Paragraphe 2 : Remplacement et gérance<a id=362></a>
 
 ###### Article R5100
 
@@ -46066,11 +42523,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-43 (V)
 
 
-#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=372></a>
+#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=363></a>
 
-##### Section 1 : Des établissements de préparation et de vente en gros<a id=373></a>
+##### Section 1 : Des établissements de préparation et de vente en gros<a id=364></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=374></a>
+##### Paragraphe 1 : Dispositions générales.<a id=365></a>
 
 ###### Article R5105
 
@@ -46448,7 +42905,7 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=375></a>
+##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=366></a>
 
 ###### Article R5113
 
@@ -46588,7 +43045,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-37 (V)
 
 
-##### Paragraphe 4 : Dispositions d'exécution.<a id=376></a>
+##### Paragraphe 4 : Dispositions d'exécution.<a id=367></a>
 
 ###### Article R5116
 
@@ -46617,9 +43074,9 @@ _Modifié par_:
   - Décret n°60-326 1960-04-05 ART. 4 JORF 7 avril 1960
 
 
-##### Paragraphe 3 : Fonctionnement des établissements<a id=377></a>
+##### Paragraphe 3 : Fonctionnement des établissements<a id=368></a>
 
-##### 1° Exercice personnel de la profession.<a id=378></a>
+##### 1° Exercice personnel de la profession.<a id=369></a>
 
 ###### Article R5114-1
 
@@ -46859,7 +43316,7 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=379></a>
+##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=370></a>
 
 ###### Article R5115-1
 
@@ -47134,9 +43591,9 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### Section 2 : Spécialités pharmaceutiques<a id=380></a>
+##### Section 2 : Spécialités pharmaceutiques<a id=371></a>
 
-##### Paragraphe 1 : Expérimentation des médicaments.<a id=381></a>
+##### Paragraphe 1 : Expérimentation des médicaments.<a id=372></a>
 
 ###### Article R5117
 
@@ -47557,7 +44014,7 @@ _Modifié par_:
   - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
 
 
-##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=382></a>
+##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=373></a>
 
 ###### Article R5128
 
@@ -48534,7 +44991,7 @@ _Cite_:
   - Code de la santé publique R5060 à R5089
 
 
-##### PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES.<a id=383></a>
+##### PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES.<a id=374></a>
 
 ###### Article R5143
 
@@ -48686,9 +45143,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5121-202 (V)
 
 
-#### CHAPITRE 3 : PHARMACIE VETERINAIRE<a id=384></a>
+#### CHAPITRE 3 : PHARMACIE VETERINAIRE<a id=375></a>
 
-##### DISPOSITIONS GENERALES.<a id=385></a>
+##### DISPOSITIONS GENERALES.<a id=376></a>
 
 ###### Article R5145
 
@@ -48740,7 +45197,7 @@ _Cité par_:
   - Code de la santé publique - art. R5163 (M)
 
 
-##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.<a id=386></a>
+##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.<a id=377></a>
 
 ###### Article R5146
 
@@ -48764,7 +45221,7 @@ _Modifié par_:
   - Décret n°84-156 1984-03-01 ART. 1 JORF 4 MARS 1984
 
 
-##### Paragraphe 1 : Autorisation administrative.<a id=387></a>
+##### Paragraphe 1 : Autorisation administrative.<a id=378></a>
 
 ###### Article R5146-1
 
@@ -48877,7 +45334,7 @@ _Cite_:
   - Code de la santé publique - art. L616 (M)
 
 
-##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.<a id=388></a>
+##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.<a id=379></a>
 
 ###### Article R5146-6
 
@@ -49020,7 +45477,7 @@ _Cité par_:
   - Code de la santé publique - art. R5146-17 bis (Ab)
 
 
-##### Paragraphe 3 : Fonctionnement des établissements<a id=389></a>
+##### Paragraphe 3 : Fonctionnement des établissements<a id=380></a>
 
 ###### Article R5146-10
 
@@ -49344,9 +45801,9 @@ _Cite_:
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
 
 
-##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=390></a>
+##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=381></a>
 
-##### Paragraphe 1 : Expérimentation des médicaments vétérinaires.<a id=391></a>
+##### Paragraphe 1 : Expérimentation des médicaments vétérinaires.<a id=382></a>
 
 ###### Article R5146-18
 
@@ -49655,7 +46112,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-18 (M)
 
 
-##### Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché<a id=392></a>
+##### Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché<a id=383></a>
 
 ###### Article R5146-26
 
@@ -50002,7 +46459,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5146-28 (M)
 
 
-##### Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché.<a id=393></a>
+##### Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché.<a id=384></a>
 
 ###### Article R5146-33
 
@@ -50380,7 +46837,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-37 (M)
 
 
-##### Paragraphe 4 : Prélèvements d'échantillons.<a id=394></a>
+##### Paragraphe 4 : Prélèvements d'échantillons.<a id=385></a>
 
 ###### Article R5146-40
 
@@ -50439,7 +46896,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-29 (M)
 
 
-##### Section 3 : Réglementation de la publicité.<a id=395></a>
+##### Section 3 : Réglementation de la publicité.<a id=386></a>
 
 ###### Article R5146-42
 
@@ -50700,7 +47157,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
 
 
-##### SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES.<a id=396></a>
+##### SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES.<a id=387></a>
 
 ###### Article R5146-49
 
@@ -50867,7 +47324,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
 
 
-##### SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS.<a id=397></a>
+##### SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS.<a id=388></a>
 
 ###### Article R5146-51
 
@@ -51070,7 +47527,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5141-123 (M)
 
 
-##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.<a id=398></a>
+##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.<a id=389></a>
 
 ###### Article R5146-56
 
@@ -51103,7 +47560,7 @@ _Nouveaux textes_:
   - Code de la santé publique R5143-5
 
 
-##### SECTION 7 : SANCTIONS.<a id=399></a>
+##### SECTION 7 : SANCTIONS.<a id=390></a>
 
 ###### Article R5146-57
 
@@ -51152,9 +47609,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5442-5 (V)
 
 
-#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=400></a>
+#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=391></a>
 
-##### Section 3 : Dispositions communes.<a id=401></a>
+##### Section 3 : Dispositions communes.<a id=392></a>
 
 ###### Article R5147
 
@@ -51310,9 +47767,9 @@ _Créé par_:
   - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
 
 
-#### Chapitre 2 bis : Pharmacovigilance<a id=402></a>
+#### Chapitre 2 bis : Pharmacovigilance<a id=393></a>
 
-##### Section 1 : Organisation de la pharmacovigilance.<a id=403></a>
+##### Section 1 : Organisation de la pharmacovigilance.<a id=394></a>
 
 ###### Article R5144-1
 
@@ -51568,7 +48025,7 @@ _Cite_:
   - Code de la santé publique - art. R5144-8 (M)
 
 
-##### Section 2 : Déclarations obligatoires.<a id=404></a>
+##### Section 2 : Déclarations obligatoires.<a id=395></a>
 
 ###### Article R5144-8
 
@@ -51663,11 +48120,11 @@ _Cite_:
   - Code de la santé publique - art. R5144-9 (M)
 
 
-### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=405></a>
+### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=396></a>
 
-#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=406></a>
+#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=397></a>
 
-##### SECTION 1 : GENERALITES.<a id=407></a>
+##### SECTION 1 : GENERALITES.<a id=398></a>
 
 ###### Article R5149
 
@@ -51734,9 +48191,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L5132-1 (V)
 
 
-##### SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=408></a>
+##### SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=399></a>
 
-##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=409></a>
+##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=400></a>
 
 ###### Article R5152
 
@@ -51803,9 +48260,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-46 (V)
 
 
-##### SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=410></a>
+##### SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=401></a>
 
-##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=411></a>
+##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=402></a>
 
 ###### Article R5151
 
@@ -52340,7 +48797,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-59 (V)
 
 
-##### PARAGRAPHE 1 : GENERALITES.<a id=412></a>
+##### PARAGRAPHE 1 : GENERALITES.<a id=403></a>
 
 ###### Article R5150
 
@@ -52373,7 +48830,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-43 (V)
 
 
-##### PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C).<a id=413></a>
+##### PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C).<a id=404></a>
 
 ###### Article R5167
 
@@ -52435,7 +48892,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-63 (V)
 
 
-##### PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*.<a id=414></a>
+##### PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*.<a id=405></a>
 
 ###### Article R5168
 
@@ -52480,7 +48937,7 @@ _Cité par_:
   - Code de la santé publique - art. R5169 (Ab)
 
 
-##### PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B).<a id=415></a>
+##### PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B).<a id=406></a>
 
 ###### Article R5165
 
@@ -52584,9 +49041,9 @@ _Modifié par_:
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 
-##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE<a id=416></a>
+##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE<a id=407></a>
 
-##### PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*.<a id=417></a>
+##### PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*.<a id=408></a>
 
 ###### Article R5169
 
@@ -53007,7 +49464,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=418></a>
+##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=409></a>
 
 ###### Article R5178
 
@@ -53208,7 +49665,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=419></a>
+##### PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=410></a>
 
 ###### Article R5183
 
@@ -53444,7 +49901,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=420></a>
+##### PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=411></a>
 
 ###### Article R5189
 
@@ -53526,7 +49983,7 @@ _Créé par_:
   - Décret n°70-127 1970-02-06 ART. 1 JORF 14 février
 
 
-##### 1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE.<a id=421></a>
+##### 1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE.<a id=412></a>
 
 ###### Article R5190
 
@@ -54036,7 +50493,7 @@ _Cite_:
   - Code de la santé publique R5189 à R5211
 
 
-##### 2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE.<a id=422></a>
+##### 2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE.<a id=413></a>
 
 ###### Article R5199
 
@@ -54710,7 +51167,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=423></a>
+##### SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=414></a>
 
 ###### Article R5212
 
@@ -54764,7 +51221,7 @@ _Cite_:
   - Code de la santé publique - art. R5149 (M)
 
 
-##### PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*.<a id=424></a>
+##### PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*.<a id=415></a>
 
 ###### Article R5227
 
@@ -54798,9 +51255,9 @@ _Cite_:
   - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 522
 
 
-##### SECTION 4 : PRODUITS CAPILLAIRES<a id=425></a>
+##### SECTION 4 : PRODUITS CAPILLAIRES<a id=416></a>
 
-##### PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX.<a id=426></a>
+##### PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX.<a id=417></a>
 
 ###### Article R5213
 
@@ -54978,7 +51435,7 @@ _Cité par_:
   - Code de la santé publique - art. R5218 (Ab)
 
 
-##### PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES.<a id=427></a>
+##### PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES.<a id=418></a>
 
 ###### Article R5217
 
@@ -55168,9 +51625,9 @@ _Cité par_:
   - Code de la santé publique - art. R5226 (M)
 
 
-##### SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE<a id=428></a>
+##### SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE<a id=419></a>
 
-##### PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=429></a>
+##### PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=420></a>
 
 ###### Article R5222
 
@@ -55345,9 +51802,9 @@ _Cite_:
   - Code de la santé publique - art. R5222 (M)
 
 
-##### SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS<a id=430></a>
+##### SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS<a id=421></a>
 
-##### INSPECTION.<a id=431></a>
+##### INSPECTION.<a id=422></a>
 
 ###### Article R5228
 
@@ -55420,7 +51877,7 @@ _Abrogé par_:
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 
-#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=432></a>
+#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=423></a>
 
 ###### Article R5230
 
@@ -55794,7 +52251,7 @@ _Cité par_:
   - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
 
 
-#### Chapitre 4 : Médicaments antivénériens.<a id=433></a>
+#### Chapitre 4 : Médicaments antivénériens.<a id=424></a>
 
 ###### Article R5239
 
@@ -55880,7 +52337,7 @@ _Cite_:
   - Code de la santé publique L643, R5060 à R5089
 
 
-#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=434></a>
+#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=425></a>
 
 ###### Article R5242
 
@@ -55941,7 +52398,7 @@ _Cite_:
   - Code de la santé publique - art. L645 (Ab)
 
 
-#### Chapitre 7 : Biberons à tube et tétines.<a id=435></a>
+#### Chapitre 7 : Biberons à tube et tétines.<a id=426></a>
 
 ###### Article R5262
 
@@ -56102,7 +52559,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=436></a>
+#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=427></a>
 
 ###### Article R5266-1
 
@@ -56601,9 +53058,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5136-17 (V)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=437></a>
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=428></a>
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=438></a>
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=429></a>
 
 ###### Article R5267
 
@@ -56658,7 +53115,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=439></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=430></a>
 
 ###### Article R5269
 
@@ -56751,9 +53208,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 4 : Visa des spécialités anciennes<a id=440></a>
+#### Chapitre 4 : Visa des spécialités anciennes<a id=431></a>
 
-##### Section 1 : Spécialités pharmaceutiques.<a id=441></a>
+##### Section 1 : Spécialités pharmaceutiques.<a id=432></a>
 
 ###### Article R5272
 
@@ -56794,7 +53251,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-33 (V)
 
 
-##### Section 2 : Produits d'origine microbienne.<a id=442></a>
+##### Section 2 : Produits d'origine microbienne.<a id=433></a>
 
 ###### Article R5273
 
