@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1985-07-26
+Version Consolidée au 1985-09-12
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -52953,9 +52953,10 @@ _Nouveaux textes_:
 
 ###### Article R5172
 
-Les médecins et les vétérinaires diplômés peuvent se faire délivrer sur demandes rédigées conformément aux dispositions des
-articles R. 5179, R. 5185, R. 5201, les substances visées à la présente section et destinées à être employées par eux, soit
-dans les cas d'urgence, soit pour des opérations ou des pansements.
+Les médecins, les vétérinaires et, dans le cadre de l'article L. 368 du code de la santé publique, les chirurgiens-dentistes
+peuvent se faire délivrer sur demandes rédigées conformément aux dispositions des articles R. 5173, R. 5185, R. 5201, les
+substances visées à la présente section et destinées à être employées par eux, soit dans les cas d'urgence, soit pour des
+opérations ou des pansements.
 
 Ces médicaments doivent être employés par les praticiens eux-mêmes : il leur est interdit de les céder à leurs clients à
 titre onéreux ou gratuit.
@@ -52963,16 +52964,14 @@ titre onéreux ou gratuit.
 Ces substances ne peuvent être délivrées que sous la forme pharmaceutique compatible avec leur emploi médical, et doivent
 être détenues dans les conditions fixées par le présent code.
 
-Un arrêté du ministre de la Santé publique et de la Population énumère les substances vénéneuses que les pharmaciens peuvent
-délivrer aux chirurgiens dentistes et aux sages-femmes pour leur usage professionnel et fixe les conditions de délivrance et
-d'utilisation de ces substances.
+Un arrêté du ministre de la santé énumère les substances vénéneuses que les pharmaciens peuvent délivrer aux sages-femmes
+pour leur usage professionnel et fixe les conditions de délivrance et d'utilisation de ces substances.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°85-958 1985-09-10 art. 1 JORF 12 septembre 1985
 
 **Liens**:
 
@@ -52986,14 +52985,15 @@ _Codifié par_:
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
+_Cite_:
+
+  - Code de la santé publique - art. L368 (M)
+  - Code de la santé publique - art. R5173 (M)
+  - Code de la santé publique - art. R5201 (M)
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-77 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5179 (M)
-  - Code de la santé publique - art. R5201 (M)
 
 _Cité par_:
 
@@ -53004,18 +53004,20 @@ _Cité par_:
 
 ###### Article R5173
 
-Les pharmaciens ne peuvent délivrer les substances vénéneuses et les préparations qui les contiennent pour l'usage de la
-médecine humaine ou vétérinaire, que sur la prescription d'un médecin ou d'un vétérinaire [*condition*].
+Les pharmaciens ne peuvent délivrer les substances vénéneuses et les préparations qui les contiennent que sur la prescription
+[*condition*]:
 
-Toutefois, ils peuvent délivrer sur la prescription d'un chirurgien dentiste ou d'une sage-femme diplômée celles desdites
-substances dont la liste est fixée par arrêté du ministre de la Santé publique et de la Population.
+- d'un médecin ; - d'un directeur de laboratoire d'analyses de biologie médicale, pour les prescriptions faites dans les
+conditions fixées par le troisième alinéa de l'article L. 761 ; - d'un chirurgien-dentiste dans le cadre de l'article L. 368
+du code de la santé publique ; - d'un vétérinaire ; - d'une sage-femme, dans les limites de la liste mentionnée à l'article
+L. 370.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°85-958 1985-09-10 art. 2 JORF 12 septembre 1985
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 **Liens**:
 
@@ -53027,7 +53029,7 @@ _Codifié par_:
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5170 : Non application aux préparations médicamenteuses destinées à la médecine humaine et vétérinaire renfermant des substances vénéneuses à des doses fixées par arrêté
 
 _Cité par_:
 
@@ -53036,6 +53038,11 @@ _Cité par_:
   - Code de la santé publique - art. R5142-19 (Ab)
   - Code de la santé publique - art. R5172 (M)
   - Code de la santé publique - art. R5209 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L368 (M)
+  - Code de la santé publique L368, L. 370, L761 al 3
 
 _Nouveaux textes_:
 
@@ -54739,9 +54746,9 @@ _Cite_:
 
 ###### Article R5208
 
-Les chirurgiens dentistes sont autorisés à détenir pour leur usage professionnel, dans les conditions fixées à l'article
-précédent, des préparations contenant des substances inscrites au tableau B, dont la liste est fixée par arrêté du ministre
-de la Santé publique et de la Population.
+Les chirurgiens-dentistes sont autorisés à détenir, pour leur usage professionnel, dans les conditions fixées à l'article
+précédent, les préparations contenant des substances inscrites au tableau B qui sont nécessaires à l'exercice de l'art
+dentaire.
 
 Les sages-femmes sont autorisées à détenir, pour leur usage professionnel, des préparations contenant des substances
 inscrites au tableau B dont la liste qualitative et quantitative est fixée par arrêté du ministre de la Santé publique et de
@@ -54752,7 +54759,7 @@ elles.
 
 **Liens**:
 
-  - TXT_ASSOCIE: Arrêté 1971-10-05 JORF 28 octobre : RELATIF A LA DELIVRANCE DE CERTAINES SUBSTANCES VENENEUSES AUX SAGES-FEMMES
+  - TXT_ASSOCIE: Arrêté 1971-10-05 : Relatif à la délivrance de certaines substances vénéneuses aux sages-femmes
   - TXT_SOURCE: Arrêté du 10 octobre 1989
   - TXT_SOURCE: Arrêté du 17 octobre 1983
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 1 (Ab)
@@ -54761,12 +54768,12 @@ elles.
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5170 : Non application aux préparations médicamenteuses destinées à la médecine humaine et vétérinaire renfermant des substances vénéneuses  à des doses fixées par arrêté
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°85-958 1985-09-10 art. 3 JORF 12 septembre 1985
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 _Nouveaux textes_:
 
