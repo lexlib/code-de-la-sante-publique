@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1982-05-20
+Version Consolidée au 1982-10-29
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -249,8 +249,8 @@ Version Consolidée au 1982-05-20
     - [Livre 7 : Hôpitaux et hospices publics, thermo-climatisme, laboratoires (art. L678 à L765)](#246)
       - [Titre 1 : Hôpitaux et hospices publics (art. L678 à L724)](#247)
         - [Chapitre 1 : Nature et rôle des hôpitaux et hospices publics. (art. L678)](#248)
-        - [Chapitre 2 : Commissions administratives (art. L684 à L686)](#249)
-          - [Section 1 : Composition et fonctionnement. (art. L684)](#250)
+        - [Chapitre 2 : Commissions administratives (art. L680 à L686)](#249)
+          - [Section 1 : Composition et fonctionnement. (art. L680 à L684)](#250)
           - [Section 2 : Attributions. (art. L686)](#251)
         - [Chapitre 6 : Autres dispositions financières. (art. L706-1 à L709)](#252)
           - [Section 1 : Marchés. (art. L706-1)](#253)
@@ -270,10 +270,10 @@ Version Consolidée au 1982-05-20
           - [Section 3 : Dispositions diverses. (art. L761-12 à L761-15)](#267)
           - [Section 4 : Dispositions pénales. (art. L761-16 à L761-23)](#268)
         - [Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales. (art. L762 à L765)](#269)
-    - [LIVRE 7 : HOPITAUX ET HOSPICES PUBLICS (art. L680 à L706)](#270)
-      - [TITRE 1 : HOPITAUX ET HOSPICES PUBLICS (art. L680 à L706)](#271)
-        - [CHAPITRE 2 : COMMISSIONS ADMINISTRATIVES (art. L680 à L685)](#272)
-          - [SECTION 1 : COMPOSITION ET FONCTIONNEMENT. (art. L680 à L685)](#273)
+    - [LIVRE 7 : HOPITAUX ET HOSPICES PUBLICS (art. L685 à L706)](#270)
+      - [TITRE 1 : HOPITAUX ET HOSPICES PUBLICS (art. L685 à L706)](#271)
+        - [CHAPITRE 2 : COMMISSIONS ADMINISTRATIVES (art. L685)](#272)
+          - [SECTION 1 : COMPOSITION ET FONCTIONNEMENT. (art. L685)](#273)
         - [CHAPITRE 4 : DONS ET LEGS. (art. L696)](#274)
         - [CHAPITRE 5 : AUTRES DISPOSITIONS FINANCIERES (art. L706)](#275)
           - [SECTION 1 : MARCHES. (art. L706)](#276)
@@ -32003,6 +32003,55 @@ _Abrogé par_:
 
 ##### Section 1 : Composition et fonctionnement.<a id=250></a>
 
+###### Article L680
+
+Les hôpitaux peuvent être autorisés, dans les limites et conditions prévues par décret en conseil d'Etat :
+
+1. A créer et faire fonctionner des cliniques ouvertes, dans lesquelles les malades, blessés ou femmes en couches admis à
+titre payant sont libres de faire appel aux médecins, chirurgiens, spécialistes de leur choix ainsi qu'aux sages-femmes
+n'appartenant pas au personnel titulaire de l'établissement.
+
+**Nota:**
+
+[*Nota : LOI 82-916 du octobre 1982 ART. 2 : A titre transitoire, les  établissements d'hospitalisation publics peuvent : 1°
+Jusqu'au 31 décembre 1982, maintenir les modalités d'organisation du service permettant l'exercice d'une activité de
+clientèle privée au sein du service public hospitalier par les praticiens à plein temps qui exercent une telle activité à la
+date de promulgation de la présente loi ; 2° Jusqu'au 31 décembre 1986, organiser, dans des conditions et limites fixées par
+voie réglementaire, l'exercice, par ceux des praticiens mentionnés au 1° qui en auront fait la demande, d'une activité de
+clientèle privée au sein du service public hospitalier, à condition que cette organisation ne comporte pas de réservation de
+lits pour la clientèle personnelle de ces praticiens ; les intéressés pourront renoncer à bénéficier des dispositions du
+présent alinéa au plus tard *]le 31 décembre 1983 :
+
+remplacé par la loi 2 du 2 janvier 1984 article 6 [* jusqu'à l'expiration d'un délai de deux mois suivant la publication des
+nouveaux statuts des praticiens des établissements publics et au plus tard le 30 avril 1984*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cité par_:
+
+  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
+  - Loi n°82-916 du 28 octobre 1982 - art. 1 (V)
+  - Loi n°87-39 du 27 janvier 1987 - art. 24 (V)
+  - Code de la santé publique - art. L686 (Ab)
+
+_Modifié par_:
+
+  - Loi n°82-916 1982-10-28 ART. 1 JORF 29 OCTOBRE 1982
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°82-916 du 28 octobre 1982 - art. 2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L714-36 (M)
+
+
 ###### Article L684
 
 Les pharmaciens résidents sont nommés par le ministre de la santé publique et de la population [*autorité compétente*].
@@ -34442,41 +34491,6 @@ _Créé par_:
 #### CHAPITRE 2 : COMMISSIONS ADMINISTRATIVES<a id=272></a>
 
 ##### SECTION 1 : COMPOSITION ET FONCTIONNEMENT.<a id=273></a>
-
-###### Article L680
-
-Les hôpitaux peuvent être autorisés, dans les limites et conditions prévues par décret en conseil d'Etat :
-
-1° A créer et faire fonctionner des cliniques ouvertes, dans lesquelles les malades, blessés ou femmes en couches admis à
-titre payant sont libres de faire appel aux médecins, chirurgiens, spécialistes de leur choix ainsi qu'aux sages-femmes
-n'appartenant pas au personnel titulaire de l'établissement ;
-
-2° A réserver des lits pour la clientèle personnelle des médecins, chirurgiens, spécialistes de l'établissement lorsque ceux-
-ci lui consacrent toute leur activité professionnelle et à permettre à ces praticiens de recevoir en consultation des malades
-qui leur sont adressés personnellement [*clientèle privée*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Ordonnance 58-1198 1958-12-11 ART. 1 JORF 12 décembre
-
-_Cité par_:
-
-  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
-  - Loi n°82-916 du 28 octobre 1982 - art. 1 (V)
-  - Loi n°87-39 du 27 janvier 1987 - art. 24 (V)
-  - Code de la santé publique - art. L686 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L714-36 (M)
-
 
 ###### Article L685
 
