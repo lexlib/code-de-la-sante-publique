@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-11-17
+Version Consolidée au 1985-01-04
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -25131,25 +25131,14 @@ La population dont il est tenu compte pour l'application de l'article L. 571 du 
 municipale totale, telle qu'elle est définie par le décret ayant ordonné le dernier dénombrement général de la population
 [*dispositions réglementaires*].
 
-Si les besoins de la population l'exigent, des dérogations à ces règles peuvent être accordées [*autorisations
-dérogatoires*]. Les dérogations visées à l'article L. 571 du Code de la santé publique peuvent être accordées par le préfet
-[*autorité compétente*] sur la proposition du chef du service régional de l'action sanitaire et sociale, après avis du
-pharmacien inspecteur régional de la santé, du conseil régional de l'ordre des pharmaciens et des syndicats professionnels
-[*dernière phrase : dispositions réglementaires*].
+Si les besoins de la population l'exigent, des dérogations à ces règles peuvent être accordées [*autorisations dérogatoires*]
+par le préfet après avis du chef de service régional des affaires sanitaires et sociales, du pharmacien inspecteur régional
+de la santé, du conseil régional de l'ordre des pharmaciens et des syndicats professionnels [*dernière phrase : dispositions
+réglementaires*].
 
 Dans tous les cas, le préfet peut imposer une distance minimum entre deux officines.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-1014 1945-05-23 ART. 5
-  - Loi n°41-3890 1941-09-11 ART. 37
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
 _Cité par_:
 
@@ -25168,6 +25157,10 @@ _Cité par_:
   - Code de la santé publique - art. L577 Bis (T)
   - Code de la santé publique - art. L578 (Ab)
 
+_Modifié par_:
+
+  - Loi n°85-10 du 3 janvier 1985 - art. 97 () JORF 4 janvier 1985
+
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 22 avril 1986
@@ -25176,17 +25169,12 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 2 (V)
   - TXT_ASSOCIE: Code de la santé publique - art. L571-1 (Ab)
   - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
-  - SPEC_APPLI: Décret n°65-1128 1965-12-22 : REMPLACE DEUX PARAGRAPHES PAR DES DISPOSITIONS REGLEMENTAIRES
+  - SPEC_APPLI: Décret n°65-1128 1965-12-22
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L5125-11 (V)
   - Code de la santé publique - art. L5511-6 (M)
-
-_Modifié par_:
-
-  - Décret n°65-1128 1965-12-22 art. 1 JORF 24 décembre 1965
-  - Loi n°57-220 1957-02-25 art. 1 II JORF 26 février 1957
 
 
 ###### Article L572
@@ -30127,13 +30115,16 @@ pourront prononcer l'interdiction du territoire français, pour une durée de de
 pour les délits prévus par les articles L. 626, L. 628, L. 628-4 et L. 630. Ils pourront prononcer l'interdiction définitive
 du territoire français contre tout étranger condamné pour les délits prévus à l'article L. 627.
 
-Le condamné sera dans tous les cas soumis aux dispositions des articles 27 et 28 de l'ordonnance précitée.
+L'interdiction du territoire français entraîne de plein droit la reconduite du condamné à la frontière à l'expiration de sa
+peine.
+
+Le condamné sera dans tous les cas soumis aux dispositions des articles 27, 28 et 35 bis de l'ordonnance précitée.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance 45-2658 1945-11-02 ART. 23 ET S., ART. 27, ART. 28
+  - Ordonnance 45-2658 1945-11-02 art. 23 et S., art. 27, art. 28, art. 35 bis
   - Ordonnance n°45-2658 du 2 novembre 1945 - art. 27 (M)
   - Ordonnance n°45-2658 du 2 novembre 1945 - art. 28 (M)
   - Code de la santé publique - art. L626 (M)
@@ -30142,14 +30133,10 @@ _Cite_:
   - Code de la santé publique - art. L628-4 (Ab)
   - Code de la santé publique - art. L630 (M)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Créé par_:
-
-  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+  - Loi n°83-466 du 10 juin 1983 - art. 39 () JORF 11 juin 1983 en vigueur le 1er janvier 1984
+  - Loi n°85-10 du 3 janvier 1985 - art. 101 () JORF 4 janvier 1985
 
 _Cité par_:
 
