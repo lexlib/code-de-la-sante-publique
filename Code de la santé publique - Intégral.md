@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1960-11-27
+Version Consolidée au 1961-07-27
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -25102,70 +25102,6 @@ _Abrogé par_:
 _Cité par_:
 
   - Loi n°64-707 du 10 juillet 1964 - art. 7 (V)
-
-
-###### Article L727
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
-
-
-###### Article L728
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
-
-
-###### Article L729
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
-
-
-###### Article L730
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
 
 
 ###### Article L731
