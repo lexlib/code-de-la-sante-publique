@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-10-07
+Version Consolidée au 1994-10-11
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-21)](#2)
@@ -467,195 +467,207 @@ Version Consolidée au 1994-10-07
         - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#464)
         - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#465)
         - [Chapitre 5 : Homologation de certains produits et appareils. (art. R5274 à R5287)](#466)
-    - [Livre 6 : Utilisation thérapeutique de produits d'origine humaine (art. R666-12-1 à R669-5)](#467)
-      - [Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. R666-12-1 à R666-12-26)](#468)
-        - [Section 1 : Hémovigilance (art. R666-12-1 à R666-12-26)](#469)
-          - [Sous-section 1 : Dispositions générales (art. R666-12-1 à R666-12-3)](#470)
-          - [Sous-section 2 : Dispositions générales (art. R666-12-4)](#471)
-          - [Sous-section 2 : Modalités de distribution des produits sanguins labiles (art. R666-12-5 à R666-12-10)](#472)
-          - [Sous-section 3 : Rôle des établissements de transfusion sanguine distributeurs (art. R666-12-11 à R666-12-12)](#473)
-          - [Sous-section 4 : Rôle des établissements de santé (art. R666-12-13 à R666-12-19)](#474)
-          - [Sous-section 5 : Les coordonnateurs régionaux de l'hémovigilance (art. R666-12-20 à R666-12-23)](#475)
-          - [Sous-section 6 : Déclaration d'incident transfusionnel (art. R666-12-24 à R666-12-26)](#476)
-      - [Chapitre 2 : Organisation et fonctionnement de l'Agence française du sang (art. R667-1 à R667-44)](#477)
-        - [Section 1 : Dispositions générales (art. R667-1 à R667-2)](#478)
-        - [Section 2 : Organisation générale (art. R667-3 à R667-32)](#479)
-          - [Sous-section 1 : Le conseil d'administration (art. R667-3 à R667-12)](#480)
-          - [Sous-section 2 : Le président de l'Agence française du sang (art. R667-13 à R667-15)](#481)
-          - [Sous-section 3 : Le conseil scientifique (art. R667-16 à R667-20)](#482)
-          - [Sous-section 4 : Le comité d'orientation (art. R667-21 à R667-25)](#483)
-          - [Sous-section 5 : Le directeur de l'Agence française du sang (art. R667-26 à R667-27)](#484)
-          - [Sous-section 6 : Les inspecteurs et les missions d'inspection de l'Agence française du sang (art. R667-28 à R667-32)](#485)
-        - [Section 3 : Dispositions financières et comptables (art. R667-33 à R667-42)](#486)
-          - [Sous-section 1 : Dispositions générales (art. R667-33 à R667-36)](#487)
-          - [Sous-section 2 : La dotation globale de l'Agence française du sang (art. R667-37 à R667-40)](#488)
-          - [Sous-section 3 : Dispositions relatives au fonds d'orientation de la transfusion sanguine (art. R667-41 à R667-42)](#489)
-        - [Section 4 : Dispositions diverses (art. R667-43 à R667-44)](#490)
-      - [Chapitre 3 : Des établissements de transfusion sanguine (art. R668-1 à R668-5)](#491)
-        - [Section 1 : Des organismes agréés en qualité d'établissement de transfusion sanguine (art. R668-1 à R668-5)](#492)
-          - [Sous-section 1 : Des associations agréées en qualité d'établissement de transfusion sanguine (art. R668-1)](#493)
-          - [Sous-section 2 : Des groupements d'intérêt public agréés en qualité d'établissement de transfusion sanguine (art. R668-2 à R668-5)](#494)
-      - [Chapitre 4 : Des schémas d'organisation de la transfusion sanguine (art. R669-1 à R669-5)](#495)
-    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R710-2-1 à R716-9-1)](#496)
-      - [Titre 1 : Etablissements de santé (art. R710-2-1 à R716-9-1)](#497)
-        - [Chapitre 1 A : Principes fondamentaux (art. R710-2-1 à R710-5-11)](#498)
-          - [Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés (art. R710-2-1 à R710-2-10)](#499)
-          - [Section 2 : De l'analyse de l'activité des établissements de santé (art. R710-5-1 à R710-5-11)](#500)
-        - [Chapitre 1 : Missions et obligations des établissements de santé (art. R711-6-1 à R711-15)](#501)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. R711-6-1 à R711-6-21)](#502)
-            - [Sous-section 1 : Catégories d'établissements publics de santé (art. R711-6-1 à R711-6-3)](#503)
-            - [Sous-section 2 : Fonctionnement médical des hôpitaux locaux (art. R711-6-4 à R711-6-21)](#504)
-          - [Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé (art. R711-7 à R711-15)](#505)
-        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. R712-1 à R712-59)](#506)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. R712-1 à R712-36)](#507)
-            - [Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire. (art. R712-1 à R712-13)](#508)
-            - [Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale (art. R712-14 à R712-21)](#509)
-            - [Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale (art. R712-22 à R712-29)](#510)
-            - [Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale (art. R712-30 à R712-36)](#511)
-          - [Section 2 : Autorisations (art. R712-37 à R712-51)](#512)
-          - [Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie (art. R712-52 à R712-59)](#513)
-        - [Chapitre 3 : Les actions de coopération (art. R713-1 à R713-15)](#514)
-          - [Section 1 : Les conférences sanitaires de secteur (art. R713-1 à R713-15)](#515)
-        - [Chapitre 4 : Les établissements publics de santé (art. R714-1-1 à R714-28-4)](#516)
-          - [Section 1 : Organisation administrative et financière (art. R714-1-1 à R714-4-5)](#517)
-            - [Sous-section 1 : Création, transformation et suppression des établissements publics de sante (art. R714-1-1 à R714-1-3)](#518)
-            - [Sous-section 2 : Composition et fonctionnement du conseil d'administration (art. R714-2-1 à R714-2-24)](#519)
-            - [Sous-section 3 : Budget et comptabilité des établissements publics de santé (art. R714-3-1 à R714-3-53)](#520)
-              - [Paragraphe 1 : Dispositions générales (art. R714-3-1 à R714-3-6)](#521)
-              - [Paragraphe 2 : Présentation et vote du budget (art. R714-3-7 à R714-3-18)](#522)
-              - [Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale (art. R714-3-19 à R714-3-26)](#523)
-              - [Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget (art. R714-3-27 à R714-3-40)](#524)
-              - [Paragraphe 5 : Du directeur, ordonnateur du budget (art. R714-3-41 à R714-3-45)](#525)
-              - [Paragraphe 6 : Clôture de l'exercice et affectation des résultats (art. R714-3-46 à R714-3-50)](#526)
-              - [Paragraphe 7 : Du comptable (art. R714-3-51 à R714-3-53)](#527)
-            - [Sous-section 4 : Programmes d'investissement (art. R714-4-1 à R714-4-5)](#528)
-          - [Section 2 : Organes représentatifs (art. R714-16-1 à R714-18-15)](#529)
-            - [Sous-section 1 : Commissions médicales d'établissement (art. R714-16-1 à R714-16-34)](#530)
-              - [Paragraphe 1 : Composition de commissions médicales d'établissement (art. R714-16-1 à R714-16-13)](#531)
-                - [I : Centres hospitaliers autres que les centres hospitaliers universitaires (art. R714-16-1 à R714-16-5)](#532)
-                - [II : Centres hospitaliers universitaires (art. R714-16-6 à R714-16-10)](#533)
-                - [III : Hôpitaux locaux (art. R714-16-11)](#534)
-                - [IV : Syndicats interhospitaliers (art. R714-16-12 à R714-16-13)](#535)
-              - [Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement (art. R714-16-14 à R714-16-28)](#536)
-              - [Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux (art. R714-16-29 à R714-16-34)](#537)
-            - [Sous-section 2 : Comités techniques d'établissement (art. R714-17-1 à R714-18-15)](#538)
-              - [Paragraphe 1 : Composition des comités techniques d'établissement (art. R714-17-1 à R714-17-24)](#539)
-              - [Paragraphe 2 : Attributions des comités techniques d'établissement (art. R714-18-1)](#540)
-              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement (art. R714-18-2 à R714-18-14)](#541)
-              - [Paragraphe 3 : Dispositions diverses (art. R714-18-15)](#542)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. R714-21-1 à R714-26-11)](#543)
-            - [Sous-section 1 : Des chefs de service ou de département (art. R714-21-1 à R714-21-25)](#544)
-              - [Paragraphe 1 : Dispositions générales (art. R714-21-1 à R714-21-2)](#545)
-              - [Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires (art. R714-21-3 à R714-21-5)](#546)
-              - [Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires (art. R714-21-6)](#547)
-              - [Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958 (art. R714-21-7 à R714-21-19)](#548)
-                - [I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein (art. R714-21-8 à R714-21-11)](#549)
-                - [II. - Nomination aux fonctions de chef de service ou de département à temps partiel (art. R714-21-12 à R714-21-13)](#550)
-                - [III (art. R714-21-14 à R714-21-17)](#551)
-                  - [- Dispositions propres aux fonctions de chef de service ou de département de psychiatrie (art. R714-21-14 à R714-21-17)](#552)
-                - [IV (art. R714-21-18)](#553)
-                  - [- Dispositions particulières aux pharmacies hospitalières (art. R714-21-18)](#554)
-                - [V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre (art. R714-21-19)](#555)
-              - [Paragraphe 5 : Dispositions communes (art. R714-21-20 à R714-21-25)](#556)
-            - [Sous-section 2 : Conseil de service ou de département (art. R714-22-1 à R714-22-11)](#557)
-            - [Sous-section 3 : Des responsables d'unité fonctionnelle (art. R714-24-1 à R714-24-2)](#558)
-            - [Sous-section 4 : Service de soins infirmiers (art. R714-26-1 à R714-26-11)](#559)
-          - [Section 4 : Les personnels des établissements publics de santé (art. R714-28-1 à R714-28-4)](#560)
-        - [Chapitre 5 : Les établissements de santé privés (art. R715-7-1 à R715-11-4)](#561)
-          - [Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement (art. R715-7-1 à R715-11-4)](#562)
-            - [Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier (art. R715-7-1 à R715-7-6)](#563)
-            - [Sous-section 4 : De la concession du service public hospitalier (art. R715-10-1 à R715-10-14)](#564)
-              - [Paragraphe 1 : Objet, contenu et durée du contrat de concession (art. R715-10-1 à R715-10-3)](#565)
-              - [Paragraphe 2 : Procédure (art. R715-10-4 à R715-10-9)](#566)
-              - [Paragraphe 3 : Renouvellement et prorogation du contrat de concession (art. R715-10-10)](#567)
-              - [Paragraphe 4 : Contrôle (art. R715-10-11 à R715-10-12)](#568)
-              - [Paragraphe 5 : Mesures diverses (art. R715-10-13 à R715-10-14)](#569)
-            - [Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier (art. R715-11-1 à R715-11-4)](#570)
-              - [Paragraphe 1 : Nature et objet de l'accord d'association (art. R715-11-1 à R715-11-3)](#571)
-              - [Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association (art. R715-11-4)](#572)
-        - [Chapitre 6 : Expérimentation et dispositions diverses (art. R716-3-1 à R716-9-1)](#573)
-          - [Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux (art. R716-3-1 à R716-3-65)](#574)
-            - [Sous-section 1 : Assistance publique - hôpitaux de Paris (art. R716-3-1 à R716-3-38)](#575)
-              - [Paragraphe 1 : Conseil d'administration (art. R716-3-2 à R716-3-9)](#576)
-              - [Paragraphe 2 : Le directeur général et le secrétaire général (art. R716-3-10 à R716-3-12)](#577)
-              - [Paragraphe 3 : Les instances représentatives centrales (art. R716-3-13 à R716-3-18)](#578)
-                - [A. - Commission médicale d'établissement (art. R716-3-13 à R716-3-14)](#579)
-                - [B. - Comité technique central d'établissement (art. R716-3-15 à R716-3-17)](#580)
-                - [C : Commission centrale du service de soins infirmiers (art. R716-3-18)](#581)
-              - [Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général (art. R716-3-19 à R716-3-30)](#582)
-                - [A. - Budget (art. R716-3-19)](#583)
-                - [B. - Direction (art. R716-3-20)](#584)
-                - [C. - Instances représentatives locales (art. R716-3-21 à R716-3-30)](#585)
-                  - [Commission de surveillance (art. R716-3-22 à R716-3-25)](#586)
-                  - [Comité consultatif médical (art. R716-3-26)](#587)
-                  - [Comité technique local d'établissement (art. R716-3-27 à R716-3-29)](#588)
-                  - [Commission locale du service de soins infirmiers (art. R716-3-30)](#589)
-              - [Paragraphe 5 : Contrôle financier (art. R716-3-31)](#590)
-              - [Paragraphe 6 : Marchés (art. R716-3-32)](#591)
-              - [Paragraphe 7 : Contrôle de l'Etat (art. R716-3-33 à R716-3-35)](#592)
-              - [Paragraphe 8 : Dispositions diverses (art. R716-3-36 à R716-3-38)](#593)
-            - [Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille (art. R716-3-39 à R716-3-56)](#594)
-              - [Paragraphe 1 : Conseil d'administration (art. R716-3-40 à R716-3-44)](#595)
-              - [Paragraphe 2 : Directeur général et secrétaire général (art. R716-3-45)](#596)
-              - [Paragraphe 3 : Instances représentatives centrales (art. R716-3-46 à R716-3-49)](#597)
-              - [Paragraphe 4 : Instances représentatives locales (art. R716-3-50 à R716-3-56)](#598)
-            - [Sous-section 3 : Etablissements publics nationaux (art. R716-3-57 à R716-3-65)](#599)
-          - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#600)
-          - [Section 5 : Dispositions diverses (art. R716-9-1)](#601)
-  - [Partie réglementaire ancienne - Décrets simples (art. D666-3-1 à D712-38)](#602)
-    - [Livre VI : Utilisation thérapeutique de produits d'origine humaine (art. D666-3-1 à D666-3-5)](#603)
-      - [Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. D666-3-1 à D666-3-5)](#604)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#605)
-      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#606)
-        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#607)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#608)
-          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#609)
-          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#610)
-        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-39)](#611)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#612)
-            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#613)
-            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#614)
-            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#615)
-            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#616)
-          - [Section 2 : Autorisations (art. D712-16)](#617)
-            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#618)
-          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-39)](#619)
-            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#620)
-              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#621)
-              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#622)
-        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. D712-13-2)](#623)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-13-2)](#624)
-            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2)](#625)
-        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#626)
-          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#627)
-            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#628)
-            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#629)
-            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#630)
-            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#631)
-          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#632)
-            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#633)
-            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#634)
-          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#635)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#636)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-38)](#637)
-      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#638)
-        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#639)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-38)](#640)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#641)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#642)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#643)
-        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#644)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#645)
-          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#646)
-        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#647)
-          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#648)
-            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#649)
-            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#650)
-  - [Annexes (art. Annexe II aux articles R668-1-1 à R668-21)](#651)
-    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. Annexe II aux articles R668-1-1 à R668-21)](#652)
-      - [Titre 2 : Du sang humain (art. Annexe II aux articles R668-1-1 à R668-21)](#653)
-        - [Chapitre 3 : Des établissements de transfusion sanguine (art. Annexe II aux articles R668-1-1 à R668-21)](#654)
-          - [Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public. (art. Annexe II aux articles R668-1-1 à R668-21)](#655)
+    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. R666-12-1 à R673-9-10)](#467)
+      - [Titre 2 : Du sang humain (art. R666-12-1 à R669-5)](#468)
+        - [Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. R666-12-1 à R666-12-26)](#469)
+          - [Section 1 : Hémovigilance (art. R666-12-1 à R666-12-26)](#470)
+            - [Sous-section 1 : Dispositions générales (art. R666-12-1 à R666-12-4)](#471)
+            - [Sous-section 2 : Modalités de distribution des produits sanguins labiles (art. R666-12-5 à R666-12-10)](#472)
+            - [Sous-section 3 : Rôle des établissements de transfusion sanguine distributeurs (art. R666-12-11 à R666-12-12)](#473)
+            - [Sous-section 4 : Rôle des établissements de santé (art. R666-12-13 à R666-12-19)](#474)
+            - [Sous-section 5 : Les coordonnateurs régionaux de l'hémovigilance (art. R666-12-20 à R666-12-23)](#475)
+            - [Sous-section 6 : Déclaration d'incident transfusionnel (art. R666-12-25 à R666-12-26)](#476)
+        - [Chapitre 2 : Organisation et fonctionnement de l'Agence française du sang (art. R667-1 à R667-44)](#477)
+          - [Section 1 : Dispositions générales (art. R667-1 à R667-2)](#478)
+          - [Section 2 : Organisation générale (art. R667-3 à R667-32)](#479)
+            - [Sous-section 1 : Le conseil d'administration (art. R667-3 à R667-12)](#480)
+            - [Sous-section 2 : Le président de l'Agence française du sang (art. R667-13 à R667-15)](#481)
+            - [Sous-section 3 : Le conseil scientifique (art. R667-16 à R667-20)](#482)
+            - [Sous-section 4 : Le comité d'orientation (art. R667-21 à R667-25)](#483)
+            - [Sous-section 5 : Le directeur de l'Agence française du sang (art. R667-26 à R667-27)](#484)
+            - [Sous-section 6 : Les inspecteurs et les missions d'inspection de l'Agence française du sang (art. R667-28 à R667-32)](#485)
+          - [Section 3 : Dispositions financières et comptables (art. R667-33 à R667-42)](#486)
+            - [Sous-section 1 : Dispositions générales (art. R667-33 à R667-36)](#487)
+            - [Sous-section 2 : La dotation globale de l'Agence française du sang (art. R667-37 à R667-40)](#488)
+            - [Sous-section 3 : Dispositions relatives au fonds d'orientation de la transfusion sanguine (art. R667-41 à R667-42)](#489)
+          - [Section 4 : Dispositions diverses (art. R667-43 à R667-44)](#490)
+        - [Chapitre 3 : Des établissements de transfusion sanguine (art. R668-1 à R668-5)](#491)
+          - [Section 1 : Des organismes agréés en qualité d'établissement de transfusion sanguine (art. R668-1 à R668-5)](#492)
+            - [Sous-section 1 : Des associations agréées en qualité d'établissement de transfusion sanguine (art. R668-1)](#493)
+            - [Sous-section 2 : Des groupements d'intérêt public agréés en qualité d'établissement de transfusion sanguine (art. R668-2 à R668-5)](#494)
+        - [Chapitre 4 : Des schémas d'organisation de la transfusion sanguine (art. R669-1 à R669-5)](#495)
+      - [Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. R666-12-17 à R666-12-24)](#496)
+        - [Section 1 : Hémovigilance (art. R666-12-17 à R666-12-24)](#497)
+          - [Sous-section 4 : Rôle des établissements de santé (art. R666-12-17)](#498)
+          - [Sous-section 6 : Déclaration d'incident transfusionnel (art. R666-12-24)](#499)
+      - [Titre 3 : Des organes, tissus, cellules et produits du corps humain (art. R673-8-1 à R673-9-10)](#500)
+        - [Chapitre 2 bis : De l'Etablissement français des greffes (art. R673-8-1 à R673-9-10)](#501)
+          - [Section 1 : Dispositions générales (art. R673-8-1 à R673-8-3)](#502)
+          - [Section 2 : Organisation de l'établissement (art. R673-8-4 à R673-9-10)](#503)
+            - [Sous-section 1 : Le conseil d'administration (art. R673-8-4 à R673-8-13)](#504)
+            - [Sous-section 2 : Le directeur général de l'Etablissement français des greffes (art. R673-8-14 à R673-8-16)](#505)
+            - [Sous-section 3 : Le conseil médical et scientifique (art. R673-8-17 à R673-8-20)](#506)
+            - [Sous-section 4 : Dispositions financières et comptables (art. R673-9-1 à R673-9-10)](#507)
+    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R710-2-1 à R716-9-1)](#508)
+      - [Titre 1 : Etablissements de santé (art. R710-2-1 à R716-9-1)](#509)
+        - [Chapitre 1 A : Principes fondamentaux (art. R710-2-1 à R710-5-11)](#510)
+          - [Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés (art. R710-2-1 à R710-2-10)](#511)
+          - [Section 2 : De l'analyse de l'activité des établissements de santé (art. R710-5-1 à R710-5-11)](#512)
+        - [Chapitre 1 : Missions et obligations des établissements de santé (art. R711-6-1 à R711-15)](#513)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. R711-6-1 à R711-6-21)](#514)
+            - [Sous-section 1 : Catégories d'établissements publics de santé (art. R711-6-1 à R711-6-3)](#515)
+            - [Sous-section 2 : Fonctionnement médical des hôpitaux locaux (art. R711-6-4 à R711-6-21)](#516)
+          - [Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé (art. R711-7 à R711-15)](#517)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. R712-1 à R712-59)](#518)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. R712-1 à R712-36)](#519)
+            - [Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire. (art. R712-1 à R712-13)](#520)
+            - [Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale (art. R712-14 à R712-21)](#521)
+            - [Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale (art. R712-22 à R712-29)](#522)
+            - [Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale (art. R712-30 à R712-36)](#523)
+          - [Section 2 : Autorisations (art. R712-37 à R712-51)](#524)
+          - [Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie (art. R712-52 à R712-59)](#525)
+        - [Chapitre 3 : Les actions de coopération (art. R713-1 à R713-15)](#526)
+          - [Section 1 : Les conférences sanitaires de secteur (art. R713-1 à R713-15)](#527)
+        - [Chapitre 4 : Les établissements publics de santé (art. R714-1-1 à R714-28-4)](#528)
+          - [Section 1 : Organisation administrative et financière (art. R714-1-1 à R714-4-5)](#529)
+            - [Sous-section 1 : Création, transformation et suppression des établissements publics de sante (art. R714-1-1 à R714-1-3)](#530)
+            - [Sous-section 2 : Composition et fonctionnement du conseil d'administration (art. R714-2-1 à R714-2-24)](#531)
+            - [Sous-section 3 : Budget et comptabilité des établissements publics de santé (art. R714-3-1 à R714-3-53)](#532)
+              - [Paragraphe 1 : Dispositions générales (art. R714-3-1 à R714-3-6)](#533)
+              - [Paragraphe 2 : Présentation et vote du budget (art. R714-3-7 à R714-3-18)](#534)
+              - [Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale (art. R714-3-19 à R714-3-26)](#535)
+              - [Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget (art. R714-3-27 à R714-3-40)](#536)
+              - [Paragraphe 5 : Du directeur, ordonnateur du budget (art. R714-3-41 à R714-3-45)](#537)
+              - [Paragraphe 6 : Clôture de l'exercice et affectation des résultats (art. R714-3-46 à R714-3-50)](#538)
+              - [Paragraphe 7 : Du comptable (art. R714-3-51 à R714-3-53)](#539)
+            - [Sous-section 4 : Programmes d'investissement (art. R714-4-1 à R714-4-5)](#540)
+          - [Section 2 : Organes représentatifs (art. R714-16-1 à R714-18-15)](#541)
+            - [Sous-section 1 : Commissions médicales d'établissement (art. R714-16-1 à R714-16-34)](#542)
+              - [Paragraphe 1 : Composition de commissions médicales d'établissement (art. R714-16-1 à R714-16-13)](#543)
+                - [I : Centres hospitaliers autres que les centres hospitaliers universitaires (art. R714-16-1 à R714-16-5)](#544)
+                - [II : Centres hospitaliers universitaires (art. R714-16-6 à R714-16-10)](#545)
+                - [III : Hôpitaux locaux (art. R714-16-11)](#546)
+                - [IV : Syndicats interhospitaliers (art. R714-16-12 à R714-16-13)](#547)
+              - [Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement (art. R714-16-14 à R714-16-28)](#548)
+              - [Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux (art. R714-16-29 à R714-16-34)](#549)
+            - [Sous-section 2 : Comités techniques d'établissement (art. R714-17-1 à R714-18-15)](#550)
+              - [Paragraphe 1 : Composition des comités techniques d'établissement (art. R714-17-1 à R714-17-24)](#551)
+              - [Paragraphe 2 : Attributions des comités techniques d'établissement (art. R714-18-1)](#552)
+              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement (art. R714-18-2 à R714-18-14)](#553)
+              - [Paragraphe 3 : Dispositions diverses (art. R714-18-15)](#554)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. R714-21-1 à R714-26-11)](#555)
+            - [Sous-section 1 : Des chefs de service ou de département (art. R714-21-1 à R714-21-25)](#556)
+              - [Paragraphe 1 : Dispositions générales (art. R714-21-1 à R714-21-2)](#557)
+              - [Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires (art. R714-21-3 à R714-21-5)](#558)
+              - [Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires (art. R714-21-6)](#559)
+              - [Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958 (art. R714-21-7 à R714-21-19)](#560)
+                - [I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein (art. R714-21-8 à R714-21-11)](#561)
+                - [II. - Nomination aux fonctions de chef de service ou de département à temps partiel (art. R714-21-12 à R714-21-13)](#562)
+                - [III (art. R714-21-14 à R714-21-17)](#563)
+                  - [- Dispositions propres aux fonctions de chef de service ou de département de psychiatrie (art. R714-21-14 à R714-21-17)](#564)
+                - [IV (art. R714-21-18)](#565)
+                  - [- Dispositions particulières aux pharmacies hospitalières (art. R714-21-18)](#566)
+                - [V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre (art. R714-21-19)](#567)
+              - [Paragraphe 5 : Dispositions communes (art. R714-21-20 à R714-21-25)](#568)
+            - [Sous-section 2 : Conseil de service ou de département (art. R714-22-1 à R714-22-11)](#569)
+            - [Sous-section 3 : Des responsables d'unité fonctionnelle (art. R714-24-1 à R714-24-2)](#570)
+            - [Sous-section 4 : Service de soins infirmiers (art. R714-26-1 à R714-26-11)](#571)
+          - [Section 4 : Les personnels des établissements publics de santé (art. R714-28-1 à R714-28-4)](#572)
+        - [Chapitre 5 : Les établissements de santé privés (art. R715-7-1 à R715-11-4)](#573)
+          - [Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement (art. R715-7-1 à R715-11-4)](#574)
+            - [Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier (art. R715-7-1 à R715-7-6)](#575)
+            - [Sous-section 4 : De la concession du service public hospitalier (art. R715-10-1 à R715-10-14)](#576)
+              - [Paragraphe 1 : Objet, contenu et durée du contrat de concession (art. R715-10-1 à R715-10-3)](#577)
+              - [Paragraphe 2 : Procédure (art. R715-10-4 à R715-10-9)](#578)
+              - [Paragraphe 3 : Renouvellement et prorogation du contrat de concession (art. R715-10-10)](#579)
+              - [Paragraphe 4 : Contrôle (art. R715-10-11 à R715-10-12)](#580)
+              - [Paragraphe 5 : Mesures diverses (art. R715-10-13 à R715-10-14)](#581)
+            - [Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier (art. R715-11-1 à R715-11-4)](#582)
+              - [Paragraphe 1 : Nature et objet de l'accord d'association (art. R715-11-1 à R715-11-3)](#583)
+              - [Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association (art. R715-11-4)](#584)
+        - [Chapitre 6 : Expérimentation et dispositions diverses (art. R716-3-1 à R716-9-1)](#585)
+          - [Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux (art. R716-3-1 à R716-3-65)](#586)
+            - [Sous-section 1 : Assistance publique - hôpitaux de Paris (art. R716-3-1 à R716-3-38)](#587)
+              - [Paragraphe 1 : Conseil d'administration (art. R716-3-2 à R716-3-9)](#588)
+              - [Paragraphe 2 : Le directeur général et le secrétaire général (art. R716-3-10 à R716-3-12)](#589)
+              - [Paragraphe 3 : Les instances représentatives centrales (art. R716-3-13 à R716-3-18)](#590)
+                - [A. - Commission médicale d'établissement (art. R716-3-13 à R716-3-14)](#591)
+                - [B. - Comité technique central d'établissement (art. R716-3-15 à R716-3-17)](#592)
+                - [C : Commission centrale du service de soins infirmiers (art. R716-3-18)](#593)
+              - [Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général (art. R716-3-19 à R716-3-30)](#594)
+                - [A. - Budget (art. R716-3-19)](#595)
+                - [B. - Direction (art. R716-3-20)](#596)
+                - [C. - Instances représentatives locales (art. R716-3-21 à R716-3-30)](#597)
+                  - [Commission de surveillance (art. R716-3-22 à R716-3-25)](#598)
+                  - [Comité consultatif médical (art. R716-3-26)](#599)
+                  - [Comité technique local d'établissement (art. R716-3-27 à R716-3-29)](#600)
+                  - [Commission locale du service de soins infirmiers (art. R716-3-30)](#601)
+              - [Paragraphe 5 : Contrôle financier (art. R716-3-31)](#602)
+              - [Paragraphe 6 : Marchés (art. R716-3-32)](#603)
+              - [Paragraphe 7 : Contrôle de l'Etat (art. R716-3-33 à R716-3-35)](#604)
+              - [Paragraphe 8 : Dispositions diverses (art. R716-3-36 à R716-3-38)](#605)
+            - [Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille (art. R716-3-39 à R716-3-56)](#606)
+              - [Paragraphe 1 : Conseil d'administration (art. R716-3-40 à R716-3-44)](#607)
+              - [Paragraphe 2 : Directeur général et secrétaire général (art. R716-3-45)](#608)
+              - [Paragraphe 3 : Instances représentatives centrales (art. R716-3-46 à R716-3-49)](#609)
+              - [Paragraphe 4 : Instances représentatives locales (art. R716-3-50 à R716-3-56)](#610)
+            - [Sous-section 3 : Etablissements publics nationaux (art. R716-3-57 à R716-3-65)](#611)
+          - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#612)
+          - [Section 5 : Dispositions diverses (art. R716-9-1)](#613)
+  - [Partie réglementaire ancienne - Décrets simples (art. D666-3-1 à D712-38)](#614)
+    - [Livre VI : Utilisation thérapeutique de produits d'origine humaine (art. D666-3-1 à D666-3-5)](#615)
+      - [Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. D666-3-1 à D666-3-5)](#616)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#617)
+      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#618)
+        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#619)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#620)
+          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#621)
+          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#622)
+        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-39)](#623)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#624)
+            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#625)
+            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#626)
+            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#627)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#628)
+          - [Section 2 : Autorisations (art. D712-16)](#629)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#630)
+          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-39)](#631)
+            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#632)
+              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#633)
+              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#634)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. D712-13-2)](#635)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-13-2)](#636)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2)](#637)
+        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#638)
+          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#639)
+            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#640)
+            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#641)
+            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#642)
+            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#643)
+          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#644)
+            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#645)
+            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#646)
+          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#647)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#648)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-38)](#649)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#650)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#651)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-38)](#652)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#653)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#654)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#655)
+        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#656)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#657)
+          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#658)
+        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#659)
+          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#660)
+            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#661)
+            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#662)
+  - [Annexes (art. Annexe II aux articles R668-1-1 à R668-21)](#663)
+    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. Annexe II aux articles R668-1-1 à R668-21)](#664)
+      - [Titre 2 : Du sang humain (art. Annexe II aux articles R668-1-1 à R668-21)](#665)
+        - [Chapitre 3 : Des établissements de transfusion sanguine (art. Annexe II aux articles R668-1-1 à R668-21)](#666)
+          - [Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public. (art. Annexe II aux articles R668-1-1 à R668-21)](#667)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -81994,24 +82006,26 @@ _Cite_:
   - Code de la santé publique - art. R5274 (Ab)
 
 
-## Livre 6 : Utilisation thérapeutique de produits d'origine humaine<a id=467></a>
+## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=467></a>
 
-### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=468></a>
+### Titre 2 : Du sang humain<a id=468></a>
 
-#### Section 1 : Hémovigilance<a id=469></a>
+#### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=469></a>
 
-##### Sous-section 1 : Dispositions générales<a id=470></a>
+##### Section 1 : Hémovigilance<a id=470></a>
+
+##### Sous-section 1 : Dispositions générales<a id=471></a>
 
 ###### Article R666-12-1
 
-L'hémovigilance [*définition*] est un élément de la sécurité transfusionnelle. Elle comporte, pour toute unité préparée d'un
-produit sanguin labile :
+L'hémovigilance    est un élément de la sécurité transfusionnelle. Elle comporte, pour toute unité préparée d'un produit
+sanguin labile : 
 
 a) Le signalement de tout effet inattendu ou indésirable lié ou susceptible d'être lié à l'usage thérapeutique de ce
-produit ;
+produit ; 
 
 b) Le recueil, la conservation et l'accessibilité des informations relatives à son prélèvement, à sa préparation, à son
-utilisation ainsi qu'aux effets mentionnés au a ci-dessus ;
+utilisation ainsi qu'aux effets mentionnés au a ci-dessus ; 
 
 c) L'évaluation et l'exploitation de ces informations en vue de prévenir la survenance de tout effet inattendu ou indésirable
 résultant de l'utilisation thérapeutique des produits sanguins labiles.
@@ -82023,9 +82037,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 _Nouveaux textes_:
 
@@ -82057,9 +82075,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -82088,16 +82106,14 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R1221-18 (V)
 
-
-##### Sous-section 2 : Dispositions générales<a id=471></a>
 
 ###### Article R666-12-4
 
@@ -82111,9 +82127,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -82137,9 +82153,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cité par_:
 
@@ -82167,9 +82183,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-150 du 4 mars 1999 - art. 3 () JORF 5 mars 1999 en vigueur au plus tard le 31 décembre 1999
 
 _Cité par_:
 
@@ -82189,9 +82209,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cité par_:
 
@@ -82222,9 +82242,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cité par_:
 
@@ -82251,9 +82271,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cité par_:
 
@@ -82281,9 +82301,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-150 du 4 mars 1999 - art. 6 () JORF 5 mars 1999
 
 _Cite_:
 
@@ -82334,9 +82358,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cité par_:
 
@@ -82381,9 +82405,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -82417,7 +82441,7 @@ distinct de l'établissement de transfusion distributeur ;
 c) Les circonstances du transport et de la conservation de l'unité ainsi que l'identification du prescripteur et celle de la
 personne responsable de l'administration du produit sanguin ;
 
-d) L'identification du patient auquel a été administré l'unité et les circonstances de cette administration, ou, le cas
+d) L'identification du patient auquel a été administrée l'unité et les circonstances de cette administration, ou, le cas
 échéant, la date à laquelle l'unité a été détruite ou restituée à l'établissement de transfusion sanguine distributeur ;
 
 e) Le cas échéant, l'identification de l'établissement de santé auquel a été cédée l'unité ainsi que la date et les
@@ -82450,9 +82474,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cité par_:
 
@@ -82503,9 +82527,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 **Liens**:
 
@@ -82546,18 +82570,23 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
-
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
-
 _Cité par_:
 
   - Arrêté du 24 février 1994 - art. 1 (V)
   - Code de la santé publique - art. R713-2-22 (Ab)
 
+_Modifié par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R1221-31 (Ab)
+  - Code de la santé publique - art. R1221-31 (M)
 
 
 ###### Article R666-12-16
@@ -82594,44 +82623,23 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R1221-32 (M)
   - Code de la santé publique - art. R1221-32 (V)
 
 _Cite_:
 
   - Code de la santé publique - art. R666-12-24 (M)
   - Code de la santé publique - art. R710-2-1 (M)
-
-
-###### Article R666-12-17
-
-Le comité de sécurité transfusionnelle et d'hémovigilance d'établissement se réunit au moins trois fois par an.
-
-Le coordonnateur régional, s'il le souhaite, assiste de droit aux séances du comité et peut y être entendu.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (décret de codification)
-  - Loi n°58-356 1958-04-03 (loi de validation)
-
-_Créé par_:
-
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R1221-33 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5144-24 (Ab)
 
 
 ###### Article R666-12-18
@@ -82647,9 +82655,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -82669,9 +82677,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -82707,9 +82715,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -82753,9 +82761,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -82783,9 +82791,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -82806,9 +82814,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -82816,44 +82824,6 @@ _Nouveaux textes_:
 
 
 ##### Sous-section 6 : Déclaration d'incident transfusionnel<a id=476></a>
-
-###### Article R666-12-24
-
-Tout médecin, pharmacien, chirurgien-dentiste, sage-femme, infirmière ou infirmier qui a connaissance de l'administration
-d'un produit sanguin labile à un de ses patients et qui constate un effet inattendu ou indésirable dû, ou susceptible d'être
-dû à ce produit, [*obligation*] doit le signaler sans délai au correspondant d'hémovigilance de l'établissement dans lequel a
-été administré le produit. A défaut, il le signale à tout correspondant d'hémovigilance d'un établissement de transfusion
-sanguine ou de santé, qui transmet cette information au correspondant d'hémovigilance compétent.
-
-Le correspondant d'hémovigilance de l'établissement dans lequel a eu lieu l'administration du produit en cause procède aux
-investigations et examens appropriés dans le service concerné. Il informe le correspondant de l'établissement de transfusion
-sanguine distributeur et rédige, en concertation avec lui, une fiche d'incident transfusionnel dont copie est versée au
-dossier médical du patient.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (décret de codification)
-  - Loi n°58-356 1958-04-03 (loi de validation)
-
-_Créé par_:
-
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R1221-40 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R666-12-12 (Ab)
-  - Code de la santé publique - art. R666-12-14 (Ab)
-  - Code de la santé publique - art. R666-12-16 (Ab)
-  - Code de la santé publique - art. R710-2-1 (M)
-  - Code de la santé publique - art. R710-2-2 (Ab)
-  - Code de la santé publique - art. R721-1 (Ab)
-
 
 ###### Article R666-12-25
 
@@ -82867,9 +82837,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -82893,9 +82863,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -82906,9 +82876,9 @@ _Cité par_:
   - Code de la santé publique - art. R666-12-2 (Ab)
 
 
-### Chapitre 2 : Organisation et fonctionnement de l'Agence française du sang<a id=477></a>
+#### Chapitre 2 : Organisation et fonctionnement de l'Agence française du sang<a id=477></a>
 
-#### Section 1 : Dispositions générales<a id=478></a>
+##### Section 1 : Dispositions générales<a id=478></a>
 
 ###### Article R667-1
 
@@ -82931,9 +82901,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cité par_:
 
@@ -82955,7 +82926,7 @@ Pour l'exercice des missions définies à l'article L. 667-5, l'agence peut nota
 1° Acquérir les biens meubles ou immeubles nécessaires ;
 
 2° Attribuer, sur son budget propre, des subventions, prêts ou avances à des personnes publiques ou privées qui réalisent des
-études, recherches, travaux ou équipements concourant à l'accomplissement de ses missions.
+études, recherches, travaux ou équipements concourant à l'accomplissement de ses missions ;
 
 3° Coopérer, en particulier par la voie de conventions ou de participations à des groupements d'intérêt public ou des
 groupements d'intérêt économique, avec toute personne publique ou privée, française ou étrangère, et notamment avec les
@@ -82982,10 +82953,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 2
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cite_:
 
@@ -83000,7 +82971,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-#### Section 2 : Organisation générale<a id=479></a>
+##### Section 2 : Organisation générale<a id=479></a>
 
 ##### Sous-section 1 : Le conseil d'administration<a id=480></a>
 
@@ -83073,10 +83044,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 3
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 2 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -83116,10 +83087,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 4
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cite_:
 
@@ -83160,10 +83131,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 5
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -83203,9 +83174,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 6
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -83244,9 +83216,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 7
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -83283,9 +83256,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 8
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -83364,10 +83338,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 9
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -83412,10 +83386,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 10
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -83453,9 +83427,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 11
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -83518,10 +83493,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 12
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cite_:
 
@@ -83569,9 +83544,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 13
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -83617,10 +83593,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 14
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Nouveaux textes_:
 
@@ -83664,10 +83640,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 15
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cite_:
 
@@ -83726,10 +83702,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cite_:
 
@@ -83766,9 +83742,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 17
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -83796,9 +83777,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 18
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -83829,9 +83815,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 19
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -83859,9 +83850,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 20
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -83909,9 +83905,9 @@ président ;
 6° Deux membres nommés sur proposition de la Fédération française des donneurs de sang bénévoles ;
 
 7° Cinq membres représentant les personnels des établissements de transfusion sanguine nommés respectivement sur proposition
-de chacune des organisations syndicales suivantes : Confédération française démocratique du travail (C.F.D.T.), Confédération
-française des travailleurs chrétiens (C.F.T.C.), Confédération française de l'encadrement (C.F.E.-C.G.C.), Confédération
-générale du travail (C.G.T.) et Confédération générale du travail Force ouvrière (C.G.T.-F.O.) ;
+de chacune des organisations syndicales suivantes : Confédération française démocratique du travail (CFDT), Confédération
+française des travailleurs chrétiens (CFTC), Confédération française de l'encadrement (CFE-CGC), Confédération générale du
+travail (CGT) et Confédération générale du travail Force ouvrière (CGT-FO) ;
 
 D. - Douze membres nommés par le conseil d'administration de l'agence, pour trois ans, sur proposition du président de
 l'agence :
@@ -83946,10 +83942,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 21
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -83980,9 +83980,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84009,9 +84014,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 23
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84043,9 +84053,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 24
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84080,9 +84095,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 25
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84116,10 +84136,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 26
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 _Cite_:
 
@@ -84153,10 +84177,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 27
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 _Cite_:
 
@@ -84201,10 +84229,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 28
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 _Cite_:
 
@@ -84240,9 +84268,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 29
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84278,9 +84311,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 30
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84312,9 +84350,10 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 31
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 **Liens**:
 
@@ -84348,16 +84387,21 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 32
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
   - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-#### Section 3 : Dispositions financières et comptables<a id=486></a>
+##### Section 3 : Dispositions financières et comptables<a id=486></a>
 
 ##### Sous-section 1 : Dispositions générales<a id=487></a>
 
@@ -84388,10 +84432,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 33
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84418,9 +84466,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 34
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84452,9 +84505,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 35
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84487,10 +84545,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 36
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84524,10 +84586,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 37
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 _Cite_:
 
@@ -84560,9 +84626,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 38
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84591,9 +84662,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 39
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84621,9 +84697,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 40
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84659,9 +84740,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 41
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84691,10 +84777,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 42
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84705,7 +84795,7 @@ _Cite_:
   - Code de la santé publique - art. R667-9 (M)
 
 
-#### Section 4 : Dispositions diverses<a id=490></a>
+##### Section 4 : Dispositions diverses<a id=490></a>
 
 ###### Article R667-43
 
@@ -84738,9 +84828,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 43
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84762,10 +84857,14 @@ _Anciens textes_:
 
   - Décret n°93-312 1993-03-09 art. 44
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 **Liens**:
 
@@ -84815,9 +84914,9 @@ _Créé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R667-9 (Ab)
 
 
-### Chapitre 3 : Des établissements de transfusion sanguine<a id=491></a>
+#### Chapitre 3 : Des établissements de transfusion sanguine<a id=491></a>
 
-#### Section 1 : Des organismes agréés en qualité d'établissement de transfusion sanguine<a id=492></a>
+##### Section 1 : Des organismes agréés en qualité d'établissement de transfusion sanguine<a id=492></a>
 
 ##### Sous-section 1 : Des associations agréées en qualité d'établissement de transfusion sanguine<a id=493></a>
 
@@ -84834,9 +84933,14 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 4 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Transféré par_:
+
+  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
 _Cite_:
 
@@ -84868,9 +84972,14 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 4 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Transféré par_:
+
+  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
 _Cité par_:
 
@@ -84905,9 +85014,14 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 4 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Transféré par_:
+
+  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
 _Cite_:
 
@@ -84945,9 +85059,14 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 4 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Transféré par_:
+
+  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
 _Cité par_:
 
@@ -84970,16 +85089,21 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-365 du 10 mai 1994 - art. 4 () JORF 12 mai 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Transféré par_:
+
+  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R668-1-5 (M)
 
 
-### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine<a id=495></a>
+#### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine<a id=495></a>
 
 ###### Article R669-1
 
@@ -85006,9 +85130,14 @@ _Cite_:
 
   - Décret n°60-516 1960-06-02 annexe I
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 _Nouveaux textes_:
 
@@ -85034,9 +85163,14 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 _Nouveaux textes_:
 
@@ -85063,9 +85197,14 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 _Cite_:
 
@@ -85096,9 +85235,14 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 _Nouveaux textes_:
 
@@ -85126,9 +85270,14 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 _Cite_:
 
@@ -85139,13 +85288,1191 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1224-4 (Ab)
 
 
-## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires<a id=496></a>
+### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=496></a>
 
-### Titre 1 : Etablissements de santé<a id=497></a>
+#### Section 1 : Hémovigilance<a id=497></a>
 
-#### Chapitre 1 A : Principes fondamentaux<a id=498></a>
+##### Sous-section 4 : Rôle des établissements de santé<a id=498></a>
 
-##### Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés<a id=499></a>
+###### Article R666-12-17
+
+Le comité de sécurité transfusionnelle et d'hémovigilance d'établissement se réunit au moins trois fois par an.
+
+Le coordonnateur régional, s'il le souhaite, assiste de droit aux séances du comité et peut y être entendu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1221-33 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5144-24 (Ab)
+
+
+##### Sous-section 6 : Déclaration d'incident transfusionnel<a id=499></a>
+
+###### Article R666-12-24
+
+Tout médecin, pharmacien, chirurgien-dentiste, sage-femme, infirmière ou infirmier qui a connaissance de l'administration
+d'un produit sanguin labile à un de ses patients et qui constate un effet inattendu ou indésirable dû, ou susceptible d'être
+dû à ce produit, [*obligation*] doit le signaler sans délai au correspondant d'hémovigilance de l'établissement dans lequel a
+été administré le produit. A défaut, il le signale à tout correspondant d'hémovigilance d'un établissement de transfusion
+sanguine ou de santé, qui transmet cette information au correspondant d'hémovigilance compétent.
+
+Le correspondant d'hémovigilance de l'établissement dans lequel a eu lieu l'administration du produit en cause procède aux
+investigations et examens appropriés dans le service concerné. Il informe le correspondant de l'établissement de transfusion
+sanguine distributeur et rédige, en concertation avec lui, une fiche d'incident transfusionnel dont copie est versée au
+dossier médical du patient.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1221-40 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R666-12-12 (Ab)
+  - Code de la santé publique - art. R666-12-14 (Ab)
+  - Code de la santé publique - art. R666-12-16 (Ab)
+  - Code de la santé publique - art. R710-2-1 (M)
+  - Code de la santé publique - art. R710-2-2 (Ab)
+  - Code de la santé publique - art. R721-1 (Ab)
+
+
+### Titre 3 : Des organes, tissus, cellules et produits du corps humain<a id=500></a>
+
+#### Chapitre 2 bis : De l'Etablissement français des greffes<a id=501></a>
+
+##### Section 1 : Dispositions générales<a id=502></a>
+
+###### Article R673-8-1
+
+Au titre des missions qui lui sont dévolues par les dispositions de l'article L. 673-8, l'Etablissement français des greffes
+est chargé [*attributions*] :
+
+1° En vue d'une bonne application des règles relatives à la gestion de la liste nationale des patients, à la répartition et à
+l'attribution des greffons :
+
+a) De coordonner les activités de prélèvement et de greffe d'organes, de moelle osseuse, de tissus dont la cornée et de
+cellules issues du corps humain, à l'exclusion de celles qui relèvent du chapitre Ier du titre II du livre VI, y compris les
+échanges internationaux dont les greffons font l'objet, et de définir les modalités et l'organisation territoriale de cette
+coordination ;
+
+b) De recueillir les informations nécessaires à l'évaluation des activités de prélèvement et de greffe et à l'analyse des
+résultats obtenus par type de greffe et par équipe ;
+
+c) De gérer un fichier national de donneurs volontaires non apparentés de moelle osseuse et de définir les conditions
+d'interrogation des fichiers européens et internationaux ;
+
+2° De promouvoir la qualité de l'appariement immunologique ;
+
+3° De donner un avis à l'autorité administrative compétente préalablement à la délivrance à des établissements de santé de
+l'autorisation de pratiquer des prélèvements ;
+
+4° De donner un avis au ministre des affaires étrangères sur les demandes de visa pour motif sanitaire présentées par des
+patients non résidents lorsque ces demandes sont faites en vue d'opérations de prélèvement ou de greffe ;
+
+5° De promouvoir et de favoriser l'innovation scientifique ; de participer à l'enseignement et à la recherche dans le domaine
+des greffes ;
+
+6° De proposer toutes mesures permettant d'assurer la meilleure sécurité possible dans les activités de greffe.
+
+A la demande du ministre chargé de la santé, l'établissement participe, dans les domaines relevant de sa compétence, à
+l'élaboration et à la mise en oeuvre des règles communautaires et des accords internationaux, ainsi qu'à la représentation de
+la France dans toute instance internationale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Cite_:
+
+  - Code de la santé publique - art. L673-8 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1251-1 (Ab)
+
+
+###### Article R673-8-2
+
+Pour l'exercice de ses missions, l'Etablissement français des greffes peut notamment :
+
+1° Acquérir les biens meubles ou immeubles nécessaires ;
+
+2° Attribuer sur son budget propre des subventions, prêts ou avances à des personnes publiques ou privées qui réalisent des
+études, recherches, travaux ou équipements concourant à l'accomplissement de ses missions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-25 (Ab)
+
+
+###### Article R673-8-3
+
+Dans les domaines relevant de sa compétence, l'Etablissement français des greffes communique toute information et réalise
+toute étude qui lui sont demandées par le ministre chargé de la santé.
+
+Il signale au ministre chargé de la santé tout manquement aux règles applicables en matière de prélèvement, de conservation,
+de transformation, de transport, de répartition et d'attribution des greffons et lui propose les mesures qu'il juge utiles
+pour y remédier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1251-2 (Ab)
+
+
+##### Section 2 : Organisation de l'établissement<a id=503></a>
+
+##### Sous-section 1 : Le conseil d'administration<a id=504></a>
+
+###### Article R673-8-4
+
+L'Etablissement français des greffes est administré par un conseil d'administration qui comprend, outre son président, vingt-
+sept membres nommés pour une durée de trois ans, à savoir [*composition*] :
+
+1° Le directeur général de la santé ou son représentant ;
+
+2° Le directeur des hôpitaux ou son représentant ;
+
+3° Le directeur de l'administration générale, du personnel et du budget au ministère chargé de la santé ou son représentant ;
+
+4° Le directeur de la sécurité sociale au ministère chargé de la sécurité sociale ou son représentant ;
+
+5° Le directeur des Français à l'étranger et des étrangers en France au ministère des affaires étrangères ou son
+représentant ;
+
+6° Le directeur du budget au ministère chargé du budget ou son représentant ;
+
+7° Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ;
+
+8° Le directeur général de la recherche et de la technologie au ministère chargé de la recherche ou son représentant ;
+
+9° Le directeur général des enseignements supérieurs au ministère chargé de l'enseignement supérieur ou son représentant ;
+
+10° Le président de l'Agence française du sang ou son représentant ;
+
+11° Le directeur général de l'Institut national de la santé et de la recherche médicale ou son représentant ;
+
+12° Un directeur régional ou départemental des affaires sanitaires et sociales ;
+
+13° Un médecin inspecteur régional ou départemental de la santé ;
+
+14° Un représentant de la Caisse nationale d'assurance maladie des travailleurs salariés, désigné par le conseil
+d'administration de la caisse ;
+
+15° Un représentant des associations pour la promotion du don en vue des greffes ;
+
+16° Cinq praticiens qualifiés dans le domaine des greffes, de l'immunologie, de l'anesthésie-réanimation et de la
+conservation des greffons ;
+
+17° Un représentant du personnel de l'Etablissement français des greffes, élu selon des modalités définies par le règlement
+intérieur de l'établissement ;
+
+18° Un infirmier relevant de la fonction publique hospitalière et exerçant une activité de coordination locale dans le
+domaine des prélèvements et greffes ;
+
+19° Une personnalité désignée par le Comité consultatif national d'éthique pour les sciences de la vie et de la santé ;
+
+20° Un représentant de la Fédération hospitalière de France ;
+
+21° Un représentant des organisations d'hospitalisation privée ;
+
+22° Un représentant désigné par la conférence des présidents de commission médicale d'établissement de centre hospitalier et
+universitaire n'exerçant pas d'activité dans le domaine des greffes ;
+
+23° Un représentant des associations de malades greffés ou en attente de greffe.
+
+Les membres du conseil d'administration mentionnés aux 15°, 21° et 23° sont proposés conjointement par les organisations
+concernées. En cas de désaccord, chacune de ces organisations propose un nom au ministre chargé de la santé ; le ministre
+procède alors à la désignation des membres parmi les personnes ainsi proposées.
+
+Les membres mentionnés aux 12°, 13°, 16° et 18° sont désignés par le ministre chargé de la santé.
+
+Pour les membres mentionnés du 12° au 23°, il est procédé dans les mêmes conditions que pour les titulaires à la nomination
+d'autant de membres suppléants. Ces derniers ne siègent au conseil d'administration qu'en cas d'absence du titulaire.
+
+Un arrêté du ministre chargé de la santé fixe la composition nominative du conseil d'administration.
+
+Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions au titre desquelles ils avaient été désignés
+doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin
+celui de leur prédécesseur.
+
+Le directeur général de l'Etablissement français des greffes, le contrôleur financier, l'agent comptable et le président du
+comité médical et scientifique assistent aux séances du conseil d'administration avec voix consultative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-1 (Ab)
+
+
+###### Article R673-8-5
+
+Le président du conseil d'administration est nommé, par décret, pour une durée de trois ans, sur proposition du ministre
+chargé de la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-2 (Ab)
+
+
+###### Article R673-8-6
+
+Les fonctions de membre du conseil d'administration sont exercées à titre gratuit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-3 (Ab)
+
+
+###### Article R673-8-7
+
+Le conseil d'administration se réunit au moins trois fois par an sur convocation de son président. La convocation est de
+droit si le ministre chargé de la santé le demande.
+
+Le président fixe l'ordre du jour.
+
+Les questions dont le ministre chargé de la santé ou le tiers des membres du conseil d'administration demandent l'inscription
+à l'ordre du jour sont inscrites de droit et examinées dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-4 (Ab)
+
+
+###### Article R673-8-8
+
+Les séances ne sont pas publiques.
+
+Le conseil d'administration peut entendre toute personne dont il estime l'audition utile à son information.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-5 (Ab)
+
+
+###### Article R673-8-9
+
+Le conseil d'administration ne peut délibérer valablement que si la moitié au moins de ses membres ayant voix délibérative
+sont présents. Si le quorum n'est pas atteint, le conseil est convoqué dans les quinze jours ; il délibère alors valablement
+quel que soit le nombre d'administrateurs présents.
+
+Le vote au scrutin secret est de droit sur demande d'un membre présent.
+
+Les décisions sont prises à la majorité des membres présents. La voix du président est prépondérante en cas de partage égal
+des voix.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-6 (Ab)
+
+
+###### Article R673-8-10
+
+Le conseil d'administration définit les orientations générales des activités de l'Etablissement français des greffes. Il
+délibère sur les matières suivantes :
+
+1° L'organisation générale de l'établissement et le règlement intérieur ;
+
+2° L'organisation fonctionnelle et territoriale de la coordination en matière de prélèvements et de greffes ;
+
+3° Le budget de l'établissement, les décisions modificatives et le compte financier ;
+
+4° Le tableau des emplois de l'établissement ;
+
+5° Les contrats et les marchés d'un montant supérieur à un seuil qu'il détermine ;
+
+6° Les emprunts ;
+
+7° Les acquisitions, aliénations et échanges d'immeubles, les baux et locations les concernant ;
+
+8° L'acceptation et le refus des dons et legs ;
+
+9° L'exercice des actions en justice et les transactions ;
+
+10° Les participations de l'établissement à des groupements d'intérêt public, à des groupements d'intérêt économique ou à
+tous autres organismes, quelle que soit leur nature juridique ;
+
+11° Les conventions comportant des engagements de longue durée pour l'établissement ;
+
+12° Les décisions relatives à la mise en oeuvre de traitements automatisés d'informations nominatives ;
+
+13° Le rapport annuel d'activité.
+
+Le conseil d'administration prend connaissance des avis, des recommandations et du rapport du conseil médical et
+scientifique, mentionnés à l'article R. 673-8-17.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-7 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R673-8-11 (Ab)
+  - Code de la santé publique - art. R673-8-15 (Ab)
+  - Code de la santé publique - art. R673-8-17 (Ab)
+  - Code de la santé publique - art. R673-9-5 (Ab)
+
+
+###### Article R673-8-11
+
+Les délibérations du conseil d'administration mentionnées à l'article R. 673-8-10 deviennent exécutoires selon les modalités
+suivantes :
+
+1° Les délibérations portant sur les matières énumérées aux 1°, 2°, 4°, 5°, 8°, 9°, 11°, 12° et 13° sont exécutoires trente
+jours après leur réception par le ministre chargé de la santé à moins que celui-ci n'y fasse opposition. En cas d'urgence, le
+ministre chargé de la santé peut autoriser l'exécution immédiate ;
+
+2° Les délibérations portant sur les matières mentionnées aux 3°, 6°, 7° et 10° ne sont exécutoires qu'après approbation
+expresse par le ministre chargé de la santé et le ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Cité par_:
+
+  - Décret n°2003-224 du 7 mars 2003 - art. 3 (M)
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-8 (Ab)
+  - Code de la santé publique - art. R1252-8 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R673-8-10 (Ab)
+
+
+###### Article R673-8-12
+
+Le directeur général de l'établissement prend, sous réserve de l'accord du contrôleur financier et d'une ratification par le
+conseil d'administration lors de sa plus prochaine séance, les décisions modificatives du budget autres que celles qui ont
+pour objet une augmentation des dépenses ou des virements de crédits entre la section de fonctionnement et la section des
+opérations en capital, ou entre les chapitres de personnel et les chapitres de matériel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-9 (Ab)
+
+
+###### Article R673-8-13
+
+Lorsqu'une disposition législative ou réglementaire prévoit la consultation de l'Etablissement français des greffes, cet avis
+est donné par une délibération du conseil d'administration de l'établissement, sauf s'il en est disposé autrement par le
+texte prévoyant l'avis ou par le présent chapitre, après consultation du conseil médical et scientifique dans les domaines
+relevant de la compétence de ce dernier.
+
+Le conseil d'administration donne son avis, par délibération, sur les règles de répartition et d'attribution des greffons et
+sur les règles de bonnes pratiques, mentionnées au troisième alinéa du II de l'article L. 673-8, avant leur transmission pour
+homologation au ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Cite_:
+
+  - Code de la santé publique - art. L673-8 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-10 (Ab)
+
+
+##### Sous-section 2 : Le directeur général de l'Etablissement français des greffes<a id=505></a>
+
+###### Article R673-8-14
+
+Le directeur général de l'Etablissement des greffes est nommé par décret sur proposition du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-11 (Ab)
+
+
+###### Article R673-8-15
+
+Le directeur général assure la gestion et la conduite générale de l'établissement. Il représente l'établissement en justice
+et dans tous les actes de la vie civile.
+
+Il prépare et exécute les délibérations du conseil d'administration et lui soumet le rapport annuel d'activité. Ce rapport
+fait apparaître un bilan financier par secteur d'activités.
+
+Il a compétence pour régler les affaires de l'établissement autres que celles qui sont énumérées à l'article R. 673-8-10.
+
+Il a autorité sur l'ensemble des personnels de l'établissement ; il recrute et nomme les agents contractuels dans le respect
+du tableau des emplois fixé par le conseil d'administration.
+
+Il passe au nom de l'établissement les contrats et marchés et les actes d'acquisition, de vente et de transaction, sous
+réserve des attributions conférées au conseil d'administration par l'article R. 673-8-10.
+
+Il est ordonnateur des dépenses et recettes du budget de l'établissement. Il peut désigner des ordonnateurs secondaires, sous
+réserve de l'accord du conseil d'administration.
+
+Il peut déléguer sa signature.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Cité par_:
+
+  - Décret n°98-372 du 14 mai 1998 - art. 1 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-12 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R673-8-10 (Ab)
+
+
+###### Article R673-8-16
+
+Les fonctions de directeur général ne sont pas compatibles avec celles de membre du conseil d'administration ou du conseil
+médical et scientifique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-14 (Ab)
+
+
+##### Sous-section 3 : Le conseil médical et scientifique<a id=506></a>
+
+###### Article R673-8-17
+
+Le conseil médical et scientifique de l'Etablissement français des greffes est une instance d'expertise, de conseil et de
+proposition.
+
+Le conseil médical et scientifique émet les avis et assure toutes les missions d'expertise qui lui sont demandés par le
+directeur général. Ce dernier le consulte sur les questions de nature médicale, scientifique, technique ou éthique et, en
+particulier, sur :
+
+1° Les règles de répartition et d'attribution des greffons ;
+
+2° Les règles de bonnes pratiques ;
+
+3° Les organismes susceptibles d'être autorisés à importer ou exporter les tissus, y compris les cornées et les cellules
+issues du corps humain, à l'exclusion de celles qui relèvent du chapitre Ier du titre II du livre IV, en considération
+notamment de leurs conditions techniques de fonctionnement et de la qualification de leur personnel ;
+
+4° L'évaluation scientifique et technique des équipes ayant une activité dans le domaine des greffes ;
+
+5° L'organisation des prélèvements et les conditions d'accueil des donneurs et de leur famille ;
+
+6° L'évaluation scientifique des laboratoires effectuant les examens d'histocompatibilité ;
+
+7° L'organisation territoriale et fonctionnelle mentionnée au 2° de l'article R. 673-8-10 ;
+
+8° La participation à l'enseignement et à la recherche dans le domaine des greffes.
+
+Le conseil médical et scientifique peut faire toute recommandation qu'il estime propre à favoriser la bonne application de la
+réglementation en vigueur. Il élabore un rapport annuel qui porte sur les aspects scientifiques, techniques, évolutifs et sur
+les résultats des activités de greffe, y compris par type de greffe et par équipe. Les avis, les recommandations et le
+rapport du conseil médical et scientifique sont transmis par son président au directeur général et au président du conseil
+d'administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-15 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R671-17 (Ab)
+  - Code de la santé publique - art. R672-11 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R673-8-10 (Ab)
+
+
+###### Article R673-8-18
+
+Le conseil médical et scientifique de l'Etablissement français des greffes est composé de quarante membres, nommés par arrêté
+du ministre chargé de la santé pour une durée de trois ans renouvelable une fois.
+
+Le conseil médical et scientifique comprend [*composition*] :
+
+1° Dix praticiens représentant les activités de greffe d'organes, dont un spécialisé dans les greffes pratiquées chez les
+enfants ;
+
+2° Cinq praticiens représentant les activités de greffe de moelle ;
+
+3° Cinq praticiens représentant les activités de greffe de tissus ;
+
+4° Deux praticiens représentant les activités de greffe de cornées ;
+
+5° Cinq anesthésistes-réanimateurs ou réanimateurs dont au moins deux exerçant dans des établissements exclusivement
+autorisés à effectuer des prélèvements ;
+
+6° Cinq représentants des activités biologiques ;
+
+7° Trois représentants des organismes de conservation ;
+
+8° Un représentant du personnel infirmier exerçant des activités de coordination locale ;
+
+9° Trois personnes qualifiées, dont une proposée par le Conseil national de l'ordre des médecins et une proposée par le
+ministre de la défense ;
+
+10° Le médecin-conseil du service médical de la Caisse nationale d'assurance maladie ou son représentant.
+
+A l'exception de ceux mentionnés aux 8°, 9° et 10°, les membres du conseil sont nommés sur proposition des organisations de
+praticiens du domaine considéré. La liste de ces organisations est définie par arrêté du ministre chargé de la santé lors de
+la constitution et lors de chaque renouvellement général du conseil. Ces organisations proposent au ministre deux fois plus
+de noms qu'il y a de praticiens à désigner au titre du ou des domaines considérés.
+
+Les fonctions de membres du conseil médical et scientifique sont gratuites et incompatibles avec celles de membres du conseil
+d'administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-16 (Ab)
+
+
+###### Article R673-8-19
+
+Le conseil médical et scientifique peut, avec l'accord du directeur général, proposer la création de commissions compétentes
+dans les domaines relevant de ses attributions.
+
+Des responsables locaux de l'Etablissement français des greffes peuvent participer, en tant que de besoin, aux activités du
+conseil médical et scientifique. Ce dernier peut en outre s'adjoindre le concours de toute personne compétente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-17 (Ab)
+
+
+###### Article R673-8-20
+
+Le président du conseil médical et scientifique est élu en son sein. La durée de son mandat est de trois ans renouvelable une
+fois. En cas de vacance, le conseil procède à l'élection d'un nouveau président dont le mandat prend fin à la date
+d'expiration du mandat du prédécesseur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-18 (Ab)
+
+
+##### Sous-section 4 : Dispositions financières et comptables<a id=507></a>
+
+###### Article R673-9-1
+
+La dotation globale prévue à l'article L. 673-9 est fixée par arrêté conjoint du ministre chargé de la santé et du ministre
+chargé du budget. Elle est révisée selon les mêmes modalités.
+
+Elle est versée à l'Etablissement français des greffes par la caisse primaire du régime d'assurance maladie des travailleurs
+salariés dans la circonscription de laquelle se trouve le siège de l'établissement, sous forme de versements mensuels égaux
+au 1/12 de la dotation globale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Cité par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 5 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L673-9 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-19 (Ab)
+
+
+###### Article R673-9-2
+
+L'arrêté fixant ou révisant la dotation globale, accompagné du budget approuvé, est notifié à l'Etablissement français des
+greffes, à la Caisse nationale d'assurance maladie des travailleurs salariés et à la caisse primaire chargée du versement de
+la dotation globale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-20 (Ab)
+
+
+###### Article R673-9-3
+
+Si la caisse primaire d'assurance maladie chargée du versement de la dotation globale n'a pas reçu notification de la
+décision fixant cette dotation avant le 1er janvier de l'exercice en cause, elle règle, jusqu'à ce qu'une telle décision lui
+soit notifiée, des acomptes mensuels égaux aux sommes allouées pour la période correspondante de l'année précédente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-21 (Ab)
+
+
+###### Article R673-9-4
+
+La répartition de la charge de la dotation globale de l'Etablissement français des greffes entre les différents régimes
+d'assurance maladie se fait selon les taux fixés annuellement en application de l'article R. 174-1-4 du code de la sécurité
+sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-22 (Ab)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. R174-1-4 (M)
+
+
+###### Article R673-9-5
+
+Outre la dotation globale prévue à l'article L. 673-9, les ressources de l'Etablissement français des greffes comprennent :
+
+1° Les dotations, subventions et autres versements des collectivités publiques et de tous les organismes publics et privés,
+nationaux et internationaux ;
+
+2° Le produit des participations mentionnées au 10° de l'article R. 673-8-10 ;
+
+3° Les rémunérations des services rendus ;
+
+4° Le produit des taxes fiscales et redevances instituées à son profit ;
+
+5° Le produit des intérêts et des remboursements des prêts et avances consentis ;
+
+6° Le produit des cessions d'actifs ;
+
+7° Les revenus tirés des brevets et inventions ;
+
+8° Les revenus de biens meubles ou immeubles ;
+
+9° Les dons et legs,
+
+et, d'une manière générale, toutes les recettes autorisées par la loi et les règlements en vigueur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L673-9 (Ab)
+  - Code de la santé publique - art. R673-8-10 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-23 (Ab)
+
+
+###### Article R673-9-6
+
+Les dépenses de l'Etablissement français des greffes comprennent les frais de personnel, de fonctionnement et
+d'investissement ainsi que, d'une manière générale, toutes celles que justifie l'activité de l'établissement.
+
+Dans le cadre des relations avec des organismes étrangers, l'établissement est habilité à procéder à des dépôts de garantie.
+
+Les comptes bancaires permettant la réalisation des opérations financières avec des organismes étrangers seront ouverts sur
+autorisation du ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-24 (Ab)
+
+
+###### Article R673-9-7
+
+L'agent comptable est nommé par arrêté conjoint du ministre chargé de la santé et du ministre chargé du budget.
+
+Des comptables secondaires peuvent être désignés par le directeur général après avis de l'agent comptable et avec l'agrément
+du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-26 (Ab)
+
+
+###### Article R673-9-8
+
+L'Etablissement français des greffes est soumis au régime comptable et financier défini par les dispositions du décret n°
+53-1227 du 10 décembre 1953 et du décret n° 62-1587 du 29 décembre 1962, sauf dérogation au présent chapitre.
+
+Sous réserve de modalités particulières d'indemnisation des frais de déplacement qui, par arrêté conjoint du ministre chargé
+de la santé et du ministre chargé du budget, pourront être prévues en faveur de certaines catégories de personnels en raison
+de la nature des missions effectuées, l'Etablissement français des greffes est soumis aux dispositions des décrets n° 86-416
+du 12 mars 1986 et n° 90-437 du 28 mai 1990.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Décret n°53-1227 1953-12-10
+  - Décret n°62-1587 1962-12-29
+  - Décret n°86-416 1986-03-12
+  - Décret n°90-437 1990-05-28
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-27 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R673-8-18 (Ab)
+  - Code de la santé publique - art. R673-8-6 (Ab)
+
+
+###### Article R673-9-9
+
+L'établissement est soumis au contrôle financier de l'Etat dans les conditions prévues par le décret du 25 octobre 1935.
+
+Les modalités particulières de l'exercice de ce contrôle sont fixées en tant que de besoin par arrêté conjoint des ministres
+chargés du budget et de la santé.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°1935-10-25
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-28 (Ab)
+
+
+###### Article R673-9-10
+
+Des régies de recettes et d'avances peuvent être instituées conformément aux dispositions du décret n° 92-681 du 20 juillet
+1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Décret n°92-681 1992-07-20
+
+_Créé par_:
+
+  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1252-29 (Ab)
+
+
+## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires<a id=508></a>
+
+### Titre 1 : Etablissements de santé<a id=509></a>
+
+#### Chapitre 1 A : Principes fondamentaux<a id=510></a>
+
+##### Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés<a id=511></a>
 
 ###### Article R710-2-1
 
@@ -85472,7 +86799,7 @@ _Créé par_:
   - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
 
 
-##### Section 2 : De l'analyse de l'activité des établissements de santé<a id=500></a>
+##### Section 2 : De l'analyse de l'activité des établissements de santé<a id=512></a>
 
 ###### Article R710-5-1
 
@@ -85877,11 +87204,11 @@ _Cite_:
   - Code de la santé publique - art. R710-5-10 (M)
 
 
-#### Chapitre 1 : Missions et obligations des établissements de santé<a id=501></a>
+#### Chapitre 1 : Missions et obligations des établissements de santé<a id=513></a>
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=502></a>
+##### Section 2 : Dispositions propres au service public hospitalier<a id=514></a>
 
-##### Sous-section 1 : Catégories d'établissements publics de santé<a id=503></a>
+##### Sous-section 1 : Catégories d'établissements publics de santé<a id=515></a>
 
 ###### Article R711-6-1
 
@@ -85973,7 +87300,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6141-16 (V)
 
 
-##### Sous-section 2 : Fonctionnement médical des hôpitaux locaux<a id=504></a>
+##### Sous-section 2 : Fonctionnement médical des hôpitaux locaux<a id=516></a>
 
 ###### Article R711-6-4
 
@@ -86610,7 +87937,7 @@ _Cite_:
   - Code de la santé publique - art. R711-6-18 (M)
 
 
-##### Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé<a id=505></a>
+##### Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé<a id=517></a>
 
 ###### Article R711-7
 
@@ -86989,11 +88316,11 @@ _Cite_:
   - Code de la santé publique - art. R711-7 (M)
 
 
-#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=506></a>
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=518></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=507></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=519></a>
 
-##### Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire.<a id=508></a>
+##### Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire.<a id=520></a>
 
 ###### Article R712-1
 
@@ -87879,7 +89206,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-6 (Ab)
 
 
-##### Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale<a id=509></a>
+##### Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale<a id=521></a>
 
 ###### Article R712-14
 
@@ -88286,7 +89613,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-6 (Ab)
 
 
-##### Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale<a id=510></a>
+##### Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale<a id=522></a>
 
 ###### Article R712-22
 
@@ -88729,7 +90056,7 @@ _Cite_:
   - Code de la santé publique - art. R712-27 (M)
 
 
-##### Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale<a id=511></a>
+##### Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale<a id=523></a>
 
 ###### Article R712-30
 
@@ -88988,7 +90315,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-11 (Ab)
 
 
-##### Section 2 : Autorisations<a id=512></a>
+##### Section 2 : Autorisations<a id=524></a>
 
 ###### Article R712-37
 
@@ -89660,7 +90987,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-13 (M)
 
 
-##### Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie<a id=513></a>
+##### Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie<a id=525></a>
 
 ###### Article R712-52
 
@@ -89964,9 +91291,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R710-5-19 (Ab)
 
 
-#### Chapitre 3 : Les actions de coopération<a id=514></a>
+#### Chapitre 3 : Les actions de coopération<a id=526></a>
 
-##### Section 1 : Les conférences sanitaires de secteur<a id=515></a>
+##### Section 1 : Les conférences sanitaires de secteur<a id=527></a>
 
 ###### Article R713-1
 
@@ -90582,11 +91909,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R713-1-16 (Ab)
 
 
-#### Chapitre 4 : Les établissements publics de santé<a id=516></a>
+#### Chapitre 4 : Les établissements publics de santé<a id=528></a>
 
-##### Section 1 : Organisation administrative et financière<a id=517></a>
+##### Section 1 : Organisation administrative et financière<a id=529></a>
 
-##### Sous-section 1 : Création, transformation et suppression des établissements publics de sante<a id=518></a>
+##### Sous-section 1 : Création, transformation et suppression des établissements publics de sante<a id=530></a>
 
 ###### Article R714-1-1
 
@@ -90707,7 +92034,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6141-12 (V)
 
 
-##### Sous-section 2 : Composition et fonctionnement du conseil d'administration<a id=519></a>
+##### Sous-section 2 : Composition et fonctionnement du conseil d'administration<a id=531></a>
 
 ###### Article R714-2-1
 
@@ -91713,9 +93040,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6143-20 (V)
 
 
-##### Sous-section 3 : Budget et comptabilité des établissements publics de santé<a id=520></a>
+##### Sous-section 3 : Budget et comptabilité des établissements publics de santé<a id=532></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=521></a>
+##### Paragraphe 1 : Dispositions générales<a id=533></a>
 
 ###### Article R714-3-1
 
@@ -91931,7 +93258,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-7-1 (M)
 
 
-##### Paragraphe 2 : Présentation et vote du budget<a id=522></a>
+##### Paragraphe 2 : Présentation et vote du budget<a id=534></a>
 
 ###### Article R714-3-7
 
@@ -92537,7 +93864,7 @@ _Cite_:
   - Code de la santé publique - art. L712-4 (Ab)
 
 
-##### Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale<a id=523></a>
+##### Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale<a id=535></a>
 
 ###### Article R714-3-19
 
@@ -92841,7 +94168,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-30 (T)
 
 
-##### Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget<a id=524></a>
+##### Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget<a id=536></a>
 
 ###### Article R714-3-27
 
@@ -93457,7 +94784,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (Ab)
 
 
-##### Paragraphe 5 : Du directeur, ordonnateur du budget<a id=525></a>
+##### Paragraphe 5 : Du directeur, ordonnateur du budget<a id=537></a>
 
 ###### Article R714-3-41
 
@@ -93638,7 +94965,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-3-29 (M)
 
 
-##### Paragraphe 6 : Clôture de l'exercice et affectation des résultats<a id=526></a>
+##### Paragraphe 6 : Clôture de l'exercice et affectation des résultats<a id=538></a>
 
 ###### Article R714-3-46
 
@@ -93939,7 +95266,7 @@ _Cite_:
   - Code de la santé publique - art. R714-3-9 (M)
 
 
-##### Paragraphe 7 : Du comptable<a id=527></a>
+##### Paragraphe 7 : Du comptable<a id=539></a>
 
 ###### Article R714-3-51
 
@@ -94020,7 +95347,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-57 (T)
 
 
-##### Sous-section 4 : Programmes d'investissement<a id=528></a>
+##### Sous-section 4 : Programmes d'investissement<a id=540></a>
 
 ###### Article R714-4-1
 
@@ -94199,13 +95526,13 @@ _Cite_:
   - Code de la santé publique - art. R714-4-4 (Ab)
 
 
-##### Section 2 : Organes représentatifs<a id=529></a>
+##### Section 2 : Organes représentatifs<a id=541></a>
 
-##### Sous-section 1 : Commissions médicales d'établissement<a id=530></a>
+##### Sous-section 1 : Commissions médicales d'établissement<a id=542></a>
 
-##### Paragraphe 1 : Composition de commissions médicales d'établissement<a id=531></a>
+##### Paragraphe 1 : Composition de commissions médicales d'établissement<a id=543></a>
 
-##### I : Centres hospitaliers autres que les centres hospitaliers universitaires<a id=532></a>
+##### I : Centres hospitaliers autres que les centres hospitaliers universitaires<a id=544></a>
 
 ###### Article R714-16-1
 
@@ -94497,7 +95824,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-7 (V)
 
 
-##### II : Centres hospitaliers universitaires<a id=533></a>
+##### II : Centres hospitaliers universitaires<a id=545></a>
 
 ###### Article R714-16-6
 
@@ -94798,7 +96125,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-3 (M)
 
 
-##### III : Hôpitaux locaux<a id=534></a>
+##### III : Hôpitaux locaux<a id=546></a>
 
 ###### Article R714-16-11
 
@@ -94859,7 +96186,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-14 (V)
 
 
-##### IV : Syndicats interhospitaliers<a id=535></a>
+##### IV : Syndicats interhospitaliers<a id=547></a>
 
 ###### Article R714-16-12
 
@@ -94978,7 +96305,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-12 (M)
 
 
-##### Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement<a id=536></a>
+##### Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement<a id=548></a>
 
 ###### Article R714-16-14
 
@@ -95689,7 +97016,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-24 (M)
 
 
-##### Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux<a id=537></a>
+##### Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux<a id=549></a>
 
 ###### Article R714-16-29
 
@@ -95952,9 +97279,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-39 (V)
 
 
-##### Sous-section 2 : Comités techniques d'établissement<a id=538></a>
+##### Sous-section 2 : Comités techniques d'établissement<a id=550></a>
 
-##### Paragraphe 1 : Composition des comités techniques d'établissement<a id=539></a>
+##### Paragraphe 1 : Composition des comités techniques d'établissement<a id=551></a>
 
 ###### Article R714-17-1
 
@@ -97008,7 +98335,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-67 (V)
 
 
-##### Paragraphe 2 : Attributions des comités techniques d'établissement<a id=540></a>
+##### Paragraphe 2 : Attributions des comités techniques d'établissement<a id=552></a>
 
 ###### Article R714-18-1
 
@@ -97045,7 +98372,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-40 (V)
 
 
-##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement<a id=541></a>
+##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement<a id=553></a>
 
 ###### Article R714-18-2
 
@@ -97515,7 +98842,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-80 (V)
 
 
-##### Paragraphe 3 : Dispositions diverses<a id=542></a>
+##### Paragraphe 3 : Dispositions diverses<a id=554></a>
 
 ###### Article R714-18-15
 
@@ -97548,11 +98875,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-41 (V)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=543></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=555></a>
 
-##### Sous-section 1 : Des chefs de service ou de département<a id=544></a>
+##### Sous-section 1 : Des chefs de service ou de département<a id=556></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=545></a>
+##### Paragraphe 1 : Dispositions générales<a id=557></a>
 
 ###### Article R714-21-1
 
@@ -97629,7 +98956,7 @@ _Cite_:
   - Code de la santé publique - art. L714-21 (M)
 
 
-##### Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires<a id=546></a>
+##### Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires<a id=558></a>
 
 ###### Article R714-21-3
 
@@ -97738,7 +99065,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-21-1 (V)
 
 
-##### Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires<a id=547></a>
+##### Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires<a id=559></a>
 
 ###### Article R714-21-6
 
@@ -97775,7 +99102,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-21-8 (V)
 
 
-##### Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958<a id=548></a>
+##### Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958<a id=560></a>
 
 ###### Article R714-21-7
 
@@ -97815,7 +99142,7 @@ _Cité par_:
   - Arrêté du 20 août 1992 - art. 1 (V)
 
 
-##### I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein<a id=549></a>
+##### I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein<a id=561></a>
 
 ###### Article R714-21-8
 
@@ -97944,7 +99271,7 @@ _Cité par_:
   - Arrêté du 20 août 1992 - art. 4 (V)
 
 
-##### II. - Nomination aux fonctions de chef de service ou de département à temps partiel<a id=550></a>
+##### II. - Nomination aux fonctions de chef de service ou de département à temps partiel<a id=562></a>
 
 ###### Article R714-21-12
 
@@ -98013,9 +99340,9 @@ _Cite_:
   - Code de la santé publique - art. R714-21-12 (M)
 
 
-##### III<a id=551></a>
+##### III<a id=563></a>
 
-##### - Dispositions propres aux fonctions de chef de service ou de département de psychiatrie<a id=552></a>
+##### - Dispositions propres aux fonctions de chef de service ou de département de psychiatrie<a id=564></a>
 
 ###### Article R714-21-14
 
@@ -98143,9 +99470,9 @@ _Cité par_:
   - Loi n°2004-806 du 9 août 2004 - art. 155 (V)
 
 
-##### IV<a id=553></a>
+##### IV<a id=565></a>
 
-##### - Dispositions particulières aux pharmacies hospitalières<a id=554></a>
+##### - Dispositions particulières aux pharmacies hospitalières<a id=566></a>
 
 ###### Article R714-21-18
 
@@ -98175,7 +99502,7 @@ _Créé par_:
   - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
 
 
-##### V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre<a id=555></a>
+##### V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre<a id=567></a>
 
 ###### Article R714-21-19
 
@@ -98208,7 +99535,7 @@ _Cite_:
   - Code de la santé publique - art. R714-21-8 (M)
 
 
-##### Paragraphe 5 : Dispositions communes<a id=556></a>
+##### Paragraphe 5 : Dispositions communes<a id=568></a>
 
 ###### Article R714-21-20
 
@@ -98377,7 +99704,7 @@ _Créé par_:
   - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
 
 
-##### Sous-section 2 : Conseil de service ou de département<a id=557></a>
+##### Sous-section 2 : Conseil de service ou de département<a id=569></a>
 
 ###### Article R714-22-1
 
@@ -98706,7 +100033,7 @@ _Modifié par_:
   - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
-##### Sous-section 3 : Des responsables d'unité fonctionnelle<a id=558></a>
+##### Sous-section 3 : Des responsables d'unité fonctionnelle<a id=570></a>
 
 ###### Article R714-24-1
 
@@ -98755,7 +100082,7 @@ _Cité par_:
   - Code de la santé publique - art. R6146-18 (M)
 
 
-##### Sous-section 4 : Service de soins infirmiers<a id=559></a>
+##### Sous-section 4 : Service de soins infirmiers<a id=571></a>
 
 ###### Article R714-26-1
 
@@ -99052,7 +100379,7 @@ _Modifié par_:
   - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
-##### Section 4 : Les personnels des établissements publics de santé<a id=560></a>
+##### Section 4 : Les personnels des établissements publics de santé<a id=572></a>
 
 ###### Article R714-28-1
 
@@ -99200,11 +100527,11 @@ _Cité par_:
   - Code de la santé publique - art. R714-28-1 (Ab)
 
 
-#### Chapitre 5 : Les établissements de santé privés<a id=561></a>
+#### Chapitre 5 : Les établissements de santé privés<a id=573></a>
 
-##### Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement<a id=562></a>
+##### Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement<a id=574></a>
 
-##### Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier<a id=563></a>
+##### Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier<a id=575></a>
 
 ###### Article R715-7-1
 
@@ -99445,9 +100772,9 @@ _Cite_:
   - Code de la santé publique L312 à L314
 
 
-##### Sous-section 4 : De la concession du service public hospitalier<a id=564></a>
+##### Sous-section 4 : De la concession du service public hospitalier<a id=576></a>
 
-##### Paragraphe 1 : Objet, contenu et durée du contrat de concession<a id=565></a>
+##### Paragraphe 1 : Objet, contenu et durée du contrat de concession<a id=577></a>
 
 ###### Article R715-10-1
 
@@ -99593,7 +100920,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-10-10 (Ab)
 
 
-##### Paragraphe 2 : Procédure<a id=566></a>
+##### Paragraphe 2 : Procédure<a id=578></a>
 
 ###### Article R715-10-4
 
@@ -99794,7 +101121,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-10-10 (Ab)
 
 
-##### Paragraphe 3 : Renouvellement et prorogation du contrat de concession<a id=567></a>
+##### Paragraphe 3 : Renouvellement et prorogation du contrat de concession<a id=579></a>
 
 ###### Article R715-10-10
 
@@ -99839,7 +101166,7 @@ _Cite_:
   - Code de la santé publique - art. R715-10-9 (M)
 
 
-##### Paragraphe 4 : Contrôle<a id=568></a>
+##### Paragraphe 4 : Contrôle<a id=580></a>
 
 ###### Article R715-10-11
 
@@ -99898,7 +101225,7 @@ _Cité par_:
   - Code de la santé publique - art. R712-15 (M)
 
 
-##### Paragraphe 5 : Mesures diverses<a id=569></a>
+##### Paragraphe 5 : Mesures diverses<a id=581></a>
 
 ###### Article R715-10-13
 
@@ -99967,9 +101294,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-31 (V)
 
 
-##### Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier<a id=570></a>
+##### Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier<a id=582></a>
 
-##### Paragraphe 1 : Nature et objet de l'accord d'association<a id=571></a>
+##### Paragraphe 1 : Nature et objet de l'accord d'association<a id=583></a>
 
 ###### Article R715-11-1
 
@@ -100084,7 +101411,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-34 (V)
 
 
-##### Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association<a id=572></a>
+##### Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association<a id=584></a>
 
 ###### Article R715-11-4
 
@@ -100124,11 +101451,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-35 (V)
 
 
-#### Chapitre 6 : Expérimentation et dispositions diverses<a id=573></a>
+#### Chapitre 6 : Expérimentation et dispositions diverses<a id=585></a>
 
-##### Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux<a id=574></a>
+##### Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux<a id=586></a>
 
-##### Sous-section 1 : Assistance publique - hôpitaux de Paris<a id=575></a>
+##### Sous-section 1 : Assistance publique - hôpitaux de Paris<a id=587></a>
 
 ###### Article R716-3-1
 
@@ -100164,7 +101491,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6147-1 (V)
 
 
-##### Paragraphe 1 : Conseil d'administration<a id=576></a>
+##### Paragraphe 1 : Conseil d'administration<a id=588></a>
 
 ###### Article R716-3-2
 
@@ -100514,7 +101841,7 @@ _Cité par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 2 : Le directeur général et le secrétaire général<a id=577></a>
+##### Paragraphe 2 : Le directeur général et le secrétaire général<a id=589></a>
 
 ###### Article R716-3-10
 
@@ -100612,9 +101939,9 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 3 : Les instances représentatives centrales<a id=578></a>
+##### Paragraphe 3 : Les instances représentatives centrales<a id=590></a>
 
-##### A. - Commission médicale d'établissement<a id=579></a>
+##### A. - Commission médicale d'établissement<a id=591></a>
 
 ###### Article R716-3-13
 
@@ -100719,7 +102046,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-26 (Ab)
 
 
-##### B. - Comité technique central d'établissement<a id=580></a>
+##### B. - Comité technique central d'établissement<a id=592></a>
 
 ###### Article R716-3-15
 
@@ -100837,7 +102164,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### C : Commission centrale du service de soins infirmiers<a id=581></a>
+##### C : Commission centrale du service de soins infirmiers<a id=593></a>
 
 ###### Article R716-3-18
 
@@ -100890,9 +102217,9 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général<a id=582></a>
+##### Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général<a id=594></a>
 
-##### A. - Budget<a id=583></a>
+##### A. - Budget<a id=595></a>
 
 ###### Article R716-3-19
 
@@ -100911,7 +102238,7 @@ _Créé par_:
   - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
 
 
-##### B. - Direction<a id=584></a>
+##### B. - Direction<a id=596></a>
 
 ###### Article R716-3-20
 
@@ -100938,7 +102265,7 @@ _Créé par_:
   - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
 
 
-##### C. - Instances représentatives locales<a id=585></a>
+##### C. - Instances représentatives locales<a id=597></a>
 
 ###### Article R716-3-21
 
@@ -100987,7 +102314,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Commission de surveillance<a id=586></a>
+##### Commission de surveillance<a id=598></a>
 
 ###### Article R716-3-22
 
@@ -101168,7 +102495,7 @@ _Cite_:
   - Code de la santé publique - art. R716-3-9 (V)
 
 
-##### Comité consultatif médical<a id=587></a>
+##### Comité consultatif médical<a id=599></a>
 
 ###### Article R716-3-26
 
@@ -101201,7 +102528,7 @@ _Cite_:
   - Code de la santé publique R714-16-29 à R714-16-34, R716-3-14
 
 
-##### Comité technique local d'établissement<a id=588></a>
+##### Comité technique local d'établissement<a id=600></a>
 
 ###### Article R716-3-27
 
@@ -101320,7 +102647,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Commission locale du service de soins infirmiers<a id=589></a>
+##### Commission locale du service de soins infirmiers<a id=601></a>
 
 ###### Article R716-3-30
 
@@ -101364,7 +102691,7 @@ _Cité par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 5 : Contrôle financier<a id=590></a>
+##### Paragraphe 5 : Contrôle financier<a id=602></a>
 
 ###### Article R716-3-31
 
@@ -101396,7 +102723,7 @@ _Cite_:
   - Loi n°1922-08-10
 
 
-##### Paragraphe 6 : Marchés<a id=591></a>
+##### Paragraphe 6 : Marchés<a id=603></a>
 
 ###### Article R716-3-32
 
@@ -101432,7 +102759,7 @@ _Cite_:
   - Code de la santé publique - art. R716-3-33 (M)
 
 
-##### Paragraphe 7 : Contrôle de l'Etat<a id=592></a>
+##### Paragraphe 7 : Contrôle de l'Etat<a id=604></a>
 
 ###### Article R716-3-33
 
@@ -101580,7 +102907,7 @@ _Cite_:
   - Code de la santé publique - art. L714-9 (M)
 
 
-##### Paragraphe 8 : Dispositions diverses<a id=593></a>
+##### Paragraphe 8 : Dispositions diverses<a id=605></a>
 
 ###### Article R716-3-36
 
@@ -101667,7 +102994,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille<a id=594></a>
+##### Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille<a id=606></a>
 
 ###### Article R716-3-39
 
@@ -101704,7 +103031,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6147-3 (V)
 
 
-##### Paragraphe 1 : Conseil d'administration<a id=595></a>
+##### Paragraphe 1 : Conseil d'administration<a id=607></a>
 
 ###### Article R716-3-40
 
@@ -101920,7 +103247,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 2 : Directeur général et secrétaire général<a id=596></a>
+##### Paragraphe 2 : Directeur général et secrétaire général<a id=608></a>
 
 ###### Article R716-3-45
 
@@ -101968,7 +103295,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 3 : Instances représentatives centrales<a id=597></a>
+##### Paragraphe 3 : Instances représentatives centrales<a id=609></a>
 
 ###### Article R716-3-46
 
@@ -102147,7 +103474,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 4 : Instances représentatives locales<a id=598></a>
+##### Paragraphe 4 : Instances représentatives locales<a id=610></a>
 
 ###### Article R716-3-50
 
@@ -102447,7 +103774,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Sous-section 3 : Etablissements publics nationaux<a id=599></a>
+##### Sous-section 3 : Etablissements publics nationaux<a id=611></a>
 
 ###### Article R716-3-57
 
@@ -102791,7 +104118,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif<a id=600></a>
+##### Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif<a id=612></a>
 
 ###### Article R716-5-1
 
@@ -103109,7 +104436,7 @@ _Abrogé par_:
   - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
 
 
-##### Section 5 : Dispositions diverses<a id=601></a>
+##### Section 5 : Dispositions diverses<a id=613></a>
 
 ###### Article R716-9-1
 
@@ -103145,11 +104472,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-5 (T)
 
 
-# Partie réglementaire ancienne - Décrets simples<a id=602></a>
+# Partie réglementaire ancienne - Décrets simples<a id=614></a>
 
-## Livre VI : Utilisation thérapeutique de produits d'origine humaine<a id=603></a>
+## Livre VI : Utilisation thérapeutique de produits d'origine humaine<a id=615></a>
 
-### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=604></a>
+### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=616></a>
 
 ###### Article D666-3-1
 
@@ -103264,13 +104591,13 @@ _Cite_:
   - Code de la santé publique - art. L667-9 (M)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=605></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=617></a>
 
-### Titre Ier : Etablissements de santé<a id=606></a>
+### Titre Ier : Etablissements de santé<a id=618></a>
 
-#### Chapitre Ier : Missions et obligations des établissements de santé<a id=607></a>
+#### Chapitre Ier : Missions et obligations des établissements de santé<a id=619></a>
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=608></a>
+##### Section 2 : Dispositions propres au service public hospitalier<a id=620></a>
 
 ###### Article D711-6-1
 
@@ -103363,7 +104690,7 @@ _Cite_:
   - Code de la santé publique - art. L711-6 (M)
 
 
-##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=609></a>
+##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=621></a>
 
 ###### Article D711-9-1
 
@@ -103669,7 +104996,7 @@ _Cite_:
   - Code de la santé publique R711-9-1
 
 
-##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=610></a>
+##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=622></a>
 
 ###### Article D711-16-3
 
@@ -103756,11 +105083,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-50 (T)
 
 
-#### Chapitre II : L'organisation et l'équipement sanitaires<a id=611></a>
+#### Chapitre II : L'organisation et l'équipement sanitaires<a id=623></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=612></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=624></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=613></a>
+##### Sous-section 1 : Du collège national d'experts<a id=625></a>
 
 ###### Article D712-2
 
@@ -103855,7 +105182,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=614></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=626></a>
 
 ###### Article D712-7
 
@@ -103939,7 +105266,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=615></a>
+##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=627></a>
 
 ###### Article D712-13-1
 
@@ -103996,7 +105323,7 @@ _Cite_:
   - Code de la santé publique - art. L712-4 (Ab)
 
 
-##### Sous-section 4 : Regroupements et reconversions<a id=616></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=628></a>
 
 ###### Article D712-13-3
 
@@ -104123,9 +105450,9 @@ _Créé par_:
   - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
 
 
-##### Section 2 : Autorisations<a id=617></a>
+##### Section 2 : Autorisations<a id=629></a>
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=618></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=630></a>
 
 ###### Article D712-16
 
@@ -104153,11 +105480,11 @@ _Cite_:
   - Code de la santé publique - art. D712-15 (M)
 
 
-##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=619></a>
+##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=631></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=620></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=632></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=621></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=633></a>
 
 ###### Article D712-30
 
@@ -104296,7 +105623,7 @@ _Cite_:
   - Code de la santé publique - art. D712-30 (M)
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=622></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=634></a>
 
 ###### Article D712-35
 
@@ -104382,11 +105709,11 @@ _Cité par_:
   - Code de la santé publique - art. D712-37 (Ab)
 
 
-#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=623></a>
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=635></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=624></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=636></a>
 
-##### Sous-section 4 : Regroupements et reconversions<a id=625></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=637></a>
 
 ###### Article D712-13-2
 
@@ -104433,11 +105760,11 @@ _Cite_:
   - Code de la santé publique - art. L712-11 (M)
 
 
-#### Chapitre IV : Les établissements publics de santé<a id=626></a>
+#### Chapitre IV : Les établissements publics de santé<a id=638></a>
 
-##### Section 1 : Organisation administrative et financière<a id=627></a>
+##### Section 1 : Organisation administrative et financière<a id=639></a>
 
-##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=628></a>
+##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=640></a>
 
 ###### Article D714-2-1
 
@@ -104574,7 +105901,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (M)
 
 
-##### Sous-section 4 : Composition des groupes fonctionnels<a id=629></a>
+##### Sous-section 4 : Composition des groupes fonctionnels<a id=641></a>
 
 ###### Article D714-7-1
 
@@ -104630,7 +105957,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6145-6 (Ab)
 
 
-##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=630></a>
+##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=642></a>
 
 ###### Article D714-12-1
 
@@ -104730,7 +106057,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6143-36 (V)
 
 
-##### Sous-section 5 : Virements de crédits<a id=631></a>
+##### Sous-section 5 : Virements de crédits<a id=643></a>
 
 ###### Article D714-12-5
 
@@ -104773,9 +106100,9 @@ _Cite_:
   - Code de la santé publique R714-3-38, R714-3-11 à R714-3-13, R714-3-27
 
 
-##### Section 2 : organes représentatifs<a id=632></a>
+##### Section 2 : organes représentatifs<a id=644></a>
 
-##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=633></a>
+##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=645></a>
 
 ###### Article D714-17-1
 
@@ -104806,7 +106133,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=634></a>
+##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=646></a>
 
 ###### Article D714-19-1
 
@@ -104863,7 +106190,7 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Section 2 : Organisation des soins et fonctionnement médical<a id=635></a>
+##### Section 2 : Organisation des soins et fonctionnement médical<a id=647></a>
 
 ###### Article D714-21-1
 
@@ -104909,7 +106236,7 @@ _Cité par_:
   - Code de la santé publique - art. D714-21-2 (M)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=636></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=648></a>
 
 ###### Article D714-21-2
 
@@ -104972,11 +106299,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6151-1 (V)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=637></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=649></a>
 
-### Chapitre Ier : Missions et obligations des établissements de santé<a id=638></a>
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=650></a>
 
-#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=639></a>
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=651></a>
 
 ###### Article D711-16-1
 
@@ -105111,11 +106438,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-47 (T)
 
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=640></a>
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=652></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=641></a>
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=653></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=642></a>
+##### Sous-section 1 : Du collège national d'experts<a id=654></a>
 
 ###### Article D712-1
 
@@ -105213,7 +106540,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=643></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=655></a>
 
 ###### Article D712-8
 
@@ -105360,9 +106687,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=644></a>
+#### Section 2 : Autorisations<a id=656></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=645></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=657></a>
 
 ###### Article D712-14
 
@@ -105401,7 +106728,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L712-12 (M)
 
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=646></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=658></a>
 
 ###### Article D712-15
 
@@ -105462,11 +106789,11 @@ _Cite_:
   - Code de la santé publique - art. L712-2 (M)
 
 
-#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=647></a>
+#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=659></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=648></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=660></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=649></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=661></a>
 
 ###### Article D712-31
 
@@ -105573,7 +106900,7 @@ _Cite_:
   - Code de la santé publique D712-30, D712-32, D712-33, R710-2-1 à R710-2-10
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=650></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=662></a>
 
 ###### Article D712-36
 
@@ -105690,15 +107017,15 @@ _Cité par_:
   - Code de la santé publique - art. D712-39 (Ab)
 
 
-# Annexes<a id=651></a>
+# Annexes<a id=663></a>
 
-## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=652></a>
+## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=664></a>
 
-### Titre 2 : Du sang humain<a id=653></a>
+### Titre 2 : Du sang humain<a id=665></a>
 
-#### Chapitre 3 : Des établissements de transfusion sanguine<a id=654></a>
+#### Chapitre 3 : Des établissements de transfusion sanguine<a id=666></a>
 
-##### Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public.<a id=655></a>
+##### Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public.<a id=667></a>
 
 ###### Article Annexe II aux articles R668-1-1 à R668-21
 
