@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1978-07-13
+Version Consolidée au 1978-10-06
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -396,7 +396,7 @@ Version Consolidée au 1978-07-13
               - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-7)](#393)
           - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5144)](#394)
             - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#395)
-            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142-1)](#396)
+            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142)](#396)
             - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#397)
         - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#398)
           - [DISPOSITIONS GENERALES. (art. R5145)](#399)
@@ -44232,6 +44232,39 @@ _Modifié par_:
   - Décret n°69-13 1969-01-02 art. 4 JORF 8 janvier 1969
 
 
+###### Article R5107-1
+
+Le pharmacien responsable d'un établissement de préparation doit justifier de l'exercice pendant au moins un an, dans un ou
+plusieurs établissements autorisés par application de l'article L. 596, d'activités comportant l'analyse qualitative des
+médicaments, l'analyse quantitative des principes actifs ainsi que les essais et vérifications nécessaires pour assurer la
+qualité des spécialités pharmaceutiques.
+
+La durée d'exercice ci-dessus prévue est ramenée à six mois pour les pharmaciens qui ont obtenu un titre ou diplôme
+concernant des études relatives aux techniques énumérées à l'alinéa précédent lorsque ce titre ou diplôme figure sur une
+liste établie par arrêté conjoint du ministre chargé de la santé et du ministre chargé des universités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°78-988 1978-09-20 art. 3 JORF 6 octobre 1978
+
+_Cité par_:
+
+  - Arrêté du 18 novembre 1996 - art. 2 (V)
+  - Décret n°97-529 du 26 mai 1997 - art. 4 (M)
+  - Code de la santé publique - art. R5014-3 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L596 (M)
+
+
 ###### Article R5108
 
 Un arrêté du ministre de la santé publique et de la population fixe les formes et conditions dans lesquelles sont présentées
@@ -45984,6 +46017,35 @@ _Cité par_:
   - Code de la santé publique - art. R5140 (Ab)
 
 
+###### Article R5136-1
+
+Lorsque la demande a été présentée par l'intermédiaire du comité des spécialités pharmaceutiques institué par l'article 8 de
+la directive n° 75/319 du conseil des communautés européennes et en application de l'article 9 de cette directive :
+
+1° La notification à ce comité d'une éventuelle opposition à l'octroi de l'autorisation de mise sur le marché doit être faite
+dans les cent vingt jours [*délai*] suivant la date de transmission du dossier au ministre chargé de la santé ;
+
+2° Le ministre doit statuer sur la demande d'autorisation de mise sur le marché dans les trente jours suivant la date à
+laquelle ledit "comité des spécialités pharmaceutiques" l'a informé soit de l'absence de toute opposition à l'octroi de
+l'autorisation, soit de l'avis qu'il a été amené à prendre à la suite d'oppositions formulées par un ou plusieurs Etats
+membres des communautés européennes.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CEE DIRECTIVE 319 1975 ART. 8, ART. 9 CONSEIL
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°78-988 1978-09-20 ART. 12 JORF 6 octobre 1978
+
+
 ###### Article R5137
 
 L'autorisation de mise sur le marché est renouvelable sur demande du titulaire présentée au plus tard quatre-vingts jours
@@ -46143,6 +46205,79 @@ _Cité par_:
   - Code de la santé publique - art. R5142-28 (Ab)
   - Code de la santé publique - art. R5142-29 (M)
   - Code de la santé publique - art. R5144-20-1 (Ab)
+
+
+###### Article R5140
+
+Les décisions prévues aux articles R. 5135 à R. 5139, à l'exclusion des mesures de suspension, sont prises par le ministre
+chargé de la santé après avis de la commission constituée à cet effet.
+
+Elles ne peuvent faire l'objet d'un recours contentieux qu'après l'exercice d'un recours gracieux, qui lui-même doit être
+soumis pour avis à la commission ci-dessus mentionnée.
+
+Les décisions prévues aux articles R. 5135, R. 5137, R. 5138 et R. 5139 [*autorisation, renouvellement, changement de
+titulaire, suspension du visa d'autorisation*] sont publiées par extrait au Journal officiel de la République française.
+
+Ces décisions sont immédiatement communiquées au comité des spécialités pharmaceutiques mentionné à l'article R. 5136-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 NOVEMBRE 1972
+
+_Modifié par_:
+
+  - Décret n°78-181 1978-02-09 ART. 1 JORF 22 FEVRIER 1978
+  - Décret n°78-988 1978-09-20 ART. 15 JORF 6 OCTOBRE 1978
+
+_Cité par_:
+
+  - Décret n°78-181 du 9 février 1978 - art. 3 (V)
+  - Arrêté du 7 août 1991 - art. 1 (V)
+  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
+  - Arrêté du 9 mai 1995 - art. 1 (V)
+  - Arrêté du 9 mai 1995 - art. 2 (V)
+  - Décret n°2003-633 du 2 juillet 2003 - art. 2 (Ab)
+  - Code de la santé publique - art. R5054 (Ab)
+  - Code de la santé publique - art. R5089-13 (Ab)
+  - Code de la santé publique - art. R5119 (M)
+  - Code de la santé publique - art. R5126 (Ab)
+  - Code de la santé publique - art. R5139 (Ab)
+  - Code de la santé publique - art. R5141 (Ab)
+  - Code de la santé publique - art. R5141-1 (M)
+  - Code de la santé publique - art. R5141-2 (M)
+  - Code de la santé publique - art. R5141-3 (Ab)
+  - Code de la santé publique - art. R5141-4 (M)
+  - Code de la santé publique - art. R5141-5 (M)
+  - Code de la santé publique - art. R5142-25 (Ab)
+  - Code de la santé publique - art. R5142-28 (Ab)
+  - Code de la santé publique - art. R5142-29 (M)
+  - Code de la santé publique - art. R5143-12 (Ab)
+  - Code de la santé publique - art. R5143-20 (Ab)
+  - Code de la santé publique - art. R5143-8 (Ab)
+  - Code de la santé publique - art. R5143-8-1 (Ab)
+  - Code de la santé publique - art. R5143-9 (Ab)
+  - Code de la santé publique - art. R5192 (Ab)
+  - Code de la santé publique - art. R5208 (Ab)
+  - Code de la sécurité sociale. - art. R163-17 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-50 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5135 (M)
+  - Code de la santé publique - art. R5136 (M)
+  - Code de la santé publique - art. R5137 (M)
+  - Code de la santé publique - art. R5138 (M)
+  - Code de la santé publique R5135, R5137, R5138, R5139, R5136-1, R5136
 
 
 ###### Article R5141
@@ -46349,22 +46484,6 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de la santé publique R5060 à R5089
-
-
-###### Article R5142-1
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°78-988 1978-09-20 art. 16 JORF 6 octobre 1978
 
 
 ##### PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES.<a id=397></a>
