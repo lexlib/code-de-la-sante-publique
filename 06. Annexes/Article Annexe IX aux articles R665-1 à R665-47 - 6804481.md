@@ -299,7 +299,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-1106 du 20 novembre 2003 - art. 1 () JORF 22 novembre 2003
+  - Décret n°2004-108 du 4 février 2004 - art. 1 () JORF 6 février 2004
 
 _Cite_:
 
