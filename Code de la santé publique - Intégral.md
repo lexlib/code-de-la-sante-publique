@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1968-12-22
+Version Consolidée au 1969-01-08
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -355,54 +355,55 @@ Version Consolidée au 1968-12-22
         - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5142-1)](#352)
           - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-7)](#353)
             - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#354)
-            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#355)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-7)](#356)
-              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#357)
-              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-7)](#358)
-          - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5142-1)](#359)
-            - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#360)
-            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142-1)](#361)
-        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#362)
-          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#363)
-      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266)](#364)
-        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5229)](#365)
-          - [SECTION 1 : GENERALITES. (art. R5149)](#366)
-          - [SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5152)](#367)
-            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5152)](#368)
-          - [SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5151 à R5166-1)](#369)
-            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5151 à R5164)](#370)
-            - [PARAGRAPHE 1 : GENERALITES. (art. R5150)](#371)
-            - [PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C). (art. R5167)](#372)
-            - [PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*. (art. R5168)](#373)
-            - [PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B). (art. R5165 à R5166-1)](#374)
-          - [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE (art. R5169 à R5211)](#375)
-            - [PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*. (art. R5169 à R5177)](#376)
-            - [PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5178 à R5182)](#377)
-            - [PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5183 à R5188)](#378)
-            - [PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5189 à R5211)](#379)
-              - [1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE. (art. R5190 à R5198)](#380)
-              - [2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE. (art. R5199 à R5211)](#381)
-          - [SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5212 à R5227)](#382)
-            - [PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*. (art. R5227)](#383)
-          - [SECTION 4 : PRODUITS CAPILLAIRES (art. R5213 à R5221)](#384)
-            - [PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX. (art. R5213 à R5216)](#385)
-            - [PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES. (art. R5217 à R5221)](#386)
-          - [SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE (art. R5222 à R5226)](#387)
-            - [PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5222 à R5226)](#388)
-          - [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS (art. R5228 à R5229)](#389)
-            - [INSPECTION. (art. R5228 à R5229)](#390)
-        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5229-1)](#391)
-        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#392)
-        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#393)
-        - [Chapitre 6 : Thermomètres médicaux. (art. R5243 à R5261)](#394)
-        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#395)
-        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#396)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#397)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#398)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#399)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#400)
-          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#401)
-          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#402)
+            - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#355)
+            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#356)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-7)](#357)
+              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#358)
+              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-7)](#359)
+          - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5142-1)](#360)
+            - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#361)
+            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142-1)](#362)
+        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#363)
+          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#364)
+      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266)](#365)
+        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5229)](#366)
+          - [SECTION 1 : GENERALITES. (art. R5149)](#367)
+          - [SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5152)](#368)
+            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5152)](#369)
+          - [SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5151 à R5166-1)](#370)
+            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5151 à R5164)](#371)
+            - [PARAGRAPHE 1 : GENERALITES. (art. R5150)](#372)
+            - [PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C). (art. R5167)](#373)
+            - [PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*. (art. R5168)](#374)
+            - [PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B). (art. R5165 à R5166-1)](#375)
+          - [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE (art. R5169 à R5211)](#376)
+            - [PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*. (art. R5169 à R5177)](#377)
+            - [PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5178 à R5182)](#378)
+            - [PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5183 à R5188)](#379)
+            - [PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5189 à R5211)](#380)
+              - [1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE. (art. R5190 à R5198)](#381)
+              - [2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE. (art. R5199 à R5211)](#382)
+          - [SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5212 à R5227)](#383)
+            - [PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*. (art. R5227)](#384)
+          - [SECTION 4 : PRODUITS CAPILLAIRES (art. R5213 à R5221)](#385)
+            - [PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX. (art. R5213 à R5216)](#386)
+            - [PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES. (art. R5217 à R5221)](#387)
+          - [SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE (art. R5222 à R5226)](#388)
+            - [PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5222 à R5226)](#389)
+          - [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS (art. R5228 à R5229)](#390)
+            - [INSPECTION. (art. R5228 à R5229)](#391)
+        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5229-1)](#392)
+        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#393)
+        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#394)
+        - [Chapitre 6 : Thermomètres médicaux. (art. R5243 à R5261)](#395)
+        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#396)
+        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#397)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#398)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#399)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#400)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#401)
+          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#402)
+          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#403)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -36450,7 +36451,148 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### Paragraphe 4 : Dispositions d'exécution.<a id=355></a>
+##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=355></a>
+
+###### Article R5113
+
+Dans les sociétés mentionnées à l'article L. 596, le pharmacien responsable doit être :
+
+Dans les sociétés anonymes autres que celles qui sont régies par les articles 118 et suivants de la loi n° 66-537 du 24
+juillet 1966, le président du conseil d'administration ou un directeur général ;
+
+Dans les sociétés anonymes régies par lesdits articles, soit le président du directoire, soit un autre membre du directoire
+ayant la qualité de directeur général, soit le directeur général unique ;
+
+Dans les sociétés en commandite par actions, les sociétés à responsabilité limitée, les sociétés en nom collectif et les
+sociétés en commandite simple, un gérant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Loi n°66-537 1966-07-24 art. 118
+  - Code de la santé publique - art. L596 (M)
+
+_Créé par_:
+
+  - Décret n°69-13 1969-01-02 art. 8 JORF 8 janvier 1969
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5107 (M)
+  - Code de la santé publique - art. R5113-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5124-34 (V)
+
+
+###### Article R5113-1
+
+Le pharmacien inspecteur régional de la santé et le conseil central de la section B de l'ordre des pharmaciens reçoivent
+copie de tout acte portant désignation du pharmacien responsable ou détermination de l'étendue de ses pouvoirs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°69-13 1969-01-02 art. 9 JORF 8 janvier 1969
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5116 (P)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5124-35 (V)
+
+
+###### Article R5113-2
+
+En vue de l'application des règles édictées dans l'intérêt de la santé publique, le pharmacien responsable défini à l'article
+R. 5113 exerce au moins les attributions suivantes :
+
+Il participe à l'élaboration du programme de recherches et d'études de la société ;
+
+Il signe, après avoir pris connaissance des rapports d'expertise, les demandes d'autorisation de mise sur le marché des
+spécialités pharmaceutiques ;
+
+Il organise et surveille notamment la fabrication, le conditionnement, le stockage, le contrôle et la délivrance à titre
+onéreux ou gratuit des médicaments, produits et objets définis aux articles L. 511 et L. 512 ainsi que la publicité
+concernant ces articles ;
+
+Il a autorité sur les pharmaciens assistants ;
+
+Il signale aux autres dirigeants de la société les difficultés inhérentes aux conditions d'exploitation qui sont de nature à
+faire obstacle à l'exercice de ses attributions.
+
+Dans le cas où un désaccord portant sur l'application des règles édictées dans l'intérêt de la santé publique oppose un
+organe de gestion, d'administration, de direction ou de surveillance au pharmacien responsable, celui-ci doit en informer le
+pharmacien inspecteur régional de la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°69-13 1969-01-02 art. 9 JORF 8 janvier 1969
+
+_Cite_:
+
+  - Code de la santé publique - art. L511 (M)
+  - Code de la santé publique - art. L512 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5112-1 (M)
+  - Code de la santé publique - art. R5112-2 (M)
+  - Code de la santé publique - art. R5113 (Ab)
+  - Code de la santé publique - art. R5116 (P)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5124-36 (V)
+
+
+###### Article R5113-3
+
+Dans le cas où l'organe social compétent met fin aux fonctions de pharmacien responsable d'un pharmacien ou refuse de les
+renouveler lors de leur expiration, ce pharmacien a la faculté de saisir le conseil central de la section B de l'ordre des
+pharmaciens. Après instruction contradictoire, ce conseil émet un avis portant sur le point de savoir si l'intéressé a manqué
+ou non aux obligations qui lui incombaient, dans l'intérêt de la santé publique, en sa qualité de pharmacien responsable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°69-13 1969-01-02 art. 10 JORF 8 janvier 1969
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5124-37 (M)
+  - Code de la santé publique - art. R5124-37 (V)
+
+
+##### Paragraphe 4 : Dispositions d'exécution.<a id=356></a>
 
 ###### Article R5116
 
@@ -36479,9 +36621,9 @@ _Modifié par_:
   - Décret n°60-326 1960-04-05 ART. 4 JORF 7 avril 1960
 
 
-##### Paragraphe 3 : Fonctionnement des établissements<a id=356></a>
+##### Paragraphe 3 : Fonctionnement des établissements<a id=357></a>
 
-##### 1° Exercice personnel de la profession.<a id=357></a>
+##### 1° Exercice personnel de la profession.<a id=358></a>
 
 ###### Article R5114-1
 
@@ -36721,7 +36863,7 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=358></a>
+##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=359></a>
 
 ###### Article R5115-1
 
@@ -36996,9 +37138,9 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### Section 2 : Spécialités pharmaceutiques<a id=359></a>
+##### Section 2 : Spécialités pharmaceutiques<a id=360></a>
 
-##### Paragraphe 1 : Expérimentation des médicaments.<a id=360></a>
+##### Paragraphe 1 : Expérimentation des médicaments.<a id=361></a>
 
 ###### Article R5117
 
@@ -37419,7 +37561,7 @@ _Modifié par_:
   - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
 
 
-##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=361></a>
+##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=362></a>
 
 ###### Article R5128
 
@@ -37769,9 +37911,9 @@ _Abrogé par_:
   - Décret n°78-988 1978-09-20 art. 16 JORF 6 octobre 1978
 
 
-#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=362></a>
+#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=363></a>
 
-##### Section 3 : Dispositions communes.<a id=363></a>
+##### Section 3 : Dispositions communes.<a id=364></a>
 
 ###### Article R5147
 
@@ -37927,11 +38069,11 @@ _Créé par_:
   - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
 
 
-### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=364></a>
+### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=365></a>
 
-#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=365></a>
+#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=366></a>
 
-##### SECTION 1 : GENERALITES.<a id=366></a>
+##### SECTION 1 : GENERALITES.<a id=367></a>
 
 ###### Article R5149
 
@@ -37998,9 +38140,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L5132-1 (V)
 
 
-##### SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=367></a>
+##### SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=368></a>
 
-##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=368></a>
+##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=369></a>
 
 ###### Article R5152
 
@@ -38067,9 +38209,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-46 (V)
 
 
-##### SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=369></a>
+##### SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=370></a>
 
-##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=370></a>
+##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=371></a>
 
 ###### Article R5151
 
@@ -38532,7 +38674,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-59 (V)
 
 
-##### PARAGRAPHE 1 : GENERALITES.<a id=371></a>
+##### PARAGRAPHE 1 : GENERALITES.<a id=372></a>
 
 ###### Article R5150
 
@@ -38565,7 +38707,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-43 (V)
 
 
-##### PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C).<a id=372></a>
+##### PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C).<a id=373></a>
 
 ###### Article R5167
 
@@ -38627,7 +38769,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-63 (V)
 
 
-##### PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*.<a id=373></a>
+##### PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*.<a id=374></a>
 
 ###### Article R5168
 
@@ -38672,7 +38814,7 @@ _Cité par_:
   - Code de la santé publique - art. R5169 (Ab)
 
 
-##### PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B).<a id=374></a>
+##### PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B).<a id=375></a>
 
 ###### Article R5165
 
@@ -38776,9 +38918,9 @@ _Modifié par_:
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 
-##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE<a id=375></a>
+##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE<a id=376></a>
 
-##### PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*.<a id=376></a>
+##### PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*.<a id=377></a>
 
 ###### Article R5169
 
@@ -39192,7 +39334,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=377></a>
+##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=378></a>
 
 ###### Article R5178
 
@@ -39393,7 +39535,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=378></a>
+##### PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=379></a>
 
 ###### Article R5183
 
@@ -39629,7 +39771,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=379></a>
+##### PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=380></a>
 
 ###### Article R5189
 
@@ -39669,7 +39811,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### 1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE.<a id=380></a>
+##### 1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE.<a id=381></a>
 
 ###### Article R5190
 
@@ -40179,7 +40321,7 @@ _Cite_:
   - Code de la santé publique R5189 à R5211
 
 
-##### 2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE.<a id=381></a>
+##### 2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE.<a id=382></a>
 
 ###### Article R5199
 
@@ -40822,7 +40964,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=382></a>
+##### SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=383></a>
 
 ###### Article R5212
 
@@ -40876,7 +41018,7 @@ _Cite_:
   - Code de la santé publique - art. R5149 (M)
 
 
-##### PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*.<a id=383></a>
+##### PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*.<a id=384></a>
 
 ###### Article R5227
 
@@ -40910,9 +41052,9 @@ _Cite_:
   - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 522
 
 
-##### SECTION 4 : PRODUITS CAPILLAIRES<a id=384></a>
+##### SECTION 4 : PRODUITS CAPILLAIRES<a id=385></a>
 
-##### PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX.<a id=385></a>
+##### PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX.<a id=386></a>
 
 ###### Article R5213
 
@@ -41090,7 +41232,7 @@ _Cité par_:
   - Code de la santé publique - art. R5218 (Ab)
 
 
-##### PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES.<a id=386></a>
+##### PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES.<a id=387></a>
 
 ###### Article R5217
 
@@ -41280,9 +41422,9 @@ _Cité par_:
   - Code de la santé publique - art. R5226 (M)
 
 
-##### SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE<a id=387></a>
+##### SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE<a id=388></a>
 
-##### PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=388></a>
+##### PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=389></a>
 
 ###### Article R5222
 
@@ -41457,9 +41599,9 @@ _Cite_:
   - Code de la santé publique - art. R5222 (M)
 
 
-##### SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS<a id=389></a>
+##### SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS<a id=390></a>
 
-##### INSPECTION.<a id=390></a>
+##### INSPECTION.<a id=391></a>
 
 ###### Article R5228
 
@@ -41532,7 +41674,7 @@ _Abrogé par_:
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 
-#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=391></a>
+#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=392></a>
 
 ###### Article R5229-1
 
@@ -41546,7 +41688,7 @@ _Codifié par_:
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
-#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=392></a>
+#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=393></a>
 
 ###### Article R5230
 
@@ -41920,7 +42062,7 @@ _Cité par_:
   - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
 
 
-#### Chapitre 4 : Médicaments antivénériens.<a id=393></a>
+#### Chapitre 4 : Médicaments antivénériens.<a id=394></a>
 
 ###### Article R5239
 
@@ -42006,7 +42148,7 @@ _Cite_:
   - Code de la santé publique L643, R5060 à R5089
 
 
-#### Chapitre 6 : Thermomètres médicaux.<a id=394></a>
+#### Chapitre 6 : Thermomètres médicaux.<a id=395></a>
 
 ###### Article R5243
 
@@ -42522,7 +42664,7 @@ _Cite_:
   - Code de la santé publique - art. R5254 (Ab)
 
 
-#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=395></a>
+#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=396></a>
 
 ###### Article R5242
 
@@ -42583,7 +42725,7 @@ _Cite_:
   - Code de la santé publique - art. L645 (Ab)
 
 
-#### Chapitre 7 : Biberons à tube et tétines.<a id=396></a>
+#### Chapitre 7 : Biberons à tube et tétines.<a id=397></a>
 
 ###### Article R5262
 
@@ -42744,9 +42886,9 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=397></a>
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=398></a>
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=398></a>
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=399></a>
 
 ###### Article R5267
 
@@ -42801,7 +42943,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=399></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=400></a>
 
 ###### Article R5269
 
@@ -42894,9 +43036,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 4 : Visa des spécialités anciennes<a id=400></a>
+#### Chapitre 4 : Visa des spécialités anciennes<a id=401></a>
 
-##### Section 1 : Spécialités pharmaceutiques.<a id=401></a>
+##### Section 1 : Spécialités pharmaceutiques.<a id=402></a>
 
 ###### Article R5272
 
@@ -42937,7 +43079,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-33 (V)
 
 
-##### Section 2 : Produits d'origine microbienne.<a id=402></a>
+##### Section 2 : Produits d'origine microbienne.<a id=403></a>
 
 ###### Article R5273
 
