@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1968-07-01
+Version Consolidée au 1968-12-22
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -340,7 +340,7 @@ Version Consolidée au 1968-07-01
             - [Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives. (art. R5071 à R5075)](#337)
             - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#338)
             - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#339)
-      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5148)](#340)
+      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5148 bis)](#340)
         - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#341)
           - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#342)
             - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#343)
@@ -362,8 +362,8 @@ Version Consolidée au 1968-07-01
           - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5142-1)](#359)
             - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#360)
             - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142-1)](#361)
-        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148)](#362)
-          - [Section 3 : Dispositions communes. (art. R5147 à R5148)](#363)
+        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#362)
+          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#363)
       - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266)](#364)
         - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5229)](#365)
           - [SECTION 1 : GENERALITES. (art. R5149)](#366)
@@ -37803,6 +37803,32 @@ _Cite_:
   - Code de la santé publique - art. L625 (Ab)
 
 
+###### Article R5147 bis
+
+L'estampillage [*de tout produit non remboursés*] prévu à l'article L. 625 est réalisé par le pharmacien au moyen d'une
+marque appliquée à l'encre indélébile et débordant de part et d'autre de la vignette ou d'un tampon à l'encre indélébile
+portant la mention "annulée".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
+
+_Abrogé par_:
+
+  - Décret n°97-1321 du 30 décembre 1997 - art. 3 () JORF 1er janvier 1998
+
+_Cite_:
+
+  - Code de la santé publique - art. L625 (Ab)
+
+
 ###### Article R5148
 
 La vignette prévue à l'article précédent doit être jointe par tous les intéressés à l'appui des demandes de remboursement
@@ -37843,6 +37869,48 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°61-39 1961-01-12 art. 2 JORF 13 janvier 1961
+
+
+###### Article R5148 bis
+
+En application des dispositions de l'article L. 625 bis du présent code, lorsqu'une spécialité pharmaceutique est présentée
+sous plusieurs conditionnements, différents quant à la contenance et au nombre d'unités thérapeutiques, le pharmacien est
+tenu de délivrer aux bénéficiaires d'un régime d'assurance maladie et aux bénéficiaires de l'aide sociale le conditionnement
+le plus approprié à la posologie et à la durée du traitement prescrit. En l'absence d'indication du médecin traitant sur la
+posologie et la durée du traitement, le pharmacien est tenu de délivrer le plus petit modèle de conditionnement
+commercialisé.
+
+Il ne peut être délivré en une seule fois une quantité de médicaments correspondant à une durée de traitement supérieure à un
+mois. Lorsque la prescription médicale comporte une durée de traitement supérieure, le médecin traitant, pour permettre la
+prise en charge de ces médicaments au titre d'un régime d'assurance maladie ou au titre de l'aide sociale, doit expressément
+mentionner sur l'ordonnance le nombre des renouvellements nécessaires par périodes maximales d'un mois dans la limite de six
+mois de traitement.
+
+Toutefois, pour les médicaments contraceptifs, la délivrance peut être effectuée pour une durée de trois mois. Les
+renouvellements sont autorisés, à la condition qu'il en soit fait mention sur l'ordonnance et dans la limite d'un an de
+traitement.
+
+La date de l'exécution de l'ordonnance doit être portée par le pharmacien sur celle-ci ainsi que sur la feuille de soins
+[*mentions obligatoires*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°75-317 1975-05-05 art. 1 JORF 6 mai 1975
+
+_Cite_:
+
+  - Code de la santé publique L625 bis
+
+_Créé par_:
+
+  - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
 
 
 ### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=364></a>
