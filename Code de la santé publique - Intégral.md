@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1983-11-11
+Version Consolidée au 1983-12-31
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -35051,10 +35051,20 @@ _Abrogé par_:
 
 ###### Article L772
 
-Dans les villes de 20.000 habitants et au-dessus [*nombre*], dans les stations de cure pour tuberculeux et dans les communes
-d'au moins 2.000 habitants qui sont le siège d'un établissement thermal il est institué, sous le nom de bureau d'hygiène, un
-service municipal chargé, sous l'autorité du maire, de l'application des dispositions relatives à la protection générale de
-la santé publique énumérées notamment au titre 1er du présent code.
+Les services municipaux de désinfection et les bureaux municipaux d'hygiène relèvent de la compétence des communes ou, le cas
+échéant, des groupements de communes, qui en assurent l'organisation et le financement, sous l'autorité du maire ou, le cas
+échéant, du président de l'établissement public de coopération intercommunal [*charge*].
+
+Les bureaux municipaux d'hygiène sont chargés, sous l'autorité du maire, de l'application des dispositions relatives à la
+protection générale de la santé publique énumérées, notamment, au titre Ier du livre Ier du présent code et relevant des
+autorités municipales.
+
+Jusqu'au 31 décembre 1984, les bureaux municipaux d'hygiène qui, à la date d'entrée en vigueur de la section 4 du titre II de
+la loi n° 83-663 du 22 juillet 1983, exercent effectivement des attributions en matière de vaccination ou de désinfection
+ainsi qu'en matière de contrôle administratif et technique des règles d'hygiène continuent d'exercer ces attributions par
+dérogation aux articles 38 et 49 de ladite loi. A ce titre, les communes dont relèvent ces bureaux municipaux d'hygiène
+reçoivent la dotation générale de décentralisation correspondante dans les conditions prévues par l'article 94 de la loi n°
+83-8 du 7 janvier 1983, relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -35063,9 +35073,15 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-_Anciens textes_:
+_Cite_:
 
-  - Loi n°1902-02-15 ART. 19
+  - Loi n°83-8 1983-01-07 ART. 94
+  - Loi n°83-663 1983-07-22 ART. 38, ART. 49
+
+_Modifié par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 41 () JORF 23 JUILLET 1983
+  - Loi n°83-1186 du 29 décembre 1983 - art. 25 () JORF 31 DECEMBRE 1983
 
 _Cité par_:
 
@@ -35080,6 +35096,10 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L1422-1 (V)
+
+_Anciens textes_:
+
+  - Loi n°1902-02-15 ART. 19
 
 
 #### SECTION 3 : MODALITES D'APPLICATION.<a id=292></a>
