@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1973-09-20
+Version Consolidée au 1974-05-16
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -238,7 +238,7 @@ Version Consolidée au 1973-09-20
         - [Chapitre 6 : Autres dispositions financières. (art. L706-1 à L709)](#235)
           - [Section 1 : Marchés. (art. L706-1)](#236)
           - [Section 2 : Recouvrement des recettes. (art. L708 à L709)](#237)
-        - [Chapitre 8 : Dispositions spéciales relatives à l'admission des militaires dans les hôpitaux civils. (art. L717 à L722)](#238)
+        - [Chapitre 8 : Dispositions spéciales relatives à l'admission des militaires dans les hôpitaux civils. (art. L719 à L722)](#238)
         - [Chapitre 9 : Dispositions diverses. (art. L724)](#239)
       - [Titre 2 : Thermo-climatisme (art. L735 à L752)](#240)
         - [Chapitre 1 : Sources d'eaux minérales (art. L735 à L751)](#241)
@@ -26725,46 +26725,6 @@ _Anciens textes_:
 
 #### Chapitre 8 : Dispositions spéciales relatives à l'admission des militaires dans les hôpitaux civils.<a id=238></a>
 
-###### Article L717
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab) JORF 16 mai 1974
-
-_Cité par_:
-
-  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab)
-
-
-###### Article L718
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab) JORF 16 mai 1974
-
-_Cité par_:
-
-  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab)
-
-
 ###### Article L719
 
 Les obligations imposées aux hospices civils ne peuvent, dans aucun cas, porter préjudice au service des fondations et de
@@ -26821,26 +26781,6 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Loi n°1877-07-07 ART. 6
-
-
-###### Article L721
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab) JORF 16 mai 1974
-
-_Cité par_:
-
-  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab)
 
 
 ###### Article L722
