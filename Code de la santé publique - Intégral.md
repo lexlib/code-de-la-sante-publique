@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1995-01-11
+Version Consolidée au 1995-02-03
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-21)](#2)
@@ -3392,10 +3392,10 @@ _Nouveaux textes_:
 ###### Article L35-5
 
 Tant que le propriétaire ne s'est pas conformé aux obligations prévues aux articles qui précèdent, il est astreint au
-paiement d'une somme au moins équivalente à la redevance qu'il aurait payée si son immeuble avait été raccordé au réseau et
-qui pourra être majorée dans une proportion fixée par le conseil municipal dans la limite de 100 p. 100 [*sanction, montant*]
-ou s'il est propriétaire d'une installation d'assainissement autonome, à la redevance qu'il aurait payée au service public
-d'assainissement.
+paiement d'une somme au moins équivalente à la redevance qu'il aurait payée au service public d'assainissement, soit si son
+immeuble avait été raccordé au réseau, soit s'il avait été équipé d'une installation d'assainissement autonome réglementaire
+et qui pourra être majorée dans une proportion fixée par le conseil municipal dans la limite de 100 p. 100 [*sanction,
+montant*].
 
 **Nota:**
 
@@ -3423,7 +3423,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-3 du 3 janvier 1992 - art. 36 () JORF 4 janvier 1992
+  - Loi n°95-101 du 2 février 1995 - art. 77 () JORF 3 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -3431,7 +3435,7 @@ _Nouveaux textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+  - SPEC_APPLI: Code de la santé publique - art. L51 (Ab)
 
 
 ###### Article L35-6
