@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1988-04-21
+Version Consolidée au 1988-05-03
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -304,8 +304,8 @@ Version Consolidée au 1988-04-21
           - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#301)
         - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R*5015-64)](#302)
           - [Section 1 : Organisation (art. R5014)](#303)
-          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5016 à R*5043)](#304)
-            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5016 à R*5028)](#305)
+          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5017 à R*5043)](#304)
+            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5017 à R5016)](#305)
             - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#306)
             - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#307)
           - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#308)
@@ -38639,31 +38639,6 @@ _Abrogé par_:
 
 ##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux<a id=305></a>
 
-###### Article R*5016
-
-L'action disciplinaire contre un pharmacien ne peut être introduite que par une plainte formulée par l'une des personnes
-suivantes :
-
-Le ministre de la santé publique et de la population, le ministre du travail et de la sécurité sociale, le ministre de la
-France d'outre-mer, le préfet, directeur départemental de la santé, le procureur de la République, le président du conseil
-national, d'un conseil central ou d'un conseil régional de l'Ordre des pharmaciens ou pharmacien inscrit à l'un des tableaux
-de l'Ordre.
-
-Cette plainte est adressée au président du conseil national ou au président d'un conseil central ou régional ; si elle est
-adressée au président du conseil national ou au président du conseil central "A", elle est transmise au conseil compétent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R4234-1 (V)
-
-
 ###### Article R*5017
 
 Le président du conseil central ou régional qui est saisi de la plainte l'enregistre et la notifie dans la quinzaine au
@@ -38955,6 +38930,27 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code de la santé publique - art. R5040 (Ab)
+
+
+###### Article R5016
+
+Cette plainte est adressée au président du Conseil national ou au président d'un conseil central ou régional ; si elle est
+adressée au président du Conseil national ou au président du conseil central "A", elle est transmise au conseil compétent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-484 1988-04-27 art. 19 JORF 3 mai 1988
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R4234-1 (V)
 
 
 ##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.<a id=306></a>
