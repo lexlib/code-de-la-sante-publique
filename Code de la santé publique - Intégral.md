@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1972-01-05
+Version Consolidée au 1972-07-14
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -128,8 +128,8 @@ Version Consolidée au 1972-01-05
         - [Chapitre 2 : Dispositions particulières aux personnes signalées par les services médicaux et sociaux (art. L355-18 à L355-20)](#125)
         - [Chapitre 3 : Dispositions particulières aux personnes se présentant spontanément aux services de prévention ou de cure (art. L355-21)](#126)
     - [LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX (art. L357 à L510-8)](#127)
-      - [TITRE 1 : PROFESSIONS DE MEDECIN, DE CHIRURGIEN DENTISTE ET DE SAGE-FEMME (art. L357 à L472)](#128)
-        - [CHAPITRE 1 : EXERCICE DE LA PROFESSION (art. L357 à L378)](#129)
+      - [TITRE 1 : PROFESSIONS DE MEDECIN, DE CHIRURGIEN DENTISTE ET DE SAGE-FEMME (art. L357 à L471)](#128)
+        - [CHAPITRE 1 : EXERCICE DE LA PROFESSION (art. L357 à L379)](#129)
           - [SECTION 1 : CONDITIONS AUXQUELLES EST SUBORDONNE L'EXERCICE DE LA PROFESSION. (art. L357 à L360)](#130)
           - [Section 2 : Règles d'exercice de la profession (art. L361 à L371)](#131)
             - [Paragraphe 1 : Règles communes *à l'exercice de la profession de médecin, chirurgien-dentiste ou sage-femme* (art. L361 à L366)](#132)
@@ -137,13 +137,13 @@ Version Consolidée au 1972-01-05
             - [Paragraphe 3 : Règles propres à l'exercice de la profession de chirurgien-dentiste (art. L368)](#134)
             - [Paragraphe 4 : Règles propres à l'exercice de la profession de sage-femme (art. L371)](#135)
           - [Section 3 : Exercice illégal des professions de médecin, de chirurgien-dentiste et de sage-femme (art. L372 à L373)](#136)
-          - [SECTION 4 : DISPOSITIONS PENALES. (art. L375 à L378)](#137)
+          - [SECTION 4 : DISPOSITIONS PENALES. (art. L375 à L379)](#137)
         - [Chapitre 2 : Organisation de la profession de médecin (art. L381 à L428)](#138)
           - [Section 1 : Ordre national des médecins (art. L381 à L382)](#139)
-          - [Section 2 : Conseils de l'Ordre des médecins (art. L383 à L409)](#140)
+          - [Section 2 : Conseils de l'Ordre des médecins (art. L383 à L410-1)](#140)
             - [Paragraphe 1 : Conseils départementaux *de l'Ordre des médecins* (art. L383 à L397)](#141)
             - [Paragraphe 2 : Conseils régionaux *de l'Ordre des médecins* (art. L398 à L403)](#142)
-            - [Paragraphe 3 : Conseil national *de l'Ordre des médecins* (art. L404 à L409)](#143)
+            - [Paragraphe 3 : Conseil national *de l'Ordre des médecins* (art. L404 à L410-1)](#143)
           - [Section 3 : Inscription aux tableaux départementaux de l'Ordre (art. L414 à L416)](#144)
           - [Section 4 : Discipline (art. L417 à L428)](#145)
         - [Chapitre 3 : Organisation de la profession dentaire (art. L429 à L443)](#146)
@@ -160,7 +160,7 @@ Version Consolidée au 1972-01-05
             - [Paragraphe 2 : Conseil national (art. L449 à L452)](#157)
           - [Section 3 : Inscription au tableau et discipline (art. L453 à L456)](#158)
         - [Chapitre 5 : Dispositions communes à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme (art. L457 à L465)](#159)
-        - [Chapitre 6 : Mesures d'adaptation pour les départements d'outre-mer. (art. L466 à L472)](#160)
+        - [Chapitre 6 : Mesures d'adaptation pour les départements d'outre-mer. (art. L466 à L471)](#160)
       - [TITRE 1 : PROFESSIONS DE SAGE-FEMME (art. L369 à L370)](#161)
         - [CHAPITRE 1 : EXERCICE DE LA PROFESSION (art. L369 à L370)](#162)
           - [SECTION 2 : REGLES D'EXERCICE DE LA PROFESSION (art. L369 à L370)](#163)
@@ -11515,6 +11515,57 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4111-6 (V)
 
 
+###### Article L357-1
+
+Les ressortissants [*étrangers*] d'un Etat ayant appartenu à l'Union française et n'ayant pas passé avec la France un
+engagement [*international*] visé à l'article L. 356 du présent code, qui, à la date de la publication de la loi n° 72-661 du
+13 juillet 1972, justifient avoir été régulièrement inscrits à l'ordre des médecins, des chirurgiens-dentistes ou des sages-
+femmes, sont autorisés à continuer la pratique de leur art, sous réserve de n'avoir pas été radiés de cet ordre à la suite
+d'une sanction disciplinaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Loi n°72-661 1972-07-13
+  - Code de la santé publique - art. L356 (M)
+
+_Créé par_:
+
+  - Loi n°72-661 1972-07-13 art. 2 JORF 14 juillet 1972
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Cité par_:
+
+  - Code de la santé publique - art. L372 (Ab)
+  - Code de la santé publique - art. L374 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4111-7 (V)
+
+
 ###### Article L358
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles :
@@ -11673,6 +11724,37 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. 6 (Ab)
   - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. ANNEXE (Ab)
   - TXT_SOURCE: Décret n°98-168 du 13 mars 1998
+
+
+###### Article L359-1
+
+Les étudiants en médecine français [*condition de nationalité*] peuvent être autorisés à effectuer une partie du stage
+pratique de fin d'études auprès d'un docteur en médecine, dans des conditions et suivant des modalités fixées par décret.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°72-660 1972-07-13 art. 3 JORF 14 juillet 1972
+
+_Cité par_:
+
+  - Décret n°97-495 du 16 mai 1997 - art. 7 (Ab)
+  - Décret n°2004-802 du 29 juillet 2004 - art. 6 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4131-7 (V)
 
 
 ###### Article L360
@@ -12448,6 +12530,36 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. L4162-1 (V)
   - Code de la santé publique - art. L4162-2 (Ab)
+
+
+###### Article L379
+
+Quiconque exerce la médecine, l'art dentaire ou la pratique des accouchements sans avoir fait enregistrer ou réenregistrer
+son diplôme en violation des dispositions de l'article L. 361 ci-dessus est puni d'une amende de 1.500 F à 8.000 F
+[*sanction*].
+
+Est punie de la même peine toute infraction à la règle posée à l'article L. 367 [*obligation de déférer aux réquisitions de
+l'autorité publique*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Modifié par_:
+
+  - Loi n°72-660 1972-07-13 ART. 5 JORF 14 JUILLET 1972
+
+_Cite_:
+
+  - Code de la santé publique - art. L361 (Ab)
+  - Code de la santé publique - art. L367 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4163-7 (V)
 
 
 #### Chapitre 2 : Organisation de la profession de médecin<a id=138></a>
@@ -13781,6 +13893,60 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4122-1 (M)
 
 
+###### Article L410-1
+
+Il est créé une commission de contrôle des comptes et placements financiers auprès du conseil national de l'ordre. Ses
+membres sont désignés par le conseil national en dehors des membres du bureau de ce conseil [*incompatibilité*].
+
+Elle doit se faire communiquer chaque année l'ensemble des comptes et le budget prévisionnel du conseil national de l'ordre.
+
+Elle doit être obligatoirement consultée par le conseil national de l'ordre avant la fixation de la cotisation prévue à
+l'article L. 410 ci-dessus.
+
+Le rapport de la commission de contrôle sur les comptes du conseil national de l'ordre et sur la fixation de la cotisation
+est publié dans le Bulletin officiel du conseil national de l'ordre.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°72-660 1972-07-13 art. 19 JORF 14 juillet 1972
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Cite_:
+
+  - Code de la santé publique - art. L410 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4132-6 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L491-7 (Ab)
+
+
 ##### Section 3 : Inscription aux tableaux départementaux de l'Ordre<a id=144></a>
 
 ###### Article L414
@@ -14901,18 +15067,6 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4123-1 (V)
 
 
-###### Article L434
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
 ###### Article L435
 
 Deux fois par an au moins [*périodicité*], le conseil départemental des médecins et le conseil départemental des chirurgiens-
@@ -15165,6 +15319,50 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. L4142-1 (V)
   - Code de la santé publique - art. L4441-12 (M)
+
+
+###### Article L439-1
+
+Le conseil national [*composition*] est assisté par un conseiller d'Etat ayant voix délibérative et qui est nommé par le
+garde des sceaux, ministre de la justice.
+
+Un conseiller d'Etat suppléant est désigné dans les mêmes conditions.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4142-2 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L440 (Ab)
+
+_Créé par_:
+
+  - Loi n°72-660 1972-07-13 art. 27 JORF 14 juillet 1972
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 ###### Article L440
@@ -16020,16 +16218,43 @@ _Cité par_:
   - Code de la santé publique - art. L471 (M)
 
 
-###### Article L458
+###### Article L457-1
 
-Article abrogé
+Il y a incompatibilité entre les fonctions de président ou de trésorier d'un conseil de l'Ordre (départemental, régional ou
+du conseil national) et l'une quelconque des fonctions correspondantes d'un syndicat professionnel départemental, régional ou
+national.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°72-660 1972-07-13 art. 35 JORF 14 juillet 1972
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4125-2 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L471 (M)
 
 
 ###### Article L459
@@ -16526,32 +16751,6 @@ _Cité par_:
   - Code de la santé publique - art. L471-7 (Ab)
 
 
-###### Article L472
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Loi n°72-660 1972-07-13 art. 44 JORF 14 juillet 1972
-
-_Cité par_:
-
-  - Code de la santé publique - art. L439 (Ab)
-  - Code de la santé publique - art. L449 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L4421-1 (M)
-  - Code de la santé publique - art. L4424-1 (V)
-
-
 ### TITRE 1 : PROFESSIONS DE SAGE-FEMME<a id=161></a>
 
 #### CHAPITRE 1 : EXERCICE DE LA PROFESSION<a id=162></a>
@@ -16660,6 +16859,51 @@ _Codifié par_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L4132-4 (M)
+
+
+###### Article L410
+
+Le conseil national [*autorité compétente*] fixe le montant unique de cotisation qui doit être versé par chaque médecin au
+conseil départemental ; il détermine également la quotité de cette cotisation qui doit être versée par le conseil
+départemental au conseil régional dont il relève et au conseil national.
+
+Les cotisations sont obligatoires, sous peine de sanction disciplinaire prononcée par le conseil régional.
+
+Le conseil national [*mission*] gère les biens de l'ordre et peut créer ou subventionner des oeuvres intéressant la
+profession médicale ainsi que les oeuvres d'entraide.
+
+Il surveille la gestion des conseils départementaux qui doivent l'informer préalablement de la création et lui rendre compte
+de la gestion de tous les organismes dépendant de ces conseils.
+
+Il verse aux conseils départementaux une somme destinée à assurer une harmonisation de leurs charges sur le plan national
+[*compensation*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Modifié par_:
+
+  - Loi n°72-660 1972-07-13 ART. 18 JORF 14 juillet 1972
+
+_Cité par_:
+
+  - Loi n°85-772 du 25 juillet 1985 - art. 13 (V)
+  - Code de la santé publique - art. L410-1 (Ab)
+  - Code de la santé publique - art. L431 (Ab)
+  - Code de la santé publique - art. L445 (Ab)
+  - Code de la santé publique - art. L491-7 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4122-2 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique L445 : APPLICATION A L'ORDRE NATIONAL DES SAGES-FEMMES
 
 
 ###### Article L411
