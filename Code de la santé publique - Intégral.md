@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-07-26
+Version Consolidée au 1994-07-27
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-11)](#2)
@@ -34036,7 +34036,9 @@ ainsi que l'exploitation de spécialités pharmaceutiques ou autres médicaments
 
 Toute entreprise qui comporte au moins un établissement pharmaceutique doit être la propriété d'un pharmacien ou d'une
 société à la gérance ou à la direction générale de laquelle participe un pharmacien, dans des conditions fixées par décret en
-Conseil d'Etat.
+Conseil d'Etat. Elle peut être, en tout ou partie, concédée en location-gérance à une société. Cette société doit être la
+propriété d'un pharmacien ou comporter la participation d'un pharmacien à sa direction générale ou à sa gérance. Les
+modalités d'exercice de la location-gérance sont déterminées par décret en Conseil d'Etat.
 
 Les pharmaciens mentionnés à l'alinéa précédent sont dénommés pharmaciens responsables. Ils sont personnellement responsables
 du respect des dispositions du présent livre ayant trait à leur activité, sans préjudice, le cas échéant, de la
@@ -34052,8 +34054,12 @@ et le contenu sont fixés par décret en Conseil d'Etat.
 
 **Nota:**
 
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article s'applique à la collectivité territoriale de
+Mayotte.*
+
+*Nota - Code de la santé publique L. 518 : dispositions pénales.*
+
+*Nota - Code de la santé publique L597 : dérogation.
 
 **Liens relatifs à cet article**
 
@@ -34133,9 +34139,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°92-1279 du 8 décembre 1992 - art. 11 () JORF 11 décembre 1992
-  - Loi n°92-1279 du 8 décembre 1992 - art. 12 () JORF 11 décembre 1992
-  - Loi n°92-1279 du 8 décembre 1992 - art. 13 () JORF 11 décembre 1992
+  - Loi n°94-637 du 25 juillet 1994 - art. 37 () JORF 27 juillet 1994
 
 _Nouveaux textes_:
 
@@ -34146,7 +34150,8 @@ _Nouveaux textes_:
 
 **Liens**:
 
-  - TXT_ASSOCIE: Code de la santé publique L597 : dérogation
+  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
+  - TXT_ASSOCIE: Code de la santé publique - art. L597 (M)
 
 
 ###### Article L596-1
