@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-05-30
+Version Consolidée au 1984-06-26
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -171,10 +171,10 @@ Version Consolidée au 1984-05-30
       - [Titre 2 : Profession d'infirmier ou d'infirmière (art. L473 à L486)](#168)
         - [Chapitre 1 : Conditions auxquelles est subordonné l'exercice de la profession (art. L473 à L477)](#169)
         - [Chapitre 2 : Règles d'exercice de la profession et dispositions pénales. (art. L478 à L486)](#170)
-      - [Titre 3 : Professions de masseur-kinésithérapeute et de pédicure (art. L488 à L503)](#171)
+      - [Titre 3 : Professions de masseur-kinésithérapeute et de pédicure (art. L488 à L504)](#171)
         - [Chapitre 1 : Masseur-kinésithérapeute (art. L488 à L491)](#172)
         - [Chapitre 2 : Pédicure-podologue. (art. L493 à L496)](#173)
-        - [Chapitre 3 : Dispositions communes et dispositions pénales (art. L497 à L503)](#174)
+        - [Chapitre 3 : Dispositions communes et dispositions pénales (art. L497 à L504)](#174)
       - [TITRE 3 : PROFESSION DE MASSEUR-KINESITHERAPEUTE (art. L487)](#175)
         - [CHAPITRE 1 : MASSEUR-KINESITHERAPEUTE. (art. L487)](#176)
       - [TITRE 3 : PROFESSION DE PEDICURE-PODOLOGUE (art. L492)](#177)
@@ -21151,6 +21151,35 @@ _Modifié par_:
 _Abrogé par_:
 
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L504
+
+Pour l'application des articles L. 487 et L. 492, les personnes ayant la qualité de réfugié ou d'apatride sont assimilées aux
+français.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°46-857 1946-04-30 ART. 17
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cite_:
+
+  - Code de la sécurité sociale L487, L492
+
+_Créé par_:
+
+  - Loi n°84-391 1984-06-25 ART. 10 JORF 26 MAI 1984
+
+_Abrogé par_:
+
+  - Loi n°85-772 du 25 juillet 1985 - art. 11 () JORF 26 juillet 1985
 
 
 ### TITRE 3 : PROFESSION DE MASSEUR-KINESITHERAPEUTE<a id=175></a>
