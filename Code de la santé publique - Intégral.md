@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1961-08-03
+Version Consolidée au 1961-08-30
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -23758,27 +23758,6 @@ _Anciens textes_:
 
   - Loi n°1918-08-14 ART. 2
   - Ordonnance 45-2529 1945-10-26 ART. 1
-
-
-###### Article L653
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L656 (Ab)
-  - Code de la santé publique - art. R5243 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la santé publique - art. L656 (Ab)
 
 
 ###### Article L654
