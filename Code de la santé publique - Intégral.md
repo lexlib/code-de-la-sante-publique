@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1991-05-11
+Version Consolidée au 1991-05-16
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -281,7 +281,7 @@ Version Consolidée au 1991-05-11
         - [Chapitre X : Dispositions diverses et transitoires. (art. L895)](#278)
         - [Dispositions finales. (art. L897)](#279)
   - [Partie réglementaire ancienne (art. R2009 à R5273)](#280)
-    - [Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales (art. R2009 à R2037)](#281)
+    - [Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales (art. R2009 à R2053)](#281)
       - [Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale (art. R2009 à R2020)](#282)
         - [Chapitre 2 : Organisation et agrément. (art. R2009 à R2011)](#283)
         - [Chapitre 1 : Constitution (art. R2001 à R2008)](#284)
@@ -291,126 +291,127 @@ Version Consolidée au 1991-05-11
       - [Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct. (art. R2039 à R2046)](#288)
       - [Titre 5 : Dispositions financières. (art. R2038)](#289)
       - [Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention. (art. R2032 à R2037)](#290)
-    - [Livre 5 : Pharmacie (art. R5001 à R5273)](#291)
-      - [Titre 1 : Dispositions générales (art. R5001 à R5089)](#292)
-        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5001 à R5013 bis)](#293)
-          - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#294)
-            - [Paragraphe 1 : Pharmacopée (art. R5001 à R5005)](#295)
-            - [Paragraphe 2 : Formulaire (art. R5006 à R5006-1)](#296)
-          - [Section 3 : Pharmaciens assistants (art. R5008 à R5012)](#297)
-          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#298)
-        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R5014-3)](#299)
-          - [Section 1 : Organisation (art. R5014)](#300)
-          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5017 à R*5043)](#301)
-            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5017 à R5016)](#302)
-            - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#303)
-            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#304)
-          - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#305)
-            - [Paragraphe 1 : Devoirs généraux des pharmaciens (art. R*5015-2 à R*5015-25)](#306)
-              - [1) Dispositions générales. (art. R*5015-2 à R*5015-3)](#307)
-              - [2) Du concours du pharmacien à l'oeuvre de protection de la santé. (art. R*5015-4 à R*5015-10)](#308)
-              - [3) De la responsabilité et de l'indépendance des pharmaciens. (art. R*5015-11 à R*5015-22)](#309)
-              - [4) De la tenue des établissements pharmaceutiques. (art. R*5015-23 à R*5015-25)](#310)
-            - [Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle (art. R*5015-26 à R*5015-38)](#311)
-              - [1) De la publicité. (art. R*5015-26 à R*5015-29)](#312)
-              - [2) De la concurrence déloyale. (art. R*5015-30 à R*5015-33)](#313)
-              - [3) Prohibition de certaines conventions ou ententes (art. R*5015-34 à R*5015-38)](#314)
-            - [Paragraphe 3 : Relations avec des agents de l'administration. (art. R*5015-39 à R*5015-42)](#315)
-            - [Paragraphe 4 : Des règles à observer dans les relations avec le public. (art. R*5015-43 à R*5015-47)](#316)
-            - [Paragraphe 5 : Relations avec les membres des professions médicales (art. R*5015-48 à R*5015-64)](#317)
-              - [1) Relations avec les membres des professions non pharmaceutiques. (art. R*5015-48 à R*5015-52)](#318)
-              - [2) Relations des pharmaciens avec leurs collaborateurs. (art. R*5015-53 à R*5015-55)](#319)
-              - [3) Devoirs des maîtres de stage. (art. R*5015-56 à R*5015-58)](#320)
-              - [4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires. (art. R*5015-59)](#321)
-              - [5) Devoirs de confraternité. (art. R*5015-60 à R*5015-64)](#322)
-          - [Section 1 bis : Composition du dossier d'inscription au tableau (art. R5014-1 à R5014-3)](#323)
-        - [Chapitre 4 : Réglementation de la publicité (art. R5047 à R5052-3)](#324)
-          - [Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551. (art. R5047 à R5051)](#325)
-          - [Section 1 : Dispositions générales. (art. R5045 à R5046-2)](#326)
-          - [Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement (art. R5055 à R5055-4)](#327)
-          - [Section 4 : Publicité en faveur des établissements pharmaceutiques. (art. R5053)](#328)
-          - [Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments (art. R5054 à R5054-3)](#329)
-          - [Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art. (art. R5052 à R5052-3)](#330)
-        - [Chapitre 5 : De l'inspection de la pharmacie (art. R5056 à R5089)](#331)
-          - [Section 1 : Fonctions des inspecteurs de la pharmacie. (art. R5056 à R5059)](#332)
-          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5060 à R5089)](#333)
-            - [Paragraphe 1 : Généralités (art. R5060)](#334)
-            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#335)
-            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#336)
-            - [Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives. (art. R5071 à R5075)](#337)
-            - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#338)
-            - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#339)
-      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#340)
-        - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#341)
-          - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#342)
-            - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#343)
-            - [Paragraphe 5 : Médicaments spécialisés de l'officine (art. R5097 à R5098)](#344)
-            - [Paragraphe 4 : Remèdes secrets (art. R5094 à R5096)](#345)
-            - [Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes (art. R5091 à R5091-9)](#346)
-            - [Paragraphe 1 : Exploitation des officines (art. R5090)](#347)
-            - [Paragraphe 6 : Produits officinaux divisés (art. R5098-1 à R5098-2)](#348)
-          - [Section 2 : Exercice personnel de la profession (art. R5099 à R5104)](#349)
-            - [Paragraphe 1 : Assistance par des pharmaciens (art. R5099)](#350)
-            - [Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis (art. R5100 à R5104)](#351)
-        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5144)](#352)
-          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-9)](#353)
-            - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#354)
-            - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#355)
-            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#356)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-9)](#357)
-              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#358)
-              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-9)](#359)
-          - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5144)](#360)
-            - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#361)
-            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142)](#362)
-            - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#363)
-        - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#364)
-          - [DISPOSITIONS GENERALES. (art. R5145)](#365)
-          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 ter)](#366)
-            - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#367)
-            - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#368)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 ter)](#369)
-          - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#370)
-            - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#371)
-            - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#372)
-            - [Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché. (art. R5146-33 à R5146-39-6)](#373)
-            - [Paragraphe 4 : Prélèvements d'échantillons. (art. R5146-40 à R5146-41)](#374)
-          - [Section 3 : Réglementation de la publicité. (art. R5146-42 à R5146-48)](#375)
-          - [SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES. (art. R5146-49 à R5146-50 bis)](#376)
-          - [SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS. (art. R5146-51 à R5146-55)](#377)
-          - [Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents. (art. R5146-56)](#378)
-          - [SECTION 7 : SANCTIONS. (art. R5146-57)](#379)
-        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#380)
-          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#381)
-        - [Chapitre 2 bis : Pharmacovigilance (art. R5144-1 à R5144-11)](#382)
-          - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#383)
-          - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#384)
-      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-16)](#385)
-        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5219)](#386)
-          - [SECTION 1 : GENERALITES. (art. R5149)](#387)
-          - [Section 2 : Substances dangereuses, stupéfiantes ou psychotropes (art. R5150 à R5189)](#388)
-            - [1 : Dispositions communes. (art. R5150 à R5151)](#389)
-            - [2 : Substances dangereuses. (art. R5152 à R5170)](#390)
-            - [3 : Substances stupéfiantes. (art. R5171 à R5182)](#391)
-            - [4 : Substances psychotropes. (art. R5183 à R5189)](#392)
-          - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact (art. R5190 à R5219)](#393)
-            - [1) Dispositions communes. (art. R5190 à R5203)](#394)
-            - [3) Régime particulier des stupéfiants. (art. R5209 à R5218)](#395)
-            - [2) Régime particulier des listes 1 et 2. (art. R5204 à R5208)](#396)
-            - [4) Régime particulier des psychotropes. (art. R5219)](#397)
-        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#398)
-        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#399)
-        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#400)
-        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#401)
-        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#402)
-        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-16)](#403)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#404)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#405)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#406)
-        - [Chapitre 5 : Homologation de certains produits et appareils. (art. R5274 à R5287)](#407)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#408)
-          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#409)
-          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#410)
+      - [Titre 7 : Assurance des promoteurs de recherches biomédicales (art. R2047 à R2053)](#291)
+    - [Livre 5 : Pharmacie (art. R5001 à R5273)](#292)
+      - [Titre 1 : Dispositions générales (art. R5001 à R5089)](#293)
+        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5001 à R5013 bis)](#294)
+          - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#295)
+            - [Paragraphe 1 : Pharmacopée (art. R5001 à R5005)](#296)
+            - [Paragraphe 2 : Formulaire (art. R5006 à R5006-1)](#297)
+          - [Section 3 : Pharmaciens assistants (art. R5008 à R5012)](#298)
+          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#299)
+        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R5014-3)](#300)
+          - [Section 1 : Organisation (art. R5014)](#301)
+          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5017 à R*5043)](#302)
+            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5017 à R5016)](#303)
+            - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#304)
+            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#305)
+          - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#306)
+            - [Paragraphe 1 : Devoirs généraux des pharmaciens (art. R*5015-2 à R*5015-25)](#307)
+              - [1) Dispositions générales. (art. R*5015-2 à R*5015-3)](#308)
+              - [2) Du concours du pharmacien à l'oeuvre de protection de la santé. (art. R*5015-4 à R*5015-10)](#309)
+              - [3) De la responsabilité et de l'indépendance des pharmaciens. (art. R*5015-11 à R*5015-22)](#310)
+              - [4) De la tenue des établissements pharmaceutiques. (art. R*5015-23 à R*5015-25)](#311)
+            - [Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle (art. R*5015-26 à R*5015-38)](#312)
+              - [1) De la publicité. (art. R*5015-26 à R*5015-29)](#313)
+              - [2) De la concurrence déloyale. (art. R*5015-30 à R*5015-33)](#314)
+              - [3) Prohibition de certaines conventions ou ententes (art. R*5015-34 à R*5015-38)](#315)
+            - [Paragraphe 3 : Relations avec des agents de l'administration. (art. R*5015-39 à R*5015-42)](#316)
+            - [Paragraphe 4 : Des règles à observer dans les relations avec le public. (art. R*5015-43 à R*5015-47)](#317)
+            - [Paragraphe 5 : Relations avec les membres des professions médicales (art. R*5015-48 à R*5015-64)](#318)
+              - [1) Relations avec les membres des professions non pharmaceutiques. (art. R*5015-48 à R*5015-52)](#319)
+              - [2) Relations des pharmaciens avec leurs collaborateurs. (art. R*5015-53 à R*5015-55)](#320)
+              - [3) Devoirs des maîtres de stage. (art. R*5015-56 à R*5015-58)](#321)
+              - [4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires. (art. R*5015-59)](#322)
+              - [5) Devoirs de confraternité. (art. R*5015-60 à R*5015-64)](#323)
+          - [Section 1 bis : Composition du dossier d'inscription au tableau (art. R5014-1 à R5014-3)](#324)
+        - [Chapitre 4 : Réglementation de la publicité (art. R5047 à R5052-3)](#325)
+          - [Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551. (art. R5047 à R5051)](#326)
+          - [Section 1 : Dispositions générales. (art. R5045 à R5046-2)](#327)
+          - [Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement (art. R5055 à R5055-4)](#328)
+          - [Section 4 : Publicité en faveur des établissements pharmaceutiques. (art. R5053)](#329)
+          - [Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments (art. R5054 à R5054-3)](#330)
+          - [Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art. (art. R5052 à R5052-3)](#331)
+        - [Chapitre 5 : De l'inspection de la pharmacie (art. R5056 à R5089)](#332)
+          - [Section 1 : Fonctions des inspecteurs de la pharmacie. (art. R5056 à R5059)](#333)
+          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5060 à R5089)](#334)
+            - [Paragraphe 1 : Généralités (art. R5060)](#335)
+            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#336)
+            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#337)
+            - [Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives. (art. R5071 à R5075)](#338)
+            - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#339)
+            - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#340)
+      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#341)
+        - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#342)
+          - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#343)
+            - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#344)
+            - [Paragraphe 5 : Médicaments spécialisés de l'officine (art. R5097 à R5098)](#345)
+            - [Paragraphe 4 : Remèdes secrets (art. R5094 à R5096)](#346)
+            - [Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes (art. R5091 à R5091-9)](#347)
+            - [Paragraphe 1 : Exploitation des officines (art. R5090)](#348)
+            - [Paragraphe 6 : Produits officinaux divisés (art. R5098-1 à R5098-2)](#349)
+          - [Section 2 : Exercice personnel de la profession (art. R5099 à R5104)](#350)
+            - [Paragraphe 1 : Assistance par des pharmaciens (art. R5099)](#351)
+            - [Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis (art. R5100 à R5104)](#352)
+        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5144)](#353)
+          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-9)](#354)
+            - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#355)
+            - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#356)
+            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#357)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-9)](#358)
+              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#359)
+              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-9)](#360)
+          - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5144)](#361)
+            - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#362)
+            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142)](#363)
+            - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#364)
+        - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#365)
+          - [DISPOSITIONS GENERALES. (art. R5145)](#366)
+          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 ter)](#367)
+            - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#368)
+            - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#369)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 ter)](#370)
+          - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#371)
+            - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#372)
+            - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#373)
+            - [Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché. (art. R5146-33 à R5146-39-6)](#374)
+            - [Paragraphe 4 : Prélèvements d'échantillons. (art. R5146-40 à R5146-41)](#375)
+          - [Section 3 : Réglementation de la publicité. (art. R5146-42 à R5146-48)](#376)
+          - [SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES. (art. R5146-49 à R5146-50 bis)](#377)
+          - [SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS. (art. R5146-51 à R5146-55)](#378)
+          - [Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents. (art. R5146-56)](#379)
+          - [SECTION 7 : SANCTIONS. (art. R5146-57)](#380)
+        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#381)
+          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#382)
+        - [Chapitre 2 bis : Pharmacovigilance (art. R5144-1 à R5144-11)](#383)
+          - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#384)
+          - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#385)
+      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-16)](#386)
+        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5219)](#387)
+          - [SECTION 1 : GENERALITES. (art. R5149)](#388)
+          - [Section 2 : Substances dangereuses, stupéfiantes ou psychotropes (art. R5150 à R5189)](#389)
+            - [1 : Dispositions communes. (art. R5150 à R5151)](#390)
+            - [2 : Substances dangereuses. (art. R5152 à R5170)](#391)
+            - [3 : Substances stupéfiantes. (art. R5171 à R5182)](#392)
+            - [4 : Substances psychotropes. (art. R5183 à R5189)](#393)
+          - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact (art. R5190 à R5219)](#394)
+            - [1) Dispositions communes. (art. R5190 à R5203)](#395)
+            - [3) Régime particulier des stupéfiants. (art. R5209 à R5218)](#396)
+            - [2) Régime particulier des listes 1 et 2. (art. R5204 à R5208)](#397)
+            - [4) Régime particulier des psychotropes. (art. R5219)](#398)
+        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#399)
+        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#400)
+        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#401)
+        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#402)
+        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#403)
+        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-16)](#404)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#405)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#406)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#407)
+        - [Chapitre 5 : Homologation de certains produits et appareils. (art. R5274 à R5287)](#408)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#409)
+          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#410)
+          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#411)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -41208,15 +41209,261 @@ _Cite_:
   - Code de la santé publique - art. R2036 (M)
 
 
-## Livre 5 : Pharmacie<a id=291></a>
+### Titre 7 : Assurance des promoteurs de recherches biomédicales<a id=291></a>
 
-### Titre 1 : Dispositions générales<a id=292></a>
+###### Article R2047
 
-#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=293></a>
+Les contrats d'assurance garantissant, dans les conditions prévues à l'article L. 209-7 du code de la santé publique, les
+conséquences pécuniaires de la responsabilité civile du promoteur et celle de tout intervenant ne peuvent pas déroger aux
+dispositions définies ci-dessous, sauf dans un sens plus favorable à l'intérêt des victimes.
 
-##### Section 1 : Pharmacopée et formulaire<a id=294></a>
+**Liens relatifs à cet article**
 
-##### Paragraphe 1 : Pharmacopée<a id=295></a>
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-7 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1121-2 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2048 (Ab)
+  - Code de la santé publique - art. R2049 (Ab)
+  - Code de la santé publique - art. R2050 (Ab)
+  - Code de la santé publique - art. R2052 (Ab)
+  - Code de la santé publique - art. R2053 (Ab)
+
+
+###### Article R2048
+
+Les contrats mentionnés à l'article R. 2047 ne peuvent prévoir de clauses excluant de la garantie les dommages subis par les
+victimes que dans les cas suivants :
+
+1° Les recherches biomédicales n'ont pas lieu dans les conditions prévues au premier tiret de l'article L. 209-3 du code de
+la santé publique ;
+
+2° Le consentement des personnes qui se prêtent à la recherche biomédicale n'est pas recueilli dans les conditions prévues
+aux articles L. 209-9 ou L. 209-10 du code de la santé publique ;
+
+3° La recherche est réalisée sans que l'avis du comité consultatif prévu à l'article L. 209-12 ait été obtenu ;
+
+4° Les prescriptions du quatrième alinéa de l'article L. 209-12 ne sont pas respectées ;
+
+5° Les dispositions de l'article L. 209-18 ne sont pas respectées ;
+
+6° La recherche a lieu en dépit d'une décision d'interdiction ou de suspension prise par le ministre en application du
+dernier alinéa de l'article L. 209-12.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-10 (M)
+  - Code de la santé publique - art. L209-12 (M)
+  - Code de la santé publique - art. L209-18 (M)
+  - Code de la santé publique - art. L209-3 (M)
+  - Code de la santé publique - art. L209-9 (M)
+  - Code de la santé publique - art. R2047 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1121-3 (M)
+
+
+###### Article R2049
+
+Les contrats mentionnés à l'article R. 2047 ne peuvent pas stipuler des garanties d'un montant inférieur à :
+
+1° 5 millions de francs par victime ;
+
+2° 30 millions de francs par protocole de recherche ;
+
+3° 50 millions de francs pour l'ensemble des réclamations présentées pendant une année d'assurance au titre de plusieurs
+protocoles de recherche.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1121-4 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2047 (M)
+
+
+###### Article R2050
+
+Les contrats mentionnés à l'article R. 2047 peuvent prévoir une franchise par victime.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1121-5 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2047 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2051 (Ab)
+
+
+###### Article R2051
+
+L'assureur ne peut pas opposer à la victime :
+
+1° Le fait que la recherche a été réalisée alors que le consentement n'avait pas été donné dans les conditions prévues aux
+articles L. 209-9 ou L. 209-10 du code de la santé publique ou avait été retiré ;
+
+2° La franchise prévue à l'article R. 2050 ;
+
+3° La réduction proportionnelle de l'indemnité (prévue à l'article L. 113-9 du code des assurances) ;
+
+4° La déchéance du contrat.
+
+Toutefois, il peut exercer une action en remboursement des sommes versées à la victime et payées au lieu et place de
+l'assuré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-10 (M)
+  - Code de la santé publique - art. L209-9 (M)
+  - Code de la santé publique - art. R2050 (Ab)
+  - Code des assurances - art. L113-9 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1121-6 (V)
+
+
+###### Article R2052
+
+Les contrats mentionnés à l'article R. 2047 prévoient que, quelle que soit la date de résiliation, l'assureur prend en charge
+les réclamations adressées à l'assuré par les victimes pendant la durée de la recherche biomédicale entreprise et jusqu'à
+l'expiration d'une période de dix ans suivant la fin de cette recherche.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+_Cite_:
+
+  - Code de la santé publique - art. R2047 (M)
+
+
+###### Article R2053
+
+La souscription des contrats mentionnés à l'article R. 2047 est justifiée par la production d'une attestation délivrée par
+l'assureur qui vaut présomption de garantie.
+
+Ces documents doivent nécessairement comporter les mentions suivantes :
+
+1° Les références aux dispositions législatives et réglementaires applicables ;
+
+2° La raison sociale de l'entreprise d'assurance ;
+
+3° Le numéro du contrat d'assurance ;
+
+4° La dénomination et l'adresse du souscripteur du contrat ;
+
+5° La dénomination précise de la recherche couverte par l'assurance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1121-7 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2047 (M)
+
+
+## Livre 5 : Pharmacie<a id=292></a>
+
+### Titre 1 : Dispositions générales<a id=293></a>
+
+#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=294></a>
+
+##### Section 1 : Pharmacopée et formulaire<a id=295></a>
+
+##### Paragraphe 1 : Pharmacopée<a id=296></a>
 
 ###### Article R5001
 
@@ -41496,7 +41743,7 @@ _Modifié par_:
   - Décret n°85-1297 1985-12-03 art. 3 JORF 5 décembre 1985
 
 
-##### Paragraphe 2 : Formulaire<a id=296></a>
+##### Paragraphe 2 : Formulaire<a id=297></a>
 
 ###### Article R5006
 
@@ -41561,7 +41808,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5112-5 (V)
 
 
-##### Section 3 : Pharmaciens assistants<a id=297></a>
+##### Section 3 : Pharmaciens assistants<a id=298></a>
 
 ###### Article R5008
 
@@ -41703,7 +41950,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-38 (V)
 
 
-##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.<a id=298></a>
+##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.<a id=299></a>
 
 ###### Article R*5013
 
@@ -41777,9 +42024,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4221-12 (T)
 
 
-#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=299></a>
+#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=300></a>
 
-##### Section 1 : Organisation<a id=300></a>
+##### Section 1 : Organisation<a id=301></a>
 
 ###### Article R5014
 
@@ -41809,9 +42056,9 @@ _Abrogé par_:
   - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 
-##### Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens<a id=301></a>
+##### Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens<a id=302></a>
 
-##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux<a id=302></a>
+##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux<a id=303></a>
 
 ###### Article R*5017
 
@@ -42127,7 +42374,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4234-1 (V)
 
 
-##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.<a id=303></a>
+##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.<a id=304></a>
 
 ###### Article R*5029
 
@@ -42445,7 +42692,7 @@ _Codifié par_:
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=304></a>
+##### Paragraphe 3 : Dispositions communes.<a id=305></a>
 
 ###### Article R*5042
 
@@ -42493,7 +42740,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4234-28 (T)
 
 
-##### Section 2 : Déontologie pharmaceutique<a id=305></a>
+##### Section 2 : Déontologie pharmaceutique<a id=306></a>
 
 ###### Article R*5015-1
 
@@ -42529,9 +42776,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-1 (V)
 
 
-##### Paragraphe 1 : Devoirs généraux des pharmaciens<a id=306></a>
+##### Paragraphe 1 : Devoirs généraux des pharmaciens<a id=307></a>
 
-##### 1) Dispositions générales.<a id=307></a>
+##### 1) Dispositions générales.<a id=308></a>
 
 ###### Article R*5015-2
 
@@ -42575,7 +42822,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-3 (V)
 
 
-##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.<a id=308></a>
+##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.<a id=309></a>
 
 ###### Article R*5015-4
 
@@ -42721,7 +42968,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-10 (V)
 
 
-##### 3) De la responsabilité et de l'indépendance des pharmaciens.<a id=309></a>
+##### 3) De la responsabilité et de l'indépendance des pharmaciens.<a id=310></a>
 
 ###### Article R*5015-11
 
@@ -42986,7 +43233,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-22 (V)
 
 
-##### 4) De la tenue des établissements pharmaceutiques.<a id=310></a>
+##### 4) De la tenue des établissements pharmaceutiques.<a id=311></a>
 
 ###### Article R*5015-23
 
@@ -43051,9 +43298,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-25 (V)
 
 
-##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle<a id=311></a>
+##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle<a id=312></a>
 
-##### 1) De la publicité.<a id=312></a>
+##### 1) De la publicité.<a id=313></a>
 
 ###### Article R*5015-26
 
@@ -43156,7 +43403,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-29 (V)
 
 
-##### 2) De la concurrence déloyale.<a id=313></a>
+##### 2) De la concurrence déloyale.<a id=314></a>
 
 ###### Article R*5015-30
 
@@ -43245,7 +43492,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-33 (V)
 
 
-##### 3) Prohibition de certaines conventions ou ententes<a id=314></a>
+##### 3) Prohibition de certaines conventions ou ententes<a id=315></a>
 
 ###### Article R*5015-34
 
@@ -43378,7 +43625,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-38 (V)
 
 
-##### Paragraphe 3 : Relations avec des agents de l'administration.<a id=315></a>
+##### Paragraphe 3 : Relations avec des agents de l'administration.<a id=316></a>
 
 ###### Article R*5015-39
 
@@ -43463,7 +43710,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-42 (V)
 
 
-##### Paragraphe 4 : Des règles à observer dans les relations avec le public.<a id=316></a>
+##### Paragraphe 4 : Des règles à observer dans les relations avec le public.<a id=317></a>
 
 ###### Article R*5015-43
 
@@ -43570,9 +43817,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-47 (V)
 
 
-##### Paragraphe 5 : Relations avec les membres des professions médicales<a id=317></a>
+##### Paragraphe 5 : Relations avec les membres des professions médicales<a id=318></a>
 
-##### 1) Relations avec les membres des professions non pharmaceutiques.<a id=318></a>
+##### 1) Relations avec les membres des professions non pharmaceutiques.<a id=319></a>
 
 ###### Article R*5015-48
 
@@ -43705,7 +43952,7 @@ _Cité par_:
   - Code de la santé publique - art. R5053-3 (Ab)
 
 
-##### 2) Relations des pharmaciens avec leurs collaborateurs.<a id=319></a>
+##### 2) Relations des pharmaciens avec leurs collaborateurs.<a id=320></a>
 
 ###### Article R*5015-53
 
@@ -43768,7 +44015,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-55 (V)
 
 
-##### 3) Devoirs des maîtres de stage.<a id=320></a>
+##### 3) Devoirs des maîtres de stage.<a id=321></a>
 
 ###### Article R*5015-56
 
@@ -43842,7 +44089,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-59 (V)
 
 
-##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.<a id=321></a>
+##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.<a id=322></a>
 
 ###### Article R*5015-59
 
@@ -43871,7 +44118,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-60 (V)
 
 
-##### 5) Devoirs de confraternité.<a id=322></a>
+##### 5) Devoirs de confraternité.<a id=323></a>
 
 ###### Article R*5015-60
 
@@ -43981,7 +44228,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-64 (V)
 
 
-##### Section 1 bis : Composition du dossier d'inscription au tableau<a id=323></a>
+##### Section 1 bis : Composition du dossier d'inscription au tableau<a id=324></a>
 
 ###### Article R5014-1
 
@@ -44130,9 +44377,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4222-3 (V)
 
 
-#### Chapitre 4 : Réglementation de la publicité<a id=324></a>
+#### Chapitre 4 : Réglementation de la publicité<a id=325></a>
 
-##### Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551.<a id=325></a>
+##### Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551.<a id=326></a>
 
 ###### Article R5047
 
@@ -44462,7 +44709,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5134-11 (V)
 
 
-##### Section 1 : Dispositions générales.<a id=326></a>
+##### Section 1 : Dispositions générales.<a id=327></a>
 
 ###### Article R5045
 
@@ -44663,7 +44910,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-5 (V)
 
 
-##### Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement<a id=327></a>
+##### Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement<a id=328></a>
 
 ###### Article R5055
 
@@ -44876,7 +45123,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-24 (Ab)
 
 
-##### Section 4 : Publicité en faveur des établissements pharmaceutiques.<a id=328></a>
+##### Section 4 : Publicité en faveur des établissements pharmaceutiques.<a id=329></a>
 
 ###### Article R5053
 
@@ -44901,7 +45148,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-65 (V)
 
 
-##### Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments<a id=329></a>
+##### Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments<a id=330></a>
 
 ###### Article R5054
 
@@ -45107,7 +45354,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-47 (Ab)
 
 
-##### Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art.<a id=330></a>
+##### Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art.<a id=331></a>
 
 ###### Article R5052
 
@@ -45248,9 +45495,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-22 (V)
 
 
-#### Chapitre 5 : De l'inspection de la pharmacie<a id=331></a>
+#### Chapitre 5 : De l'inspection de la pharmacie<a id=332></a>
 
-##### Section 1 : Fonctions des inspecteurs de la pharmacie.<a id=332></a>
+##### Section 1 : Fonctions des inspecteurs de la pharmacie.<a id=333></a>
 
 ###### Article R5056
 
@@ -45382,9 +45629,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-3 (V)
 
 
-##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques<a id=333></a>
+##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques<a id=334></a>
 
-##### Paragraphe 1 : Généralités<a id=334></a>
+##### Paragraphe 1 : Généralités<a id=335></a>
 
 ###### Article R5060
 
@@ -45408,7 +45655,7 @@ _Cite_:
   - Loi n°1905-08-01
 
 
-##### Paragraphe 2 : Prélèvements d'échantillons<a id=335></a>
+##### Paragraphe 2 : Prélèvements d'échantillons<a id=336></a>
 
 ###### Article R5061
 
@@ -45691,7 +45938,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-18 (V)
 
 
-##### Paragraphe 4 : Saisies<a id=336></a>
+##### Paragraphe 4 : Saisies<a id=337></a>
 
 ###### Article R5076
 
@@ -45746,7 +45993,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-19 (V)
 
 
-##### Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives.<a id=337></a>
+##### Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives.<a id=338></a>
 
 ###### Article R5071
 
@@ -45842,7 +46089,7 @@ _Cite_:
   - Code de la santé publique - art. R5071 (M)
 
 
-##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire<a id=338></a>
+##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire<a id=339></a>
 
 ###### Article R5079
 
@@ -46027,7 +46274,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-27 (V)
 
 
-##### Paragraphe 6 : Dispositions diverses<a id=339></a>
+##### Paragraphe 6 : Dispositions diverses<a id=340></a>
 
 ###### Article R5087
 
@@ -46081,13 +46328,13 @@ _Cite_:
   - Code de la santé publique - art. R5073 (M)
 
 
-### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=340></a>
+### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=341></a>
 
-#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine<a id=341></a>
+#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine<a id=342></a>
 
-##### Section 1 : Des officines de pharmacie<a id=342></a>
+##### Section 1 : Des officines de pharmacie<a id=343></a>
 
-##### Paragraphe 3 : Délivrance des médicaments<a id=343></a>
+##### Paragraphe 3 : Délivrance des médicaments<a id=344></a>
 
 ###### Article R5092
 
@@ -46143,7 +46390,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-46 (V)
 
 
-##### Paragraphe 5 : Médicaments spécialisés de l'officine<a id=344></a>
+##### Paragraphe 5 : Médicaments spécialisés de l'officine<a id=345></a>
 
 ###### Article R5097
 
@@ -46218,7 +46465,7 @@ _Modifié par_:
   - Décret n°60-326 1960-04-05 art. 2 JORF 7 avril 1960
 
 
-##### Paragraphe 4 : Remèdes secrets<a id=345></a>
+##### Paragraphe 4 : Remèdes secrets<a id=346></a>
 
 ###### Article R5094
 
@@ -46325,7 +46572,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-59 (V)
 
 
-##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes<a id=346></a>
+##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes<a id=347></a>
 
 ###### Article R5091
 
@@ -46623,7 +46870,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-25 (V)
 
 
-##### Paragraphe 1 : Exploitation des officines<a id=347></a>
+##### Paragraphe 1 : Exploitation des officines<a id=348></a>
 
 ###### Article R5090
 
@@ -46661,7 +46908,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-13 (V)
 
 
-##### Paragraphe 6 : Produits officinaux divisés<a id=348></a>
+##### Paragraphe 6 : Produits officinaux divisés<a id=349></a>
 
 ###### Article R5098-1
 
@@ -46731,9 +46978,9 @@ _Créé par_:
   - Décret n°62-509 1962-04-13 art. 1 JORF 19 avril 1962
 
 
-##### Section 2 : Exercice personnel de la profession<a id=349></a>
+##### Section 2 : Exercice personnel de la profession<a id=350></a>
 
-##### Paragraphe 1 : Assistance par des pharmaciens<a id=350></a>
+##### Paragraphe 1 : Assistance par des pharmaciens<a id=351></a>
 
 ###### Article R5099
 
@@ -46757,7 +47004,7 @@ _Cite_:
   - Code de la santé publique L579, R5008 à R5011
 
 
-##### Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis<a id=351></a>
+##### Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis<a id=352></a>
 
 ###### Article R5100
 
@@ -46968,11 +47215,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-43 (V)
 
 
-#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=352></a>
+#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=353></a>
 
-##### Section 1 : Des établissements de préparation et de vente en gros<a id=353></a>
+##### Section 1 : Des établissements de préparation et de vente en gros<a id=354></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=354></a>
+##### Paragraphe 1 : Dispositions générales.<a id=355></a>
 
 ###### Article R5105
 
@@ -47380,7 +47627,7 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=355></a>
+##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=356></a>
 
 ###### Article R5113
 
@@ -47521,7 +47768,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-37 (V)
 
 
-##### Paragraphe 4 : Dispositions d'exécution.<a id=356></a>
+##### Paragraphe 4 : Dispositions d'exécution.<a id=357></a>
 
 ###### Article R5116
 
@@ -47550,9 +47797,9 @@ _Modifié par_:
   - Décret n°60-326 1960-04-05 ART. 4 JORF 7 avril 1960
 
 
-##### Paragraphe 3 : Fonctionnement des établissements<a id=357></a>
+##### Paragraphe 3 : Fonctionnement des établissements<a id=358></a>
 
-##### 1° Exercice personnel de la profession.<a id=358></a>
+##### 1° Exercice personnel de la profession.<a id=359></a>
 
 ###### Article R5114-1
 
@@ -47792,7 +48039,7 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=359></a>
+##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=360></a>
 
 ###### Article R5115-1
 
@@ -48120,9 +48367,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-54 (V)
 
 
-##### Section 2 : Spécialités pharmaceutiques<a id=360></a>
+##### Section 2 : Spécialités pharmaceutiques<a id=361></a>
 
-##### Paragraphe 1 : Expérimentation des médicaments.<a id=361></a>
+##### Paragraphe 1 : Expérimentation des médicaments.<a id=362></a>
 
 ###### Article R5117
 
@@ -48689,7 +48936,7 @@ _Cite_:
   - Code de la santé publique - art. R5122 (M)
 
 
-##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=362></a>
+##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=363></a>
 
 ###### Article R5128
 
@@ -49798,7 +50045,7 @@ _Cite_:
   - Code de la santé publique R5060 à R5089
 
 
-##### PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES.<a id=363></a>
+##### PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES.<a id=364></a>
 
 ###### Article R5143
 
@@ -49952,9 +50199,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5121-202 (V)
 
 
-#### CHAPITRE 3 : PHARMACIE VETERINAIRE<a id=364></a>
+#### CHAPITRE 3 : PHARMACIE VETERINAIRE<a id=365></a>
 
-##### DISPOSITIONS GENERALES.<a id=365></a>
+##### DISPOSITIONS GENERALES.<a id=366></a>
 
 ###### Article R5145
 
@@ -50006,7 +50253,7 @@ _Cité par_:
   - Code de la santé publique - art. R5163 (M)
 
 
-##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.<a id=366></a>
+##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.<a id=367></a>
 
 ###### Article R5146
 
@@ -50030,7 +50277,7 @@ _Abrogé par_:
   - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
 
 
-##### Paragraphe 1 : Autorisation administrative.<a id=367></a>
+##### Paragraphe 1 : Autorisation administrative.<a id=368></a>
 
 ###### Article R5146-1
 
@@ -50143,7 +50390,7 @@ _Cite_:
   - Code de la santé publique - art. L616 (M)
 
 
-##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.<a id=368></a>
+##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.<a id=369></a>
 
 ###### Article R5146-6
 
@@ -50289,7 +50536,7 @@ _Cité par_:
   - Code de la santé publique - art. R5146-17 bis (Ab)
 
 
-##### Paragraphe 3 : Fonctionnement des établissements<a id=369></a>
+##### Paragraphe 3 : Fonctionnement des établissements<a id=370></a>
 
 ###### Article R5146-10
 
@@ -50668,9 +50915,9 @@ _Cité par_:
   - Arrêté du 5 mai 1997 - art. 1 (Ab)
 
 
-##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=370></a>
+##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=371></a>
 
-##### Paragraphe 1 : Expérimentation des médicaments vétérinaires.<a id=371></a>
+##### Paragraphe 1 : Expérimentation des médicaments vétérinaires.<a id=372></a>
 
 ###### Article R5146-18
 
@@ -50981,7 +51228,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-18 (M)
 
 
-##### Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché<a id=372></a>
+##### Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché<a id=373></a>
 
 ###### Article R5146-26
 
@@ -51328,7 +51575,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5146-28 (M)
 
 
-##### Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché.<a id=373></a>
+##### Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché.<a id=374></a>
 
 ###### Article R5146-33
 
@@ -51967,7 +52214,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-38 (M)
 
 
-##### Paragraphe 4 : Prélèvements d'échantillons.<a id=374></a>
+##### Paragraphe 4 : Prélèvements d'échantillons.<a id=375></a>
 
 ###### Article R5146-40
 
@@ -52026,7 +52273,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-29 (M)
 
 
-##### Section 3 : Réglementation de la publicité.<a id=375></a>
+##### Section 3 : Réglementation de la publicité.<a id=376></a>
 
 ###### Article R5146-42
 
@@ -52287,7 +52534,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
 
 
-##### SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES.<a id=376></a>
+##### SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES.<a id=377></a>
 
 ###### Article R5146-49
 
@@ -52454,7 +52701,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
 
 
-##### SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS.<a id=377></a>
+##### SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS.<a id=378></a>
 
 ###### Article R5146-51
 
@@ -52657,7 +52904,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5141-123 (M)
 
 
-##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.<a id=378></a>
+##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.<a id=379></a>
 
 ###### Article R5146-56
 
@@ -52690,7 +52937,7 @@ _Nouveaux textes_:
   - Code de la santé publique R5143-5
 
 
-##### SECTION 7 : SANCTIONS.<a id=379></a>
+##### SECTION 7 : SANCTIONS.<a id=380></a>
 
 ###### Article R5146-57
 
@@ -52739,9 +52986,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5442-5 (V)
 
 
-#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=380></a>
+#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=381></a>
 
-##### Section 3 : Dispositions communes.<a id=381></a>
+##### Section 3 : Dispositions communes.<a id=382></a>
 
 ###### Article R5147
 
@@ -52897,9 +53144,9 @@ _Créé par_:
   - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
 
 
-#### Chapitre 2 bis : Pharmacovigilance<a id=382></a>
+#### Chapitre 2 bis : Pharmacovigilance<a id=383></a>
 
-##### Section 1 : Organisation de la pharmacovigilance.<a id=383></a>
+##### Section 1 : Organisation de la pharmacovigilance.<a id=384></a>
 
 ###### Article R5144-1
 
@@ -53155,7 +53402,7 @@ _Cite_:
   - Code de la santé publique - art. R5144-8 (M)
 
 
-##### Section 2 : Déclarations obligatoires.<a id=384></a>
+##### Section 2 : Déclarations obligatoires.<a id=385></a>
 
 ###### Article R5144-8
 
@@ -53250,11 +53497,11 @@ _Cite_:
   - Code de la santé publique - art. R5144-9 (M)
 
 
-### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=385></a>
+### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=386></a>
 
-#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=386></a>
+#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=387></a>
 
-##### SECTION 1 : GENERALITES.<a id=387></a>
+##### SECTION 1 : GENERALITES.<a id=388></a>
 
 ###### Article R5149
 
@@ -53307,9 +53554,9 @@ _Cite_:
   - Code de la santé publique - art. R5152 (M)
 
 
-##### Section 2 : Substances dangereuses, stupéfiantes ou psychotropes<a id=388></a>
+##### Section 2 : Substances dangereuses, stupéfiantes ou psychotropes<a id=389></a>
 
-##### 1 : Dispositions communes.<a id=389></a>
+##### 1 : Dispositions communes.<a id=390></a>
 
 ###### Article R5150
 
@@ -53384,7 +53631,7 @@ _Cite_:
   - Code de la santé publique - art. R5182 (M)
 
 
-##### 2 : Substances dangereuses.<a id=390></a>
+##### 2 : Substances dangereuses.<a id=391></a>
 
 ###### Article R5152
 
@@ -54341,7 +54588,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
-##### 3 : Substances stupéfiantes.<a id=391></a>
+##### 3 : Substances stupéfiantes.<a id=392></a>
 
 ###### Article R5171
 
@@ -54929,7 +55176,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
-##### 4 : Substances psychotropes.<a id=392></a>
+##### 4 : Substances psychotropes.<a id=393></a>
 
 ###### Article R5183
 
@@ -55236,9 +55483,9 @@ _Cite_:
   - Code de la santé publique - art. R5182 (M)
 
 
-##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact<a id=393></a>
+##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact<a id=394></a>
 
-##### 1) Dispositions communes.<a id=394></a>
+##### 1) Dispositions communes.<a id=395></a>
 
 ###### Article R5190
 
@@ -55995,7 +56242,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-42 (V)
 
 
-##### 3) Régime particulier des stupéfiants.<a id=395></a>
+##### 3) Régime particulier des stupéfiants.<a id=396></a>
 
 ###### Article R5209
 
@@ -56518,7 +56765,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-##### 2) Régime particulier des listes 1 et 2.<a id=396></a>
+##### 2) Régime particulier des listes 1 et 2.<a id=397></a>
 
 ###### Article R5204
 
@@ -56754,7 +57001,7 @@ _Cité par_:
   - Code de la santé publique - art. R5209 (M)
 
 
-##### 4) Régime particulier des psychotropes.<a id=397></a>
+##### 4) Régime particulier des psychotropes.<a id=398></a>
 
 ###### Article R5219
 
@@ -56788,7 +57035,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=398></a>
+#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=399></a>
 
 ###### Article R5220
 
@@ -56900,7 +57147,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=399></a>
+#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=400></a>
 
 ###### Article R5230
 
@@ -57785,7 +58032,7 @@ _Cite_:
   - Code de la santé publique - art. R5235 (M)
 
 
-#### Chapitre 4 : Médicaments antivénériens.<a id=400></a>
+#### Chapitre 4 : Médicaments antivénériens.<a id=401></a>
 
 ###### Article R5239
 
@@ -57871,7 +58118,7 @@ _Cite_:
   - Code de la santé publique L643, R5060 à R5089
 
 
-#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=401></a>
+#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=402></a>
 
 ###### Article R5242
 
@@ -57932,7 +58179,7 @@ _Cite_:
   - Code de la santé publique - art. L645 (Ab)
 
 
-#### Chapitre 7 : Biberons à tube et tétines.<a id=402></a>
+#### Chapitre 7 : Biberons à tube et tétines.<a id=403></a>
 
 ###### Article R5262
 
@@ -58093,7 +58340,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=403></a>
+#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=404></a>
 
 ###### Article R5266-1
 
@@ -58618,9 +58865,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5136-18 (V)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=404></a>
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=405></a>
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=405></a>
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=406></a>
 
 ###### Article R5267
 
@@ -58675,7 +58922,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=406></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=407></a>
 
 ###### Article R5269
 
@@ -58768,7 +59015,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 5 : Homologation de certains produits et appareils.<a id=407></a>
+#### Chapitre 5 : Homologation de certains produits et appareils.<a id=408></a>
 
 ###### Article R5274
 
@@ -59226,9 +59473,9 @@ _Cite_:
   - Code de la santé publique - art. R5274 (Ab)
 
 
-#### Chapitre 4 : Visa des spécialités anciennes<a id=408></a>
+#### Chapitre 4 : Visa des spécialités anciennes<a id=409></a>
 
-##### Section 1 : Spécialités pharmaceutiques.<a id=409></a>
+##### Section 1 : Spécialités pharmaceutiques.<a id=410></a>
 
 ###### Article R5272
 
@@ -59269,7 +59516,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-33 (V)
 
 
-##### Section 2 : Produits d'origine microbienne.<a id=410></a>
+##### Section 2 : Produits d'origine microbienne.<a id=411></a>
 
 ###### Article R5273
 
