@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-05-26
+Version Consolidée au 1984-05-30
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -369,7 +369,7 @@ Version Consolidée au 1984-05-26
             - [Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives. (art. R5071 à R5075)](#366)
             - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#367)
             - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#368)
-      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5148 bis)](#369)
+      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#369)
         - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#370)
           - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#371)
             - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#372)
@@ -411,46 +411,48 @@ Version Consolidée au 1984-05-26
           - [SECTION 7 : SANCTIONS. (art. R5146-57)](#408)
         - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#409)
           - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#410)
-      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-15)](#411)
-        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5229)](#412)
-          - [SECTION 1 : GENERALITES. (art. R5149)](#413)
-          - [SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5152)](#414)
-            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5152)](#415)
-          - [SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5151 à R5166-1)](#416)
-            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5151 à R5164)](#417)
-            - [PARAGRAPHE 1 : GENERALITES. (art. R5150)](#418)
-            - [PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C). (art. R5167)](#419)
-            - [PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*. (art. R5168)](#420)
-            - [PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B). (art. R5165 à R5166-1)](#421)
-          - [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE (art. R5169 à R5211)](#422)
-            - [PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*. (art. R5169 à R5177)](#423)
-            - [PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5178 à R5182)](#424)
-            - [PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5183 à R5188)](#425)
-            - [PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5189 à R5211)](#426)
-              - [1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE. (art. R5190 à R5198)](#427)
-              - [2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE. (art. R5199 à R5211)](#428)
-          - [SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5212 à R5227)](#429)
-            - [PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*. (art. R5227)](#430)
-          - [SECTION 4 : PRODUITS CAPILLAIRES (art. R5213 à R5221)](#431)
-            - [PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX. (art. R5213 à R5216)](#432)
-            - [PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES. (art. R5217 à R5221)](#433)
-          - [SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE (art. R5222 à R5226)](#434)
-            - [PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5222 à R5226)](#435)
-          - [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS (art. R5228 à R5229)](#436)
-            - [INSPECTION. (art. R5228 à R5229)](#437)
-        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5229-2 à R5229-4)](#438)
-        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#439)
-        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#440)
-        - [Chapitre 6 : Thermomètres médicaux. (art. R5243 à R5261)](#441)
-        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#442)
-        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#443)
-        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-15)](#444)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#445)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#446)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#447)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#448)
-          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#449)
-          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#450)
+        - [Chapitre 2 bis : Pharmacovigilance (art. R5144-1 à R5144-11)](#411)
+          - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#412)
+          - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#413)
+      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-15)](#414)
+        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5229)](#415)
+          - [SECTION 1 : GENERALITES. (art. R5149)](#416)
+          - [SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5152)](#417)
+            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5152)](#418)
+          - [SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5151 à R5166-1)](#419)
+            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5151 à R5164)](#420)
+            - [PARAGRAPHE 1 : GENERALITES. (art. R5150)](#421)
+            - [PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C). (art. R5167)](#422)
+            - [PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*. (art. R5168)](#423)
+            - [PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B). (art. R5165 à R5166-1)](#424)
+          - [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE (art. R5169 à R5211)](#425)
+            - [PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*. (art. R5169 à R5177)](#426)
+            - [PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5178 à R5182)](#427)
+            - [PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5183 à R5188)](#428)
+            - [PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5189 à R5211)](#429)
+              - [1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE. (art. R5190 à R5198)](#430)
+              - [2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE. (art. R5199 à R5211)](#431)
+          - [SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5212 à R5227)](#432)
+            - [PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*. (art. R5227)](#433)
+          - [SECTION 4 : PRODUITS CAPILLAIRES (art. R5213 à R5221)](#434)
+            - [PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX. (art. R5213 à R5216)](#435)
+            - [PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES. (art. R5217 à R5221)](#436)
+          - [SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE (art. R5222 à R5226)](#437)
+            - [PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5222 à R5226)](#438)
+          - [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS (art. R5228 à R5229)](#439)
+            - [INSPECTION. (art. R5228 à R5229)](#440)
+        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#441)
+        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#442)
+        - [Chapitre 6 : Thermomètres médicaux. (art. R5243 à R5261)](#443)
+        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#444)
+        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#445)
+        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-15)](#446)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#447)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#448)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#449)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#450)
+          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#451)
+          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#452)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -50972,11 +50974,364 @@ _Créé par_:
   - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
 
 
-### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=411></a>
+#### Chapitre 2 bis : Pharmacovigilance<a id=411></a>
 
-#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=412></a>
+##### Section 1 : Organisation de la pharmacovigilance.<a id=412></a>
 
-##### SECTION 1 : GENERALITES.<a id=413></a>
+###### Article R5144-1
+
+Il est institué auprès du ministre chargé de la santé une Commission nationale de la pharmacovigilance dont la mission est
+[*attributions*] :
+
+1° De recueillir et d'évaluer les informations sur les effets inattendus ou toxiques des médicaments postérieurement à la
+délivrance de l'autorisation de mise sur le marché mentionnée à l'article L. 601 ;
+
+2° De donner un avis au ministre chargé de la santé sur les mesures à prendre, notamment en application des articles L. 601
+et L. 605, pour faire cesser les incidents et accidents qui se sont révélés liés à l'emploi d'un médicament ou à l'emploi
+simultané de plusieurs médicaments ;
+
+3° De proposer au ministre chargé de la santé les enquêtes et travaux qu'elle estime utiles à l'exercice de la
+pharmacovigilance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+_Cité par_:
+
+  - Arrêté du 7 août 1991 - art. 1 (V)
+  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
+  - Code de la santé publique - art. R5089-15 (Ab)
+  - Code de la santé publique - art. R5144-10 (Ab)
+  - Code de la santé publique - art. R5144-12 (Ab)
+  - Code de la santé publique - art. R5144-14 (Ab)
+  - Code de la santé publique - art. R5144-17 (Ab)
+  - Code de la santé publique - art. R5144-18 (M)
+  - Code de la santé publique - art. R5144-19 (Ab)
+  - Code de la santé publique - art. R5144-2 (Ab)
+  - Code de la santé publique - art. R5144-20 (Ab)
+  - Code de la santé publique - art. R5144-20-1 (Ab)
+  - Code de la santé publique - art. R5144-6 (Ab)
+  - Code de la santé publique - art. R5144-7 (Ab)
+  - Code de la santé publique - art. R5144-8 (Ab)
+  - Code de la santé publique - art. R5144-9 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L601 (M)
+  - Code de la santé publique - art. L605 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-150 (V)
+
+
+###### Article R5144-2
+
+La Commission nationale de la pharmacovigilance comprend [*composition*] :
+
+1° Cinq [*nombre*] membres de droit :
+
+Le directeur général de la santé ou son représentant ;
+
+Le directeur de la pharmacie et du médicament ou son représentant ;
+
+Le directeur des hôpitaux ou son représentant ;
+
+Le directeur général de l'Institut national de la santé et de la recherche médicale (I.N.S.E.R.M.) [*INSERM*] ou son
+représentant ;
+
+Le directeur du Laboratoire national de la santé ou son représentant.
+
+2° Vingt-sept membres nommés par le ministre chargé de la santé pour une durée de trois ans :
+
+Onze cliniciens dont au moins trois médecins généralistes ;
+
+Dix toxicologues ou pharmacologues ;
+
+Trois pharmaciens hospitaliers ;
+
+Un pharmacien d'officine ;
+
+Une personnalité scientifique proposée par le ministre chargé de la consommation ;
+
+Une personnalité compétente en matière de pharmacovigilance dans l'industrie pharmaceutique.
+
+Vingt-sept suppléants sont désignés dans les mêmes conditions que les membres titulaires.
+
+Le président et le vice-président sont désignés par le ministre chargé de la santé [*autorité compétente*] parmi les membres
+de la commission.
+
+En cas d'absence du président et du vice-président, le ministre chargé de la santé nomme un président de séance.
+
+La commission peut faire appel à des experts consultants choisis sur une liste établie par arrêté du ministre chargé de la
+santé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-151 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5139 (Ab)
+  - Code de la santé publique - art. R5144-18 (Ab)
+  - Code de la santé publique - art. R5144-3 (M)
+  - Code de la santé publique - art. R5144-6 (Ab)
+
+
+###### Article R5144-3
+
+Les travaux de la Commission nationale sont préparés par un comité technique présidé par le président de la commission
+nationale ou, en son absence, par le vice-président.
+
+Le comité technique comprend [*composition*] les membres de droit de la commission et un représentant de chacun des centres
+régionaux de pharmacovigilance mentionnés à l'article R. 5144-6.
+
+Le comité est chargé [*attributions*] notamment de coordonner la collecte des informations ainsi que les enquêtes et travaux
+demandés aux centres régionaux.
+
+Il peut faire appel pour tout ou partie de ses travaux aux experts mentionnés à l'article R. 5144-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-152 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5144-2 (M)
+  - Code de la santé publique - art. R5144-6 (M)
+
+
+###### Article R5144-4
+
+Le secrétariat de la Commission nationale et celui du comité technique sont assurés par la direction de la pharmacie et du
+médicament.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5047-5 (Ab)
+  - Code de la santé publique - art. R5142-15-15 (Ab)
+  - Code de la santé publique - art. R5204 (Ab)
+  - Code de la santé publique - art. R5218-1 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-153 (V)
+
+
+###### Article R5144-5
+
+La Commission nationale rassemble et exploite :
+
+1° Les informations que recueillent les centres régionaux mentionnés à l'article R. 5144-6 sur les effets inattendus ou
+toxiques des médicaments ;
+
+2° Les informations qui doivent lui être transmises en application de l'article R. 5144-9 par les titulaires d'autorisation
+de mise sur le marché d'un médicament au sujet des effets inattendus ou toxiques de ce médicament.
+
+La commission peut en outre être directement informée, notamment par les centres de traitement des intoxications, les
+médecins ou les pharmaciens.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-154 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5144-18 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5144-6 (M)
+  - Code de la santé publique - art. R5144-9 (M)
+
+
+###### Article R5144-6
+
+La création et l'organisation des centres régionaux de pharmacovigilance ainsi que les modalités de leur représentation au
+comité technique font l'objet de conventions conclues par le ministre chargé de la santé soit avec un centre hospitalier
+régional faisant partie d'un centre hospitalier et universitaire doté d'un service de pharmacologie clinique ou de
+pharmacologie, soit avec un centre de traitement des intoxications.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-155 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5144-17 (Ab)
+  - Code de la santé publique - art. R5144-3 (M)
+  - Code de la santé publique - art. R5144-5 (M)
+
+
+###### Article R5144-7
+
+Les centres régionaux sont chargés [*attributions*] pour le compte de la Commission nationale de pharmacovigilance :
+
+1° De recueillir les déclarations que doivent leur transmettre, en application de l'article R 5144-8, les médecins,
+chirurgiens-dentistes et sages-femmes ;
+
+2° De recueillir systématiquement les informations sur les effets inattendus ou toxiques des médicaments qui doivent leur
+être communiquées par les établissements publics d'hospitalisation ou les établissements participant à l'exécution du service
+public hospitalier ;
+
+3° De réunir les informations de même nature qui leur sont transmises par les autres établissements d'hospitalisation, ou, à
+titre individuel, notamment par des pharmaciens et des infirmières ou infirmiers ;
+
+4° De conduire les enquêtes et travaux demandés par le ministre chargé de la santé ;
+
+5° De contribuer au développement de l'information en matière de pharmacovigilance ;
+
+6° De contribuer au progrès scientifique concernant les méthodes de pharmacovigilance ainsi que la connaissance de la nature
+et des mécanismes des effets inattendus ou toxiques des médicaments.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-156 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5144-8 (M)
+
+
+##### Section 2 : Déclarations obligatoires.<a id=413></a>
+
+###### Article R5144-8
+
+Tout médecin, chirurgien-dentiste ou sage-femme, ayant constaté un effet inattendu ou toxique susceptible d'être dû à un
+médicament qu'il a prescrit doit [*obligation*] en faire la déclaration immédiate au centre régional de pharmacovigilance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-157 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5142-26 (M)
+  - Code de la santé publique - art. R5144-11 (M)
+  - Code de la santé publique - art. R5144-7 (M)
+
+
+###### Article R5144-9
+
+Le titulaire de l'autorisation de mise sur le marché d'un médicament doit déclarer à la Commission nationale de la
+pharmacovigilance tout effet inattendu ou toxique susceptible d'être dû à ce médicament et dont il a connaissance.
+
+Cette déclaration est effectuée semestriellement [*périodicité*] au cours de la première année qui suit la commercialisation
+du médicament ou la modification de l'autorisation de mise sur le marché, consécutive à un changement de composants, à de
+nouvelles indications thérapeutiques ou à de nouveaux modes d'administration. Elle est effectuée annuellement pour les années
+suivantes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+_Cité par_:
+
+  - Décret n°2003-633 du 2 juillet 2003 - art. 2 (Ab)
+  - Code de la santé publique - art. R5144-11 (M)
+  - Code de la santé publique - art. R5144-5 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-159 (Ab)
+
+
+###### Article R5144-10
+
+Lorsque, dans un établissement de préparation de produits pharmaceutiques, un pharmacien ou un médecin est chargé de la
+pharmacovigilance, le nom de ce pharmacien ou de ce médecin doit être communiqué à la Commission nationale de la
+pharmacovigilance par le pharmacien responsable de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+_Cité par_:
+
+  - Décret n°95-278 du 13 mars 1995 - art. 4 (Ab)
+  - Code de la santé publique - art. R5144-12 (Ab)
+
+
+###### Article R5144-11
+
+Les déclarations mentionnées aux articles R. 5144-8 et R. 5144-9 sont faites sur des imprimés dont le modèle est déterminé
+par arrêté du ministre chargé de la santé [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+_Cité par_:
+
+  - Arrêté du 23 novembre 1984 - art. 1 (V)
+  - Arrêté du 12 avril 1990 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-166 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5144-8 (M)
+  - Code de la santé publique - art. R5144-9 (M)
+
+
+### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=414></a>
+
+#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=415></a>
+
+##### SECTION 1 : GENERALITES.<a id=416></a>
 
 ###### Article R5149
 
@@ -51043,9 +51398,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L5132-1 (V)
 
 
-##### SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=414></a>
+##### SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=417></a>
 
-##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=415></a>
+##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=418></a>
 
 ###### Article R5152
 
@@ -51112,9 +51467,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-46 (V)
 
 
-##### SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=416></a>
+##### SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=419></a>
 
-##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=417></a>
+##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=420></a>
 
 ###### Article R5151
 
@@ -51649,7 +52004,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-59 (V)
 
 
-##### PARAGRAPHE 1 : GENERALITES.<a id=418></a>
+##### PARAGRAPHE 1 : GENERALITES.<a id=421></a>
 
 ###### Article R5150
 
@@ -51682,7 +52037,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-43 (V)
 
 
-##### PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C).<a id=419></a>
+##### PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C).<a id=422></a>
 
 ###### Article R5167
 
@@ -51744,7 +52099,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-63 (V)
 
 
-##### PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*.<a id=420></a>
+##### PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*.<a id=423></a>
 
 ###### Article R5168
 
@@ -51789,7 +52144,7 @@ _Cité par_:
   - Code de la santé publique - art. R5169 (Ab)
 
 
-##### PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B).<a id=421></a>
+##### PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B).<a id=424></a>
 
 ###### Article R5165
 
@@ -51893,9 +52248,9 @@ _Modifié par_:
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 
-##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE<a id=422></a>
+##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE<a id=425></a>
 
-##### PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*.<a id=423></a>
+##### PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*.<a id=426></a>
 
 ###### Article R5169
 
@@ -52309,7 +52664,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=424></a>
+##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=427></a>
 
 ###### Article R5178
 
@@ -52510,7 +52865,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=425></a>
+##### PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=428></a>
 
 ###### Article R5183
 
@@ -52746,7 +53101,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=426></a>
+##### PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=429></a>
 
 ###### Article R5189
 
@@ -52828,7 +53183,7 @@ _Créé par_:
   - Décret n°70-127 1970-02-06 ART. 1 JORF 14 février
 
 
-##### 1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE.<a id=427></a>
+##### 1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE.<a id=430></a>
 
 ###### Article R5190
 
@@ -53338,7 +53693,7 @@ _Cite_:
   - Code de la santé publique R5189 à R5211
 
 
-##### 2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE.<a id=428></a>
+##### 2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE.<a id=431></a>
 
 ###### Article R5199
 
@@ -54012,7 +54367,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-##### SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=429></a>
+##### SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=432></a>
 
 ###### Article R5212
 
@@ -54066,7 +54421,7 @@ _Cite_:
   - Code de la santé publique - art. R5149 (M)
 
 
-##### PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*.<a id=430></a>
+##### PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*.<a id=433></a>
 
 ###### Article R5227
 
@@ -54100,9 +54455,9 @@ _Cite_:
   - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 522
 
 
-##### SECTION 4 : PRODUITS CAPILLAIRES<a id=431></a>
+##### SECTION 4 : PRODUITS CAPILLAIRES<a id=434></a>
 
-##### PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX.<a id=432></a>
+##### PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX.<a id=435></a>
 
 ###### Article R5213
 
@@ -54280,7 +54635,7 @@ _Cité par_:
   - Code de la santé publique - art. R5218 (Ab)
 
 
-##### PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES.<a id=433></a>
+##### PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES.<a id=436></a>
 
 ###### Article R5217
 
@@ -54470,9 +54825,9 @@ _Cité par_:
   - Code de la santé publique - art. R5226 (M)
 
 
-##### SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE<a id=434></a>
+##### SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE<a id=437></a>
 
-##### PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=435></a>
+##### PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=438></a>
 
 ###### Article R5222
 
@@ -54647,9 +55002,9 @@ _Cite_:
   - Code de la santé publique - art. R5222 (M)
 
 
-##### SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS<a id=436></a>
+##### SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS<a id=439></a>
 
-##### INSPECTION.<a id=437></a>
+##### INSPECTION.<a id=440></a>
 
 ###### Article R5228
 
@@ -54722,88 +55077,7 @@ _Abrogé par_:
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 
-#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=438></a>
-
-###### Article R5229-2
-
-Les spécialités pharmaceutiques dans la composition desquelles entrent un ou plusieurs principes nouveaux ou qui constituent
-des associations nouvelles, ou encore qui se présentent avec de nouvelles indications thérapeutiques ou de nouveaux modes
-d'administration sont inscrites, par le ministre de la santé publique et de la sécurité sociale, sur la liste dite des
-médicaments nouveaux, lorsqu'elles ne sont pas soumises à la réglementation prévue aux articles R. 5169 et suivants, relatifs
-aux préparations contenant des substances inscrites aux tableaux A, B et C.
-
-Cette inscription est prononcée pour une durée de trois ans, soit à dater de la mise effective de la spécialité sur le
-marché, qui sera notifiée par le fabricant au ministre de la santé publique et de la sécurité sociale, soit à dater de
-l'inscription sur la liste des médicaments nouveaux, si celle-ci est postérieure à la mise effective sur le marché.
-
-Mention de cette inscription est, dans un cas comme dans l'autre, portée sur l'autorisation ministérielle prévue à l'article
-L. 601 (alinéa 2) du présent code.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°84-402 1984-05-24 ART. 2 JORF 30 MAI 1984
-
-_Cite_:
-
-  - Code de la santé publique - art. L601 (M)
-  - Code de la santé publique L601, R5169 et s.
-
-
-###### Article R5229-3
-
-Les spécialités pharmaceutiques inscrites sur la liste des médicaments nouveaux sont soumises, pour leur prescription, leur
-délivrance ou le renouvellement de leur prescription aux dispositions prévues aux articles R. 5179, R. 5180 et R. 5182 ci-
-dessus.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°84-402 1984-05-24 ART. 2 JORF 30 MAI 1984
-
-_Cite_:
-
-  - Code de la santé publique - art. R5179 (M)
-  - Code de la santé publique - art. R5180 (M)
-  - Code de la santé publique - art. R5182 (M)
-
-
-###### Article R5229-4
-
-Outre les indications prévues à l'article R. 5117 ci-dessus, le conditionnement extérieur et les étiquettes intérieures des
-spécialités pharmaceutiques inscrites sur la liste des médicaments nouveaux doivent comporter la mention : "A ne délivrer que
-sur prescription médicale", inscrite d'une manière très apparente en lettres noires sur fond blanc et entourée d'un cadre
-noir [*couleur*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°84-402 1984-05-24 ART. 2 JORF 30 MAI 1984
-
-_Cite_:
-
-  - Code de la santé publique - art. R5117 (M)
-
-
-#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=439></a>
+#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=441></a>
 
 ###### Article R5230
 
@@ -55177,7 +55451,7 @@ _Cité par_:
   - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
 
 
-#### Chapitre 4 : Médicaments antivénériens.<a id=440></a>
+#### Chapitre 4 : Médicaments antivénériens.<a id=442></a>
 
 ###### Article R5239
 
@@ -55263,7 +55537,7 @@ _Cite_:
   - Code de la santé publique L643, R5060 à R5089
 
 
-#### Chapitre 6 : Thermomètres médicaux.<a id=441></a>
+#### Chapitre 6 : Thermomètres médicaux.<a id=443></a>
 
 ###### Article R5243
 
@@ -55779,7 +56053,7 @@ _Cite_:
   - Code de la santé publique - art. R5254 (Ab)
 
 
-#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=442></a>
+#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=444></a>
 
 ###### Article R5242
 
@@ -55840,7 +56114,7 @@ _Cite_:
   - Code de la santé publique - art. L645 (Ab)
 
 
-#### Chapitre 7 : Biberons à tube et tétines.<a id=443></a>
+#### Chapitre 7 : Biberons à tube et tétines.<a id=445></a>
 
 ###### Article R5262
 
@@ -56001,7 +56275,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=444></a>
+#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=446></a>
 
 ###### Article R5266-1
 
@@ -56500,9 +56774,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5136-17 (V)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=445></a>
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=447></a>
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=446></a>
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=448></a>
 
 ###### Article R5267
 
@@ -56557,7 +56831,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=447></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=449></a>
 
 ###### Article R5269
 
@@ -56650,9 +56924,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 4 : Visa des spécialités anciennes<a id=448></a>
+#### Chapitre 4 : Visa des spécialités anciennes<a id=450></a>
 
-##### Section 1 : Spécialités pharmaceutiques.<a id=449></a>
+##### Section 1 : Spécialités pharmaceutiques.<a id=451></a>
 
 ###### Article R5272
 
@@ -56693,7 +56967,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-33 (V)
 
 
-##### Section 2 : Produits d'origine microbienne.<a id=450></a>
+##### Section 2 : Produits d'origine microbienne.<a id=452></a>
 
 ###### Article R5273
 
