@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1990-09-02
+Version Consolidée au 1990-09-29
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -279,126 +279,136 @@ Version Consolidée au 1990-09-02
           - [Section 1 : Activités, congés. (art. L850 à L859)](#276)
         - [Chapitre X : Dispositions diverses et transitoires. (art. L895)](#277)
         - [Dispositions finales. (art. L897)](#278)
-  - [Partie réglementaire ancienne (art. R5001 à R5273)](#279)
-    - [Livre 5 : Pharmacie (art. R5001 à R5273)](#280)
-      - [Titre 1 : Dispositions générales (art. R5001 à R5089)](#281)
-        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5001 à R5013 bis)](#282)
-          - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#283)
-            - [Paragraphe 1 : Pharmacopée (art. R5001 à R5005)](#284)
-            - [Paragraphe 2 : Formulaire (art. R5006 à R5006-1)](#285)
-          - [Section 3 : Pharmaciens assistants (art. R5008 à R5012)](#286)
-          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#287)
-        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R5014-3)](#288)
-          - [Section 1 : Organisation (art. R5014)](#289)
-          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5017 à R*5043)](#290)
-            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5017 à R5016)](#291)
-            - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#292)
-            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#293)
-          - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#294)
-            - [Paragraphe 1 : Devoirs généraux des pharmaciens (art. R*5015-2 à R*5015-25)](#295)
-              - [1) Dispositions générales. (art. R*5015-2 à R*5015-3)](#296)
-              - [2) Du concours du pharmacien à l'oeuvre de protection de la santé. (art. R*5015-4 à R*5015-10)](#297)
-              - [3) De la responsabilité et de l'indépendance des pharmaciens. (art. R*5015-11 à R*5015-22)](#298)
-              - [4) De la tenue des établissements pharmaceutiques. (art. R*5015-23 à R*5015-25)](#299)
-            - [Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle (art. R*5015-26 à R*5015-38)](#300)
-              - [1) De la publicité. (art. R*5015-26 à R*5015-29)](#301)
-              - [2) De la concurrence déloyale. (art. R*5015-30 à R*5015-33)](#302)
-              - [3) Prohibition de certaines conventions ou ententes (art. R*5015-34 à R*5015-38)](#303)
-            - [Paragraphe 3 : Relations avec des agents de l'administration. (art. R*5015-39 à R*5015-42)](#304)
-            - [Paragraphe 4 : Des règles à observer dans les relations avec le public. (art. R*5015-43 à R*5015-47)](#305)
-            - [Paragraphe 5 : Relations avec les membres des professions médicales (art. R*5015-48 à R*5015-64)](#306)
-              - [1) Relations avec les membres des professions non pharmaceutiques. (art. R*5015-48 à R*5015-52)](#307)
-              - [2) Relations des pharmaciens avec leurs collaborateurs. (art. R*5015-53 à R*5015-55)](#308)
-              - [3) Devoirs des maîtres de stage. (art. R*5015-56 à R*5015-58)](#309)
-              - [4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires. (art. R*5015-59)](#310)
-              - [5) Devoirs de confraternité. (art. R*5015-60 à R*5015-64)](#311)
-          - [Section 1 bis : Composition du dossier d'inscription au tableau (art. R5014-1 à R5014-3)](#312)
-        - [Chapitre 4 : Réglementation de la publicité (art. R5047 à R5054-3)](#313)
-          - [Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551. (art. R5047 à R5051)](#314)
-          - [Section 1 : Dispositions générales. (art. R5045 à R5046-2)](#315)
-          - [Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement (art. R5055 à R5055-4)](#316)
-          - [Section 4 : Publicité en faveur des établissements pharmaceutiques. (art. R5053)](#317)
-          - [Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art. (art. R5052 à R5052-3)](#318)
-          - [Section 5 : Commission de contrôle de la publicité. (art. R5054 à R5054-3)](#319)
-        - [Chapitre 5 : De l'inspection de la pharmacie (art. R5056 à R5089)](#320)
-          - [Section 1 : Fonctions des inspecteurs de la pharmacie. (art. R5056 à R5059)](#321)
-          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5060 à R5089)](#322)
-            - [Paragraphe 1 : Généralités (art. R5060)](#323)
-            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#324)
-            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#325)
-            - [Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives. (art. R5071 à R5075)](#326)
-            - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#327)
-            - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#328)
-      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#329)
-        - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#330)
-          - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#331)
-            - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#332)
-            - [Paragraphe 5 : Médicaments spécialisés de l'officine (art. R5097 à R5098)](#333)
-            - [Paragraphe 4 : Remèdes secrets (art. R5094 à R5096)](#334)
-            - [Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes (art. R5091 à R5091-9)](#335)
-            - [Paragraphe 1 : Exploitation des officines (art. R5090)](#336)
-            - [Paragraphe 6 : Produits officinaux divisés (art. R5098-1 à R5098-2)](#337)
-          - [Section 2 : Exercice personnel de la profession (art. R5099 à R5104)](#338)
-            - [Paragraphe 1 : Assistance par des pharmaciens (art. R5099)](#339)
-            - [Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis (art. R5100 à R5104)](#340)
-        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5144)](#341)
-          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-9)](#342)
-            - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#343)
-            - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#344)
-            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#345)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-9)](#346)
-              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#347)
-              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-9)](#348)
-          - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5144)](#349)
-            - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#350)
-            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142)](#351)
-            - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#352)
-        - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#353)
-          - [DISPOSITIONS GENERALES. (art. R5145)](#354)
-          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 ter)](#355)
-            - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#356)
-            - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#357)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 ter)](#358)
-          - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#359)
-            - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#360)
-            - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#361)
-            - [Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché. (art. R5146-33 à R5146-39-6)](#362)
-            - [Paragraphe 4 : Prélèvements d'échantillons. (art. R5146-40 à R5146-41)](#363)
-          - [Section 3 : Réglementation de la publicité. (art. R5146-42 à R5146-48)](#364)
-          - [SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES. (art. R5146-49 à R5146-50 bis)](#365)
-          - [SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS. (art. R5146-51 à R5146-55)](#366)
-          - [Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents. (art. R5146-56)](#367)
-          - [SECTION 7 : SANCTIONS. (art. R5146-57)](#368)
-        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#369)
-          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#370)
-        - [Chapitre 2 bis : Pharmacovigilance (art. R5144-1 à R5144-11)](#371)
-          - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#372)
-          - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#373)
-      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-15)](#374)
-        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5219)](#375)
-          - [SECTION 1 : GENERALITES. (art. R5149)](#376)
-          - [Section 2 : Substances dangereuses, stupéfiantes ou psychotropes (art. R5150 à R5189)](#377)
-            - [1 : Dispositions communes. (art. R5150 à R5151)](#378)
-            - [2 : Substances dangereuses. (art. R5152 à R5170)](#379)
-            - [3 : Substances stupéfiantes. (art. R5171 à R5182)](#380)
-            - [4 : Substances psychotropes. (art. R5183 à R5189)](#381)
-          - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact (art. R5190 à R5219)](#382)
-            - [1) Dispositions communes. (art. R5190 à R5203)](#383)
-            - [3) Régime particulier des stupéfiants. (art. R5209 à R5218)](#384)
-            - [2) Régime particulier des listes 1 et 2. (art. R5204 à R5208)](#385)
-            - [4) Régime particulier des psychotropes. (art. R5219)](#386)
-        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#387)
-        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#388)
-        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#389)
-        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#390)
-        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#391)
-        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-15)](#392)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#393)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#394)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#395)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#396)
-          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#397)
-          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#398)
+  - [Partie réglementaire ancienne (art. R2009 à R5273)](#279)
+    - [Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales (art. R2009 à R2037)](#280)
+      - [Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale (art. R2009 à R2020)](#281)
+        - [Chapitre 2 : Organisation et agrément. (art. R2009 à R2011)](#282)
+        - [Chapitre 1 : Constitution (art. R2001 à R2008)](#283)
+        - [Chapitre 3 : Financement et fonctionnement. (art. R2012 à R2020)](#284)
+      - [Titre 3 : Informations communiquées par l'investigateur au comité consultatif de protection des personnes dans la recherche biomédicale. (art. R2029 à R2031)](#285)
+      - [Titre 2 : Autorisation des lieux de recherches biomédicales sans bénéfice individuel direct (art. R2021 à R2028)](#286)
+      - [Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct. (art. R2039 à R2046)](#287)
+      - [Titre 5 : Dispositions financières. (art. R2038)](#288)
+      - [Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention. (art. R2032 à R2037)](#289)
+    - [Livre 5 : Pharmacie (art. R5001 à R5273)](#290)
+      - [Titre 1 : Dispositions générales (art. R5001 à R5089)](#291)
+        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5001 à R5013 bis)](#292)
+          - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#293)
+            - [Paragraphe 1 : Pharmacopée (art. R5001 à R5005)](#294)
+            - [Paragraphe 2 : Formulaire (art. R5006 à R5006-1)](#295)
+          - [Section 3 : Pharmaciens assistants (art. R5008 à R5012)](#296)
+          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#297)
+        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R5014-3)](#298)
+          - [Section 1 : Organisation (art. R5014)](#299)
+          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5017 à R*5043)](#300)
+            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5017 à R5016)](#301)
+            - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#302)
+            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#303)
+          - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#304)
+            - [Paragraphe 1 : Devoirs généraux des pharmaciens (art. R*5015-2 à R*5015-25)](#305)
+              - [1) Dispositions générales. (art. R*5015-2 à R*5015-3)](#306)
+              - [2) Du concours du pharmacien à l'oeuvre de protection de la santé. (art. R*5015-4 à R*5015-10)](#307)
+              - [3) De la responsabilité et de l'indépendance des pharmaciens. (art. R*5015-11 à R*5015-22)](#308)
+              - [4) De la tenue des établissements pharmaceutiques. (art. R*5015-23 à R*5015-25)](#309)
+            - [Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle (art. R*5015-26 à R*5015-38)](#310)
+              - [1) De la publicité. (art. R*5015-26 à R*5015-29)](#311)
+              - [2) De la concurrence déloyale. (art. R*5015-30 à R*5015-33)](#312)
+              - [3) Prohibition de certaines conventions ou ententes (art. R*5015-34 à R*5015-38)](#313)
+            - [Paragraphe 3 : Relations avec des agents de l'administration. (art. R*5015-39 à R*5015-42)](#314)
+            - [Paragraphe 4 : Des règles à observer dans les relations avec le public. (art. R*5015-43 à R*5015-47)](#315)
+            - [Paragraphe 5 : Relations avec les membres des professions médicales (art. R*5015-48 à R*5015-64)](#316)
+              - [1) Relations avec les membres des professions non pharmaceutiques. (art. R*5015-48 à R*5015-52)](#317)
+              - [2) Relations des pharmaciens avec leurs collaborateurs. (art. R*5015-53 à R*5015-55)](#318)
+              - [3) Devoirs des maîtres de stage. (art. R*5015-56 à R*5015-58)](#319)
+              - [4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires. (art. R*5015-59)](#320)
+              - [5) Devoirs de confraternité. (art. R*5015-60 à R*5015-64)](#321)
+          - [Section 1 bis : Composition du dossier d'inscription au tableau (art. R5014-1 à R5014-3)](#322)
+        - [Chapitre 4 : Réglementation de la publicité (art. R5047 à R5054-3)](#323)
+          - [Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551. (art. R5047 à R5051)](#324)
+          - [Section 1 : Dispositions générales. (art. R5045 à R5046-2)](#325)
+          - [Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement (art. R5055 à R5055-4)](#326)
+          - [Section 4 : Publicité en faveur des établissements pharmaceutiques. (art. R5053)](#327)
+          - [Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art. (art. R5052 à R5052-3)](#328)
+          - [Section 5 : Commission de contrôle de la publicité. (art. R5054 à R5054-3)](#329)
+        - [Chapitre 5 : De l'inspection de la pharmacie (art. R5056 à R5089)](#330)
+          - [Section 1 : Fonctions des inspecteurs de la pharmacie. (art. R5056 à R5059)](#331)
+          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5060 à R5089)](#332)
+            - [Paragraphe 1 : Généralités (art. R5060)](#333)
+            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#334)
+            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#335)
+            - [Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives. (art. R5071 à R5075)](#336)
+            - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#337)
+            - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#338)
+      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#339)
+        - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#340)
+          - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#341)
+            - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#342)
+            - [Paragraphe 5 : Médicaments spécialisés de l'officine (art. R5097 à R5098)](#343)
+            - [Paragraphe 4 : Remèdes secrets (art. R5094 à R5096)](#344)
+            - [Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes (art. R5091 à R5091-9)](#345)
+            - [Paragraphe 1 : Exploitation des officines (art. R5090)](#346)
+            - [Paragraphe 6 : Produits officinaux divisés (art. R5098-1 à R5098-2)](#347)
+          - [Section 2 : Exercice personnel de la profession (art. R5099 à R5104)](#348)
+            - [Paragraphe 1 : Assistance par des pharmaciens (art. R5099)](#349)
+            - [Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis (art. R5100 à R5104)](#350)
+        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5144)](#351)
+          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-9)](#352)
+            - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#353)
+            - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#354)
+            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#355)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-9)](#356)
+              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#357)
+              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-9)](#358)
+          - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5144)](#359)
+            - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#360)
+            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142)](#361)
+            - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#362)
+        - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#363)
+          - [DISPOSITIONS GENERALES. (art. R5145)](#364)
+          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 ter)](#365)
+            - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#366)
+            - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#367)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 ter)](#368)
+          - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#369)
+            - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#370)
+            - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#371)
+            - [Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché. (art. R5146-33 à R5146-39-6)](#372)
+            - [Paragraphe 4 : Prélèvements d'échantillons. (art. R5146-40 à R5146-41)](#373)
+          - [Section 3 : Réglementation de la publicité. (art. R5146-42 à R5146-48)](#374)
+          - [SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES. (art. R5146-49 à R5146-50 bis)](#375)
+          - [SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS. (art. R5146-51 à R5146-55)](#376)
+          - [Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents. (art. R5146-56)](#377)
+          - [SECTION 7 : SANCTIONS. (art. R5146-57)](#378)
+        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#379)
+          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#380)
+        - [Chapitre 2 bis : Pharmacovigilance (art. R5144-1 à R5144-11)](#381)
+          - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#382)
+          - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#383)
+      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-16)](#384)
+        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5219)](#385)
+          - [SECTION 1 : GENERALITES. (art. R5149)](#386)
+          - [Section 2 : Substances dangereuses, stupéfiantes ou psychotropes (art. R5150 à R5189)](#387)
+            - [1 : Dispositions communes. (art. R5150 à R5151)](#388)
+            - [2 : Substances dangereuses. (art. R5152 à R5170)](#389)
+            - [3 : Substances stupéfiantes. (art. R5171 à R5182)](#390)
+            - [4 : Substances psychotropes. (art. R5183 à R5189)](#391)
+          - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact (art. R5190 à R5219)](#392)
+            - [1) Dispositions communes. (art. R5190 à R5203)](#393)
+            - [3) Régime particulier des stupéfiants. (art. R5209 à R5218)](#394)
+            - [2) Régime particulier des listes 1 et 2. (art. R5204 à R5208)](#395)
+            - [4) Régime particulier des psychotropes. (art. R5219)](#396)
+        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#397)
+        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#398)
+        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#399)
+        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#400)
+        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#401)
+        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-16)](#402)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#403)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#404)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#405)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#406)
+          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#407)
+          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#408)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -39133,15 +39143,1732 @@ _Abrogé par_:
 
 # Partie réglementaire ancienne<a id=279></a>
 
-## Livre 5 : Pharmacie<a id=280></a>
+## Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales<a id=280></a>
 
-### Titre 1 : Dispositions générales<a id=281></a>
+### Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale<a id=281></a>
 
-#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=282></a>
+#### Chapitre 2 : Organisation et agrément.<a id=282></a>
 
-##### Section 1 : Pharmacopée et formulaire<a id=283></a>
+###### Article R2009
 
-##### Paragraphe 1 : Pharmacopée<a id=284></a>
+L'organisation des comités est définie par des statuts conformes à des statuts types fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-18 (M)
+
+
+###### Article R2010
+
+Le président du comité sollicite l'agrément de celui-ci auprès du ministre chargé de la santé. Sa demande est accompagnée des
+documents [*joints*] ou informations suivants :
+
+1. Les statuts du comité ;
+
+2. L'adresse de son siège et ses moyens prévisionnels de fonctionnement, notamment en personnel ;
+
+3. L'identité et la qualité des membres du comité.
+
+Le comité est agréé par arrêté du ministre chargé de la santé publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-10 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2011 (Ab)
+
+
+###### Article R2011
+
+Toute modification concernant les documents ou informations mentionnés à l'article R. 2010 est communiquée au ministre chargé
+de la santé par le président du comité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-11 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2010 (Ab)
+
+
+#### Chapitre 1 : Constitution<a id=283></a>
+
+###### Article R2001
+
+Les comités consultatifs de protection des personnes dans la recherche biomédicale comprennent douze membres titulaires
+[*composition*] :
+
+1. Quatre personnes, dont au moins trois médecins, ayant une qualification et une expérience approfondie en matière de
+recherche biomédicale ;
+
+2. Un médecin généraliste ;
+
+3. Deux pharmaciens dont l'un au moins exerce dans un établissement de soins ;
+
+4. Une infirmière ou un infirmier au sens des articles L. 473 à L. 477 du code de la santé publique ;
+
+5. Une personne qualifiée en raison de sa compétence à l'égard des questions d'éthique ;
+
+6. Une personne qualifiée en raison de son activité dans le domaine social ;
+
+7. Une personne autorisée à faire usage du titre de psychologue ;
+
+8. Une personne qualifiée en raison de sa compétence en matière juridique.
+
+Les comités comprennent en outre douze membres suppléants satisfaisant aux mêmes conditions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Cité par_:
+
+  - Code de la santé publique - art. D2001 (Ab)
+  - Code de la santé publique - art. R2003 (Ab)
+  - Code de la santé publique - art. R2004 (Ab)
+  - Code de la santé publique - art. R2006 (Ab)
+  - Code de la santé publique - art. R2008 (Ab)
+  - Code de la santé publique - art. R2014 (M)
+  - Code de la santé publique - art. R2015 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-1 (M)
+  - Code de la santé publique - art. R1123-1 (V)
+
+_Cite_:
+
+  - Code de la santé publique L473 à L477
+
+
+###### Article R2002
+
+Chaque comité a son siège au sein de la direction régionale des affaires sanitaires et sociales ou d'une direction
+départementale des affaires sanitaires et sociales. La direction régionale peut passer convention avec un établissement
+hospitalier public aux fins de donner aux comités les moyens en locaux, matériels, et éventuellement en secrétariat,
+nécessaires pour assurer leur mission moyennant une rémunération forfaitaire versée par le comité intéressé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+
+###### Article R2003
+
+Le préfet de région établit, pour chacune des catégories énumérées à l'article R. 2001, la liste des personnes susceptibles
+d'être tirées au sort pour siéger dans un comité déterminé.
+
+Cette liste comprend au maximum :
+
+1. Pour les médecins ou personnes qualifiés en matière de recherche biomédicale : quarante personnes, dont les trois quarts
+au moins sont médecins, parmi lesquelles :
+
+a) Quinze personnes au plus, dont au moins les trois quarts sont des médecins, présentées par les directeurs d'unités de
+formation et de recherche médicales de la région ;
+
+b) Quinze personnes au plus, dont au moins les trois quarts sont des médecins, présentées par le directeur général de
+l'Institut national de la santé et de la recherche médicale ou son représentant dans la région ;
+
+c) Dix personnes au plus, dont au moins les trois quarts sont des médecins, présentées par le préfet de région après
+consultation des principaux établissements de soins et des autres établissements ou organismes compétents en matière de
+formation ou de recherche biomédicale dans la région ;
+
+2. Pour les médecins généralistes :
+
+a) Quatre médecins présentés par le président du conseil régional de l'Ordre national des médecins après consultation des
+présidents des conseils départementaux de l'ordre dans la région ;
+
+b) Trois médecins enseignants ou maîtres de stage présentés par le ou les recteurs d'académie ;
+
+c) Trois médecins présentés par l'union régionale des associations de formation médicale continue ;
+
+3. Pour les pharmaciens, vingt personnes, à savoir :
+
+a) Quatorze pharmaciens exerçant dans des établissements de soins, de formation ou de recherche biomédicale, présentés par le
+préfet de région après consultation des principaux établissements de cette nature dans la région ;
+
+b) Trois pharmaciens titulaires d'officine présentés par le président du conseil régional de l'Ordre national des
+pharmaciens ;
+
+c) Trois pharmaciens-assistants d'officine présentés par le président du conseil central de la section D de l'Ordre national
+des pharmaciens ;
+
+4. Pour les infirmières ou infirmiers :
+
+Dix infirmières ou infirmiers, dont neuf exerçant dans des établissements de soins et un exerçant à titre libéral, présentés
+par le préfet de région ;
+
+5. Pour les personnes qualifiées en matière d'éthique :
+
+a) Six personnes enseignant dans le domaine des sciences humaines dans l'enseignement supérieur ou secondaire présentées par
+le ou les recteurs d'académie ;
+
+b) Quatre personnes présentées par le préfet de région après consultation des représentants des principaux courants de
+pensée ;
+
+6. Pour les personnes qualifiées dans le domaine social :
+
+a) Deux personnes présentées par l'union régionale des organisations de consommateurs ;
+
+b) Deux personnes présentées par l'union régionale des associations familiales ;
+
+c) Deux personnes présentées par le président du comité régional des retraités et des personnes âgées ou, à défaut, par le
+préfet de région après consultation des principales organisations de personnes âgées dans la région ;
+
+d) Deux personnes présentées par le préfet de région après consultation des principales organisations de malades ou de
+personnes handicapées présentes dans la région ;
+
+e) Deux assistantes ou assistants de service social présentés par le préfet de région ;
+
+7. Pour les personnes autorisées à faire usage du titre de psychologue :
+
+Dix personnes présentées par le préfet de région ;
+
+8. Pour les personnes qualifiées en matière juridique :
+
+a) Deux magistrats présentés par le premier président de la cour d'appel dans le ressort de laquelle siège le comité ;
+
+b) Deux magistrats présentés par le président du tribunal de grande instance dans le ressort duquel siège le comité ;
+
+c) Trois avocats présentés par le bâtonnier du barreau près le tribunal de grande instance dans le ressort duquel siège le
+comité ;
+
+d) Deux personnes enseignant le droit, présentées par le ou les présidents de la ou des universités de la région.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-2 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2001 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2007 (M)
+
+
+###### Article R2004
+
+Le préfet de région fait procéder, dans chaque catégorie, au tirage au sort du nombre de membres titulaires prévu à l'article
+R. 2001 puis, dans les mêmes conditions, d'un nombre égal de membres suppléants.
+
+Ce tirage au sort est public et fait l'objet d'une publicité préalable.
+
+Nul ne peut faire l'objet d'un tirage au sort s'il est déjà membre d'un comité consultatif de protection des personnes dans
+la recherche biomédicale.
+
+Il ne peut être procédé au tirage au sort d'une catégorie de membres si le nombre de personnes pouvant être tirées au sort
+n'est pas au moins le double du nombre des membres titulaires et suppléants prévu à l'article R. 2001 pour cette catégorie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°97-888 1997-10-01 art. 1 3° JORF 2 octobre 1997
+
+_Cite_:
+
+  - Code de la santé publique - art. R2001 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2007 (M)
+
+
+###### Article R2005
+
+Les personnes tirées au sort sont nommées par le préfet de région. Ces nominations sont publiées au Journal officiel de la
+République française.
+
+Le mandat des membres des comités est de six ans. Toutefois, lors de la création d'un nouveau comité, le premier mandat des
+membres faisant l'objet du premier renouvellement mentionné à l'article R. 2006 est de trois ans [*durée*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-3 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2006 (Ab)
+
+
+###### Article R2006
+
+Les comités sont renouvelés par moitié tous les trois ans [*périodicité*].
+
+Le premier renouvellement porte sur la moitié des membres des catégories 1 et 3, désignés par tirage au sort, ainsi que sur
+les membres des catégories 2, 7 et 8 mentionnées à l'article R. 2001. Le renouvellement suivant porte sur les autres membres
+des catégories 1 et 3 ainsi que sur les membres des catégories 4, 5 et 6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-4 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2001 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2005 (Ab)
+
+
+###### Article R2007
+
+En cas de vacance survenant en cours de mandat, le siège d'un membre titulaire est pourvu par le premier suppléant ayant été
+tiré au sort dans la même catégorie.
+
+Le siège d'un membre suppléant devenu vacant au cours des cinq premières années du mandat doit être pourvu par tirage au sort
+dans les conditions prévues aux articles R. 2003 et R. 2004. Les mandats des personnes ainsi nommées prennent fin à la même
+date que ceux des membres remplacés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-5 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2003 (M)
+  - Code de la santé publique - art. R2004 (Ab)
+
+
+###### Article R2008
+
+Les membres titulaires et les membres suppléants élisent, parmi les membres titulaires, le président du comité à la majorité
+absolue des présents. Si cette majorité n'a pu être atteinte à l'issue de trois tours de scrutin, la présidence du comité est
+attribuée au doyen d'âge des deux candidats les mieux placés.
+
+Un vice-président est élu dans les mêmes conditions.
+
+Pour ces élections, le quorum est fixé aux deux tiers des membres du comité.
+
+Si le président fait partie des catégories 1 à 4 mentionnées à l'article R. 2001, le vice-président est élu parmi les membres
+des autres catégories et inversement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-7 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2001 (Ab)
+
+
+#### Chapitre 3 : Financement et fonctionnement.<a id=284></a>
+
+###### Article R2012
+
+Le produit du droit fixe mentionné à l'article L. 209-11 est rattaché par voie de fonds de concours au budget du ministère
+chargé de la santé, qui le répartit entre les divers comités en fonction notamment de leurs charges et de leur activité. Les
+modalités de rattachement et de répartition sont fixées par arrêté conjoint des ministres chargés de la santé et du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-11 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-21 (M)
+
+
+###### Article R2013
+
+Les fonctions de membre d'un comité consultatif de protection des personnes dans la recherche biomédicale sont gratuites. Les
+frais, notamment de déplacement, supportés par un membre à l'occasion de sa participation aux travaux du comité lui sont
+remboursés sur justification.
+
+Les rapporteurs mentionnés à l'article R. 2017 perçoivent une indemnité dont le montant est fixé par arrêté des ministres
+chargés de la santé et du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Cite_:
+
+  - Code de la santé publique - art. R2017 (Ab)
+
+
+###### Article R2014
+
+Dans chacune des huit catégories de membres mentionnées à l'article R. 2001, les membres suppléants peuvent remplacer tout
+membre titulaire de cette catégorie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-8 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2001 (Ab)
+
+
+###### Article R2015
+
+Les délibérations du comité ne sont valables que si six membres au moins sont présents, dont au moins quatre appartiennent
+aux catégories 1 à 4 mentionnées à l'article R. 2001 et au moins un appartenant aux autres catégories [*quorum*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-13 (M)
+  - Code de la santé publique - art. R1123-13 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2001 (Ab)
+
+
+###### Article R2016
+
+Le comité saisi d'un projet de recherche en accuse réception à l'investigateur par lettre recommandée [*conditions de
+forme*]. Il peut entendre l'investigateur. Sur demande de ce dernier, il doit, par décision du président, soit l'entendre en
+comité plénier ou en comité restreint, soit le faire entendre par le rapporteur désigné. Dans ces cas, l'investigateur peut
+se faire accompagner par le promoteur ou son représentant mandaté à cet effet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-14 (M)
+  - Code de la santé publique - art. R1123-14 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5142-14 (Ab)
+
+
+###### Article R2017
+
+Les séances du comité ne sont pas publiques. Le vote au scrutin secret est de droit sur demande d'un membre présent.
+
+Les avis sont rendus à la majorité simple des membres présents, sur rapport d'un des membres du comité désigné par le
+président ou d'une personne qualifiée figurant sur une liste établie par le préfet de région.
+
+En cas de vote avec partage égal des voix, le président de séance a voix prépondérante [*conditions de majorité*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-15 (M)
+  - Code de la santé publique - art. R1123-15 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2013 (Ab)
+
+
+###### Article R2018
+
+Le comité fait connaître par écrit [*conditions de forme*] à l'investigateur son avis dans un délai de cinq semaines à
+compter de la date d'arrivée d'un dossier comprenant toutes les pièces requises en application des articles R. 2029 et R.
+2030.
+
+Si le dossier déposé ne lui permet pas de se prononcer, le comité adresse à l'investigateur dans le délai précité une demande
+motivée d'informations complémentaires ou de modifications substantielles. Il dispose alors, pour rendre son avis, d'un délai
+supplémentaire de trente jours.
+
+Les dossiers, rapports, délibérations et avis sont conservés par le comité, dans des conditions assurant leur
+confidentialité, pendant un minimum de dix ans [*durée*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-16 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2029 (Ab)
+  - Code de la santé publique - art. R2030 (Ab)
+
+
+###### Article R2019
+
+Les modalités de fonctionnement du comité sont précisées par un règlement intérieur annexé aux statuts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-19 (M)
+  - Code de la santé publique - art. R1123-19 (V)
+
+
+###### Article R2020
+
+Avant le 31 mars de chaque année [*date limite*], chaque comité adresse au ministre chargé de la santé et au préfet de région
+un rapport d'activité et une copie de son compte financier relatifs à l'année civile précédente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-23 (M)
+
+
+### Titre 3 : Informations communiquées par l'investigateur au comité consultatif de protection des personnes dans la recherche biomédicale.<a id=285></a>
+
+###### Article R2029
+
+Avant que soit entreprise une recherche biomédicale sur l'être humain, l'investigateur unique ou coordonnateur communique au
+comité consultatif de protection des personnes dans la recherche biomédicale dont il sollicite l'avis :
+
+1. Des renseignements sur la nature et les modalités de la recherche :
+
+a) L'identité du promoteur de la recherche et celle du fabricant du médicament, produit, objet ou matériel expérimenté, si ce
+fabricant est distinct du promoteur ;
+
+b) Le titre et l'objectif de la recherche, en précisant s'il s'agit d'une recherche avec ou sans bénéfice individuel direct ;
+
+c) Toutes informations utiles sur le médicament, produit, objet, matériel ou méthode expérimenté ;
+
+d) L'identité du ou des investigateurs pressentis, leurs titres, expérience et fonctions ;
+
+e) Une synthèse du dernier état des connaissances scientifiques requises pour la mise en oeuvre de la recherche, selon sa
+nature, dans les domaines chimique, technologique, pharmaceutique, biologique, pharmacologique, toxicologique et clinique,
+dénommées prérequis, accompagnée des références des principaux travaux exploités pour cette synthèse ;
+
+f) Les éléments du protocole de la recherche, et notamment la méthodologie clinique, permettant au comité de se prononcer sur
+la pertinence générale du projet ;
+
+g) Les informations sur le ou les lieux où la recherche se déroulera et sur les personnels et équipements prévus, permettant
+au comité de se prononcer sur l'adéquation entre les objectifs poursuivis et les moyens mis en oeuvre ;
+
+h) La nature des informations communiquées aux investigateurs.
+
+2. Des renseignements attestant que les garanties prévues pour les personnes qui se prêtent à la recherche sont respectées :
+
+a) Les références des autorisations ou homologations éventuellement obtenues en France ou à l'étranger pour le médicament,
+produit, objet ou matériel expérimenté, ainsi que les éventuelles décisions de refus, de suspension ou de retrait de telles
+autorisations ou homologations ;
+
+b) Les informations qui seront données en application de l'article L. 209-9, et notamment :
+
+1° L'objectif de la recherche, sa méthodologie et sa durée ;
+
+2° Les bénéfices attendus, les contraintes et les risques prévisibles, liés soit à la recherche soit au traitement proposé ;
+
+3° Le droit pour les personnes sollicitées de refuser de participer à la recherche ou de retirer leur consentement à tout
+moment sans encourir aucune responsabilité.
+
+c) Les modalités de recueil du consentement de ces personnes, y compris le ou les documents qui leur seront remis ;
+
+d) Une copie de l'attestation d'assurance souscrite par le promoteur de la recherche ;
+
+3. En outre, lorsque la recherche projetée est une recherche sans bénéfice individuel direct :
+
+a) La ou les autorisations accordées pour chaque lieu de recherches ;
+
+b) Le montant des indemnités éventuellement dues aux personnes qui se prêteront à la recherche ;
+
+c) La durée de la période d'exclusion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Cité par_:
+
+  - Décret n°95-1172 du 6 novembre 1995 - art. 7 (M)
+  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+  - Code de la santé publique - art. R2018 (Ab)
+  - Code de la santé publique - art. R2031 (Ab)
+  - Code de la santé publique - art. R5122 (Ab)
+  - Code de la santé publique - art. R5124-1 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-9 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-24 (M)
+  - Code de la santé publique - art. R1123-24 (V)
+
+
+###### Article R2030
+
+Toute modification du projet de recherche affectant de manière substantielle les informations communiquées au comité doit
+faire l'objet d'une demande d'avis complémentaire accompagnée des justifications appropriées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Cité par_:
+
+  - Arrêté du 27 décembre 1990 - art. 2 (V)
+  - Code de la santé publique - art. R2018 (M)
+  - Code de la santé publique - art. R2031 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-25 (M)
+  - Code de la santé publique - art. R1123-25 (V)
+
+
+###### Article R2031
+
+Les demandes d'avis mentionnées aux articles R. 2029 et R. 2030 sont adressées au comité par lettre recommandée avec demande
+d'avis de réception [*conditions de forme*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-26 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2029 (Ab)
+  - Code de la santé publique - art. R2030 (Ab)
+
+
+### Titre 2 : Autorisation des lieux de recherches biomédicales sans bénéfice individuel direct<a id=286></a>
+
+###### Article R2021
+
+Les lieux de recherches biomédicales sans bénéfice individuel direct doivent comporter en tant que de besoin :
+
+1. Des locaux d'une superficie, d'une distribution et d'un aménagement compatibles avec un bon déroulement des activités de
+recherche prévues, et consacrés à la recherche pendant toute la durée de ces activités ;
+
+2. Des moyens en équipements et en personnels permettant d'assurer une surveillance clinique constante et des soins
+d'urgence, ainsi que la possibilité d'effectuer, si nécessaire, un transfert immédiat dans un service de soins approprié ;
+
+3. Un nombre de lits en rapport avec les activités prévues ;
+
+4. Une organisation permettant :
+
+a) De recueillir et de conserver des échantillons biologiques ;
+
+b) D'entreposer les médicaments, produits, substances, objets ou matériels sur lesquels portent les recherches, sans
+préjudice de l'application des dispositions de l'article L. 577 ter du code de la santé publique ;
+
+c) D'assurer la maintenance des objets et matériels expérimentés ;
+
+d) D'archiver et de protéger les données et informations relatives aux recherches et aux personnes qui s'y prêtent ;
+
+e) En cas de préparation d'aliments, de disposer de locaux séparés réservés à cet effet.
+
+Dans le cas de recherches pratiquées sous forme ambulatoire, des dispositions doivent être prévues pour assurer les mêmes
+garanties de sécurité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-9 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2023 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique L577 ter
+
+
+###### Article R2022
+
+Les modalités d'utilisation, de vérification et d'entretien des équipements ainsi que d'entretien des locaux sont précisées
+dans un document [*écrit*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-10 (Ab)
+
+
+###### Article R2023
+
+La demande d'autorisation est adressée au préfet de région    par lettre recommandée avec demande d'avis de réception. Elle
+doit comporter les éléments suivants : 
+
+1. Les nom, qualités et fonctions du demandeur ; 
+
+2. Le nom, l'adresse et la localisation du lieu de recherches ; 
+
+3. La nature des recherches envisagées ; 
+
+4. La description précise des éléments mentionnés à l'article R. 2021 ; 
+
+5. La localisation du service de soins auquel il pourra être fait appel en cas d'urgence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-11 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2021 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2025 (Ab)
+  - Code de la santé publique - art. R2026 (Ab)
+  - Code de la santé publique - art. R2028 (Ab)
+
+
+###### Article R2024
+
+Lorsque le lieu de recherches relève d'une personne morale, publique ou privée, la demande, pour être recevable, doit être
+visée par une personne habilitée à engager celle-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-12 (Ab)
+
+
+###### Article R2025
+
+L'autorisation susmentionnée est délivrée par le ministre chargé de la santé [*autorité compétente*] après enquête effectuée
+par un médecin ou un pharmacien inspecteur de la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-13 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2028 (Ab)
+
+
+###### Article R2026
+
+Tout changement du titulaire de l'autorisation, toute modification dans la nature des recherches ou affectant de façon
+substantielle les conditions d'aménagement, d'équipement ou de fonctionnement doit faire l'objet d'une déclaration
+[*formalités*].
+
+Les déclarations de modifications sont adressées au préfet de région dans la forme prévue à l'article R. 2023, accompagnées
+des justifications appropriées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-14 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2023 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2028 (Ab)
+
+
+###### Article R2027
+
+L'autorisation peut être retirée [*retrait*] par le ministre chargé de la santé [*autorité compétente*] si les conditions
+d'aménagement, d'équipement, d'entretien ou de fonctionnement ne sont plus adaptées à la nature des recherches ou compatibles
+avec les impératifs de sécurité des personnes qui s'y prêtent, après que le titulaire de l'autorisation a été mis à même de
+présenter ses observations.
+
+En cas d'urgence, le ministre peut sans formalité préalable suspendre l'autorisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-15 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2028 (Ab)
+
+
+###### Article R2028
+
+Par dérogation aux dispositions des articles R. 2023, R. 2025, R. 2026 et R. 2027, lorsque le lieu de recherches relève du
+ministre de la défense [*autorité compétente*], la demande d'autorisation ou la déclaration de modifications est adressée par
+celui-ci au ministre chargé de la santé, par l'intermédiaire du haut fonctionnaire de défense. L'autorisation est délivrée ou
+retirée [*retrait*] par le ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Cité par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 7 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-16 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2023 (Ab)
+  - Code de la santé publique - art. R2025 (M)
+  - Code de la santé publique - art. R2026 (Ab)
+  - Code de la santé publique - art. R2027 (M)
+
+
+### Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct.<a id=287></a>
+
+###### Article R2039
+
+Il est créé un fichier automatisé, dénommé " Fichier national des personnes qui se prêtent à des recherches biomédicales sans
+bénéfice individuel direct ". Ce fichier est géré par le ministre chargé de la santé.
+
+Les informations contenues dans le fichier ont pour objet d'assurer le respect des dispositions des articles L. 209-15 et L.
+209-17 relatives :
+
+a) A l'interdiction de se prêter simultanément à plusieurs recherches biomédicales sans bénéfice individuel direct ;
+
+b) A la période d'exclusion au cours de laquelle la personne ne peut se prêter à aucune autre recherche biomédicale sans
+bénéfice individuel direct ;
+
+c) Au montant total des indemnités perçues par cette personne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-15 (M)
+  - Code de la santé publique - art. L209-17 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-1 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5056-1 (M)
+  - Code de la santé publique - art. R5056-2 (Ab)
+
+
+###### Article R2040
+
+Le fichier est alimenté, consulté et mis à jour par les investigateurs des recherches. Son accès est subordonné à
+l'utilisation de codes d'accès confidentiels attribués aux titulaires d'autorisation de lieux de recherches sans bénéfice
+individuel direct et aux investigateurs exerçant dans ces lieux. Ces codes sont changés au moins une fois par an
+[*périodicité*] et ne peuvent être réattribués.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-2 (Ab)
+
+
+###### Article R2041
+
+Le fichier comporte, sur chaque personne, ci-après dénommée " volontaire ", qui se prête ou s'est prêtée, dans les douze mois
+écoulés, à une recherche sans bénéfice individuel direct, les données suivantes :
+
+a) L'identification du ou des lieux de recherches ;
+
+b) Les trois premières lettres du nom patronymique du volontaire ;
+
+c) Les deux premières lettres de son premier prénom ;
+
+d) Sa date de naissance ;
+
+e) Les dates de début et de fin de sa participation à la recherche ;
+
+f) La date d'expiration de la période d'exclusion en cours, ou de la dernière période écoulée, fixée en application du
+deuxième alinéa de l'article L. 209-17 ;
+
+g) S'il y a lieu, le montant total des indemnités que le volontaire a pu percevoir au cours des douze derniers mois, ou qu'il
+doit percevoir, en application de l'article L. 209-15.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-15 (M)
+  - Code de la santé publique - art. L209-17 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-3 (Ab)
+  - Code de la santé publique - art. R1124-3 (M)
+
+
+###### Article R2042
+
+Avant de recruter un volontaire pour une recherche, l'investigateur s'assure, en consultant le fichier :
+
+a) Que cette personne ne sera pas empêchée de participer à ladite recherche par une éventuelle participation ou période
+d'exclusion concomitante ;
+
+b) Que la somme de l'indemnité éventuellement due et de celles que l'intéressé a déjà pu percevoir au cours des douze mois
+précédents n'excède pas le maximum annuel fixé par le ministre chargé de la santé en application de l'article L. 209-15.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-15 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-4 (Ab)
+
+
+###### Article R2043
+
+Pour appliquer la règle du maximum annuel d'indemnités, les indemnités sont réputées versées aux dates de début de
+participation de l'intéressé aux essais.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-5 (Ab)
+
+
+###### Article R2044
+
+Lorsqu'il recrute un volontaire pour une recherche, l'investigateur enregistre dans le fichier :
+
+a) Son code d'accès ;
+
+b) Les trois premières lettres du nom patronymique du volontaire, les deux premières lettres de son premier prénom et sa date
+de naissance ;
+
+c) Les dates de début et de fin de participation de l'intéressé à la recherche ;
+
+d) La date d'expiration de la période d'exclusion prévue ;
+
+e) Le montant de l'indemnité éventuellement due.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-6 (Ab)
+  - Code de la santé publique - art. R1124-6 (M)
+
+
+###### Article R2045
+
+Les données relatives aux volontaires sont détruites à l'issue d'un délai de douze mois suivant le début de la dernière
+participation à une recherche, sous réserve que la période d'exclusion fixée pour cette recherche soit achevée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-7 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2046 (Ab)
+
+
+###### Article R2046
+
+Les volontaires sont informés par l'investigateur de l'existence du fichier et des données qui y sont contenues. Cette
+information est rappelée dans le résumé écrit remis aux intéressés en application du quatrième alinéa de l'article L. 209-9.
+
+Les volontaires peuvent vérifier auprès du titulaire de l'autorisation du lieu de recherches ou du ministre chargé de la
+santé l'exactitude des données les concernant présentes dans le fichier. Ils peuvent également vérifier la destruction de ces
+données au terme du délai prévu à l'article R. 2045.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-9 (M)
+  - Code de la santé publique - art. R2045 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1124-8 (Ab)
+
+
+### Titre 5 : Dispositions financières.<a id=288></a>
+
+###### Article R2038
+
+Les objets ou matériels ainsi que les médicaments ou produits mentionnés à l'article R. 5123 sont fournis gratuitement, ou
+mis gratuitement à disposition pendant le temps de l'essai par le promoteur.
+
+Le promoteur prend en charge les frais supplémentaires liés à d'éventuels fournitures ou examens spécifiquement requis par le
+protocole de l'essai.
+
+Si la mise en oeuvre du protocole est de nature à entraîner des frais supplémentaires de fonctionnement pour un établissement
+public ou privé, le promoteur prend ces frais en charge.
+
+Lorsque l'essai est réalisé dans un établissement public ou privé, la prise en charge des frais mentionnés aux deux
+précédents alinéas fait l'objet d'une convention conclue entre le promoteur et le représentant légal de cet établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1121-1 (M)
+  - Code de la santé publique - art. R1121-1 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5123 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5124 (Ab)
+
+
+### Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention.<a id=289></a>
+
+###### Article R2032
+
+Avant de réaliser ou de faire réaliser une recherche biomédicale sur l'être humain, le promoteur de cette recherche déclare
+son intention au ministre chargé de la santé en lui faisant connaître :
+
+1. Son identité ;
+
+2. Le titre et l'objectif de la recherche, en précisant s'il s'agit d'une recherche avec ou sans bénéfice individuel direct ;
+
+3. L'identité du ou des investigateurs pressentis, leurs titres, expérience et fonctions ;
+
+4. L'identité du fabricant du médicament, produit, objet ou matériel si ce fabricant est distinct du déclarant ;
+
+5. Les références des autorisations ou homologations éventuellement obtenues en France ou à l'étranger pour le médicament,
+produit, objet ou matériel expérimenté, ainsi que les éventuelles décisions de refus, de suspensions ou de retrait de telles
+autorisations ou homologations ;
+
+6. S'il y a lieu, l'identité de l'importateur ;
+
+7. Le ou les lieux où la recherche se déroulera et, le cas échéant, les références de la ou des autorisations accordées pour
+chaque lieu de recherches sans bénéfice individuel direct ;
+
+8. L'avis du comité consultatif de protection des personnes consulté sur le projet en application de l'article L. 209-12 ;
+
+9. La raison sociale de l'entreprise d'assurance et le numéro du contrat souscrit par le promoteur ;
+
+10. La date à laquelle il est envisagé de commencer la recherche et la durée prévue de cette dernière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-12 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-28 (T)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2033 (Ab)
+  - Code de la santé publique - art. R2034 (Ab)
+  - Code de la santé publique - art. R2035 (Ab)
+  - Code de la santé publique - art. R5142-14 (Ab)
+
+
+###### Article R2033
+
+Si la recherche porte sur un médicament, un produit défini à l'article L. 658-11 ou un produit ou objet contraceptif, le
+promoteur indique, outre les informations prévues à l'article R. 2032 :
+
+1. La phase d'expérimentation clinique ;
+
+2. Le type d'essai ;
+
+3. S'il y a lieu, l'indication thérapeutique faisant l'objet de l'essai ;
+
+4. La posologie du médicament ou produit étudié et, s'il y a lieu, du médicament ou produit de référence ;
+
+5. La durée du traitement ;
+
+6. Les principaux critères d'inclusion et le nombre prévu des personnes devant se prêter à la recherche ;
+
+7. Pour le médicament ou produit étudié :
+
+a) Sa dénomination spéciale ou scientifique ou son nom de code ;
+
+b) Sa forme pharmaceutique ;
+
+c) Sa composition qualitative et quantitative, en utilisant les dénominations communes internationales lorsqu'elles existent
+ou, à défaut, les dénominations de la Pharmacopée européenne ou française ;
+
+d) La présence éventuelle d'un principe actif nouveau ;
+
+e) L'indication, si elles sont connues, des classes chimique, pharmacologique et clinique auxquelles appartient le principe
+actif ;
+
+f) Le lieu de fabrication du médicament ou produit.
+
+8. Pour un médicament ou produit de référence :
+
+a) Sa dénomination spéciale ou scientifique ;
+
+b) Sa forme pharmaceutique ;
+
+c) Sa composition qualitative et quantitative en principes actifs ;
+
+d) Son lieu de fabrication ;
+
+9. Pour un placebo :
+
+a) Sa forme pharmaceutique ;
+
+b) Son lieu de fabrication.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Cite_:
+
+  - Code de la santé publique - art. L658-11 (M)
+  - Code de la santé publique - art. R2032 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-29 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5142-14 (Ab)
+
+
+###### Article R2034
+
+Si la recherche porte sur un matériel ou un objet autre que contraceptif, le promoteur communique, outre les informations
+prévues à l'article R. 2032 :
+
+1. Les résultats des essais réalisés in vitro et chez l'animal ainsi que la synthèse des essais préalables qui auraient pu
+être effectués chez l'homme ;
+
+2. Un résumé du protocole de la recherche ;
+
+3. Les documents attestant la conformité du matériel ou de l'objet aux exigences essentielles de sécurité et de santé et,
+selon le cas, aux normes françaises, aux normes des communautés européennes, aux normes internationales ou, à défaut, à toute
+norme étrangère ;
+
+4. Toutes autres informations utiles relatives au matériel ou à l'objet, à son fonctionnement et à son utilisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-30 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2032 (M)
+
+
+###### Article R2035
+
+Pour toute autre recherche, le promoteur communique, outre les informations prévues à l'article R. 2032, le protocole de la
+recherche et toutes informations sur le produit ou la méthode expérimentés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-31 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2032 (M)
+
+
+###### Article R2036
+
+La lettre d'intention est adressée au ministre chargé de la santé par envoi recommandé avec demande d'avis de réception.
+
+S'il s'agit d'une recherche sans bénéfice individuel direct dont le promoteur est le ministère de la défense, la lettre
+d'intention est adressée par l'intermédiaire du haut fonctionnaire de défense auprès du ministre chargé de la santé
+[*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-32 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R2037 (Ab)
+
+
+###### Article R2037
+
+Toute modification de la recherche affectant de manière substantielle des informations prévues ci-dessus doit faire l'objet
+d'une communication complémentaire adressée au ministre dans la forme prévue à l'article R. 2036.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 2 () JORF 29 septembre 1990
+
+_Cité par_:
+
+  - Arrêté du 14 février 1991 - art. 2 (V)
+  - Arrêté du 16 juillet 1991 - art. 2 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1123-33 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. R2036 (M)
+
+
+## Livre 5 : Pharmacie<a id=290></a>
+
+### Titre 1 : Dispositions générales<a id=291></a>
+
+#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=292></a>
+
+##### Section 1 : Pharmacopée et formulaire<a id=293></a>
+
+##### Paragraphe 1 : Pharmacopée<a id=294></a>
 
 ###### Article R5001
 
@@ -39421,7 +41148,7 @@ _Modifié par_:
   - Décret n°85-1297 1985-12-03 art. 3 JORF 5 décembre 1985
 
 
-##### Paragraphe 2 : Formulaire<a id=285></a>
+##### Paragraphe 2 : Formulaire<a id=295></a>
 
 ###### Article R5006
 
@@ -39486,7 +41213,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5112-5 (V)
 
 
-##### Section 3 : Pharmaciens assistants<a id=286></a>
+##### Section 3 : Pharmaciens assistants<a id=296></a>
 
 ###### Article R5008
 
@@ -39628,7 +41355,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-38 (V)
 
 
-##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.<a id=287></a>
+##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.<a id=297></a>
 
 ###### Article R*5013
 
@@ -39702,9 +41429,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4221-12 (T)
 
 
-#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=288></a>
+#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=298></a>
 
-##### Section 1 : Organisation<a id=289></a>
+##### Section 1 : Organisation<a id=299></a>
 
 ###### Article R5014
 
@@ -39734,9 +41461,9 @@ _Abrogé par_:
   - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 
-##### Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens<a id=290></a>
+##### Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens<a id=300></a>
 
-##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux<a id=291></a>
+##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux<a id=301></a>
 
 ###### Article R*5017
 
@@ -40052,7 +41779,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4234-1 (V)
 
 
-##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.<a id=292></a>
+##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.<a id=302></a>
 
 ###### Article R*5029
 
@@ -40370,7 +42097,7 @@ _Codifié par_:
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=293></a>
+##### Paragraphe 3 : Dispositions communes.<a id=303></a>
 
 ###### Article R*5042
 
@@ -40418,7 +42145,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4234-28 (T)
 
 
-##### Section 2 : Déontologie pharmaceutique<a id=294></a>
+##### Section 2 : Déontologie pharmaceutique<a id=304></a>
 
 ###### Article R*5015-1
 
@@ -40454,9 +42181,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-1 (V)
 
 
-##### Paragraphe 1 : Devoirs généraux des pharmaciens<a id=295></a>
+##### Paragraphe 1 : Devoirs généraux des pharmaciens<a id=305></a>
 
-##### 1) Dispositions générales.<a id=296></a>
+##### 1) Dispositions générales.<a id=306></a>
 
 ###### Article R*5015-2
 
@@ -40500,7 +42227,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-3 (V)
 
 
-##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.<a id=297></a>
+##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.<a id=307></a>
 
 ###### Article R*5015-4
 
@@ -40646,7 +42373,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-10 (V)
 
 
-##### 3) De la responsabilité et de l'indépendance des pharmaciens.<a id=298></a>
+##### 3) De la responsabilité et de l'indépendance des pharmaciens.<a id=308></a>
 
 ###### Article R*5015-11
 
@@ -40911,7 +42638,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-22 (V)
 
 
-##### 4) De la tenue des établissements pharmaceutiques.<a id=299></a>
+##### 4) De la tenue des établissements pharmaceutiques.<a id=309></a>
 
 ###### Article R*5015-23
 
@@ -40976,9 +42703,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-25 (V)
 
 
-##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle<a id=300></a>
+##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle<a id=310></a>
 
-##### 1) De la publicité.<a id=301></a>
+##### 1) De la publicité.<a id=311></a>
 
 ###### Article R*5015-26
 
@@ -41081,7 +42808,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-29 (V)
 
 
-##### 2) De la concurrence déloyale.<a id=302></a>
+##### 2) De la concurrence déloyale.<a id=312></a>
 
 ###### Article R*5015-30
 
@@ -41170,7 +42897,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-33 (V)
 
 
-##### 3) Prohibition de certaines conventions ou ententes<a id=303></a>
+##### 3) Prohibition de certaines conventions ou ententes<a id=313></a>
 
 ###### Article R*5015-34
 
@@ -41303,7 +43030,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-38 (V)
 
 
-##### Paragraphe 3 : Relations avec des agents de l'administration.<a id=304></a>
+##### Paragraphe 3 : Relations avec des agents de l'administration.<a id=314></a>
 
 ###### Article R*5015-39
 
@@ -41388,7 +43115,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-42 (V)
 
 
-##### Paragraphe 4 : Des règles à observer dans les relations avec le public.<a id=305></a>
+##### Paragraphe 4 : Des règles à observer dans les relations avec le public.<a id=315></a>
 
 ###### Article R*5015-43
 
@@ -41495,9 +43222,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-47 (V)
 
 
-##### Paragraphe 5 : Relations avec les membres des professions médicales<a id=306></a>
+##### Paragraphe 5 : Relations avec les membres des professions médicales<a id=316></a>
 
-##### 1) Relations avec les membres des professions non pharmaceutiques.<a id=307></a>
+##### 1) Relations avec les membres des professions non pharmaceutiques.<a id=317></a>
 
 ###### Article R*5015-48
 
@@ -41630,7 +43357,7 @@ _Cité par_:
   - Code de la santé publique - art. R5053-3 (Ab)
 
 
-##### 2) Relations des pharmaciens avec leurs collaborateurs.<a id=308></a>
+##### 2) Relations des pharmaciens avec leurs collaborateurs.<a id=318></a>
 
 ###### Article R*5015-53
 
@@ -41693,7 +43420,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-55 (V)
 
 
-##### 3) Devoirs des maîtres de stage.<a id=309></a>
+##### 3) Devoirs des maîtres de stage.<a id=319></a>
 
 ###### Article R*5015-56
 
@@ -41767,7 +43494,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-59 (V)
 
 
-##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.<a id=310></a>
+##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.<a id=320></a>
 
 ###### Article R*5015-59
 
@@ -41796,7 +43523,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-60 (V)
 
 
-##### 5) Devoirs de confraternité.<a id=311></a>
+##### 5) Devoirs de confraternité.<a id=321></a>
 
 ###### Article R*5015-60
 
@@ -41906,7 +43633,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-64 (V)
 
 
-##### Section 1 bis : Composition du dossier d'inscription au tableau<a id=312></a>
+##### Section 1 bis : Composition du dossier d'inscription au tableau<a id=322></a>
 
 ###### Article R5014-1
 
@@ -42055,9 +43782,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4222-3 (V)
 
 
-#### Chapitre 4 : Réglementation de la publicité<a id=313></a>
+#### Chapitre 4 : Réglementation de la publicité<a id=323></a>
 
-##### Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551.<a id=314></a>
+##### Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551.<a id=324></a>
 
 ###### Article R5047
 
@@ -42387,7 +44114,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5134-11 (V)
 
 
-##### Section 1 : Dispositions générales.<a id=315></a>
+##### Section 1 : Dispositions générales.<a id=325></a>
 
 ###### Article R5045
 
@@ -42588,7 +44315,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-5 (V)
 
 
-##### Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement<a id=316></a>
+##### Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement<a id=326></a>
 
 ###### Article R5055
 
@@ -42801,7 +44528,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-24 (Ab)
 
 
-##### Section 4 : Publicité en faveur des établissements pharmaceutiques.<a id=317></a>
+##### Section 4 : Publicité en faveur des établissements pharmaceutiques.<a id=327></a>
 
 ###### Article R5053
 
@@ -42826,7 +44553,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-65 (V)
 
 
-##### Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art.<a id=318></a>
+##### Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art.<a id=328></a>
 
 ###### Article R5052
 
@@ -42964,7 +44691,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-22 (V)
 
 
-##### Section 5 : Commission de contrôle de la publicité.<a id=319></a>
+##### Section 5 : Commission de contrôle de la publicité.<a id=329></a>
 
 ###### Article R5054
 
@@ -43136,9 +44863,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-47 (Ab)
 
 
-#### Chapitre 5 : De l'inspection de la pharmacie<a id=320></a>
+#### Chapitre 5 : De l'inspection de la pharmacie<a id=330></a>
 
-##### Section 1 : Fonctions des inspecteurs de la pharmacie.<a id=321></a>
+##### Section 1 : Fonctions des inspecteurs de la pharmacie.<a id=331></a>
 
 ###### Article R5056
 
@@ -43270,9 +44997,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-3 (V)
 
 
-##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques<a id=322></a>
+##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques<a id=332></a>
 
-##### Paragraphe 1 : Généralités<a id=323></a>
+##### Paragraphe 1 : Généralités<a id=333></a>
 
 ###### Article R5060
 
@@ -43296,7 +45023,7 @@ _Cite_:
   - Loi n°1905-08-01
 
 
-##### Paragraphe 2 : Prélèvements d'échantillons<a id=324></a>
+##### Paragraphe 2 : Prélèvements d'échantillons<a id=334></a>
 
 ###### Article R5061
 
@@ -43579,7 +45306,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-18 (V)
 
 
-##### Paragraphe 4 : Saisies<a id=325></a>
+##### Paragraphe 4 : Saisies<a id=335></a>
 
 ###### Article R5076
 
@@ -43634,7 +45361,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-19 (V)
 
 
-##### Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives.<a id=326></a>
+##### Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives.<a id=336></a>
 
 ###### Article R5071
 
@@ -43730,7 +45457,7 @@ _Cite_:
   - Code de la santé publique - art. R5071 (M)
 
 
-##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire<a id=327></a>
+##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire<a id=337></a>
 
 ###### Article R5079
 
@@ -43915,7 +45642,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-27 (V)
 
 
-##### Paragraphe 6 : Dispositions diverses<a id=328></a>
+##### Paragraphe 6 : Dispositions diverses<a id=338></a>
 
 ###### Article R5087
 
@@ -43969,13 +45696,13 @@ _Cite_:
   - Code de la santé publique - art. R5073 (M)
 
 
-### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=329></a>
+### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=339></a>
 
-#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine<a id=330></a>
+#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine<a id=340></a>
 
-##### Section 1 : Des officines de pharmacie<a id=331></a>
+##### Section 1 : Des officines de pharmacie<a id=341></a>
 
-##### Paragraphe 3 : Délivrance des médicaments<a id=332></a>
+##### Paragraphe 3 : Délivrance des médicaments<a id=342></a>
 
 ###### Article R5092
 
@@ -44031,7 +45758,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-46 (V)
 
 
-##### Paragraphe 5 : Médicaments spécialisés de l'officine<a id=333></a>
+##### Paragraphe 5 : Médicaments spécialisés de l'officine<a id=343></a>
 
 ###### Article R5097
 
@@ -44106,7 +45833,7 @@ _Modifié par_:
   - Décret n°60-326 1960-04-05 art. 2 JORF 7 avril 1960
 
 
-##### Paragraphe 4 : Remèdes secrets<a id=334></a>
+##### Paragraphe 4 : Remèdes secrets<a id=344></a>
 
 ###### Article R5094
 
@@ -44213,7 +45940,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-59 (V)
 
 
-##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes<a id=335></a>
+##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes<a id=345></a>
 
 ###### Article R5091
 
@@ -44511,7 +46238,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-25 (V)
 
 
-##### Paragraphe 1 : Exploitation des officines<a id=336></a>
+##### Paragraphe 1 : Exploitation des officines<a id=346></a>
 
 ###### Article R5090
 
@@ -44549,7 +46276,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-13 (V)
 
 
-##### Paragraphe 6 : Produits officinaux divisés<a id=337></a>
+##### Paragraphe 6 : Produits officinaux divisés<a id=347></a>
 
 ###### Article R5098-1
 
@@ -44619,9 +46346,9 @@ _Créé par_:
   - Décret n°62-509 1962-04-13 art. 1 JORF 19 avril 1962
 
 
-##### Section 2 : Exercice personnel de la profession<a id=338></a>
+##### Section 2 : Exercice personnel de la profession<a id=348></a>
 
-##### Paragraphe 1 : Assistance par des pharmaciens<a id=339></a>
+##### Paragraphe 1 : Assistance par des pharmaciens<a id=349></a>
 
 ###### Article R5099
 
@@ -44645,7 +46372,7 @@ _Cite_:
   - Code de la santé publique L579, R5008 à R5011
 
 
-##### Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis<a id=340></a>
+##### Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis<a id=350></a>
 
 ###### Article R5100
 
@@ -44856,11 +46583,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-43 (V)
 
 
-#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=341></a>
+#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=351></a>
 
-##### Section 1 : Des établissements de préparation et de vente en gros<a id=342></a>
+##### Section 1 : Des établissements de préparation et de vente en gros<a id=352></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=343></a>
+##### Paragraphe 1 : Dispositions générales.<a id=353></a>
 
 ###### Article R5105
 
@@ -45268,7 +46995,7 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=344></a>
+##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=354></a>
 
 ###### Article R5113
 
@@ -45409,7 +47136,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-37 (V)
 
 
-##### Paragraphe 4 : Dispositions d'exécution.<a id=345></a>
+##### Paragraphe 4 : Dispositions d'exécution.<a id=355></a>
 
 ###### Article R5116
 
@@ -45438,9 +47165,9 @@ _Modifié par_:
   - Décret n°60-326 1960-04-05 ART. 4 JORF 7 avril 1960
 
 
-##### Paragraphe 3 : Fonctionnement des établissements<a id=346></a>
+##### Paragraphe 3 : Fonctionnement des établissements<a id=356></a>
 
-##### 1° Exercice personnel de la profession.<a id=347></a>
+##### 1° Exercice personnel de la profession.<a id=357></a>
 
 ###### Article R5114-1
 
@@ -45680,7 +47407,7 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=348></a>
+##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=358></a>
 
 ###### Article R5115-1
 
@@ -46008,16 +47735,21 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-54 (V)
 
 
-##### Section 2 : Spécialités pharmaceutiques<a id=349></a>
+##### Section 2 : Spécialités pharmaceutiques<a id=359></a>
 
-##### Paragraphe 1 : Expérimentation des médicaments.<a id=350></a>
+##### Paragraphe 1 : Expérimentation des médicaments.<a id=360></a>
 
 ###### Article R5117
 
-L'expérimentation des médicaments [*définition*], au sens du 6° de l'article L. 605, s'entend des expertises auxquelles il
-est procédé, dans les conditions fixées aux articles R. 5118 à R. 5127, en vue de vérifier qu'un produit susceptible de faire
-l'objet d'une demande d'autorisation de mise sur le marché, possède les propriétés définies au 1° du troisième alinéa de
-l'article L. 601.
+On entend par expérimentation des médicaments [*définition*], au sens du 6 de l'article L. 605, toutes recherches, essais, ou
+expérimentations, ci-après dénommés essais, auxquels il est procédé :
+
+1° En vue de l'obtention d'une autorisation de mise sur le marché ;
+
+2° Après la délivrance de cette autorisation.
+
+Sans préjudice des dispositions législatives et réglementaires du livre II bis du présent code, ces essais sont réalisés dans
+les conditions fixées au présent paragraphe.
 
 **Liens relatifs à cet article**
 
@@ -46028,23 +47760,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
 
 _Cite_:
 
-  - Code de la santé publique - art. L601 (M)
+  - Code de la santé publique - art. L605 (M)
   - Code de la santé publique - art. R5118 (M)
   - Code de la santé publique - art. R5119 (M)
-  - Code de la santé publique - art. R5120 (M)
-  - Code de la santé publique - art. R5121 (M)
-  - Code de la santé publique - art. R5122 (M)
-  - Code de la santé publique - art. R5123 (M)
-  - Code de la santé publique - art. R5124 (M)
-  - Code de la santé publique - art. R5125 (M)
-  - Code de la santé publique - art. R5126 (M)
-  - Code de la santé publique - art. R5127 (M)
-  - Code de la santé publique L601, L605 AL. 6, R5118, R5119, R5120, R5121, R5122, R5123, R5124, R5125, R5126, R5127
+  - Code de la santé publique - art. R5119-1 (M)
 
 _Nouveaux textes_:
 
@@ -46060,8 +47783,8 @@ _Cité par_:
 Le ministre chargé de la santé [*autorité compétente*] fixe par arrêté les protocoles déterminant les normes et méthodes
 applicables à l'expérimentation des médicaments.
 
-Les expertises doivent être exécutées en conformité avec les bonnes pratiques de laboratoire dont les principes sont fixés
-par arrêté du ministre chargé de la santé.
+Les essais doivent être réalisés en conformité avec les bonnes pratiques de laboratoire et les bonnes pratiques cliniques
+dont les principes sont fixés par arrêtés du ministre chargé de la santé.
 
 **Liens relatifs à cet article**
 
@@ -46069,10 +47792,6 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-661 1988-05-06 art. 2 JORF 8 mai 1988
 
 _Cité par_:
 
@@ -46082,6 +47801,10 @@ _Cité par_:
   - Code de la santé publique - art. R5124 (M)
   - Code de la santé publique - art. R5125 (M)
   - Code de la santé publique - art. R5133 (Ab)
+
+_Modifié par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
 
 _Nouveaux textes_:
 
@@ -46136,16 +47859,15 @@ _Cite_:
   - Code de la santé publique L605-2
 
 
-###### Article R5120
+###### Article R5119-1
 
-Les experts et leurs collaborateurs sont tenus au secret professionnel en ce qui concerne la nature des produits essayés, les
-essais eux-mêmes et leurs résultats [*obligation*].
+Les personnes qui dirigent et surveillent la réalisation d'essais chimiques, pharmaceutiques, biologiques, pharmacologiques
+ou toxicologiques sont dénommées expérimentateurs [*définition*].
 
-Ils ne peuvent donner de renseignements relatifs à leurs travaux qu'au responsable de la mise sur le marché et aux services
-compétents du ministère de la santé publique.
+Les médecins qui dirigent et surveillent la réalisation d'essais cliniques sont dénommés investigateurs.
 
-Aucune publication relative à l'expérimentation d'un médicament ne peut être effectuée sans l'accord conjoint de l'expert et
-du responsable de la mise sur le marché intéressé [*condition*].
+Les expérimentateurs et les investigateurs doivent, selon leur activité, disposer des qualifications et de l'expérience
+mentionnées à l'article R. 5119.
 
 **Liens relatifs à cet article**
 
@@ -46154,12 +47876,42 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
-  - Décret n°61-1377 1961-12-16 ART. 1 JORF 17 décembre 1961
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5117 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5119 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-12 (V)
+
+
+###### Article R5120
+
+Sous réserve des dispositions de l'article L. 209-12 du présent code et de celles prises pour leur application, les
+expérimentateurs, les investigateurs et toutes personnes appelées à collaborer aux essais sont tenus au secret professionnel
+en ce qui concerne notamment la nature des produits étudiés, les essais, les personnes qui s'y prêtent et les résultats
+obtenus.
+
+Ils ne peuvent, sans l'accord du promoteur, donner d'informations relatives aux essais qu'au ministre chargé de la santé et
+aux médecins et pharmaciens inspecteurs mentionnés à l'article L. 209-13.
+
+Les essais ne peuvent faire l'objet d'aucun commentaire écrit ou oral sans l'accord conjoint de l'expérimentateur ou de
+l'investigateur et du promoteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 _Cité par_:
 
@@ -46169,6 +47921,15 @@ _Cité par_:
   - Code de la santé publique - art. R5125 (Ab)
   - Code de la santé publique - art. R5126 (M)
 
+_Modifié par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+
+_Cite_:
+
+  - Code de la santé publique - art. L209-12 (M)
+  - Code de la santé publique - art. L209-13 (M)
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5121-13 (V)
@@ -46176,8 +47937,24 @@ _Nouveaux textes_:
 
 ###### Article R5121
 
-Le responsable de la mise sur le marché doit informer chacun des experts auxquels il fait appel du nom des autres experts qui
-effectuent des essais sur le même médicament [*obligation*].
+Le promoteur communique aux expérimentateurs des essais chimiques, pharmaceutiques, biologiques, pharmacologiques ou
+toxicologiques [*informations - mentions*] :
+
+1. Le titre et l'objectif de l'essai demandé ;
+
+2. L'identification du médicament soumis à l'essai :
+
+a) Sa dénomination spéciale ou scientifique ou son nom de code ;
+
+b) Sa forme pharmaceutique ;
+
+c) Sa composition qualitative et quantitative, en utilisant les dénominations communes internationales lorsqu'elles existent
+ou, à défaut, les dénominations de la pharmacopée européenne ou française ;
+
+d) Son ou ses numéros de lot ;
+
+3. La synthèse des prérequis mentionnée à l'article R. 2029 du présent code, accompagnée des références des principaux
+travaux exploités pour cette synthèse.
 
 **Liens relatifs à cet article**
 
@@ -46193,9 +47970,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
-  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
 
 _Nouveaux textes_:
 
@@ -46204,24 +47979,67 @@ _Nouveaux textes_:
 
 ###### Article R5122
 
-Les responsables de la mise sur le marché doivent fournir aux experts tous renseignements concernant :
+Le promoteur communique aux investigateurs d'essais cliniques :
 
-a) La formule intégrale du médicament soumis à expertise ;
+1. Le titre et l'objectif de l'essai demandé ;
 
-b) La nature des expertises demandées ;
+2. Pour le médicament soumis à l'essai :
 
-c) Les propriétés soumises à vérification ;
+a) Sa dénomination spéciale ou scientifique ou son nom de code ;
 
-d) Les références bibliographiques sur les produits entrant dans la composition du médicament.
+b) Sa forme pharmaceutique ;
 
-Avant d'entreprendre leur expertise, les experts cliniciens doivent être mis en possession des rapports établis par les
-experts analystes et les experts pharmacologues-toxicologues.
+c) Sa composition qualitative et quantitative, en utilisant les dénominations communes internationales lorsqu'elles existent
+ou, à défaut, les dénominations de la pharmacopée européenne ou française ;
 
-Les experts cliniciens doivent exiger de nouveaux essais analytiques ou pharmaco-toxicologiques s'ils s'estiment
-insuffisamment éclairés par les renseignements fournis. En cas de refus du responsable de la mise sur le marché, ils doivent
-interrompre l'expertise.
+d) Son ou ses numéros de lot ;
 
-Tout expert peut refuser de procéder à une expertise.
+e) Sa date de péremption ;
+
+3. Pour un médicament de référence :
+
+a) Sa dénomination spéciale ou scientifique ;
+
+b) Sa forme pharmaceutique ;
+
+c) Sa composition qualitative et quantitative en principes actifs ;
+
+d) Son ou ses numéros de lot ;
+
+e) Sa date de péremption.
+
+4. Pour un placebo :
+
+a) Sa forme pharmaceutique ;
+
+b) Sa composition ;
+
+c) Son ou ses numéros de lot ;
+
+d) Sa date de péremption.
+
+5. Les informations qui seront données, en application de l'article L. 209-9, aux personnes sollicitées de se prêter à
+l'essai et les modalités de recueil du consentement de ces personnes, y compris le ou les documents qui leur seront remis ;
+
+6. Une copie de l'attestation d'assurance ;
+
+7. Le cas échéant, la période d'exclusion mentionnée à l'article L. 209-17 ;
+
+8. L'avis du comité consultatif de protection des personnes consulté sur le projet en application de l'article L. 209-12, si
+l'investigateur n'en dispose pas déjà ;
+
+9. La synthèse des prérequis mentionnée à l'article R. 2029 du présent code, accompagnée des références des principaux
+travaux exploités pour cette synthèse ;
+
+10. Le protocole de l'essai clinique ;
+
+11. Les références des autorisations de mise sur le marché éventuellement obtenues en France ou à l'étranger pour le
+médicament ainsi que celles des éventuelles décisions de refus, de suspension ou de retrait de telles autorisations ;
+
+12. L'identité des autres investigateurs qui participent au même essai et les lieux où ils conduisent leurs travaux.
+
+Les investigateurs peuvent demander au promoteur tout document ou essai complémentaire s'ils s'estiment insuffisamment
+éclairés par les informations fournies.
 
 **Liens relatifs à cet article**
 
@@ -46230,6 +48048,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+
 _Cité par_:
 
   - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
@@ -46237,28 +48059,35 @@ _Cité par_:
   - Code de la santé publique - art. R5124-1 (Ab)
   - Code de la santé publique - art. R5127 (Ab)
 
+_Cite_:
+
+  - Code de la santé publique - art. L209-12 (M)
+  - Code de la santé publique - art. L209-17 (M)
+  - Code de la santé publique - art. L209-9 (M)
+  - Code de la santé publique - art. R2029 (Ab)
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5121-15 (V)
 
-_Modifié par_:
-
-  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
-  - Décret n°72-261 1972-03-30 ART. 1 JORF 9 avril 1972
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
-
 
 ###### Article R5123
 
-Les produits remis aux experts et ceux qui sont utilisés pour la réalisation d'essais comparatifs doivent avoir fait l'objet,
-pour chaque lot de fabrication, des contrôles analytiques [*obligatoires*] nécessaires pour en garantir la qualité. Les
-responsables de la mise sur le marché conservent des échantillons des lots remis aux experts.
+Les médicaments ou produits soumis à l'essai et les éventuels médicaments de référence ou produits de référence ou placebos
+doivent être préparés selon les bonnes pratiques de fabrication dont les principes sont fixés par arrêté du ministre chargé
+de la santé.
 
-Sans préjudice des mentions prévues aux articles R. 5201, R. 5207 et R. 5211, l'étiquetage de ces produits comporte : le nom
-du responsable de la mise sur le marché, la dénomination ou le numéro de référence, le numéro du lot de fabrication et
-l'inscription suivante : "Ce produit ne peut être utilisé que sous une stricte surveillance médicale (art. R. 5123 du code de
-la santé publique)".
+L'étiquetage de ces médicaments ou produits comporte [*mentions obligatoires*]  :
+
+1. Le nom du promoteur et son adresse ;
+
+2. La référence de l'essai en cours ;
+
+3. La référence permettant de connaître leur formule intégrale, leur numéro de lot de fabrication, leur date de péremption ;
+
+4. Les indications nécessaires à leur bonne conservation ;
+
+5. L'inscription suivante : " Utilisation sous stricte surveillance médicale (art. R. 5123 du code de la santé publique) ".
 
 **Liens relatifs à cet article**
 
@@ -46269,7 +48098,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-1232 du 28 décembre 1988 - art. 3 () JORF 31 décembre 1988
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
 
 _Cité par_:
 
@@ -46282,24 +48111,19 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. R5121-16 (V)
 
-_Cite_:
-
-  - Code de la santé publique - art. R5201 (M)
-  - Code de la santé publique - art. R5207 (M)
-  - Code de la santé publique - art. R5211 (M)
-
 
 ###### Article R5124
 
-Le programme des expertises est déterminé par le responsable de la mise sur le marché et l'expert, compte tenu des règles
-générales d'expertise définies à la présente section.
+Lorsqu'un essai clinique est conduit dans un établissement public ou privé, le promoteur fait connaître préalablement au
+directeur de l'établissement, pour information :
 
-Si l'expert justifie que les protocoles prévus à l'article R. 5118 sont inapplicables en l'espèce, le responsable de la mise
-sur le marché est tenu de communiquer au ministre chargé de la santé publique le programme des expertises retenu
-préalablement à la mise en oeuvre de celles-ci.
+1. Le titre de l'essai ;
 
-Ce programme peut être mis à exécution si le ministre chargé de la santé publique n'a pas formulé d'opposition dans le délai
-d'un mois à compter de la réception de la communication ci-dessus indiquée [*accord tacite*] .
+2. L'identité du ou des investigateurs et le ou les lieux concernés dans l'établissement ;
+
+3. La date à laquelle il est envisagé de commencer l'essai et la durée prévue de celui-ci ;
+
+4. Les éléments du protocole et toutes autres informations utiles pour l'application des dispositions de l'article R. 2038.
 
 **Liens relatifs à cet article**
 
@@ -46310,9 +48134,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+
+_Cite_:
+
+  - Code de la santé publique - art. R2038 (Ab)
 
 _Cité par_:
 
@@ -46320,30 +48146,55 @@ _Cité par_:
   - Code de la santé publique - art. R5125 (Ab)
   - Code de la santé publique - art. R5272 (M)
 
-_Cite_:
-
-  - Code de la santé publique - art. R5118 (M)
-
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5121-17 (V)
 
 
+###### Article R5124-1
+
+Lorsqu'un essai clinique est conduit dans un établissement, public ou privé, titulaire d'une licence de pharmacie, le
+promoteur communique préalablement au pharmacien de l'établissement, pour information :
+
+1. Le titre et l'objectif de l'essai ;
+
+2. a) Pour un médicament soumis à l'essai, les renseignements mentionnés au 2 de l'article R. 5122 ;
+
+b) Pour un médicament de référence, les renseignements mentionnés au 3 de l'article R. 5122 ;
+
+c) Pour un placebo, les renseignements mentionnés au 4 de l'article R. 5122 ;
+
+3. La synthèse des prérequis mentionnée à l'article R. 2029 du présent code, accompagnée des références des principaux
+travaux exploités pour cette synthèse ;
+
+4. Les éléments du protocole de l'essai clinique utiles pour la détention et la dispensation des médicaments et produits
+employés ;
+
+5. L'identité du ou des investigateurs et le ou les lieux concernés dans l'établissement ;
+
+6. La date à laquelle il est envisagé de commencer l'essai et la durée prévue de celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+
+_Cite_:
+
+  - Code de la santé publique - art. R2029 (Ab)
+  - Code de la santé publique - art. R5122 (M)
+
+
 ###### Article R5125
 
-Les rapports d'expertise doivent mentionner [*mentions obligatoires*], pour chaque essai :
-
-a) Les nom et prénoms du ou des experts, ainsi que leurs adresses professionnelles, leurs activités professionnelles, leurs
-fonctions et titres universitaires ;
-
-b) La formule chimique du médicament ainsi que la formule galénique et les changements qui ont pu être apportés à cette
-dernière formule au cours des expérimentations ;
-
-c) Les dates et lieux de réalisation des expertises ;
-
-d) Le cas échéant, la description détaillée des échecs rencontrés au cours des expérimentations ;
-
-e) En cas de besoin, la conformité aux dispositions des articles R. 5115-9 ou R. 5118.
+Le directeur et le pharmacien mentionnés aux articles R. 5124 et R. 5124-1 sont soumis aux obligations définies à l'article
+R. 5120.
 
 **Liens relatifs à cet article**
 
@@ -46354,16 +48205,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-492 1988-05-02 art. 2 JORF 4 mai 1988
-
-_Cite_:
-
-  - Code de la santé publique - art. R5115-9 (M)
-  - Code de la santé publique - art. R5118 (M)
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
 
 _Cité par_:
 
   - Code de la santé publique - art. R5117 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5120 (M)
+  - Code de la santé publique - art. R5124 (M)
+  - Code de la santé publique R5124, R5124-1, R5120
 
 _Nouveaux textes_:
 
@@ -46372,19 +48224,61 @@ _Nouveaux textes_:
 
 ###### Article R5126
 
-Lorsqu'il est procédé à une expertise clinique, le responsable de la mise sur le marché qui demande cette expertise doit, en
-même temps, signaler au ministre chargé de la santé publique [*renseignements obligatoires*] :
+En cas de nécessité impérieuse pour la santé publique, le promoteur peut être autorisé à fournir à titre onéreux à des
+établissements de soins un médicament dans des conditions fixées par les ministres chargés de la santé et de la sécurité
+sociale.
 
-a) L'objet de cette expertise ;
+Cette autorisation ne peut être accordée qu'après avis de la commission mentionnée à l'article R. 5140, et lorsque toutes les
+conditions suivantes sont réunies :
 
-b) Le nom du ou des experts qui en sont chargés ;
+1. Le médicament concerné est destiné à traiter une maladie grave ;
 
-c) La date probable d'exécution de cette expertise ;
+2. Il ne peut être remplacé par un autre traitement ;
 
-d) Le ou les lieux où cette expertise est réalisée.
+3. Il existe des preuves d'efficacité et de sécurité suffisantes pour permettre son utilisation dans des conditions
+approuvées par le ministre chargé de la santé ;
 
-Lorsque l'expertise a lieu dans un établissement hospitalier public, le responsable de la mise sur le marché communique ces
-mêmes indications au pharmacien de cet établissement, lequel est alors soumis aux obligations définies à l'article R. 5120.
+4. Une demande d'autorisation de mise sur le marché français a été déposée ou une lettre d'engagement de dépôt d'une telle
+demande a été adressée au ministre chargé de la santé ;
+
+5. Le promoteur s'engage à poursuivre les essais nécessaires pour la constitution du dossier d'autorisation de mise sur le
+marché.
+
+L'autorisation mentionnée au deuxième alinéa du présent article est accordée pour une durée maximale d'un an.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cité par_:
+
+  - Arrêté du 6 mars 1989 - art. Annexe (V)
+  - Code de la santé publique - art. R5117 (M)
+  - Code de la santé publique - art. R5140 (M)
+  - Code de la santé publique - art. R5272 (M)
+
+_Modifié par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+
+
+###### Article R5127
+
+Tout essai donne lieu à un rapport établi par l'expérimentateur ou l'investigateur qui a réalisé cet essai. Ce rapport doit
+être daté et signé et rappeler :
+
+1. L'identité du ou des expérimentateurs ou investigateurs, leurs titres, expérience et fonctions ;
+
+2. Les dates et lieux de réalisation de l'essai ;
+
+3. Pour le médicament soumis à l'essai, les renseignements mentionnés au 2 de l'article R. 5122 ;
+
+4. Pour un médicament de référence, les renseignements mentionnés au 3 de l'article R. 5122 ;
+
+5. Pour un placebo, les renseignements mentionnés au 4 de l'article R. 5122.
 
 **Liens relatifs à cet article**
 
@@ -46395,37 +48289,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
-  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
-
-_Cité par_:
-
-  - Arrêté du 6 mars 1989 - art. Annexe (V)
-  - Code de la santé publique - art. R5117 (M)
-  - Code de la santé publique - art. R5140 (M)
-  - Code de la santé publique - art. R5272 (M)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5120 (M)
-
-
-###### Article R5127
-
-Le ministre chargé de la santé publique peut demander au responsable de la mise sur le marché de lui communiquer le programme
-d'une expertise lorsqu'il estime que le produit nouveau qui fait l'objet de cette expertise est susceptible de créer un
-risque anormal ou lorsqu'il y a des présomptions graves et concordantes d'une atteinte à la santé publique.
-
-Le ministre chargé de la santé publique [*autorité compétente*] peut faire opposition à la poursuite de l'exécution dudit
-programme dans le délai d'un mois suivant la réception de celui-ci.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
 
 _Cité par_:
 
@@ -46435,13 +48299,12 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. R5121-20 (V)
 
-_Modifié par_:
+_Cite_:
 
-  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+  - Code de la santé publique - art. R5122 (M)
 
 
-##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=351></a>
+##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=361></a>
 
 ###### Article R5128
 
@@ -47206,7 +49069,7 @@ _Cite_:
 
 ###### Article R5140
 
-Les décisions mentionnées aux articles R. 5135, R. 5136, R. 5136-1 R. 5137 et R. 5139, à l'exclusion des mesures de
+Les décisions mentionnées aux articles R. 5126, R. 5135, R. 5136, R. 5136-1 R. 5137 et R. 5139, à l'exclusion des mesures de
 suspension, sont prises par le ministre chargé de la santé après avis de la commission constituée à cet effet [*autorité
 compétente*].
 
@@ -47258,7 +49121,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°84-309 1984-04-26 ART. 1 JORF 28 AVRIL 1984
+  - Décret n°90-872 du 27 septembre 1990 - art. 4 () JORF 29 septembre 1990
 
 _Nouveaux textes_:
 
@@ -47270,7 +49133,7 @@ _Cite_:
   - Code de la santé publique - art. R5136 (M)
   - Code de la santé publique - art. R5137 (M)
   - Code de la santé publique - art. R5138 (M)
-  - Code de la santé publique R5135, R5137, R5138, R5139, R5136-1, R5136
+  - Code de la santé publique R5135, R5137, R5138, R5139, R5136-1, R5136, R5126
 
 
 ###### Article R5140-1
@@ -47549,7 +49412,7 @@ _Cite_:
   - Code de la santé publique R5060 à R5089
 
 
-##### PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES.<a id=352></a>
+##### PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES.<a id=362></a>
 
 ###### Article R5143
 
@@ -47703,9 +49566,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5121-202 (V)
 
 
-#### CHAPITRE 3 : PHARMACIE VETERINAIRE<a id=353></a>
+#### CHAPITRE 3 : PHARMACIE VETERINAIRE<a id=363></a>
 
-##### DISPOSITIONS GENERALES.<a id=354></a>
+##### DISPOSITIONS GENERALES.<a id=364></a>
 
 ###### Article R5145
 
@@ -47757,7 +49620,7 @@ _Cité par_:
   - Code de la santé publique - art. R5163 (M)
 
 
-##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.<a id=355></a>
+##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.<a id=365></a>
 
 ###### Article R5146
 
@@ -47781,7 +49644,7 @@ _Abrogé par_:
   - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
 
 
-##### Paragraphe 1 : Autorisation administrative.<a id=356></a>
+##### Paragraphe 1 : Autorisation administrative.<a id=366></a>
 
 ###### Article R5146-1
 
@@ -47894,7 +49757,7 @@ _Cite_:
   - Code de la santé publique - art. L616 (M)
 
 
-##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.<a id=357></a>
+##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.<a id=367></a>
 
 ###### Article R5146-6
 
@@ -48040,7 +49903,7 @@ _Cité par_:
   - Code de la santé publique - art. R5146-17 bis (Ab)
 
 
-##### Paragraphe 3 : Fonctionnement des établissements<a id=358></a>
+##### Paragraphe 3 : Fonctionnement des établissements<a id=368></a>
 
 ###### Article R5146-10
 
@@ -48419,9 +50282,9 @@ _Cité par_:
   - Arrêté du 5 mai 1997 - art. 1 (Ab)
 
 
-##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=359></a>
+##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=369></a>
 
-##### Paragraphe 1 : Expérimentation des médicaments vétérinaires.<a id=360></a>
+##### Paragraphe 1 : Expérimentation des médicaments vétérinaires.<a id=370></a>
 
 ###### Article R5146-18
 
@@ -48731,7 +50594,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-18 (M)
 
 
-##### Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché<a id=361></a>
+##### Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché<a id=371></a>
 
 ###### Article R5146-26
 
@@ -49078,7 +50941,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5146-28 (M)
 
 
-##### Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché.<a id=362></a>
+##### Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché.<a id=372></a>
 
 ###### Article R5146-33
 
@@ -49718,7 +51581,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-38 (M)
 
 
-##### Paragraphe 4 : Prélèvements d'échantillons.<a id=363></a>
+##### Paragraphe 4 : Prélèvements d'échantillons.<a id=373></a>
 
 ###### Article R5146-40
 
@@ -49777,7 +51640,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-29 (M)
 
 
-##### Section 3 : Réglementation de la publicité.<a id=364></a>
+##### Section 3 : Réglementation de la publicité.<a id=374></a>
 
 ###### Article R5146-42
 
@@ -50038,7 +51901,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
 
 
-##### SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES.<a id=365></a>
+##### SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES.<a id=375></a>
 
 ###### Article R5146-49
 
@@ -50205,7 +52068,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
 
 
-##### SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS.<a id=366></a>
+##### SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS.<a id=376></a>
 
 ###### Article R5146-51
 
@@ -50408,7 +52271,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5141-123 (M)
 
 
-##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.<a id=367></a>
+##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.<a id=377></a>
 
 ###### Article R5146-56
 
@@ -50441,7 +52304,7 @@ _Nouveaux textes_:
   - Code de la santé publique R5143-5
 
 
-##### SECTION 7 : SANCTIONS.<a id=368></a>
+##### SECTION 7 : SANCTIONS.<a id=378></a>
 
 ###### Article R5146-57
 
@@ -50490,9 +52353,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5442-5 (V)
 
 
-#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=369></a>
+#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=379></a>
 
-##### Section 3 : Dispositions communes.<a id=370></a>
+##### Section 3 : Dispositions communes.<a id=380></a>
 
 ###### Article R5147
 
@@ -50648,9 +52511,9 @@ _Créé par_:
   - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
 
 
-#### Chapitre 2 bis : Pharmacovigilance<a id=371></a>
+#### Chapitre 2 bis : Pharmacovigilance<a id=381></a>
 
-##### Section 1 : Organisation de la pharmacovigilance.<a id=372></a>
+##### Section 1 : Organisation de la pharmacovigilance.<a id=382></a>
 
 ###### Article R5144-1
 
@@ -50906,7 +52769,7 @@ _Cite_:
   - Code de la santé publique - art. R5144-8 (M)
 
 
-##### Section 2 : Déclarations obligatoires.<a id=373></a>
+##### Section 2 : Déclarations obligatoires.<a id=383></a>
 
 ###### Article R5144-8
 
@@ -51001,11 +52864,11 @@ _Cite_:
   - Code de la santé publique - art. R5144-9 (M)
 
 
-### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=374></a>
+### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=384></a>
 
-#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=375></a>
+#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=385></a>
 
-##### SECTION 1 : GENERALITES.<a id=376></a>
+##### SECTION 1 : GENERALITES.<a id=386></a>
 
 ###### Article R5149
 
@@ -51058,9 +52921,9 @@ _Cite_:
   - Code de la santé publique - art. R5152 (M)
 
 
-##### Section 2 : Substances dangereuses, stupéfiantes ou psychotropes<a id=377></a>
+##### Section 2 : Substances dangereuses, stupéfiantes ou psychotropes<a id=387></a>
 
-##### 1 : Dispositions communes.<a id=378></a>
+##### 1 : Dispositions communes.<a id=388></a>
 
 ###### Article R5150
 
@@ -51135,7 +52998,7 @@ _Cite_:
   - Code de la santé publique - art. R5182 (M)
 
 
-##### 2 : Substances dangereuses.<a id=379></a>
+##### 2 : Substances dangereuses.<a id=389></a>
 
 ###### Article R5152
 
@@ -52092,7 +53955,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
-##### 3 : Substances stupéfiantes.<a id=380></a>
+##### 3 : Substances stupéfiantes.<a id=390></a>
 
 ###### Article R5171
 
@@ -52680,7 +54543,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
-##### 4 : Substances psychotropes.<a id=381></a>
+##### 4 : Substances psychotropes.<a id=391></a>
 
 ###### Article R5183
 
@@ -52987,9 +54850,9 @@ _Cite_:
   - Code de la santé publique - art. R5182 (M)
 
 
-##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact<a id=382></a>
+##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact<a id=392></a>
 
-##### 1) Dispositions communes.<a id=383></a>
+##### 1) Dispositions communes.<a id=393></a>
 
 ###### Article R5190
 
@@ -53746,7 +55609,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-42 (V)
 
 
-##### 3) Régime particulier des stupéfiants.<a id=384></a>
+##### 3) Régime particulier des stupéfiants.<a id=394></a>
 
 ###### Article R5209
 
@@ -54269,7 +56132,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-##### 2) Régime particulier des listes 1 et 2.<a id=385></a>
+##### 2) Régime particulier des listes 1 et 2.<a id=395></a>
 
 ###### Article R5204
 
@@ -54505,7 +56368,7 @@ _Cité par_:
   - Code de la santé publique - art. R5209 (M)
 
 
-##### 4) Régime particulier des psychotropes.<a id=386></a>
+##### 4) Régime particulier des psychotropes.<a id=396></a>
 
 ###### Article R5219
 
@@ -54539,7 +56402,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=387></a>
+#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=397></a>
 
 ###### Article R5220
 
@@ -54651,7 +56514,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=388></a>
+#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=398></a>
 
 ###### Article R5230
 
@@ -55536,7 +57399,7 @@ _Cite_:
   - Code de la santé publique - art. R5235 (M)
 
 
-#### Chapitre 4 : Médicaments antivénériens.<a id=389></a>
+#### Chapitre 4 : Médicaments antivénériens.<a id=399></a>
 
 ###### Article R5239
 
@@ -55622,7 +57485,7 @@ _Cite_:
   - Code de la santé publique L643, R5060 à R5089
 
 
-#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=390></a>
+#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=400></a>
 
 ###### Article R5242
 
@@ -55683,7 +57546,7 @@ _Cite_:
   - Code de la santé publique - art. L645 (Ab)
 
 
-#### Chapitre 7 : Biberons à tube et tétines.<a id=391></a>
+#### Chapitre 7 : Biberons à tube et tétines.<a id=401></a>
 
 ###### Article R5262
 
@@ -55844,7 +57707,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=392></a>
+#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=402></a>
 
 ###### Article R5266-1
 
@@ -56343,9 +58206,35 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5136-17 (V)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=393></a>
+###### Article R5266-16
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=394></a>
+Les essais auxquels il est procédé en vue de l'autorisation prévue à l'article L. 658-11 ou après la délivrance de cette
+autorisation sont soumis aux conditions fixées aux articles R. 5117 à R. 5127.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°90-872 du 27 septembre 1990 - art. 5 () JORF 29 septembre 1990
+
+_Cite_:
+
+  - Code de la santé publique - art. L658-11 (M)
+  - Code de la santé publique L658-11, R5117 à R5127
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-18 (V)
+
+
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=403></a>
+
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=404></a>
 
 ###### Article R5267
 
@@ -56400,7 +58289,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=395></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=405></a>
 
 ###### Article R5269
 
@@ -56493,9 +58382,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 4 : Visa des spécialités anciennes<a id=396></a>
+#### Chapitre 4 : Visa des spécialités anciennes<a id=406></a>
 
-##### Section 1 : Spécialités pharmaceutiques.<a id=397></a>
+##### Section 1 : Spécialités pharmaceutiques.<a id=407></a>
 
 ###### Article R5272
 
@@ -56536,7 +58425,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-33 (V)
 
 
-##### Section 2 : Produits d'origine microbienne.<a id=398></a>
+##### Section 2 : Produits d'origine microbienne.<a id=408></a>
 
 ###### Article R5273
 
