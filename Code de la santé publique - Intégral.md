@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1986-01-18
+Version Consolidée au 1986-03-07
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -49460,8 +49460,8 @@ _Nouveaux textes_:
 ###### Article R5172
 
 Les médecins, les vétérinaires et, dans le cadre de l'article L. 368 du code de la santé publique, les chirurgiens-dentistes
-peuvent se faire délivrer sur demandes rédigées conformément aux dispositions des articles R. 5173, R. 5185, R. 5201, les
-substances visées à la présente section et destinées à être employées par eux, soit dans les cas d'urgence, soit pour des
+peuvent se faire délivrer sur demandes rédigées, conformément aux dispositions des articles R. 5179, R. 5185 et R. 5201, les
+substances visées à la présente section et destinées à être employées par eux soit dans les cas d'urgence, soit pour des
 opérations ou des pansements.
 
 Ces médicaments doivent être employés par les praticiens eux-mêmes : il leur est interdit de les céder à leurs clients à
@@ -49473,11 +49473,17 @@ Ces substances ne peuvent être délivrées que sous la forme pharmaceutique com
 Un arrêté du ministre de la santé énumère les substances vénéneuses que les pharmaciens peuvent délivrer aux sages-femmes
 pour leur usage professionnel et fixe les conditions de délivrance et d'utilisation de ces substances.
 
+**Nota:**
+
+[*NOTA : Code de la santé publique R5170 : Non application aux préparations médicamenteuses destinées a la médecine humaine
+et vétérinaire renfermant des substances vénéneuses à des doses fixées par arrêté.*]
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°85-958 1985-09-10 art. 1 JORF 12 septembre 1985
+  - Décret n°86-314 1986-03-03 art. 1 JORF 7 mars 1986
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 **Liens**:
 
@@ -49489,12 +49495,12 @@ _Modifié par_:
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique - art. R5170 (M)
 
 _Cite_:
 
   - Code de la santé publique - art. L368 (M)
-  - Code de la santé publique - art. R5173 (M)
+  - Code de la santé publique - art. R5179 (M)
   - Code de la santé publique - art. R5201 (M)
 
 _Nouveaux textes_:
