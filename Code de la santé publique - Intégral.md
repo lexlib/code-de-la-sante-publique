@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1983-04-15
+Version Consolidée au 1983-07-23
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -36,8 +36,8 @@ Version Consolidée au 1983-04-15
           - [Section 4 : Dispositions pénales (art. L144 à L145)](#33)
     - [Livre 2 : Protection sanitaire de la famille et de l'enfance (art. L146 à L208)](#34)
       - [Titre 1 : Protection maternelle et infantile. (art. L146 à L190-1)](#35)
-        - [Chapitre 1 : Organisation administrative (art. L148 à L152)](#36)
-          - [Section 1 : Institutions. (art. L148 à L150)](#37)
+        - [Chapitre 1 : Organisation administrative (art. L147 à L152)](#36)
+          - [Section 1 : Institutions. (art. L147 à L150)](#37)
           - [Section 2 : Direction et coordination. (art. L151 à L152)](#38)
         - [Chapitre 2 : Du certificat prénuptial. (art. L155 à L158)](#39)
         - [Chapitre 3 : Protection des futurs parents (art. L159 à L162)](#40)
@@ -53,7 +53,7 @@ Version Consolidée au 1983-04-15
         - [Chapitre 5 : Du contrôle de certains établissements (art. L176 à L181)](#50)
           - [Section 1 : Etablissements d'hospitalisation recevant des femmes enceintes. (art. L176 à L179)](#51)
           - [Section 2 : Etablissements concourant à la protection, à la garde ou au placement des enfants du premier et du second âge. (art. L180 à L181)](#52)
-        - [Chapitre 6 : Financement. (art. L184 à L186)](#53)
+        - [Chapitre 6 : Financement. (art. L185 à L186)](#53)
         - [Chapitre 7 : Dispositions diverses. (art. L187 à L189)](#54)
         - [Chapitre 8 : Dispositions relatives aux départements d'outre-mer. (art. L190 à L190-1)](#55)
       - [Titre 2 : Santé scolaire et universitaire. (art. L191 à L198)](#56)
@@ -3915,23 +3915,24 @@ _Codifié par_:
 
 ###### Article L49
 
-Les dépenses rendues nécessaires pour les collectivités publiques par le présent titre, notamment celles causées par la
-destruction des objets mobiliers, et par les articles L. 766 à 779 inclus, sont obligatoires. En cas de contestation sur leur
-nécessité, il est statué par décret en Conseil d'Etat.
+Sous réserve des compétence reconnues aux autorités municipales, le contrôle administratif et technique des règles d'hygiène
+relève de la compétence de l'Etat qui en détermine les modalités et en assure l'organisation et le financement.
 
-Ainsi qu'il est dit à l'article 190 du Code de la famille et de l'aide sociale, ces dépenses sont inscrites en totalité au
-budget du département. L'Etat y participe : sa contribution est portée en recettes au budget du département.
+**Nota:**
 
-Ainsi qu'il est dit au même article du Code de la famille et de l'aide sociale, les dépenses des services municipaux de
-désinfection et des bureaux municipaux d'hygiène restent toutefois inscrites au budget de la commune [*charge*]. L'Etat y
-contribue dans les conditions prévues à l'alinéa précédent.
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 49 () JORF 23 juillet 1983
 
 _Cité par_:
 
@@ -3940,60 +3941,54 @@ _Cité par_:
   - Décret n°92-1436 du 30 décembre 1992 - art. 18 (Ab)
   - Décret n°96-41 du 17 janvier 1996 - art. 22 (Ab)
   - Code de la santé publique - art. L49 (M)
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
   - Code de la santé publique - art. L50 (M)
-  - Code de la santé publique - art. L51 (Ab)
-  - Code de la santé publique L49, L50, L51, L766 A L779
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L1421-4 (M)
   - Code de la santé publique - art. L1421-4 (V)
 
 **Liens**:
 
   - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
 
-_Anciens textes_:
-
-  - Loi n°1902-02-15 ART. 26
-  - Loi n°1906-06-22
-
 
 ###### Article L50
 
-Les conditions de répartition des dépenses visées à l'article L. 49 et, notamment, le pourcentage des dépenses incombant
-respectivement et selon le cas à l'Etat et au département ou à l'Etat et à la commune intéressée, sont déterminées par le
-règlement d'administration publique prévu à l'article 191 du code de la famille et de l'aide sociale.
+Les services départementaux de vaccination relèvent de la compétence du conseil général qui en assure l'organisation.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Loi n°83-663 du 22 juillet 1983 - art. 38 () JORF 23 juillet 1983
 
 _Cité par_:
 
   - Loi n°83-663 du 22 juillet 1983 - art. 48 (Ab)
   - Code de la santé publique - art. L49 (M)
 
-_Anciens textes_:
+_Abrogé par_:
 
-  - Code de la famille et de l'aide sociale. - art. 191 (Ab)
-  - Décret n°55-512 1955-05-11
-  - Loi n°1902-02-15 art. 26
-  - Loi n°1906-06-22
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 191 (Ab)
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L3111-11 (M)
   - Code de la santé publique - art. L3111-11 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
 
 
 ##### Section 2 : Champ d'application du présent titre<a id=25></a>
@@ -4651,6 +4646,36 @@ _Modifié par_:
 #### Chapitre 1 : Organisation administrative<a id=36></a>
 
 ##### Section 1 : Institutions.<a id=37></a>
+
+###### Article L147
+
+Les centres et consultations de protection maternelle et infantile, les activités de protection maternelle et infantile à
+domicile, la formation et l'agrément des assistantes maternelles relèvent de la compétence du département qui en assure
+l'organisation et le financement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cité par_:
+
+  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+  - Loi n°83-663 du 22 juillet 1983 - art. 48 (Ab)
+  - Décret n°92-785 du 6 août 1992 - art. 1 (Ab)
+  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 7 (Ab)
+  - Code de la santé publique - art. L148 (Ab)
+
+_Modifié par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 39 () JORF 23 JUILLET 1983
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L2111-2 (V)
+
 
 ###### Article L148
 
@@ -6420,46 +6445,11 @@ _Nouveaux textes_:
 
 #### Chapitre 6 : Financement.<a id=53></a>
 
-###### Article L184
-
-Le préfet [*autorité compétente*], sur proposition du directeur départemental de la santé, arrête les prévisions de recettes
-et les dépenses du service et provoque l'inscription des crédits au budget départemental.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-2720 1945-11-02 ART. 45
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Abrogé par_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 50 () JORF 23 JUILLET 1983
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L2323-1 (V)
-
-
 ###### Article L185
 
-Les dépenses de protection maternelle et infantile, telles qu'elles sont énumérées par décret, constituent pour les
-départements des dépenses obligatoires.
-
-Ces dépenses sont inscrites au budget départemental et font l'objet d'une contribution de l'Etat, conformément aux articles
-190 et 191 du Code de la famille et de l'aide sociale.
-
-Viennent en atténuation des dépenses ci-dessus toutes recettes, faites par l'Etat ou les départements susceptibles de
-constituer des fonds de concours en vue de l'application du titre premier livre II du présent code et des textes pris pour
-son application.
-
-Si un département omet ou refuse au budget les crédits suffisants pour l'acquittement des dépenses obligatoires du service
-qui sont à sa charge, les crédits nécessaires sont inscrits d'office au budget soit ordinaire, soit extraordinaire, par un
-décret pris sur le rapport du ministre de l'intérieur et du ministre des finances.
+Les frais occasionnés par l'application des dispositions du chapitre V du présent titre sont supportés par l'Etat [*charge -
+établissements d'hospitalisation recevant des femmes enceintes ou concourant ù la protection, à la garde ou au placement des
+enfants du premier et du second âge*].
 
 **Liens relatifs à cet article**
 
@@ -6474,13 +6464,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°64-677 1964-07-06 ART. 6 JORF 8 JUILLET 1964
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 191 (Ab)
-  - Code de la santé publique L146 A L208
+  - Loi n°83-663 du 22 juillet 1983 - art. 49 () JORF 23 JUILLET 1983
 
 _Cité par_:
 
@@ -8451,41 +8435,32 @@ _Anciens textes_:
 
 ###### Article L247
 
-Les dépenses de fonctionnement du service départemental, dans la mesure où elles n'ont pu être couvertes au moyen de
-ressources propres ou de participations diverses, et les dépenses relatives à la vaccination de la population civile par le
-BCG, sont obligatoirement inscrites au budget de chaque département [*charge*] et réparties dans les conditions visées par
-l'article 190 du Code de la famille et de l'aide sociale.
+Les dispensaires antituberculeux et les services de vaccination de la population civile par le vaccin antituberculeux B.C.G.
+sont des services du département [*compétence, charge*].
 
-L'excédent des dépenses des dispensaires liés par contrat avec le service départemental est pris en charge dans les mêmes
-conditions par le budget départemental et réparti suivant les mêmes modalités.
+**Nota:**
 
-Par dérogation aux dispositions qui précèdent, les dépenses de fonctionnement du dispensaire de la Cité universitaire de
-Paris sont pour moitié à la charge de l'Etat, pour moitié réparties comme il est dit à l'alinéa précédent.
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 14 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 20.*]
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Transféré par_:
 
-  - Ordonnance 45-2575 1945-10-31 ART. 24
-  - Loi n°50-7 1950-01-05 ART. 4
-  - Loi n°53-1325 1953-12-31 ART. 3
+  - Loi n°94-43 1994-01-19 art. 1 III JORF 19 janvier 1994
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Loi n°83-663 du 22 juillet 1983 - art. 40 () JORF 23 juillet 1983
 
 _Cité par_:
 
   - Loi n°83-663 du 22 juillet 1983 - art. 48 (Ab)
   - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 14 (Ab)
 
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
-
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L216 (Ab)
   - Code de la santé publique - art. L219 (Ab)
 
 
@@ -9886,12 +9861,7 @@ _Cité par_:
 
 ###### Article L304
 
-Les dépenses de fonctionnement, dans lesquelles entre l'amortissement des emprunts des services antivénériens, sont inscrites
-à un chapitre spécial du budget départemental et, dans la mesure où elles ne sont pas couvertes au moyen de ressources
-propres ou des participations diverses, sont réparties entre l'Etat et le département dans les conditions visées par
-l'article 190 du Code de la famille et de l'aide sociale ; l'excédent de dépenses des dispensaires liés par contrat avec le
-service départemental d'hygiène sociale est pris en charge dans les mêmes conditions par le budget départemental et réparti
-suivant les mêmes modalités.
+Les dispensaires antivénériens sont des services du département [*compétence, charge*].
 
 **Liens relatifs à cet article**
 
@@ -9904,14 +9874,18 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
+_Modifié par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 40 () JORF 23 JUILLET 1983
+
 _Cité par_:
 
   - Loi n°83-663 du 22 juillet 1983 - art. 48 (Ab)
   - Code de la santé publique - art. L305 (Ab)
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -11955,8 +11929,8 @@ _Abrogé par_:
 
 ###### Article L353
 
-Les dépenses exposées par les départements pour l'application de l'article L. 326 sont réparties entre l'Etat et les
-départements dans les conditions prévues par l'article 190 du Code de la famille et de l'aide sociale [*charge financière*].
+Les dépenses exposées en application de l'article L. 326 sont à la charge de l'Etat sans préjudice de la participation des
+régimes d'assurance maladie aux dépenses de soins [*dépistage et prophylaxie des maladies mentales et de l'alcoolisme*].
 
 **Liens relatifs à cet article**
 
@@ -11967,16 +11941,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°68-5 du 3 janvier 1968 - art. 8 () JORF 4 JANVIER 1968
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
-  - Code de la santé publique - art. L326 (M)
+  - Loi n°83-663 du 22 juillet 1983 - art. 49 () JORF 23 JUILLET 1983
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L3214-2 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. L326 (M)
 
 _Cité par_:
 
