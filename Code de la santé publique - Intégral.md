@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-04-28
+Version Consolidée au 1984-05-26
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -129,15 +129,15 @@ Version Consolidée au 1984-04-28
         - [Chapitre 1 : Dispositions particulières aux personnes signalées par le procureur de la République (art. L355-15 à L355-17)](#126)
         - [Chapitre 2 : Dispositions particulières aux personnes signalées par les services médicaux et sociaux (art. L355-18 à L355-20)](#127)
         - [Chapitre 3 : Dispositions particulières aux personnes se présentant spontanément aux services de prévention ou de cure (art. L355-21)](#128)
-    - [LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX (art. L356 à L510-9)](#129)
+    - [LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX (art. L356 à L510-11)](#129)
       - [TITRE 1 : PROFESSIONS DE MEDECIN, DE CHIRURGIEN DENTISTE ET DE SAGE-FEMME (art. L356 à L471)](#130)
         - [CHAPITRE 1 : EXERCICE DE LA PROFESSION (art. L356 à L379)](#131)
           - [SECTION 1 : CONDITIONS AUXQUELLES EST SUBORDONNE L'EXERCICE DE LA PROFESSION. (art. L356 à L360)](#132)
-          - [Section 2 : Règles d'exercice de la profession (art. L361 à L371)](#133)
+          - [Section 2 : Règles d'exercice de la profession (art. L361 à L371-1)](#133)
             - [Paragraphe 1 : Règles communes *à l'exercice de la profession de médecin, chirurgien-dentiste ou sage-femme* (art. L361 à L366)](#134)
             - [Paragraphe 2 : Règles propres à l'exercice de la profession de médecin (art. L367 à L367-1)](#135)
             - [Paragraphe 3 : Règles propres à l'exercice de la profession de chirurgien-dentiste (art. L368 à L368-1)](#136)
-            - [Paragraphe 4 : Règles propres à l'exercice de la profession de sage-femme (art. L369 à L371)](#137)
+            - [Paragraphe 4 : Règles propres à l'exercice de la profession de sage-femme (art. L369 à L371-1)](#137)
           - [Section 3 : Exercice illégal des professions de médecin, de chirurgien-dentiste et de sage-femme (art. L372 à L374)](#138)
           - [SECTION 4 : DISPOSITIONS PENALES. (art. L375 à L379)](#139)
         - [Chapitre 2 : Organisation de la profession de médecin (art. L381 à L428)](#140)
@@ -173,12 +173,12 @@ Version Consolidée au 1984-04-28
         - [Chapitre 2 : Règles d'exercice de la profession et dispositions pénales. (art. L478 à L486)](#170)
       - [Titre 3 : Professions de masseur-kinésithérapeute et de pédicure (art. L488 à L503)](#171)
         - [Chapitre 1 : Masseur-kinésithérapeute (art. L488 à L491)](#172)
-        - [Chapitre 3 : Dispositions communes et dispositions pénales (art. L498 à L503)](#173)
-      - [TITRE 3 : PROFESSION DE MASSEUR-KINESITHERAPEUTE (art. L487)](#174)
-        - [CHAPITRE 1 : MASSEUR-KINESITHERAPEUTE. (art. L487)](#175)
-      - [TITRE 3 : PROFESSION DE PEDICURE (art. L492 à L496)](#176)
-        - [CHAPITRE 2 : PEDICURE. (art. L492 à L496)](#177)
-      - [TITRE 3 : PROFESSIONS DE MASSEUR-KINESITHERAPEUTE ET DE PEDICURE CHAPITRE 3 : DISPOSITIONS COMMUNES ET DISPOSITIONS PENALES. (art. L497)](#178)
+        - [Chapitre 2 : Pédicure-podologue. (art. L493 à L496)](#173)
+        - [Chapitre 3 : Dispositions communes et dispositions pénales (art. L497 à L503)](#174)
+      - [TITRE 3 : PROFESSION DE MASSEUR-KINESITHERAPEUTE (art. L487)](#175)
+        - [CHAPITRE 1 : MASSEUR-KINESITHERAPEUTE. (art. L487)](#176)
+      - [TITRE 3 : PROFESSION DE PEDICURE-PODOLOGUE (art. L492)](#177)
+        - [CHAPITRE 2 : PEDICURE-PODOLOGUE. (art. L492)](#178)
       - [Titre 3-1 : Professions d'orthophoniste et d'orthoptiste (art. L504-1 à L504-6)](#179)
         - [Chapitre 1 : Profession d'orthophoniste (art. L504-1 à L504-2)](#180)
         - [Chapitre 2 : Profession d'orthoptiste (art. L504-3 à L504-4)](#181)
@@ -186,7 +186,7 @@ Version Consolidée au 1984-04-28
       - [Titre 4 : Profession d'opticien-lunetier (art. L505 à L508)](#183)
         - [Règles de la profession et dispositions pénales (art. L505 à L508)](#184)
       - [Titre 5 : Profession d'audioprothésiste (art. L510-1 à L510-8)](#185)
-      - [Titre 6 : Dispositions diverses (art. L510-9)](#186)
+      - [Titre 6 : Dispositions diverses (art. L510-9 à L510-11)](#186)
     - [Livre 5 : Pharmacie (art. L511 à L665)](#187)
       - [Titre 1 : Dispositions générales (art. L511 à L567)](#188)
         - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. L511 à L519)](#189)
@@ -12552,10 +12552,9 @@ transitoires de la loi du 30 novembre 1892 ou des dispositions spéciales aux pr
 septembre 1919, loi du 13 juillet 1921, loi du 10 août 1924, décret du 5 juillet 1922 ratifié par la loi du 13 décembre 1924,
 loi du 31 décembre 1924, loi du 18 août 1927) ou aux praticiens sarrois (lois des 26 juillet 1935 et 27 juillet 1937) ;
 
-2° De nationalité française, citoyen andorran ou ressortissant de l'un des Etats membres de la communauté économique
-européenne, du Maroc ou de la Tunisie, sous réserve de l'application, le cas échéant, soit des règles fixées aux alinéas 4 à
-9 du présent article, soit de celles qui découlent d'engagements internationaux autres que ceux mentionnés à l'alinéa 4 ci-
-après.
+2° De nationalité française ou ressortissant de l'un des Etats membres de la communauté économique européenne, du Maroc ou de
+la Tunisie, sous réserve de l'application, le cas échéant, soit des règles fixées aux alinéas 4 à 9 du présent article, soit
+de celles qui découlent d'engagements internationaux autres que ceux mentionnés à l'alinéa 4 ci-après.
 
 Toutefois, lorsqu'un Etat étranger accorde à des médecins, chirurgiens-dentistes ou sages-femmes nationaux français ou
 ressortissants français, le droit d'exercer leur profession sur son territoire, le ressortissant de cet Etat peut être
@@ -12575,9 +12574,9 @@ organismes, autoriser individuellement à exercer :
 
 - des personnes étrangères titulaires d'un diplôme français permettant l'exercice de la profession ;
 
-- des personnes françaises ou étrangères, titulaires d'un diplôme étranger de valeur scientifique reconnue équivalente par le
-ministre chargé des universités à celle d'un diplôme français permettant l'exercice de la profession et qui ont subi avec
-succès des épreuves définies par voie réglementaire.
+- des personnes françaises ou étrangères, titulaires d'un diplôme, titre ou certificat de valeur scientifique reconnue
+équivalente par le ministre chargé des universités à celle d'un diplôme français permettant l'exercice de la profession et
+qui ont subi avec succès des épreuves définies par voie réglementaire.
 
 Le nombre maximum de ces autorisations est fixé chaque année par voie réglementaire, en accord avec la commission prévue ci-
 dessus et compte tenu du mode d'exercice de la profession.
@@ -12599,6 +12598,10 @@ aux cadres actifs du service de santé des armées. Elle ne s'applique pas non p
 ou sages-femmes qui, ayant la qualité de fonctionnaire de l'Etat ou d'agent titulaire d'une collectivité locale ne sont pas
 appelés, dans l'exercice de leurs fonctions, à exercer la médecine ou l'art dentaire ou à pratiquer les actes entrant dans la
 définition de la profession de sage-femme.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L357 : DEROGATION POUR CERTAINS ETRANGERS.*]
 
 **Liens relatifs à cet article**
 
@@ -12675,7 +12678,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
 
 **Liens**:
 
@@ -12745,46 +12747,48 @@ _Codifié par_:
   - TXT_SOURCE: Arrêté du 4 décembre 1975 - art. 3 (Ab)
   - TXT_SOURCE: Arrêté du 4 décembre 1975 - art. 4 (Ab)
   - TXT_SOURCE: Arrêté du 4 décembre 1975 - art. 5 (Ab)
-  - TXT_ASSOCIE: Code de la santé publique L357 : DEROGATION POUR CERTAINS ETRANGERS
+  - TXT_ASSOCIE: Code de la santé publique - art. L357 (Ab)
 
 _Modifié par_:
 
-  - Loi n°82-413 1982-05-19 ART. 2 JORF 20 MAI 1982
+  - Loi n°84-391 1984-05-25 ART. 2, ART. 13 JORF 26 MAI 1984
 
 
 ###### Article L356-1
 
-Le médecin ou le praticien de l'art dentaire ressortissant d'un des Etats membres de la Communauté économique européenne qui
-est établi et exerce légalement les activités de médecin dans un Etat membre autre que la France [*à l'étranger*] peut
-exécuter en France des actes de sa profession sans être inscrit à un tableau de l'ordre des médecins ou des chirurgiens
-dentistes. L'exécution de ces actes est toutefois subordonnée à une déclaration préalable [*condition d'exercice*] dont les
-modalités sont fixées par un décret en Conseil d'Etat. Si l'urgence ne permet pas de faire cette déclaration préalablement à
-l'acte, elle doit être faite postérieurement dans un délai maximum de quinze jours.
+Le médecin, le praticien de l'art dentaire [*dentiste*] ou la sage-femme ressortissant d'un des Etats membres de la
+Communauté économique européenne qui est établi et exerce légalement les activités de médecin, de praticien de l'art dentaire
+ou de sage-femme dans un Etat membre autre que la France [*à l'étranger*] peut exécuter en France des actes de sa profession
+sans la condition posée au 3° de l'article L. 356. L'exécution de ces actes est toutefois subordonnée à une déclaration
+préalable [*condition d'exercice*] dont les modalités sont fixées par un décret en Conseil d'Etat. Si l'urgence ne permet pas
+de faire cette déclaration préalablement à l'acte, elle doit être faite postérieurement dans un délai maximum de quinze
+jours.
 
 La déclaration est accompagnée d'une attestation de l'autorité compétente de l'Etat membre certifiant que l'intéressé possède
-les diplômes, certificats ou autres titres requis et qu'il exerce légalement ls activités de médecin ou de praticien de l'art
-dentaire dans l'Etat membre où il est établi. Elle est également accompagnée d'une déclaration sur l'honneur attestant
-qu'aucune instance pouvant entraîner l'interdiction temporaire ou définitive de l'exercice de la médecine ou de l'art
-dentaire dans l'Etat d'origine ou de provenance n'est en cours à son encontre [*document*].
+les diplômes, certificats ou autres titres requis et qu'il exerce légalement ls activités de médecin, de praticien de l'art
+dentaire ou de sage-femme dans l'Etat membre ou il est établi Elle est également accompagnée d'une déclaration sur l'honneur
+attestant qu'aucune instance pouvant entraîner l'interdiction temporaire ou définitive de l'exercice de la médecine, de l'art
+dentaire ou de la profession de sage-femme dans l'Etat d'origine ou de provenance n'est en cours à son encontre [*document*].
 
-Le médecin ou le praticien de l'art dentaire prestataire de services est tenu [*obligation*] de respecter les règles
-professionnelles en vigueur dans l'Etat où il effectue sa prestation et soumis à la juridiction disciplinaire de l'ordre des
-médecins ou de l'ordre des chirurgiens dentistes.
+Le médecin, le praticien de l'art dentaire ou la sage-femme prestataire de services est tenu [*obligation*] de respecter les
+règles professionnelles en vigueur dans l'Etat où il effectue sa prestation et soumis à la juridiction disciplinaire
+compétente.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Créé par_:
-
-  - Loi n°76-1288 1976-12-31 ART. 2 JORF 1ER JANVIER 1977
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
-  - Loi n°80-1040 1980-12-23 ART. 1 JORF 24 DECEMBRE 1980
+  - Loi n°84-391 1984-05-25 art. 3 JORF 26 mai 1984
 
 **Liens**:
 
@@ -12813,6 +12817,10 @@ _Cité par_:
   - Code de la santé publique - art. L373 (Ab)
   - Code de la santé publique - art. L374 (Ab)
 
+_Cite_:
+
+  - Code de la santé publique - art. L356 (M)
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L4112-7 (V)
@@ -12829,10 +12837,11 @@ Les diplômes, certificats et titres exigés en application du 1° de l'article 
 - soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté économique européenne [*étranger*], un diplôme,
 certificat ou autre titre de médecin délivré par l'un des ces Etats et figurant sur une liste établie conformément aux
 obligations communautaires, par arrêté conjoint du ministre de la santé et du ministre chargé des universités ou tout autre
-diplôme, certificat ou autre titre de médecin délivré par l'un des Etats membres avant le 20 décembre 1976, à la condition
-qu'il soit accompagné d'une attestation de cet Etat certifiant que le titulaire du diplôme, certificat ou titre, s'est
-consacré de façon effective et licite aux activités de médecin pendant au moins trois années consécutives [*durée*] au cours
-des cinq années précédant la délivrance de l'attestation ;
+diplôme, certificat ou autre titre de médecin délivré par l'un des Etats membres sanctionnant une formation de médecin
+acquise dans l'un de ces Etats et commencée avant le 20 décembre 1976, à la condition qu'il soit accompagné d'une attestation
+de cet Etat certifiant que le titulaire du diplôme, certificat ou titre, s'est consacré de façon effective et licite aux
+activités de médecin pendant au moins trois années consécutives [*durée*] au cours des cinq années précédant la délivrance de
+l'attestation;
 
 2° Pour l'exercice de la profession de chirurgien-dentiste :
 
@@ -12843,12 +12852,32 @@ des cinq années précédant la délivrance de l'attestation ;
 - soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté économique européenne, un diplôme, certificat ou
 autre titre de praticien de l'art dentaire délivré par l'un de ces Etats conformément aux obligations communautaires et
 figurant sur une liste établie par arrêté conjoint du ministre chargé de la santé et du ministre chargé des universités ou
-tout autre diplôme, certificat ou autre titre de praticien de l'art dentaire délivré par l'un des Etats membres avant le 28
-janvier 1980, à la condition qu'il soit accompagné d'une attestation de cet Etat certifiant que le titulaire de diplôme,
-certificat ou titre, s'est consacré de façon effective et licite aux activités de praticien de l'art dentaire pendant au
-moins trois années consécutives au cours des cinq années précédant la délivrance de l'attestation.
+tout autre diplôme, certificat ou autre titre de praticien de l'art dentaire délivré par l'un des Etats membres sanctionnant
+une formation de praticien de l'art dentaire acquise dans l'un de ces Etats et commençée avant le 28 janvier 1980, à la
+condition qu'il soit accompagné d'une attestation de cet Etat certifiant que le titulaire de diplôme, certificat ou titre,
+s'est consacré de façon effective et licite aux activités de praticien de l'art dentaire pendant au moins trois années
+consécutives au cours des cinq années précédant la délivrance de l'attestation.
 
-3° Pour l'exercice de la profession de sage-femme, le diplôme français d'Etat de sage-femme.
+3° Pour l'exercice de la profession de sage-femme :
+
+a) Soit le diplôme français d'Etat de sage-femme ;
+
+b) Soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté économique européenne, un diplôme, certificat ou
+autre titre de sage-femme délivré par l'un de ces Etats conformément aux obligations communautaires et figurant sur une liste
+établie par arrêté interministériel ; cet arrêté précise les diplômes, certificats et titres dont la validité est subordonnée
+à la production d'une attestation délivrée par l'un des Etats membres certifiant que le bénéficiaire, après avoir obtenu son
+diplôme, titre ou certificat, a exercé dans un établissement de soins agréé à cet effet, de façon satisfaisante, toutes les
+activités de sage-femme pendant une durée déterminée ;
+
+c) Soit un diplôme, certificat ou autre titre de sage-femme figurant sur la liste mentionnée ci-dessus et délivré avant le 23
+janvier 1983 mais non accompagné de l'attestation exigée, à condition que l'un des Etats membres atteste que l'intéressé
+s'est consacré de façon effective et licite aux activités de sage-femme pendant au moins deux années au cours des cinq années
+précédant la délivrance de cette attestation ;
+
+d) Soit tout autre diplôme, certificat ou titre de sage-femme délivré par l'un des Etats membres au plus tard le 23 janvier
+1986, sanctionnant une formation de sage-femme acquise dans l'un de ces Etats, à condition que l'un de ceux-ci atteste que
+l'intéressé s'est consacré de façon effective et licite aux activités de sage-femme pendant au moins trois années au cours
+des cinq années précédant la délivrance de cette attestation.
 
 **Liens relatifs à cet article**
 
@@ -12911,13 +12940,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-_Créé par_:
-
-  - Loi n°76-1288 1976-12-31 ART. 2 JORF 1ER JANVIER 1977
-
 _Modifié par_:
 
-  - Loi n°80-1040 1980-12-23 ART. 2 JORF 24 DECEMBRE 1980
+  - Loi n°84-391 1984-05-25 ART. 4, ART. 5 JORF 26 MAI 1984
 
 _Cite_:
 
@@ -13830,6 +13855,42 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4151-2 (M)
 
 
+###### Article L371-1
+
+Toute personne exerçant la profession de sage-femme non titulaire du diplôme français d'Etat de sage-femme est tenue, dans
+les cas où elle fait état de son titre ou de sa qualité de sage-femme, de mentionner le lieu et l'établissement scolaire ou
+universitaire où elle a obtenu son diplôme, titre ou certificat lui permettant d'exercer la profession de sage-femme.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance 45-2184 1945-09-24 art. 4
+  - Loi n°50-920 1950-08-09
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°84-391 1984-05-25 art. 6 JORF 26 mai 1984
+
+_Cité par_:
+
+  - Code de déontologie des sages-femmes. - art. 39 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4111-5 (V)
+
+
 ##### Section 3 : Exercice illégal des professions de médecin, de chirurgien-dentiste et de sage-femme<a id=138></a>
 
 ###### Article L372
@@ -14052,7 +14113,7 @@ _Cité par_:
 
 L'exercice de la profession de sage-femme comporte [*attributions*] la pratique des actes nécessaires au diagnostic, à la
 surveillance de la grossesse et à la préparation psychoprophylactique à l'accouchement, ainsi qu'à la surveillance et à la
-pratique de l'accouchement et des soins postnataux en ce qui concerne la mère et l'enfant, sous réserve des dispositions des
+pratique de l'accouchement et des soins postnatals en ce qui concerne la mère et l'enfant, sous réserve des dispositions des
 articles L. 369, L. 370 et L. 371 du présent code et suivant les modalités fixées par le code de déontologie de la
 profession, mentionné à l'article L. 366.
 
@@ -14066,30 +14127,51 @@ présent titre pour l'exercice de la profession de médecin ou de sage-femme, no
 concours aux personnes mentionnées au 1° ci-dessus, à l'effet de les soustraire aux prescriptions du présent titre ;
 
 3° Tout médecin ou sage-femme qui pratique les actes susmentionnés pendant la durée d'une peine d'interdiction temporaire
-prononcée en application des articles L. 423 et L. 454.
+prononcée en application des articles L. 423 et L. 454 ;
+
+4° Tout médecin ou sage-femme mentionné à l'article L. 356-1 du présent code qui exécute les actes énumérés ci-dessus sans
+remplir les conditions ou satisfaire aux obligations prévues audit article.
 
 L'exercice de la profession de sage-femme peut comporter également la participation aux consultations de planification
 familiale.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-346 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
-  - Loi n°82-413 1982-05-19 ART. 7 JORF 20 MAI 1982
+  - Loi n°84-391 1984-05-25 art. 7 JORF 26 mai 1984
 
 _Cité par_:
 
   - Décret n°89-611 du 1 septembre 1989 - art. 1 (V)
   - Code de déontologie des sages-femmes. - art. 18 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 _Cite_:
 
   - Code de la santé publique - art. L356 (M)
+  - Code de la santé publique - art. L356-1 (M)
   - Code de la santé publique - art. L356-2 (M)
   - Code de la santé publique - art. L357 (Ab)
   - Code de la santé publique - art. L357-1 (Ab)
@@ -14099,6 +14181,11 @@ _Cite_:
   - Code de la santé publique - art. L371 (M)
   - Code de la santé publique - art. L423 (M)
   - Code de la santé publique - art. L454 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4151-1 (M)
+  - Code de la santé publique - art. L4161-3 (V)
 
 
 ##### SECTION 4 : DISPOSITIONS PENALES.<a id=139></a>
@@ -19096,8 +19183,9 @@ Soit le diplôme français d'Etat d'infirmier ou d'infirmière ou l'un des breve
 Soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté économique européenne [*étranger*], un diplôme,
 certificat ou autre titre d'infirmier responsable des soins généraux délivré conformément aux obligations communautaires par
 l'un de ces Etats et figurant sur une liste établie par le ministre chargé de la santé, ou tout autre diplôme, certificat ou
-autre titre d'infirmier responsable des soins généraux délivré par l'un des Etats membres avant le 29 juin 1979 à la
-condition qu'il soit accompagné d'une attestation de cet Etat certifiant que :
+autre titre d'infirmier responsable des soins généraux délivré par l'un des Etats membres sanctionnant une formation
+d'infirmier responsable des soins généraux acquise dans l'un de ces Etat commencée avant le 29 juin 1979 à la condition qu'il
+soit accompagné d'une attestation de cet Etat certifiant que :
 
 - le titulaire du diplôme, certificat ou titre s'est consacré, de façon effective et licite, aux activités d'infirmier
 responsable des soins généraux pendant au moins trois années [*durée d'ancienneté*] au cours des cinq années précédant la
@@ -19106,16 +19194,21 @@ délivrance de l'attestation [*condition*] ;
 - ces activités ont comporté la pleine responsabilité de la programmation, de l'organisation et de l'administration des soins
 infirmiers aux patients.
 
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 36.*]
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°80-527 1980-07-12 ART. 1 JORF 13 JUILLET 1980
+  - Loi n°84-391 1984-05-25 art. 8 JORF 26 mai 1984
 
 _Cité par_:
 
@@ -20630,7 +20723,194 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4321-7 (Ab)
 
 
-#### Chapitre 3 : Dispositions communes et dispositions pénales<a id=173></a>
+#### Chapitre 2 : Pédicure-podologue.<a id=173></a>
+
+###### Article L493
+
+Seuls les pédicures-podologues ont qualité pour traiter directement les affections épidermiques (couches cornées) et
+unguéales du pied, à l'exclusion de toute intervention provoquant l'effusion de sang [*fonction*].
+
+Ils ont également seuls qualité pour pratiquer les soins d'hygiène, confectionner et appliquer les semelles destinées à
+soulager les affections épidermiques.
+
+Sur ordonnance et sous contrôle médical, les pédicures-podologues peuvent traiter les cas pathologiques de leur domaine
+(hygromas, onyxis, etc., soins pré et postopératoires).
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°46-857 1946-04-30 art. 7
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Loi n°84-391 1984-05-25 art. 9 JORF 26 mai 1984
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985
+  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 6 (Ab)
+
+_Cité par_:
+
+  - Décret n°85-631 du 19 juin 1985 - art. 1 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4322-1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L494
+
+Il est créé un diplôme d'Etat de pédicure-podologue qui sera délivré après des études préparatoires et des épreuves dont la
+durée et le programme sont fixés par décret pris sur le rapport du ministre de la Santé publique et de la Population.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°46-857 1946-04-30 art. 8
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Loi n°84-391 1984-05-25 art. 9 JORF 26 mai 1984
+
+_Cité par_:
+
+  - Décret n°91-1012 du 2 octobre 1991 - art. 1 (Ab)
+  - Décret n°97-492 du 16 mai 1997 - art. 12 (Ab)
+  - Arrêté du 17 septembre 1997 - art. 1 (V)
+  - Code de la santé publique - art. L492 (Ab)
+  - Code de la santé publique - art. L510-8 bis (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4322-3 (V)
+
+
+###### Article L496
+
+Les personnes qui ont fait la preuve qu'elles exerçaient régulièrement la profession de pédicure-podologue au 1er mai 1946 et
+qui ont reçu une autorisation [*condition d'exercice*] peuvent effectuer, leur vie durant, les actes de la compétence des
+pédicures-podologues possesseurs du diplôme institué par le présent titre. Mention de leur autorisation est portée sur un
+registre spécial déposé à la préfecture.
+
+Peuvent en outre obtenir l'autorisation de pratiquer les actes de la compétence des pédicures-podologues les personnes qui
+justifieront de l'exercice régulier de leur profession dans les départements de la Guadeloupe, de la Guyane, de la Martinique
+et de la Réunion à la publication de la loi n° 65-497 du 29 juin 1965.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°46-857 1946-04-30 ART. 10
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cite_:
+
+  - Loi n°65-497 1965-06-29
+
+_Modifié par_:
+
+  - Loi n°84-391 1984-05-25 ART. 9 JORF 26 MAI 1984
+
+_Cité par_:
+
+  - Décret n°89-609 du 1 septembre 1989 - art. 2 (M)
+  - Décret n°97-492 du 16 mai 1997 - art. 12 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4322-5 (V)
+  - Code de la santé publique - art. L4322-6 (Ab)
+
+
+#### Chapitre 3 : Dispositions communes et dispositions pénales<a id=174></a>
+
+###### Article L497
+
+Les masseurs-kinésithérapeutes et les pédicures-podologues [*obligation*] sont tenus, dans le mois qui suit leur entrée en
+fonctions [*délai*], de faire enregistrer à la préfecture leur diplôme ou leur autorisation.
+
+Tout changement de résidence professionnelle hors des limites du département oblige à un nouvel enregistrement. La même
+obligation s'impose aux personnes qui, après deux ans d'interruption, veulent reprendre l'exercice de leur profession.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°46-857 1946-04-30 art. 11
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Loi n°84-391 1984-05-25 art. 9 JORF 26 mai 1984
+
+_Cité par_:
+
+  - Décret n°97-44 du 21 janvier 1997 - art. 19 (Ab)
+  - Décret n°97-44 du 21 janvier 1997 - art. 23 (Ab)
+  - Décret n°97-492 du 16 mai 1997 - art. 20 (Ab)
+  - Décret n°97-492 du 16 mai 1997 - art. 23 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4321-10 (M)
+
 
 ###### Article L498
 
@@ -20670,21 +20950,34 @@ _Nouveaux textes_:
 
 ###### Article L499
 
-Les masseurs-kinésithérapeutes et les pédicures, titulaires du diplôme d'Etat, peuvent porter les insignes respectifs
-conformes aux modèles établis par le ministre de la Santé publique et de la Population et dont l'usage leur est exclusivement
-réservé. Il leur est délivré, en outre, une carte professionnelle dont le modèle est également établi par le ministre de la
-Santé publique et de la Population.
+Les masseurs-kinésithérapeutes et les pédicures-podologues titulaires du diplôme d'Etat, peuvent porter les insignes
+respectifs conformes aux modèles établis par le ministre de la Santé publique et de la Population et dont l'usage leur est
+exclusivement réservé. Il leur est délivré, en outre, une carte professionnelle dont le modèle est également établi par le
+ministre de la Santé publique et de la Population.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°46-857 1946-04-30 ART. 13
+  - Loi n°46-857 1946-04-30 art. 13
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Loi n°84-391 1984-05-25 art. 9 JORF 26 mai 1984
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -20693,19 +20986,25 @@ _Nouveaux textes_:
 
 ###### Article L500
 
-Les masseurs-kinésithérapeutes et les pédicures se préparant à l'exercice, soit de l'une, soit de l'autre profession, sont
-tenus au secret professionnel, dans les conditions et sous les réserves énoncées à l'article 378 du Code pénal.
+Les masseurs-kinésithérapeutes et les pédicures-podologues se préparant à l'exercice, soit de l'une, soit de l'autre
+profession, sont tenus au secret professionnel, dans les conditions et sous les réserves énoncées à l'article 378 du Code
+pénal.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°46-857 1946-04-30 ART. 14
+  - Loi n°46-857 1946-04-30 art. 14
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Cite_:
 
@@ -20715,30 +21014,39 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. L4323-3 (V)
 
+_Modifié par_:
+
+  - Loi n°84-391 1984-05-25 art. 9 JORF 26 mai 1984
+
 
 ###### Article L501
 
-L'exercice illégal de la profession de masseur-kinésithérapeute ou de la profession de pédicure est passible d'une amende de
-3.000 F à 20.000 F et, en cas de récidive, d'une amende de 10.000 F à 30.000 F, une peine d'emprisonnement de quinze jours à
-cinq mois pouvant en outre être prononcée dans ce cas.
+L'exercice illégal de la profession de masseur-kinésithérapeute ou de la profession de pédicure-podologue est passible d'une
+amende de 3.000 F à 20.000 F [*montant*] et, en cas de récidive, d'une amende de 10.000 F à 30.000 F, une peine
+d'emprisonnement de quinze jours à cinq mois [*durée*] pouvant en outre être prononcée dans ce cas.
 
-L'usurpation du titre de masseur-kinésithérapeute, masseur, gymnaste médical, et du titre de pédicure est punie des peines
-prévues à l'article 259 du Code pénal.
+L'usurpation du titre de masseur-kinésithérapeute, masseur, gymnaste médical, et du titre de pédicure-podologue est punie des
+peines prévues à l'article 259 du Code pénal.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 **Liens**:
 
-  - SPEC_APPLI: Ordonnance 58-1297 1958-12-23 ART. 19 : AVAIT ABROGE L'ARTICLE L501
+  - SPEC_APPLI: Ordonnance 58-1297 1958-12-23 art. 19 : AVAIT ABROGE L'ARTICLE L501
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°80-527 1980-07-12 ART. 12 JORF 13 JUILLET 1980
+  - Loi n°84-391 1984-05-25 art. 9 JORF 26 mai 1984
 
 _Cité par_:
 
@@ -20753,26 +21061,39 @@ _Cite_:
 ###### Article L502
 
 La suspension temporaire ou l'incapacité absolue de l'exercice de la profession de masseur-kinésithérapeute ou de celle de
-pédicure peuvent être prononcées par les cours et les tribunaux accessoirement à toute peine, soit criminelle, soit
+pédicure-podologue peuvent être prononcées par les cours et les tribunaux accessoirement à toute peine, soit criminelle, soit
 correctionnelle, à l'exception toutefois, dans ce dernier cas, des peines ne comportant qu'une amende.
 
 Les personnes contre lesquelles a été prononcée la suspension temporaire ou l'incapacité absolue tombent sous le coup des
 peines prévues au 1er alinéa de l'article L. 501 ci-dessus lorsqu'elles continuent à exercer leur profession.
 
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°46-857 1946-04-30 ART. 16
+  - Loi n°46-857 1946-04-30 art. 16
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Cité par_:
 
   - Décret n°81-509 du 12 mai 1981 - art. 33 (Ab)
+
+_Modifié par_:
+
+  - Loi n°84-391 1984-05-25 art. 9 JORF 26 mai 1984
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -20785,29 +21106,42 @@ _Cite_:
 
 ###### Article L503
 
-Les groupements professionnels régulièrement constitués de masseurs-kinésithérapeutes et de pédicures sont habilités à
-poursuivre les délinquants par voie de citation directe devant la juridiction correctionnelle, sans préjudice de la faculté
-de se porter partie civile dans toute poursuite intentée par le ministère public.
+Les groupements professionnels régulièrement constitués de masseurs-kinésithérapeutes et de pédicures-podologues sont
+habilités à poursuivre les délinquants par voie de citation directe devant la juridiction correctionnelle, sans préjudice de
+la faculté de se porter partie civile dans toute poursuite intentée par le ministère public.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°46-857 1946-04-30 ART. 17
+  - Loi n°46-857 1946-04-30 art. 17
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L4323-1 (V)
 
+_Modifié par_:
 
-### TITRE 3 : PROFESSION DE MASSEUR-KINESITHERAPEUTE<a id=174></a>
+  - Loi n°84-391 1984-05-25 art. 9 JORF 26 mai 1984
 
-#### CHAPITRE 1 : MASSEUR-KINESITHERAPEUTE.<a id=175></a>
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+### TITRE 3 : PROFESSION DE MASSEUR-KINESITHERAPEUTE<a id=175></a>
+
+#### CHAPITRE 1 : MASSEUR-KINESITHERAPEUTE.<a id=176></a>
 
 ###### Article L487
 
@@ -20857,14 +21191,14 @@ _Cite_:
   - Code de la santé publique - art. L491 (Ab)
 
 
-### TITRE 3 : PROFESSION DE PEDICURE<a id=176></a>
+### TITRE 3 : PROFESSION DE PEDICURE-PODOLOGUE<a id=177></a>
 
-#### CHAPITRE 2 : PEDICURE.<a id=177></a>
+#### CHAPITRE 2 : PEDICURE-PODOLOGUE.<a id=178></a>
 
 ###### Article L492
 
-Nul ne peut exercer la profession de pédicure et porter le titre de pédicure, accompagné ou non d'un qualificatif, s'il n'est
-Français et muni du diplôme d'Etat institué par l'article L. 494 du présent titre [*condition*].
+Nul ne peut exercer la profession de pédicure-podologue et porter le titre de pédicure-podologue accompagné ou non d'un
+qualificatif, s'il n'est Français et muni du diplôme d'Etat institué par l'article L. 494 du présent titre [*condition*].
 
 **Liens relatifs à cet article**
 
@@ -20881,6 +21215,10 @@ _Cité par_:
 
   - Décret n°58-1303 du 23 décembre 1958 - art. 20 (Ab)
   - Décret n°97-492 du 16 mai 1997 - art. 23 (Ab)
+
+_Modifié par_:
+
+  - Loi n°84-391 1984-05-25 ART. 9 JORF 26 MAI 1984
 
 **Liens**:
 
@@ -20899,145 +21237,6 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de la santé publique - art. L494 (M)
-
-
-###### Article L493
-
-Seuls les pédicures ont qualité pour traiter directement les affections épidermiques (couches cornées) et unguéales du pied,
-à l'exclusion de toute intervention provoquant l'effusion de sang [*fonction*].
-
-Ils ont également seuls qualité pour pratiquer les soins d'hygiène, confectionner et appliquer les semelles destinées à
-soulager les affections épidermiques.
-
-Sur ordonnance et sous contrôle médical, les pédicures peuvent traiter les cas pathologiques de leur domaine (hygromas,
-onyxis, etc., soins pré et postopératoires).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°46-857 1946-04-30 ART. 7
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985
-  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 3 (Ab)
-  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 5 (Ab)
-  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 6 (Ab)
-
-_Cité par_:
-
-  - Décret n°85-631 du 19 juin 1985 - art. 1 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L4322-1 (V)
-
-
-###### Article L494
-
-Il est créé un diplôme d'Etat de pédicure qui sera délivré après des études préparatoires et des épreuves dont la durée et le
-programme sont fixés par décret pris sur le rapport du ministre de la Santé publique et de la Population.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°46-857 1946-04-30 ART. 8
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Cité par_:
-
-  - Décret n°91-1012 du 2 octobre 1991 - art. 1 (Ab)
-  - Décret n°97-492 du 16 mai 1997 - art. 12 (Ab)
-  - Arrêté du 17 septembre 1997 - art. 1 (V)
-  - Code de la santé publique - art. L492 (Ab)
-  - Code de la santé publique - art. L510-8 bis (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L4322-3 (V)
-
-
-###### Article L496
-
-Les personnes qui ont fait la preuve qu'elles exerçaient régulièrement la profession de pédicure au 1er mai 1946 et qui ont
-reçu une autorisation [*condition d'exercice*] peuvent effectuer, leur vie durant, les actes de la compétence des pédicures
-possesseurs du diplôme institué par le présent titre. Mention de leur autorisation est portée sur un registre spécial déposé
-à la préfecture.
-
-Peuvent en outre obtenir l'autorisation de pratiquer les actes de la compétence des pédicures, les personnes qui justifieront
-de l'exercice régulier de leur profession dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la
-Réunion à la publication de la loi n° 65-497 du 29 juin 1965.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°46-857 1946-04-30 ART. 10
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Cite_:
-
-  - Loi n°65-497 1965-06-29
-
-_Modifié par_:
-
-  - Loi n°65-497 1965-06-29 ART. 3 JORF 30 JUIN 1965
-
-_Cité par_:
-
-  - Décret n°89-609 du 1 septembre 1989 - art. 2 (M)
-  - Décret n°97-492 du 16 mai 1997 - art. 12 (Ab)
-
-
-### TITRE 3 : PROFESSIONS DE MASSEUR-KINESITHERAPEUTE ET DE PEDICURE CHAPITRE 3 : DISPOSITIONS COMMUNES ET DISPOSITIONS PENALES.<a id=178></a>
-
-###### Article L497
-
-Les masseurs-kinésithérapeutes et les pédicures [*obligation*] sont tenus, dans le mois qui suit leur entrée en fonctions
-[*délai*], de faire enregistrer à la préfecture leur diplôme ou leur autorisation.
-
-Tout changement de résidence professionnelle hors des limites du département oblige à un nouvel enregistrement. La même
-obligation s'impose aux personnes qui, après deux ans d'interruption, veulent reprendre l'exercice de leur profession.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°46-857 1946-04-30 ART. 11
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Cité par_:
-
-  - Décret n°97-44 du 21 janvier 1997 - art. 19 (Ab)
-  - Décret n°97-44 du 21 janvier 1997 - art. 23 (Ab)
-  - Décret n°97-492 du 16 mai 1997 - art. 20 (Ab)
-  - Décret n°97-492 du 16 mai 1997 - art. 23 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L4321-10 (M)
 
 
 ### Titre 3-1 : Professions d'orthophoniste et d'orthoptiste<a id=179></a>
@@ -21922,6 +22121,82 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. L4381-1 (Ab)
   - Code de la santé publique - art. L4381-1 (M)
+
+
+###### Article L510-10
+
+Des décrets en Conseil d'Etat précisent, en tant que de besoin, les modalités d'exercice des professions visées  par les
+dispositions des titres II et suivants du présent livre.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°84-391 1984-05-25 art. 11 JORF 26 mai 1984
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-918 du 26 août 1985
+  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 10 (Ab)
+  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 6 (Ab)
+  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 7 (Ab)
+  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 8 (Ab)
+  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 9 (Ab)
+
+_Cité par_:
+
+  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
+  - Décret n°96-879 du 8 octobre 1996
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4381-2 (M)
+  - Code de la santé publique - art. L4381-2 (V)
+
+
+###### Article L510-11
+
+Pour l'application des dispositions du présent livre, les citoyens andorrans sont assimilés aux personnes de nationalité
+française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°84-391 1984-05-25 ART. 12 JORF 26 MAI 1984
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4381-3 (M)
+  - Code de la santé publique - art. L4381-3 (V)
 
 
 ## Livre 5 : Pharmacie<a id=187></a>
@@ -34787,7 +35062,12 @@ qui précise en outre les conditions d'équipement nécessaires ;
 médicale de l'Etat, des départements, des communes et des établissements publics, notamment hospitaliers ;
 
 5° Les laboratoires des établissements de transfusion sanguine et des centres anti-cancéreux qui effectuent exclusivement les
-actes de biologie directement liés à leur objet spécifique.
+actes de biologie directement liés à leur objet spécifique ;
+
+6° Les infirmiers qui, à l'occasion de soins qu'ils accomplissent, effectuent les contrôles biologiques de dépistage à
+lecture instantanée dont la liste est fixée par décret en Conseil d'Etat pris après avis de l'Académie nationale de médecine.
+Ces contrôles biologiques ne donnent pas lieu, en vertu de la législation de sécurité sociale, à un remboursement distinct et
+ne peuvent faire l'objet d'un compte rendu écrit.
 
 **Liens relatifs à cet article**
 
@@ -34805,6 +35085,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
+_Modifié par_:
+
+  - Loi n°84-391 1984-05-25 ART. 15 JORF 26 MAI 1984
+
 _Cité par_:
 
   - Décret n°93-221 du 16 février 1993 - art. 3 (Ab)
@@ -34820,10 +35104,6 @@ _Cite_:
 
   - Code de la santé publique - art. L761-13 (M)
   - Code de la santé publique - art. L761-14 (M)
-
-_Créé par_:
-
-  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975 1953
 
 
 ## Livre 8 : Institutions<a id=285></a>
