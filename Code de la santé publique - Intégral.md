@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-01-09
+Version Consolidée au 1993-01-19
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -554,8 +554,8 @@ Version Consolidée au 1993-01-09
             - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#551)
             - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#552)
             - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#553)
-          - [Section 2 : Autorisations (art. D712-15 à D712-16)](#554)
-            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#555)
+          - [Section 2 : Autorisations (art. D712-16)](#554)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#555)
           - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-39)](#556)
             - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#557)
               - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#558)
@@ -581,12 +581,13 @@ Version Consolidée au 1993-01-09
         - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#578)
           - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#579)
           - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#580)
-        - [Section 2 : Autorisations (art. D712-14)](#581)
+        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#581)
           - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#582)
-        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#583)
-          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#584)
-            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#585)
-            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#586)
+          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#583)
+        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#584)
+          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#585)
+            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#586)
+            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#587)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -86803,65 +86804,6 @@ _Créé par_:
 
 ##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=555></a>
 
-###### Article D712-15
-
-En application du deuxième alinéa de l'article L. 712-16 du présent code, l'autorisation prévue à l'article L. 712-8 dudit
-code est donnée ou renouvelée par le ministre chargé de la santé [*autorité compétente*] :
-
-I. - Pour ceux des équipements matériels lourds définis à l'article L. 712-19 qui sont énumérés ci-après :
-
-1° Appareil de circulation sanguine extra-corporelle ;
-
-2° Appareil accélérateur de particules et appareil contenant des sources scellées de radioéléments d'activité minimale
-supérieure à 500 curies, et émettant un rayonnement d'énergie supérieur à 500 KeV ;
-
-3° Cyclotron à utilisation médicale ;
-
-4° Appareils de diagnostic suivants, utilisant l'émission de radioéléments artificiels : caméra à scintillation, tomographe à
-émissions, caméra à positrons ;
-
-5° Appareil d'imagerie ou de spectrométrie par résonance magnétique nucléaire à utilisation clinique.
-
-II. - Pour celles des activités de soins définies à l'article L. 712-2 (2°, b) qui sont énumérées ci-après :
-
-1° Transplantations d'organes et greffes de moëlle osseuse ;
-
-2° Traitement des grands brûlés ;
-
-3° Chirurgie cardiaque ;
-
-4° Neurochirurgie ;
-
-5° Utilisation diagnostique et thérapeutique de radioéléments en sources non scellées ;
-
-6° Traitement des affections cancéreuses par rayonnements ionisants de haute énergie ;
-
-7° Activités cliniques de procréation médicalement assistée et diagnostic prénatal.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (décret de codification)
-  - Loi n°58-356 1958-04-03 (loi de validation)
-
-_Créé par_:
-
-  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
-
-_Cité par_:
-
-  - Arrêté du 7 janvier 1993 - art. 1 (V)
-  - Décret n°2005-840 du 20 juillet 2005 - art. 7 (V)
-  - Code de la santé publique - art. D712-16 (Ab)
-
-_Cite_:
-
-  - Code de la santé publique - art. L712-16 (M)
-  - Code de la santé publique - art. L712-19 (M)
-  - Code de la santé publique - art. L712-2 (M)
-
-
 ###### Article D712-16
 
 Lorsqu'un projet concernant l'un des équipements ou l'une des activités de soins énumérés à l'article D. 712-15 ci-dessus
@@ -88136,11 +88078,72 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L712-12 (M)
 
 
-#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=583></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=583></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=584></a>
+###### Article D712-15
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=585></a>
+En application du deuxième alinéa de l'article L. 712-16 du présent code, l'autorisation prévue à l'article L. 712-8 dudit
+code est donnée ou renouvelée par le ministre chargé de la santé [*autorité compétente*] :
+
+I. - Pour ceux des équipements matériels lourds définis à l'article L. 712-19 qui sont énumérés ci-après :
+
+1° Appareil de circulation sanguine extra-corporelle ;
+
+2° Appareil accélérateur de particules et appareil contenant des sources scellées de radioéléments d'activité minimale
+supérieure à 500 curies, et émettant un rayonnement d'énergie supérieur à 500 KeV ;
+
+3° Cyclotron à utilisation médicale ;
+
+4° Appareils de diagnostic suivants, utilisant l'émission de radioéléments artificiels : caméra à scintillation, tomographe à
+émissions, caméra à positrons ;
+
+5° Appareil d'imagerie ou de spectrométrie par résonance magnétique nucléaire à utilisation clinique.
+
+II. - Pour celles des activités de soins définies à l'article L. 712-2 (2°, b) qui sont énumérées ci-après :
+
+1° Transplantations d'organes et greffes de moëlle osseuse ;
+
+2° Traitement des grands brûlés ;
+
+3° Chirurgie cardiaque ;
+
+4° Neurochirurgie ;
+
+5° Utilisation diagnostique et thérapeutique de radioéléments en sources non scellées ;
+
+6° Traitement des affections cancéreuses par rayonnements ionisants de haute énergie ;
+
+7° Activités de procréation médicalement assistée et diagnostic prénatal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-67 du 13 janvier 1993 - art. 1 () JORF 19 janvier 1993
+
+_Cité par_:
+
+  - Arrêté du 7 janvier 1993 - art. 1 (V)
+  - Décret n°2005-840 du 20 juillet 2005 - art. 7 (V)
+  - Code de la santé publique - art. D712-16 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-16 (M)
+  - Code de la santé publique - art. L712-19 (M)
+  - Code de la santé publique - art. L712-2 (M)
+
+
+#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=584></a>
+
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=585></a>
+
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=586></a>
 
 ###### Article D712-31
 
@@ -88247,7 +88250,7 @@ _Cite_:
   - Code de la santé publique D712-30, D712-32, D712-33, R710-2-1 à R710-2-10
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=586></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=587></a>
 
 ###### Article D712-36
 
