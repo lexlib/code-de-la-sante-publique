@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1995-02-24
+Version Consolidée au 1995-02-26
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-21)](#2)
@@ -643,64 +643,67 @@ Version Consolidée au 1995-02-24
           - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#640)
           - [Section 5 : Dispositions diverses (art. R716-9-1)](#641)
   - [Partie réglementaire ancienne - Décrets simples (art. D666-3-1 à D712-48)](#642)
-    - [Livre VI : Utilisation thérapeutique de produits d'origine humaine (art. D666-3-1 à D666-3-5)](#643)
-      - [Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. D666-3-1 à D666-3-5)](#644)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#645)
-      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#646)
-        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#647)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#648)
-          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#649)
-          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#650)
-        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-51)](#651)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#652)
-            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#653)
-            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#654)
-            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#655)
-            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2 à D712-13-6)](#656)
-          - [Section 2 : Autorisations (art. D712-16)](#657)
-            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#658)
-          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-51)](#659)
-            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#660)
-              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#661)
-              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#662)
-            - [Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie (art. D712-40 à D712-51)](#663)
-              - [Paragraphe 1 : Dispositions générales (art. D712-40)](#664)
-              - [Paragraphe 2 : De la consultation pré-anesthésique (art. D712-41)](#665)
-              - [Paragraphe 3 : De l'anesthésie (art. D712-44)](#666)
-              - [Paragraphe 4 : De la surveillance continue post-interventionnelle (art. D712-45 à D712-51)](#667)
-        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#668)
-          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#669)
-            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#670)
-            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#671)
-            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#672)
-            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#673)
-          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#674)
-            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#675)
-            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#676)
-          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#677)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#678)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-48)](#679)
-      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#680)
-        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#681)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-48)](#682)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#683)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#684)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#685)
-        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#686)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#687)
-          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#688)
-        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-48)](#689)
-          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#690)
-            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#691)
-            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#692)
-          - [Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie (art. D712-42 à D712-48)](#693)
-            - [Paragraphe 3 : De l'anesthésie (art. D712-42 à D712-43)](#694)
-            - [Paragraphe 4 : De la surveillance continue post-interventionnelle (art. D712-48)](#695)
-  - [Annexes (art. Annexe II aux articles R668-1-1 à R668-21)](#696)
-    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. Annexe II aux articles R668-1-1 à R668-21)](#697)
-      - [Titre 2 : Du sang humain (art. Annexe II aux articles R668-1-1 à R668-21)](#698)
-        - [Chapitre 3 : Des établissements de transfusion sanguine (art. Annexe II aux articles R668-1-1 à R668-21)](#699)
-          - [Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public. (art. Annexe II aux articles R668-1-1 à R668-21)](#700)
+    - [Livre VI : Don et utilisation des éléments et produits du corps humain (art. D666-3-1 à D666-4-6)](#643)
+      - [Titre II : Du sang humain (art. D666-3-1 à D666-4-6)](#644)
+        - [Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. D666-3-1 à D666-4-6)](#645)
+          - [Section 1 : Des règles relatives au bénévolat du don du sang (art. D666-3-1 à D666-3-5)](#646)
+          - [Section 2 : Des analyses biologiques et tests de dépistage des maladies transmissibles effectués sur les prélèvements de sang et de ses composants (art. D666-4-1 à D666-4-6)](#647)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#648)
+      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#649)
+        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#650)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#651)
+          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#652)
+          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#653)
+        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-51)](#654)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#655)
+            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#656)
+            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#657)
+            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#658)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2 à D712-13-6)](#659)
+          - [Section 2 : Autorisations (art. D712-16)](#660)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#661)
+          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-51)](#662)
+            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#663)
+              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#664)
+              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#665)
+            - [Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie (art. D712-40 à D712-51)](#666)
+              - [Paragraphe 1 : Dispositions générales (art. D712-40)](#667)
+              - [Paragraphe 2 : De la consultation pré-anesthésique (art. D712-41)](#668)
+              - [Paragraphe 3 : De l'anesthésie (art. D712-44)](#669)
+              - [Paragraphe 4 : De la surveillance continue post-interventionnelle (art. D712-45 à D712-51)](#670)
+        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#671)
+          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#672)
+            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#673)
+            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#674)
+            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#675)
+            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#676)
+          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#677)
+            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#678)
+            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#679)
+          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#680)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#681)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-48)](#682)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#683)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#684)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-48)](#685)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#686)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#687)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#688)
+        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#689)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#690)
+          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#691)
+        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-48)](#692)
+          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#693)
+            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#694)
+            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#695)
+          - [Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie (art. D712-42 à D712-48)](#696)
+            - [Paragraphe 3 : De l'anesthésie (art. D712-42 à D712-43)](#697)
+            - [Paragraphe 4 : De la surveillance continue post-interventionnelle (art. D712-48)](#698)
+  - [Annexes (art. Annexe II aux articles R668-1-1 à R668-21)](#699)
+    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. Annexe II aux articles R668-1-1 à R668-21)](#700)
+      - [Titre 2 : Du sang humain (art. Annexe II aux articles R668-1-1 à R668-21)](#701)
+        - [Chapitre 3 : Des établissements de transfusion sanguine (art. Annexe II aux articles R668-1-1 à R668-21)](#702)
+          - [Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public. (art. Annexe II aux articles R668-1-1 à R668-21)](#703)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -108359,9 +108362,13 @@ _Nouveaux textes_:
 
 # Partie réglementaire ancienne - Décrets simples<a id=642></a>
 
-## Livre VI : Utilisation thérapeutique de produits d'origine humaine<a id=643></a>
+## Livre VI : Don et utilisation des éléments et produits du corps humain<a id=643></a>
 
-### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=644></a>
+### Titre II : Du sang humain<a id=644></a>
+
+#### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=645></a>
+
+##### Section 1 : Des règles relatives au bénévolat du don du sang<a id=646></a>
 
 ###### Article D666-3-1
 
@@ -108378,9 +108385,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+  - Décret n°95-195 du 16 février 1995 - art. 1 () JORF 26 février 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
 
 _Nouveaux textes_:
 
@@ -108402,9 +108413,17 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+  - Décret n°95-195 du 16 février 1995 - art. 1 () JORF 26 février 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D1221-2 (V)
 
 _Cite_:
 
@@ -108423,9 +108442,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+  - Décret n°95-195 du 16 février 1995 - art. 1 () JORF 26 février 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
 
 _Nouveaux textes_:
 
@@ -108444,13 +108467,18 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+  - Décret n°95-195 du 16 février 1995 - art. 1 () JORF 26 février 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. D1221-4 (M)
+  - Code de la santé publique - art. D1221-4 (V)
 
 
 ###### Article D666-3-5
@@ -108465,9 +108493,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+  - Décret n°95-195 du 16 février 1995 - art. 1 () JORF 26 février 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
 
 _Cite_:
 
@@ -108476,13 +108508,301 @@ _Cite_:
   - Code de la santé publique - art. L667-9 (M)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=645></a>
+##### Section 2 : Des analyses biologiques et tests de dépistage des maladies transmissibles effectués sur les prélèvements de sang et de ses composants<a id=647></a>
 
-### Titre Ier : Etablissements de santé<a id=646></a>
+###### Article D666-4-1
 
-#### Chapitre Ier : Missions et obligations des établissements de santé<a id=647></a>
+I. - Les analyses biologiques et tests de dépistage suivants sont effectués sur chaque prélèvement de sang ou de composant du
+sang destiné à la préparation de produits sanguins labiles à usage thérapeutique direct ainsi que sur chaque donneur avant
+tout prélèvement de cellules souches hématopoïétiques ou de cellules somatiques mononucléées destinées à la réalisation de
+préparations cellulaires :
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=648></a>
+1° La détermination des groupes sanguins érythrocytaires, qui comprend :
+
+a) La détermination du groupe dans le système ABO ;
+
+b) La détermination du groupe Rh D (RH1) et, en cas de Rh D négatif (RH : - 1), la détermination des autres antigènes du
+système rhésus : C (RH2), E (RH3), c (RH4) et e (RH5) ;
+
+2° La cherche des anticorps anti-érythrocytaires pouvant avoir une incidence clinique transfusionnelle ;
+
+3° La détection des anticorps anti-A et anti-B immuns ;
+
+4° Le dosage de l'hémoglobine ou la détermination de l'hématocrite ;
+
+5° Les tests et analyses biologiques suivants en vue du dépistage de maladies transmissibles :
+
+a) Le dépistage sérologique de la syphilis ;
+
+b) La détection de l'antigène HBs ;
+
+c) La détection des anticorps anti-VIH 1 et anti-VIH 2 ;
+
+d) La détection des anticorps anti-VHC ;
+
+e) La détection des anticorps anti-HTLV-I et anti-HTLV-II ;
+
+f) La détection des anticorps antipaludéens chez les donneurs ayant séjourné dans une zone d'endémie telle que définie par
+l'Organisation mondiale de la santé lorsque le prélèvement est effectué plus de quatre mois et moins de trois ans après la
+date de leur retour de la zone d'endémie ;
+
+g) La détection des anticorps anti-HBc ;
+
+h) Le dosage des alanine-aminotransférases (ALAT).
+
+II. - Le sang ou ses composants ne peuvent être utilisés en vue de préparer des produits sanguins labiles destinés à un usage
+thérapeutique direct que si les résultats des tests de dépistage prévus au 5° ci-dessus sont négatifs et si les résultats du
+dosage des alanine-aminotransférases (ALAT) sont conformes aux normes fixées par arrêté du ministre chargé de la santé.
+
+III. - Toutefois, des dérogations aux dispositions des alinéas précédents peuvent être prévues par arrêté du ministre chargé
+de la santé, lorsque le sang ou ses composants sont prélevés en vue de préparer des produits sanguins labiles destinés à la
+transfusion autologue.
+
+IV. - Un arrêté du ministre chargé de la santé :
+
+- peut prévoir des analyses biologiques et des tests de dépistage à effectuer sur le donneur avant tout prélèvement de
+cellules souches hématopoïétiques ou de cellules souches mononucléées destinées à la réalisation de préparations cellulaires,
+en supplément des analyses et tests mentionnés au I du présent article ;
+
+- prévoit les conditions d'utilisation de ces prélèvements au vu des résultats des tests et analyses obligatoires, en
+fonction du caractère allogénique ou autologue des greffes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 24 mars 1995
+  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 20 mars 1996
+  - TXT_SOURCE: Arrêté du 29 novembre 1996
+  - TXT_SOURCE: Arrêté du 29 novembre 1996 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 29 novembre 1996 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 29 novembre 1996 - art. 3 (V)
+
+_Cité par_:
+
+  - Arrêté du 24 mars 1995 - art. 1 (Ab)
+  - Arrêté du 24 mars 1995 - art. 2 (Ab)
+  - Arrêté du 28 décembre 1995 - art. 1 (V)
+  - Arrêté du 29 novembre 1996
+  - Arrêté du 29 novembre 1996 - art. 1 (V)
+  - Arrêté du 29 novembre 1996 - art. 2 (V)
+  - Arrêté du 28 octobre 1997 - art. 3 (V)
+  - Code de la santé publique - art. D666-4-2 (Ab)
+  - Code de la santé publique - art. D666-4-3 (Ab)
+  - Code de la santé publique - art. D666-4-4 (Ab)
+  - Code de la santé publique - art. D666-4-5 (Ab)
+  - Code de la santé publique - art. D666-4-6 (Ab)
+
+
+###### Article D666-4-2
+
+Par dérogation aux dispositions de l'article D. 666-4-1, un arrêté du ministre chargé de la santé prévoit les conditions dans
+lesquelles, afin de répondre à des nécessités thérapeutiques impérieuses, peuvent être utilisés pour préparer des produits
+sanguins labiles à usage thérapeutique direct correspondant à des groupes sanguins érythrocytaires rares, des prélèvements de
+sang ou de composants du sang sur lesquels n'a pas été effectué l'ensemble des tests et analyses mentionnés à l'article
+précité ou pour lesquels les résultats de certains de ces tests et analyses sont positifs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 28 décembre 1995
+  - TXT_SOURCE: Arrêté du 28 décembre 1995 - art. 1 (V)
+
+_Cité par_:
+
+  - Arrêté du 29 novembre 1996
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D1221-11 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. D666-4-1 (M)
+
+
+###### Article D666-4-3
+
+Le sang ou ses composants ne peuvent être utilisés en vue de préparer des produits intermédiaires et des médicaments dérivés
+du sang que si les résultats des tests mentionnés aux b, c et d du 5° du I de l'article D. 666-4-1 sont négatifs. D'autre
+part, le résultat du dosage des alanine-aminotransférases (ALAT) doit être conforme à des normes fixées par arrêté du
+ministre chargé de la santé.
+
+Toutefois, lorsque les composants du sang prélevés pour préparer des produits intermédiaires ou des médicaments sont des
+composants cellulaires, un arrêté du ministre chargé de la santé peut prévoir des tests et analyses supplémentaires, ces
+composants cellulaires ne pouvant alors être utilisés pour préparer des produits intermédiaires ou des médicaments que si les
+résultats de ces tests supplémentaires sont négatifs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 24 mars 1995
+  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 20 mars 1996
+
+_Cité par_:
+
+  - Arrêté du 24 mars 1995 - art. 1 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D1221-12 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. D666-4-1 (M)
+
+
+###### Article D666-4-4
+
+Tout établissement de transfusion sanguine agréé en application de l'article L. 668-1 collectant le sang et ses composants,
+qui prépare, outre des produits sanguins labiles à usage thérapeutique direct, des produits sanguins labiles destinés à la
+préparation de médicaments dérivés du sang, est tenu d'appliquer à tous les prélèvements correspondants l'ensemble des
+dispositions du I ainsi que du II de l'article D. 666-4-1.
+
+Toutefois, par dérogation aux dispositions de l'alinéa précédent, un arrêté du ministre chargé de la santé peut autoriser
+l'utilisation de prélèvements pour lesquels le résultat du test de détection des anticorps anti-HBc est positif, en vue de la
+préparation de produits intermédiaires et de médicaments, à condition que ces anticorps soient associés à des anticorps anti-
+HBs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 24 mars 1995
+  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 20 mars 1996
+
+_Cité par_:
+
+  - Arrêté du 24 mars 1995 - art. 1 (Ab)
+  - Arrêté du 24 mars 1995 - art. 2 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D1221-13 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. D666-4-1 (M)
+  - Code de la santé publique - art. L668-1 (M)
+
+
+###### Article D666-4-5
+
+Le sang et ses composants ne peuvent être utilisés en vue de préparer des réactifs que si les résultats des tests et analyses
+prévus aux b, c et d du 5° du I de l'article D. 666-4-1 sont négatifs.
+
+Toutefois, un réactif de laboratoire peut être préparé à partir d'un prélèvement contenant un ou plusieurs anticorps ou
+antigènes recherchés par les tests et analyses visés à l'alinéa ci-dessus et nécessaires à l'usage de ce réactif, à condition
+que le prélèvement ait subi une inactivation virale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+_Abrogé par_:
+
+  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D1221-14 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. D666-4-1 (M)
+
+
+###### Article D666-4-6
+
+Le sang et ses composants ne peuvent être cédés à un établissement d'enseignement secondaire qu'à des fins d'enseignement, à
+l'exclusion de toute administration à l'homme, et à condition que :
+
+- les tests et analyses prévus au 5° du I de l'article D. 666-4-1 aient été pratiqués sur chaque prélèvement ;
+
+- que les résultats soient conformes aux dispositions du II de ce même article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D1221-15 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. D666-4-1 (M)
+
+
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=648></a>
+
+### Titre Ier : Etablissements de santé<a id=649></a>
+
+#### Chapitre Ier : Missions et obligations des établissements de santé<a id=650></a>
+
+##### Section 2 : Dispositions propres au service public hospitalier<a id=651></a>
 
 ###### Article D711-6-1
 
@@ -108575,7 +108895,7 @@ _Cite_:
   - Code de la santé publique - art. L711-6 (M)
 
 
-##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=649></a>
+##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=652></a>
 
 ###### Article D711-9-1
 
@@ -108881,7 +109201,7 @@ _Cite_:
   - Code de la santé publique R711-9-1
 
 
-##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=650></a>
+##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=653></a>
 
 ###### Article D711-16-3
 
@@ -108968,11 +109288,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-50 (T)
 
 
-#### Chapitre II : L'organisation et l'équipement sanitaires<a id=651></a>
+#### Chapitre II : L'organisation et l'équipement sanitaires<a id=654></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=652></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=655></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=653></a>
+##### Sous-section 1 : Du collège national d'experts<a id=656></a>
 
 ###### Article D712-2
 
@@ -109067,7 +109387,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=654></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=657></a>
 
 ###### Article D712-7
 
@@ -109151,7 +109471,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=655></a>
+##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=658></a>
 
 ###### Article D712-13-1
 
@@ -109208,7 +109528,7 @@ _Cite_:
   - Code de la santé publique - art. L712-4 (Ab)
 
 
-##### Sous-section 4 : Regroupements et reconversions<a id=656></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=659></a>
 
 ###### Article D712-13-2
 
@@ -109385,9 +109705,9 @@ _Créé par_:
   - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
 
 
-##### Section 2 : Autorisations<a id=657></a>
+##### Section 2 : Autorisations<a id=660></a>
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=658></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=661></a>
 
 ###### Article D712-16
 
@@ -109415,11 +109735,11 @@ _Cite_:
   - Code de la santé publique - art. D712-15 (M)
 
 
-##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=659></a>
+##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=662></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=660></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=663></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=661></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=664></a>
 
 ###### Article D712-30
 
@@ -109558,7 +109878,7 @@ _Cite_:
   - Code de la santé publique - art. D712-30 (M)
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=662></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=665></a>
 
 ###### Article D712-35
 
@@ -109644,9 +109964,9 @@ _Cité par_:
   - Code de la santé publique - art. D712-37 (Ab)
 
 
-##### Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie<a id=663></a>
+##### Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie<a id=666></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=664></a>
+##### Paragraphe 1 : Dispositions générales<a id=667></a>
 
 ###### Article D712-40
 
@@ -109686,7 +110006,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6124-91 (V)
 
 
-##### Paragraphe 2 : De la consultation pré-anesthésique<a id=665></a>
+##### Paragraphe 2 : De la consultation pré-anesthésique<a id=668></a>
 
 ###### Article D712-41
 
@@ -109736,7 +110056,7 @@ _Cité par_:
   - Code de la santé publique - art. D766-2-12 (Ab)
 
 
-##### Paragraphe 3 : De l'anesthésie<a id=666></a>
+##### Paragraphe 3 : De l'anesthésie<a id=669></a>
 
 ###### Article D712-44
 
@@ -109790,7 +110110,7 @@ _Cite_:
   - Code de la santé publique - art. D712-43 (M)
 
 
-##### Paragraphe 4 : De la surveillance continue post-interventionnelle<a id=667></a>
+##### Paragraphe 4 : De la surveillance continue post-interventionnelle<a id=670></a>
 
 ###### Article D712-45
 
@@ -110024,11 +110344,11 @@ _Cite_:
   - Code de la santé publique - art. D712-47 (M)
 
 
-#### Chapitre IV : Les établissements publics de santé<a id=668></a>
+#### Chapitre IV : Les établissements publics de santé<a id=671></a>
 
-##### Section 1 : Organisation administrative et financière<a id=669></a>
+##### Section 1 : Organisation administrative et financière<a id=672></a>
 
-##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=670></a>
+##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=673></a>
 
 ###### Article D714-2-1
 
@@ -110165,7 +110485,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (M)
 
 
-##### Sous-section 4 : Composition des groupes fonctionnels<a id=671></a>
+##### Sous-section 4 : Composition des groupes fonctionnels<a id=674></a>
 
 ###### Article D714-7-1
 
@@ -110221,7 +110541,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6145-6 (Ab)
 
 
-##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=672></a>
+##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=675></a>
 
 ###### Article D714-12-1
 
@@ -110321,7 +110641,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6143-36 (V)
 
 
-##### Sous-section 5 : Virements de crédits<a id=673></a>
+##### Sous-section 5 : Virements de crédits<a id=676></a>
 
 ###### Article D714-12-5
 
@@ -110364,9 +110684,9 @@ _Cite_:
   - Code de la santé publique R714-3-38, R714-3-11 à R714-3-13, R714-3-27
 
 
-##### Section 2 : organes représentatifs<a id=674></a>
+##### Section 2 : organes représentatifs<a id=677></a>
 
-##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=675></a>
+##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=678></a>
 
 ###### Article D714-17-1
 
@@ -110397,7 +110717,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=676></a>
+##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=679></a>
 
 ###### Article D714-19-1
 
@@ -110454,7 +110774,7 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Section 2 : Organisation des soins et fonctionnement médical<a id=677></a>
+##### Section 2 : Organisation des soins et fonctionnement médical<a id=680></a>
 
 ###### Article D714-21-1
 
@@ -110500,7 +110820,7 @@ _Cité par_:
   - Code de la santé publique - art. D714-21-2 (M)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=678></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=681></a>
 
 ###### Article D714-21-2
 
@@ -110563,11 +110883,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6151-1 (V)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=679></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=682></a>
 
-### Chapitre Ier : Missions et obligations des établissements de santé<a id=680></a>
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=683></a>
 
-#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=681></a>
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=684></a>
 
 ###### Article D711-16-1
 
@@ -110702,11 +111022,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-47 (T)
 
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=682></a>
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=685></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=683></a>
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=686></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=684></a>
+##### Sous-section 1 : Du collège national d'experts<a id=687></a>
 
 ###### Article D712-1
 
@@ -110804,7 +111124,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=685></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=688></a>
 
 ###### Article D712-8
 
@@ -110951,9 +111271,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=686></a>
+#### Section 2 : Autorisations<a id=689></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=687></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=690></a>
 
 ###### Article D712-14
 
@@ -110992,7 +111312,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L712-12 (M)
 
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=688></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=691></a>
 
 ###### Article D712-15
 
@@ -111053,11 +111373,11 @@ _Cite_:
   - Code de la santé publique - art. L712-2 (M)
 
 
-#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=689></a>
+#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=692></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=690></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=693></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=691></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=694></a>
 
 ###### Article D712-31
 
@@ -111164,7 +111484,7 @@ _Cite_:
   - Code de la santé publique D712-30, D712-32, D712-33, R710-2-1 à R710-2-10
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=692></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=695></a>
 
 ###### Article D712-36
 
@@ -111281,9 +111601,9 @@ _Cité par_:
   - Code de la santé publique - art. D712-39 (Ab)
 
 
-##### Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie<a id=693></a>
+##### Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie<a id=696></a>
 
-##### Paragraphe 3 : De l'anesthésie<a id=694></a>
+##### Paragraphe 3 : De l'anesthésie<a id=697></a>
 
 ###### Article D712-42
 
@@ -111364,7 +111684,7 @@ _Cite_:
   - Code de la santé publique - art. D712-41 (M)
 
 
-##### Paragraphe 4 : De la surveillance continue post-interventionnelle<a id=695></a>
+##### Paragraphe 4 : De la surveillance continue post-interventionnelle<a id=698></a>
 
 ###### Article D712-48
 
@@ -111405,15 +111725,15 @@ _Cite_:
   - Code de la santé publique - art. D712-49 (M)
 
 
-# Annexes<a id=696></a>
+# Annexes<a id=699></a>
 
-## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=697></a>
+## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=700></a>
 
-### Titre 2 : Du sang humain<a id=698></a>
+### Titre 2 : Du sang humain<a id=701></a>
 
-#### Chapitre 3 : Des établissements de transfusion sanguine<a id=699></a>
+#### Chapitre 3 : Des établissements de transfusion sanguine<a id=702></a>
 
-##### Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public.<a id=700></a>
+##### Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public.<a id=703></a>
 
 ###### Article Annexe II aux articles R668-1-1 à R668-21
 
