@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-02-11
+Version Consolidée au 1994-02-13
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-11)](#2)
@@ -30460,9 +30460,10 @@ Le pharmacien doit être propriétaire de l'officine dont il est titulaire [*con
 
 Les pharmaciens sont autorisés à constituer entre eux une société en nom collectif en vue de l'exploitation d'une officine.
 
-Les pharmaciens sont également autorisés à constituer entre eux une société à responsabilité limitée en vue de l'exploitation
-d'une officine, à la condition que cette société ne soit propriétaire que d'une seule officine, quel que soit le nombre de
-pharmaciens associés, et que la gérance de l'officine soit assurée par un ou plusieurs des pharmaciens associés.
+Les pharmaciens sont également autorisés à constituer individuellement ou entre eux une société à responsabilité limitée en
+vue de l'exploitation d'une officine, à la condition que cette société ne soit propriétaire que d'une seule officine, quel
+que soit le nombre de pharmaciens associés, et que la gérance de l'officine soit assurée par un ou plusieurs des pharmaciens
+associés.
 
 Les gérants et les associés sont responsables à l'égard des tiers dans les limites fixées à l'article 1er de la loi du 7 mars
 1925 [*loi 1966-07-24*].
@@ -30478,26 +30479,19 @@ Un pharmacien ne peut être propriétaire ou copropriétaire que d'une seule [*n
 
 **Nota:**
 
-[*Nota : Code de la santé publique L. 577 : DEROGATION.*]
+[*Nota : Code de la santé publique L. 577 : dérogation.*]
+
+[*Nota : Code de la santé publique L. 518 : dispositions pénales*]
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°48-1087 1948-07-08
-  - Loi n°41-3890 1941-09-11 art. 23
-
 _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
-
-_Modifié par_:
-
-  - Loi n°75-1226 1975-12-26 art. 2 JORF 27 décembre 1975
 
 _Cité par_:
 
@@ -30508,20 +30502,30 @@ _Cité par_:
   - Code de la santé publique - art. L577 Bis (T)
   - Code de la santé publique - art. L578 (Ab)
 
+_Cite_:
+
+  - Loi n°1925-03-07 art. 1
+  - Code de la santé publique - art. L514 (M)
+  - Loi n°1966-07-24 art. 49, art. 14
+
+_Modifié par_:
+
+  - Loi n°94-126 du 11 février 1994 - art. 6 () JORF 13 février 1994
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L5125-17 (M)
   - Code de la santé publique - art. L5125-17 (V)
   - Code de la santé publique - art. L5424-4 (V)
 
-_Cite_:
-
-  - Code de la santé publique - art. L514 (M)
-  - Loi n°1925-03-07 art. 1
-  - Loi n°1966-07-24 art. 49, art. 14
-
 **Liens**:
 
-  - TXT_ASSOCIE: Code de la santé publique L577 : DEROGATION
+  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
+  - TXT_ASSOCIE: Code de la santé publique - art. L577 (Ab)
 
 
 ###### Article L576
