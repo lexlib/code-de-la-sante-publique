@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1969-01-31
+Version Consolidée au 1970-02-14
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -39760,6 +39760,48 @@ _Cite_:
 
   - TXT_ASSOCIE: Code de la santé publique - art. R5182 (Ab)
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5189-1
+
+Sont interdits : l'importation, l'exportation, la fabrication, la détention, le commerce et l'utilisation de la
+diacétylmorphine, de ses sels et des préparations en contenant ainsi que, d'une manière générale, tous actes commerciaux ou
+non relatifs à ces produits.
+
+Des dérogations aux dispositions précédentes pourront être accordées par le ministre de la santé publique et de la sécurité
+sociale pour la recherche, dans le cadre des dispositions de l'article R. 5197 du présent code, ainsi que pour la fabrication
+de dérivés autorisés.
+
+Le ministre de la Santé publique et de la sécurité sociale peut, à titre transitoire et jusqu'à une date qu'il fixera par
+arrêté, accorder des dérogations aux dispositions du premier alinéa du présent article :
+
+1. Pour la poursuite des traitements en cours au moment de la publication des présentes dispositions ;
+
+2. Pour la mise en oeuvre de traitements de désintoxication dans certains établissements hospitaliers publics ou privés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Cite_:
+
+  - Code de la santé publique - art. R5197 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: DISPOSITIONS APPLICABLES DANS LES TERRITOIRES D'OUTRE-MER
+
+_Créé par_:
+
+  - Décret n°70-127 1970-02-06 ART. 1 JORF 14 février
 
 
 ##### 1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE.<a id=380></a>
