@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-07-02
+Version Consolidée au 1984-10-01
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -252,29 +252,29 @@ Version Consolidée au 1984-07-02
         - [Chapitre 2 : Commissions administratives (art. L680 à L686)](#249)
           - [Section 1 : Composition et fonctionnement. (art. L680 à L684)](#250)
           - [Section 2 : Attributions. (art. L686)](#251)
-        - [Chapitre 6 : Autres dispositions financières. (art. L706-1 à L709)](#252)
-          - [Section 1 : Marchés. (art. L706-1)](#253)
-          - [Section 2 : Recouvrement des recettes. (art. L708 à L709)](#254)
-        - [Chapitre 8 : Dispositions spéciales relatives à l'admission des militaires dans les hôpitaux civils. (art. L719 à L722)](#255)
-        - [Chapitre 9 : Dispositions diverses. (art. L724)](#256)
-      - [Titre 2 : Thermo-climatisme (art. L735 à L752)](#257)
-        - [Chapitre 1 : Sources d'eaux minérales (art. L735 à L751)](#258)
-          - [Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent. (art. L735 à L745)](#259)
-          - [Section 2 : Dispositions pénales. (art. L747 à L750)](#260)
-          - [Section 3 : Modalités d'application. (art. L751)](#261)
-        - [Chapitre 2 : Stations hydrominérales, climatiques et uvales. (art. L752)](#262)
-      - [Titre 3 : Laboratoires (art. L753 à L765)](#263)
-        - [Chapitre 1 : Laboratoires d'analyses de biologie médicale (art. L753 à L761-23)](#264)
-          - [Section 1 : Conditions de fonctionnement des laboratoires d'analyses de biologie médicale. (art. L753 à L760)](#265)
-          - [Section 2 : Dispositions applicables aux directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale. (art. L761 à L761-10)](#266)
-          - [Section 3 : Dispositions diverses. (art. L761-12 à L761-15)](#267)
-          - [Section 4 : Dispositions pénales. (art. L761-16 à L761-23)](#268)
-        - [Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales. (art. L762 à L765)](#269)
-    - [LIVRE 7 : HOPITAUX ET HOSPICES PUBLICS (art. L685 à L706)](#270)
-      - [TITRE 1 : HOPITAUX ET HOSPICES PUBLICS (art. L685 à L706)](#271)
-        - [CHAPITRE 2 : COMMISSIONS ADMINISTRATIVES (art. L685)](#272)
-          - [SECTION 1 : COMPOSITION ET FONCTIONNEMENT. (art. L685)](#273)
-        - [CHAPITRE 4 : DONS ET LEGS. (art. L696)](#274)
+        - [Chapitre 4 : Dons et legs. (art. L696)](#252)
+        - [Chapitre 6 : Autres dispositions financières. (art. L706-1 à L709)](#253)
+          - [Section 1 : Marchés. (art. L706-1)](#254)
+          - [Section 2 : Recouvrement des recettes. (art. L708 à L709)](#255)
+        - [Chapitre 8 : Dispositions spéciales relatives à l'admission des militaires dans les hôpitaux civils. (art. L719 à L722)](#256)
+        - [Chapitre 9 : Dispositions diverses. (art. L724)](#257)
+      - [Titre 2 : Thermo-climatisme (art. L735 à L752)](#258)
+        - [Chapitre 1 : Sources d'eaux minérales (art. L735 à L751)](#259)
+          - [Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent. (art. L735 à L745)](#260)
+          - [Section 2 : Dispositions pénales. (art. L747 à L750)](#261)
+          - [Section 3 : Modalités d'application. (art. L751)](#262)
+        - [Chapitre 2 : Stations hydrominérales, climatiques et uvales. (art. L752)](#263)
+      - [Titre 3 : Laboratoires (art. L753 à L765)](#264)
+        - [Chapitre 1 : Laboratoires d'analyses de biologie médicale (art. L753 à L761-23)](#265)
+          - [Section 1 : Conditions de fonctionnement des laboratoires d'analyses de biologie médicale. (art. L753 à L760)](#266)
+          - [Section 2 : Dispositions applicables aux directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale. (art. L761 à L761-10)](#267)
+          - [Section 3 : Dispositions diverses. (art. L761-12 à L761-15)](#268)
+          - [Section 4 : Dispositions pénales. (art. L761-16 à L761-23)](#269)
+        - [Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales. (art. L762 à L765)](#270)
+    - [LIVRE 7 : HOPITAUX ET HOSPICES PUBLICS (art. L685 à L706)](#271)
+      - [TITRE 1 : HOPITAUX ET HOSPICES PUBLICS (art. L685 à L706)](#272)
+        - [CHAPITRE 2 : COMMISSIONS ADMINISTRATIVES (art. L685)](#273)
+          - [SECTION 1 : COMPOSITION ET FONCTIONNEMENT. (art. L685)](#274)
         - [CHAPITRE 5 : AUTRES DISPOSITIONS FINANCIERES (art. L706)](#275)
           - [SECTION 1 : MARCHES. (art. L706)](#276)
     - [LIVRE 7 : THERMO-CLIMATISME (art. L741)](#277)
@@ -32611,9 +32611,45 @@ _Cite_:
   - Code de la santé publique - art. L851 (Ab)
 
 
-#### Chapitre 6 : Autres dispositions financières.<a id=252></a>
+#### Chapitre 4 : Dons et legs.<a id=252></a>
 
-##### Section 1 : Marchés.<a id=253></a>
+###### Article L696
+
+Lorsque, par suite d'un changement de circonstances, l'exécution des conditions et charges grevant une donation ou un legs
+fait à un établissement hospitalier devient soit extrêmement difficile, soit sérieusement dommageable, la révision de ces
+conditions et charges peut être autorisée par arrêté du commissaire de la République si l'auteur de la libéralité ou ses
+ayants droit acceptent les mesures envisagées ; dans les autres cas, la révision est autorisée dans les conditions prévues
+aux articles 900-2 à 900-8 du code civil.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°58-1202 du 11 décembre 1958 - art. 43 (Ab)
+  - Code de la santé publique - art. L686 (Ab)
+
+_Modifié par_:
+
+  - Loi n°84-562 1984-07-04 ART. 5 JORF 6 juillet en vigueur le 1er octobre 1984
+
+_Cite_:
+
+  - Code civil - art. 900-2 (M)
+  - Code civil - art. 900-3 (M)
+  - Code civil - art. 900-4 (M)
+  - Code civil - art. 900-5 (M)
+  - Code civil - art. 900-6 (M)
+  - Code civil - art. 900-7 (M)
+  - Code civil - art. 900-8 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L714-37 (M)
+
+
+#### Chapitre 6 : Autres dispositions financières.<a id=253></a>
+
+##### Section 1 : Marchés.<a id=254></a>
 
 ###### Article L706-1
 
@@ -32652,7 +32688,7 @@ _Abrogé par_:
   - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
 
 
-##### Section 2 : Recouvrement des recettes.<a id=254></a>
+##### Section 2 : Recouvrement des recettes.<a id=255></a>
 
 ###### Article L708
 
@@ -32718,7 +32754,7 @@ _Anciens textes_:
   - Loi n°41-5060 1941-12-21 ART. 21
 
 
-#### Chapitre 8 : Dispositions spéciales relatives à l'admission des militaires dans les hôpitaux civils.<a id=255></a>
+#### Chapitre 8 : Dispositions spéciales relatives à l'admission des militaires dans les hôpitaux civils.<a id=256></a>
 
 ###### Article L719
 
@@ -32808,7 +32844,7 @@ _Anciens textes_:
   - Loi n°1877-07-07 ART. 8
 
 
-#### Chapitre 9 : Dispositions diverses.<a id=256></a>
+#### Chapitre 9 : Dispositions diverses.<a id=257></a>
 
 ###### Article L724
 
@@ -32832,11 +32868,11 @@ _Anciens textes_:
   - Loi n°41-5060 1941-12-21 ART. 36
 
 
-### Titre 2 : Thermo-climatisme<a id=257></a>
+### Titre 2 : Thermo-climatisme<a id=258></a>
 
-#### Chapitre 1 : Sources d'eaux minérales<a id=258></a>
+#### Chapitre 1 : Sources d'eaux minérales<a id=259></a>
 
-##### Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent.<a id=259></a>
+##### Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent.<a id=260></a>
 
 ###### Article L735
 
@@ -33179,7 +33215,7 @@ _Anciens textes_:
   - Loi n°1856-07-14 ART. 11
 
 
-##### Section 2 : Dispositions pénales.<a id=260></a>
+##### Section 2 : Dispositions pénales.<a id=261></a>
 
 ###### Article L747
 
@@ -33316,7 +33352,7 @@ _Anciens textes_:
   - Loi n°1856-07-14 ART. 16
 
 
-##### Section 3 : Modalités d'application.<a id=261></a>
+##### Section 3 : Modalités d'application.<a id=262></a>
 
 ###### Article L751
 
@@ -33363,7 +33399,7 @@ _Anciens textes_:
   - Loi n°1856-07-14 ART. 19
 
 
-#### Chapitre 2 : Stations hydrominérales, climatiques et uvales.<a id=262></a>
+#### Chapitre 2 : Stations hydrominérales, climatiques et uvales.<a id=263></a>
 
 ###### Article L752
 
@@ -33390,11 +33426,11 @@ _Codifié par_:
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
 
-### Titre 3 : Laboratoires<a id=263></a>
+### Titre 3 : Laboratoires<a id=264></a>
 
-#### Chapitre 1 : Laboratoires d'analyses de biologie médicale<a id=264></a>
+#### Chapitre 1 : Laboratoires d'analyses de biologie médicale<a id=265></a>
 
-##### Section 1 : Conditions de fonctionnement des laboratoires d'analyses de biologie médicale.<a id=265></a>
+##### Section 1 : Conditions de fonctionnement des laboratoires d'analyses de biologie médicale.<a id=266></a>
 
 ###### Article L753
 
@@ -33810,7 +33846,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code de la santé publique L761-17 : DISPOSITIONS PENALES
 
 
-##### Section 2 : Dispositions applicables aux directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale.<a id=266></a>
+##### Section 2 : Dispositions applicables aux directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale.<a id=267></a>
 
 ###### Article L761
 
@@ -34295,7 +34331,7 @@ _Créé par_:
   - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
 
 
-##### Section 3 : Dispositions diverses.<a id=267></a>
+##### Section 3 : Dispositions diverses.<a id=268></a>
 
 ###### Article L761-12
 
@@ -34484,7 +34520,7 @@ _Créé par_:
   - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
 
 
-##### Section 4 : Dispositions pénales.<a id=268></a>
+##### Section 4 : Dispositions pénales.<a id=269></a>
 
 ###### Article L761-16
 
@@ -34783,7 +34819,7 @@ _Créé par_:
   - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
 
 
-#### Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales.<a id=269></a>
+#### Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales.<a id=270></a>
 
 ###### Article L762
 
@@ -34914,13 +34950,13 @@ _Créé par_:
   - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
 
 
-## LIVRE 7 : HOPITAUX ET HOSPICES PUBLICS<a id=270></a>
+## LIVRE 7 : HOPITAUX ET HOSPICES PUBLICS<a id=271></a>
 
-### TITRE 1 : HOPITAUX ET HOSPICES PUBLICS<a id=271></a>
+### TITRE 1 : HOPITAUX ET HOSPICES PUBLICS<a id=272></a>
 
-#### CHAPITRE 2 : COMMISSIONS ADMINISTRATIVES<a id=272></a>
+#### CHAPITRE 2 : COMMISSIONS ADMINISTRATIVES<a id=273></a>
 
-##### SECTION 1 : COMPOSITION ET FONCTIONNEMENT.<a id=273></a>
+##### SECTION 1 : COMPOSITION ET FONCTIONNEMENT.<a id=274></a>
 
 ###### Article L685
 
@@ -34949,41 +34985,6 @@ _Cité par_:
 _Cite_:
 
   - Code de la santé publique L792 à L896
-
-
-#### CHAPITRE 4 : DONS ET LEGS.<a id=274></a>
-
-###### Article L696
-
-La réduction des charges résultant d'une libéralité faite au profit d'un établissement hospitalier peut être prononcée par
-mesure administrative lorsqu'il est établi que les revenus provenant de cette libéralité sont insuffisants pour assurer
-l'exécution intégrale des charges imposées.
-
-S'il y a accord entre l'établissement gratifié et les auteurs de la libéralité ou leurs ayants-droit, la réduction peut être
-autorisée par un arrêté préfectoral, après avis du directeur départemental de la population et de l'entraide sociale.
-
-Dans tous les autres cas, la réduction ne peut être prononcée que par décret contresigné par le ministre de la santé publique
-et de la population, après avis conforme du conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Cité par_:
-
-  - Décret n°58-1202 du 11 décembre 1958 - art. 43 (Ab)
-  - Code de la santé publique - art. L686 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L714-37 (M)
-
-_Anciens textes_:
-
-  - Loi n°41-5060 1941-12-21 ART. 19
 
 
 #### CHAPITRE 5 : AUTRES DISPOSITIONS FINANCIERES<a id=275></a>
