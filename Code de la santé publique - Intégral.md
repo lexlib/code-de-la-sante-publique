@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1988-12-22
+Version Consolidée au 1988-12-31
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -385,43 +385,32 @@ Version Consolidée au 1988-12-22
           - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#382)
           - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#383)
       - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-15)](#384)
-        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5229)](#385)
+        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5219)](#385)
           - [SECTION 1 : GENERALITES. (art. R5149)](#386)
-          - [SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5152)](#387)
-            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5152)](#388)
-          - [SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5151 à R5166-1)](#389)
-            - [PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A). (art. R5151 à R5164)](#390)
-            - [PARAGRAPHE 1 : GENERALITES. (art. R5150)](#391)
-            - [PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C). (art. R5167)](#392)
-            - [PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*. (art. R5168)](#393)
-            - [PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B). (art. R5165 à R5166-1)](#394)
-          - [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE (art. R5169 à R5211)](#395)
-            - [PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*. (art. R5169 à R5177)](#396)
-            - [PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5178 à R5182)](#397)
-            - [PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5183 à R5188)](#398)
-            - [PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5189 à R5211)](#399)
-              - [1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE. (art. R5190 à R5198)](#400)
-              - [2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE. (art. R5199 à R5211)](#401)
-          - [SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5212 à R5227)](#402)
-            - [PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*. (art. R5227)](#403)
-          - [SECTION 4 : PRODUITS CAPILLAIRES (art. R5213 à R5221)](#404)
-            - [PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX. (art. R5213 à R5216)](#405)
-            - [PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES. (art. R5217 à R5221)](#406)
-          - [SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE (art. R5222 à R5226)](#407)
-            - [PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5222 à R5226)](#408)
-          - [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS (art. R5228 à R5229)](#409)
-            - [INSPECTION. (art. R5228 à R5229)](#410)
-        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#411)
-        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#412)
-        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#413)
-        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#414)
-        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-15)](#415)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#416)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#417)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#418)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#419)
-          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#420)
-          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#421)
+          - [Section 2 : Substances dangereuses, stupéfiantes ou psychotropes (art. R5150 à R5189)](#387)
+            - [1 : Dispositions communes. (art. R5150 à R5151)](#388)
+            - [2 : Substances dangereuses. (art. R5152 à R5170)](#389)
+            - [3 : Substances stupéfiantes. (art. R5171 à R5182)](#390)
+            - [4 : Substances psychotropes. (art. R5183 à R5189)](#391)
+          - [SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE (art. R5178)](#392)
+            - [PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT. (art. R5178)](#393)
+          - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact (art. R5190 à R5219)](#394)
+            - [1) Dispositions communes. (art. R5190 à R5203)](#395)
+            - [3) Régime particulier des stupéfiants. (art. R5209 à R5218)](#396)
+            - [2) Régime particulier des listes 1 et 2. (art. R5204 à R5208)](#397)
+            - [4) Régime particulier des psychotropes. (art. R5219)](#398)
+        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#399)
+        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#400)
+        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#401)
+        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#402)
+        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#403)
+        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-15)](#404)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#405)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#406)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#407)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#408)
+          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#409)
+          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#410)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -43309,27 +43298,25 @@ _Nouveaux textes_:
 ###### Article R5093
 
 Avant de délivrer un médicament quel qu'il soit, le pharmacien doit apposer sur le récipient, la boîte ou le paquet qui le
-contient, son nom et son adresse, la désignation du produit. Toutefois, le présent article ne s'applique pas aux médicaments
-visés sous les articles L. 601, L. 605 et L. 606, sauf à ceux qui sont soumis au régime des substances vénéneuses, compte
-tenu des dispositions de l'article R. 5070, et doivent être délivrés conformément aux dispositions des articles R. 5181, R.
-5187, R. 5204.
+contient son nom et son adresse et la désignation du médicament. Les dispositions du présent article ne sont pas applicables
+aux médicaments mentionnés aux articles L. 601 et L. 607, à l'exception de ceux qui sont soumis au régime des substances
+vénéneuses.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 2 () JORF 31 décembre 1988
 
 _Cite_:
 
   - Code de la santé publique - art. L601 (M)
-  - Code de la santé publique - art. L605 (M)
-  - Code de la santé publique - art. L606 (Ab)
-  - Code de la santé publique - art. R5070 (M)
-  - Code de la santé publique - art. R5181 (M)
-  - Code de la santé publique - art. R5187 (M)
-  - Code de la santé publique - art. R5204 (M)
+  - Code de la santé publique - art. L607 (M)
 
 _Nouveaux textes_:
 
@@ -45496,23 +45483,21 @@ Les produits remis aux experts et ceux qui sont utilisés pour la réalisation d
 pour chaque lot de fabrication, des contrôles analytiques [*obligatoires*] nécessaires pour en garantir la qualité. Les
 responsables de la mise sur le marché conservent des échantillons des lots remis aux experts.
 
-Sans préjudice des mentions prévues aux articles R. 5181, R. 5187 et R. 5204, l'étiquetage de ces produits comporte : le nom
+Sans préjudice des mentions prévues aux articles R. 5201, R. 5207 et R. 5211, l'étiquetage de ces produits comporte : le nom
 du responsable de la mise sur le marché, la dénomination ou le numéro de référence, le numéro du lot de fabrication et
 l'inscription suivante : "Ce produit ne peut être utilisé que sous une stricte surveillance médicale (art. R. 5123 du code de
-la santé publique)."
+la santé publique)".
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
-  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+  - Décret n°88-1232 du 28 décembre 1988 - art. 3 () JORF 31 décembre 1988
 
 _Cité par_:
 
@@ -45527,9 +45512,9 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code de la santé publique - art. R5181 (M)
-  - Code de la santé publique - art. R5187 (M)
-  - Code de la santé publique - art. R5204 (M)
+  - Code de la santé publique - art. R5201 (M)
+  - Code de la santé publique - art. R5207 (M)
+  - Code de la santé publique - art. R5211 (M)
 
 
 ###### Article R5124
@@ -49524,7 +49509,7 @@ _Nouveaux textes_:
 Lors de la délivrance des médicaments vétérinaires prescrits conformément aux dispositions de l'article précédent, le
 pharmacien ou le docteur vétérinaire mentionne cette délivrance sur un registre, coté et paraphé par le maire ou le
 commissaire de police et tenu sans blanc, ni rature, ni surcharge. Pour les pharmaciens, ce registre peut être le livre-
-registre d'ordonnance prévu à l'article R. 5092. Ce registre est conservé pendant dix ans [*délai*].
+registre d'ordonnance prévu à l'article R. 5092. Ce registre est conservé pendant dix ans [*durée*].
 
 Les mentions doivent comporter un numéro d'ordre, les nom, prénoms et adresse du client, le nom ou la formule du médicament
 vétérinaire, la quantité délivrée, le nom du prescripteur, la date à laquelle les substances ont été remises ; le pharmacien
@@ -49534,18 +49519,18 @@ enregistrée et il accompagne cette mention de ses nom et adresse.
 Le docteur vétérinaire est dispensé de la transcription de ses propres ordonnances si elles sont rédigées sur des feuillets
 provenant de carnets à souches numérotées comportant des duplicatas qu'il conserve dans les mêmes conditions que le registre
 mentionné au premier alinéa. Les mêmes dispositions sont applicables aux prescriptions de médicaments vétérinaires relevant
-des tableaux A et C des substances vénéneuses.
+des listes I et II des substances vénéneuses.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+  - Décret n°88-1232 du 28 décembre 1988 - art. 4 () JORF 31 décembre 1988
 
 _Cite_:
 
@@ -49565,7 +49550,7 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Code de la santé publique - art. R5146-57 (M)
-  - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : dispositions pénales
 
 
 ###### Article R5146-53
@@ -50250,49 +50235,27 @@ _Cite_:
 
 ###### Article R5149
 
-En ce qui concerne leur exportation, importation, achat, vente, détention et emploi, le régime des substances vénéneuses est
-différent :
+Sont comprises comme substances vénéneuses les substances dangereuses énumérées à l'article R. 5152, les substances
+stupéfiantes, les substances psychotropes et les substances inscrites sur la liste I et la liste II définies à l'article R.
+5204. 
 
-1° Selon que les substances sont destinées au commerce, à l'industrie ou à l'agriculture, ou qu'elles sont destinées à la
-médecine ;
+On entend par " substances "    les éléments chimiques et leurs composés comme ils se présentent à l'état naturel ou tels
+qu'ils sont produits par l'industrie, contenant éventuellement tout additif nécessaire à leur mise sur le marché. 
 
-2° Selon que ces substances sont classées dans l'un des trois tableaux suivants :
-
-- Tableau A : produits toxiques ;
-
-- Tableau B : produits stupéfiants ;
-
-- Tableau C : produits dangereux.
-
-Chacun de ces tableaux est divisé en deux sections.
-
-Les substances vénéneuses destinées au commerce, à l'industrie ou à l'agriculture sont inscrites dans la section I des
-tableaux A, B et C. Cette section comprend, outre les substances inscrites dans la section II, celles désignées par arrêté
-pris conjointement par les ministres de l'industrie et du Commerce, de l'Agriculture et de la Santé publique et de la
-Population.
-
-Les substances vénéneuses destinées à la médecine sont inscrites dans la section II des tableaux A, B et C par arrêté du
-ministre de la Santé publique et de la Population.
-
-A l'exception des produits faisant l'objet de la section IV du présent chapitre, les teintures et lotions pour cheveux, les
-fards, cosmétiques, dépilatoires, produits de toilette et, en règle générale, les produits hygiéniques renfermant des
-substances vénéneuses à l'exclusion de ceux destinés à la désinfection des locaux, sont soumis au régime des substances
-destinées à la médecine.
+On entend par " préparations " les mélanges ou solutions composés de deux substances ou plus.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
 **Liens**:
 
-  - TXT_ASSOCIE: Arrêté 1951-11-15
-  - TXT_ASSOCIE: Arrêté 1957-01-21
   - TXT_SOURCE: Arrêté du 17 février 1976 - art. 1 (V)
   - TXT_SOURCE: Arrêté du 17 février 1976 - art. 2 (V)
   - TXT_SOURCE: Arrêté du 17 février 1976 - art. 3 (V)
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 _Cité par_:
 
@@ -50308,35 +50271,138 @@ _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 II JORF 22 juin 2000
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L5132-1 (V)
 
+_Cite_:
 
-##### SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=387></a>
+  - Code de la santé publique - art. R5152 (M)
 
-##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=388></a>
 
-###### Article R5152
+##### Section 2 : Substances dangereuses, stupéfiantes ou psychotropes<a id=387></a>
 
-Quiconque détient une ou plusieurs desdites substances, en vue de la vente ou de l'emploi pour un usage industriel ou
-agricole, doit les placer dans des armoires fermées à clef ou dans des locaux où n'ont pas librement accès les personnes
-étrangères à l'établissement.
+##### 1 : Dispositions communes.<a id=388></a>
 
-Les armoires ou locaux visés au précédent alinéa peuvent contenir d'autres substances, à l'exclusion de celles destinées à
-l'alimentation de l'homme ou des animaux.
+###### Article R5150
 
-Lorsque le détenteur exerce le commerce des produits destinés à l'alimentation de l'homme ou des animaux, aucune
-communication intérieure directe ne doit exister entre l'établissement et ses dépendances où s'exerce ledit commerce, et les
-locaux où sont détenues les substances vénéneuses. Cette obligation ne s'applique pas aux pharmaciens, ni aux personnes
-faisant le commerce des solutions titrées de nicotine détenues et délivrées en bidons scellés.
+Les dispositions de la présente section s'appliquent [*champ d'application*] aux substances et préparations vénéneuses qui ne
+constituent ni des médicaments ou produits mentionnés à la section III ni des produits cosmétiques ou d'hygiène corporelle.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 3 (V)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-43 (V)
+
+
+###### Article R5151
+
+Des arrêtés des ministres chargés de la santé, de l'industrie et de l'agriculture, pris après avis du Conseil supérieur
+d'hygiène publique de France [*autorités compétentes*], peuvent dispenser [*dérogation*] du respect de certaines ou de toutes
+les dispositions de la présente section des préparations vénéneuses renfermant une ou plusieurs substances dangereuses à des
+doses ou concentrations trop faibles pour justifier qu'elles y soient soumises.
+
+Des arrêtés du ministre chargé de la santé, pris après avis de la commission mentionnée à l'article R. 5182, peuvent
+dispenser du respect de certaines ou de toutes les dispositions de la présente section des préparations renfermant une ou
+plusieurs substances stupéfiantes ou psychotropes à des doses ou concentrations trop faibles pour justifier qu'elles y soient
+soumises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 3 juillet 1997
+  - TXT_SOURCE: Arrêté du 3 juillet 1997 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 3 juillet 1997 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 3 juillet 1997 - art. ANNEXE (V)
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-44 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5161 (M)
+  - Code de la santé publique - art. R5187 (Ab)
+  - Code de la santé publique - art. R5229 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5182 (M)
+
+
+##### 2 : Substances dangereuses.<a id=389></a>
+
+###### Article R5152
+
+Les substances et préparations dangereuses sont classées dans les catégories suivantes [*liste*]:
+
+1° Substances et préparations très toxiques qui, après inhalation, ingestion ou pénétration cutanée, peuvent entraîner des
+risques extrêmement graves, aigus ou chroniques et même la mort ;
+
+2° Substances ou préparations toxiques qui, par inhalation, ingestion ou pénétration cutanée, peuvent entraîner des risques
+graves, aigus ou chroniques et même la mort ;
+
+3° Substances et préparations nocives qui, par inhalation, ingestion ou pénétration cutanée, peuvent entraîner des risques de
+gravité limitée ;
+
+4° Substances et préparations corrosives qui, en contact avec les tissus vivants, peuvent exercer une action destructrice sur
+ces derniers ;
+
+5° Substances et préparations irritantes non corrosives qui, en contact immédiat, prolongé ou répété avec la peau ou les
+muqueuses, peuvent provoquer une réaction inflammatoire ;
+
+6° Substances et préparations cancérogènes qui, par inhalation, ingestion ou pénétration cutanée, peuvent produire le cancer
+ou en augmenter la fréquence ;
+
+7° Substances et préparations tératogènes ;
+
+8° Substances et préparations mutagènes.
+
+Un arrêté des ministres chargés de la santé, de l'industrie, de l'agriculture, de l'environnement et de la consommation
+[*autorités compétentes*] détermine, conformément aux dispositions communautaires en vigueur, le symbole d'identification et
+l'indication du danger de chacune de ces catégories, les phrases types mentionnant les risques particuliers d'emploi et les
+phrases types mentionnant les conseils de prudence.
+
+Lorsqu'une substance ou une préparation dangereuse doit recevoir plusieurs symboles d'identification, un arrêté des mêmes
+ministres peut rendre facultatif l'emploi de certains de ces symboles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -50353,6 +50419,7 @@ _Modifié par_:
   - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988 - art. 6 (Ab)
   - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988 - art. 7 (Ab)
   - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988 - art. 8 (Ab)
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 _Cité par_:
 
@@ -50382,85 +50449,33 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-46 (V)
 
 
-##### SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE<a id=389></a>
-
-##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).<a id=390></a>
-
-###### Article R5151
-
-Quiconque veut faire le commerce d'une ou plusieurs des substances classées au tableau A (section I) ou exercer une industrie
-qui en nécessite l'emploi, est tenu d'en faire préalablement la déclaration devant le maire de la commune dans laquelle est
-situé son établissement [*obligation*] ; à Paris et dans le ressort de la préfecture de police, la déclaration doit être
-faite à ladite préfecture [*lieu*].
-
-Elle est inscrite sur un registre spécial, récépissé en est donné au déclarant ; elle doit être renouvelée en cas de
-déplacement ou de cession de l'établissement.
-
-Les personnes habilitées à exercer la pharmacie sont dispensées de cette déclaration.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 3 juillet 1997
-  - TXT_SOURCE: Arrêté du 3 juillet 1997 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 3 juillet 1997 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 3 juillet 1997 - art. ANNEXE (V)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-44 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5161 (M)
-  - Code de la santé publique - art. R5187 (Ab)
-  - Code de la santé publique - art. R5229 (Ab)
-
-
 ###### Article R5153
 
-Il est interdit de détenir en vue de la vente, de vendre, de livrer, d'expédier ou de faire circuler ces substances autrement
-que renfermées dans des enveloppes ou récipients portant inscrit le nom desdites substances, tel qu'il figure dans le tableau
-A (section I).
+Un arrêté des ministres chargés de la santé, de l'industrie, de l'agriculture, de l'environnement et de la consommation
+[*autorités compétentes*] classe les substances dangereuses dans les catégories mentionnées à l'article R. 5152 et fixe la
+référence des phrases types devant figurer sur l'emballage.
 
-Cette inscription doit être faite en caractères noirs très apparents, sur une étiquette rouge orangé, fixée de telle sorte
-qu'elle ne puisse pas être involontairement détachée.
+Le classement des préparations dangereuses résulte :
 
-L'inscription ci-dessus visée doit être accompagnée de la mention "Poison", sur une bande de même couleur, faisant le tour de
-l'enveloppe ou du récipient.
+1° Du classement des substances dangereuses qu'elles contiennent et de la concentration de celles-ci ;
 
-Un arrêté pris conjointement par le ministre de l'industrie, le ministre de l'agriculture et le ministre de la santé publique
-et de la population détermine les conditions auxquelles devront satisfaire, par dérogation aux prescriptions de l'alinéa
-précédent, les enveloppes ou les récipients qui, en raison de leur nature ou de leurs dimensions, ne se prêtent pas à
-l'apposition de bandes.
+2° Du type de préparation.
 
-Les fûts, vases ou autres récipients ainsi que les enveloppes ayant servi à contenir ces substances ne doivent en aucun cas
-être employés à recevoir des produits destinés à l'alimentation de l'homme ou des animaux.
+Des arrêtés des ministres chargés de la santé, de l'industrie, de l'agriculture, de l'environnement et de la consommation,
+pris après consultation du Conseil supérieur d'hygiène publique de France, fixent, conformément à ces règles, les modalités
+du classement des préparations dans les catégories mentionnées à l'article R. 5152 et les phrases types devant figurer sur
+l'emballage.
 
-Il est interdit d'employer pour la vente ou le transport de ces substances les bouteilles dites canettes de bières, les
-flacons portant inscrit dans la pâte le nom d'un liquide alimentaire ou médicamenteux, les fûts, vases et autres récipients
-portant encore des étiquettes de produits alimentaires, de boissons quelconques ou de produits médicamenteux.
+Si l'intérêt de la santé publique l'exige, le ministre chargé de la santé peut, avant l'intervention d'un arrêté
+interministériel, classer une substance ou une préparation dans les catégories mentionnées à l'article R. 5152 pour une durée
+de trois mois renouvelable une fois.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1962-04-13 JORF 29 avril
-
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Cité par_:
 
@@ -50473,27 +50488,45 @@ _Cité par_:
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-  - Décret n°62-508 1962-04-13 art. 1 JORF 19 avril 1962
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 II JORF 22 juin 2000
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L5132-3 (Ab)
+  - Code de la santé publique - art. L5132-3 (V)
   - Code de la santé publique - art. L5132-4 (Ab)
+  - Code de la santé publique - art. L5132-4 (M)
+  - Code de la santé publique - art. L5132-5 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5152 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5154
 
-Sont interdites la mise en vente et la vente des substances classées au tableau A (section I) ou des préparations qui en
-contiennent sous forme de tablettes, pastilles, pilules, comprimés, ampoules, et, d'une manière générale, sous toutes formes
-usitées pour l'administration des médicaments, lorsque ces substances ou préparations sont destinées à d'autres usages que
-celui de la médecine.
+Sont interdites la production et la mise sur le marché, c'est-à-dire le transport, l'importation, l'exportation, la
+détention, l'offre, la cession et l'acquisition des substances ou préparations mentionnées à l'article R. 5152 sous une
+présentation ou une dénomination susceptible de créer une confusion avec un aliment, un médicament, un produit cosmétique ou
+produit d'hygiène corporelle.
+
+**Nota:**
+
+[*Nota : code de la santé publique R5168 : dérogation aux prescriptions de l'article R5154.*]
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -50506,107 +50539,44 @@ _Cité par_:
   - Code de la santé publique - art. R5154 bis (Ab)
   - Code de la santé publique - art. R5168 (Ab)
 
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R5132-48 (M)
   - Code de la santé publique - art. R5132-48 (V)
-
-
-###### Article R5154 bis
-
-I - En vue de faciliter, en cas de diffusion de la rage par des animaux sauvages, la destruction de ces animaux, des
-substances classées au tableau A (section I) ou des préparations en contenant peuvent être délivrées sous des formes et dans
-des conditions qui dérogent aux prescriptions des articles R. 5154 et R. 5161.
-
-Sur les ampoules, boîtes, sachets et autres récipients contenant ces substances doit être inscrite, en caractères
-indélébiles, outre le nom de la substance toxique qu'ils contiennent, la mention "Poison pour la destruction des animaux
-sauvages, mortel pour l'homme".
-
-Les emballages extérieurs de ces produits doivent porter les mêmes inscriptions et, le cas échéant, signaler le danger des
-émanations ; ils doivent, en outre, porter les indications suivantes [*mentions*] :
-
-Quantité de substance active contenue dans chaque ampoule, sachet ou boîte ;
-
-Antidote à utiliser en cas d'intoxication de l'homme ainsi que sa posologie et son mode d'administration ;
-
-Nom et adresse du fabricant ou de l'importateur ainsi que numéro du lot de fabrication ou d'importation.
-
-Les boîtes, sachets et autres récipients contenant ces substances toxiques doivent être fermés hermétiquement et leurs
-emballages doivent être assez résistants pour permettre leur transport sans danger.
-
-Un arrêté pris conjointement par le ministre chargé de l'industrie, le ministre chargé de la santé publique et le ministre
-chargé de l'agriculture précise les conditions auxquelles doivent satisfaire les récipients et les emballages compte tenu de
-leur nature et de leurs dimensions.
-
-II - Un arrêté pris conjointement par le ministre chargé de la santé publique, le ministre chargé de l'agriculture et le
-ministre chargé de l'environnement, après avis du conseil supérieur d'hygiène publique de France, désigne les substances
-toxiques auxquelles peuvent s'appliquer les dérogations prévues au I et définit les zones géographiques et les périodes dans
-lesquelles ces substances peuvent être utilisées. Cet arrêté précise, en outre, les conditions d'utilisation de ces
-substances ; il désigne, notamment, d'une part, les personnes auxquelles, en plus des pharmaciens titulaires d'une officine,
-les ampoules et sachets contenant ces substances peuvent être délivrés par le fabricant ou l'importateur dans les conditions
-prévues aux articles R. 5155 et R. 5156 et, d'autre part, les services chargés de contrôler l'emploi de ces substances.
-
-III - Les pharmaciens et les autres personnes habilitées à détenir les produits mentionnés au II ne peuvent les céder qu'à
-des personnes appelées à concourir à la destruction des animaux propageant la rage et désignées par arrêté préfectoral, et
-dans les conditions prévues aux articles R. 5155 et R. 5156.
-
-IV - Lorsque l'une des substances toxiques mentionnées au II est contenue dans des ampoules de verre destinées à être
-introduites dans des appâts, les personnes chargées de les employer doivent, dans le délai fixé compte tenu des conditions
-locales par l'arrêté interministériel prévu au II, procéder au ramassage des ampoules contenues dans les appâts qui
-n'auraient pas été gobés.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1974-10-23 JORF 9 novembre : CONDITIONS D'EMBALLAGE
-  - TXT_ASSOCIE: Loi n°75-2 1975-01-03 : APPLICATION DU PARAGRAPHE II
-  - TXT_ASSOCIE: Décret n°76-867 1976-09-13 JORF 14 septembre : LUTTE CONTRE LA RAGE
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Décret n°76-867 du 13 septembre 1976 - art. 16 (Ab)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 _Cite_:
 
-  - Code de la santé publique - art. R5154 (M)
-  - Code de la santé publique - art. R5155 (M)
-  - Code de la santé publique - art. R5156 (M)
-  - Code de la santé publique - art. R5161 (M)
+  - Code de la santé publique - art. R5152 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5155
 
-Toute vente desdites substances [*toxiques*] doit être inscrite sur un registre spécial, coté et paraphé par le maire ou le
-commissaire de police. Les inscriptions sur ce registre sont faites de suite, sans aucun blanc, rature, ni surcharge, au
-moment même de la livraison ou de l'expédition ; elles indiquent le nom et la quantité des substances vendues, la date de la
-vente, ainsi que les nom, profession et adresse de l'acheteur [*mentions obligatoires*].
-
-A chacune des ventes est attribué un numéro d'ordre qui peut s'appliquer à tous les produits compris dans une même livraison.
-Ce numéro est inscrit, ainsi que le nom et l'adresse du vendeur, sur l'étiquette apposée conformément aux dispositions des
-deux premiers alinéas de l'article R. 5153 [*mentions*].
-
-Le registre sur lequel sont faites ces inscriptions doit être conservé pendant dix ans, pour être représenté à toute
-réquisition de l'autorité compétente [*délai*].
+Sans préjudice de la réglementation du transport des matières dangereuses, il est interdit de mettre sur le marché des
+substances ou préparations mentionnées à l'article R. 5152 autrement que dans des contenants et des emballages et sous un
+étiquetage conformes aux prescriptions de la présente section [*conditions de forme*].
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 _Cité par_:
 
@@ -50618,24 +50588,39 @@ _Cité par_:
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R5132-49 (M)
   - Code de la santé publique - art. R5132-49 (V)
 
 _Cite_:
 
-  - Code de la santé publique - art. R5153 (M)
+  - Code de la santé publique - art. R5152 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5156
 
-Aucune vente desdites substances [*toxiques*] ne peut être consentie qu'au profit d'une personne âgée de dix-huit ans au
-moins [*âge minimum*], connue du vendeur ou justifiant de son identité [*condition*]. Ces substances ne peuvent être
-délivrées que contre reçu daté et signé de l'acheteur ou de son représentant et mentionnant sa profession et son adresse. Ce
-reçu peut être remplacé par une commande écrite, datée et signée de l'acheteur ou de son représentant et indiquant sa
-profession et son adresse.
+Les contenants et emballages mentionnés à l'article R. 5155 doivent être aménagés et fermés de manière à empêcher toute
+déperdition du contenu. Les matières dont ils sont constitués, ainsi que celles de leur fermeture, ne doivent pas être
+susceptibles d'être attaquées par le contenu, ni de former avec ce dernier des combinaisons dangereuses.
 
-Si la profession de l'acheteur n'implique pas l'emploi des substances demandées, le reçu ou la commande doit mentionner
-l'usage auquel ces substances sont destinées. Le reçu ou la commande doit être conservé pendant trois ans par le vendeur,
-pour être représenté à toute réquisition de l'autorité compétente [*délai*].
+Les contenants, emballages et fermetures doivent, dans toutes leurs parties, être assez solides et robustes pour exclure
+toute déperdition du contenu et permettre en toute sécurité les manutentions nécessaires.
+
+Les contenants disposant d'un système de fermeture pouvant être remis en place doivent être conçus de manière que le
+contenant puisse être refermé à plusieurs reprises, sans déperdition du contenu.
+
+Pour des raisons d'hygiène ou de santé publique, des arrêtés pris après avis du Conseil supérieur d'hygiène publique de
+France par les ministres chargés de la santé, de l'industrie et de l'agriculture [*autorités compétentes*] peuvent
+notamment :
+
+1° Interdire l'usage de certains types de contenants ou emballages pour des substances ou préparations dangereuses ;
+
+2° Rendre obligatoires des systèmes de protection à l'épreuve des enfants et refermables ;
+
+3° Imposer une indication du danger détectable au toucher.
 
 **Liens relatifs à cet article**
 
@@ -50648,8 +50633,8 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -50659,29 +50644,26 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-50 (V)
 
+_Cite_:
+
+  - Code de la santé publique - art. R5155 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
 
 ###### Article R5157
 
-Lorsqu'elles sont destinées à la destruction des parasites nuisibles à l'agriculture, ces substances ne peuvent être
-délivrées en nature. Elles doivent être mélangées à des matières odorantes et colorantes, suivant les formules établies par
-des arrêtés du ministre de l'Agriculture qui pourront aussi fixer des conditions de délivrance en ce qui concerne les
-concentrations.
-
-Les dispositions des articles R. 5153, R. 5155 et R. 5156 sont applicables à la vente de ces mélanges, qui ne pourront être
-vendus ou délivrés que dans des récipients métalliques, ou dans des récipients parfaitement hermétiques, étanches et
-résistants, dont les modèles sont préalablement agréés par le ministre de l'Agriculture (service de la répression des
-fraudes).
-
-Par dérogation aux prescriptions du présent article, lesdites substances peuvent être délivrées en nature, en vue
-d'expériences scientifiques, sur autorisation spéciale du ministre de l'agriculture. Cette autorisation valable pour un an
-[*durée*] peut être renouvelée.
+Aucun contenant ou emballage ayant été en contact avec des substances ou préparations mentionnées à l'article R. 5152 ne doit
+recevoir des produits destinés à l'alimentation humaine ou animale [*interdiction*].
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Cité par_:
 
@@ -50693,44 +50675,65 @@ _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R5132-47 (M)
   - Code de la santé publique - art. R5132-47 (V)
 
 _Cite_:
 
-  - Code de la santé publique - art. R5153 (M)
-  - Code de la santé publique - art. R5155 (M)
-  - Code de la santé publique - art. R5156 (M)
+  - Code de la santé publique - art. R5152 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5158
 
-L'emploi desdites substances pour la destruction des parasites nuisibles à l'agriculture est interdit dans toutes les
-cultures et récoltes pour lesquelles leur emploi n'aura pas été autorisé par arrêté du ministre de l'Agriculture. Cet arrêté
-fixera pour chaque nature de culture et récolte et pour chaque région, les conditions auxquelles l'autorisation sera
-subordonnée, ainsi que les époques de l'année pendant lesquelles l'emploi desdites substances reste prohibé.
+Tout contenant ou emballage d'une substance ou d'une préparation mentionnée à l'article R. 5152 doit porter les mentions
+[*obligatoires*] suivantes :
 
-Un arrêté dudit ministre, pris après avis du conseil supérieur d'hygiène publique de France, déterminera les précautions que
-devront prendre les personnes qui emploieront, par application du présent article, des produits arsenicaux et notamment
-l'arséniate de plomb.
+1° Le nom de la substance tel qu'il figure à l'arrêté de classement ou, lorsqu'il s'agit d'une préparation, la désignation ou
+le nom commercial de ladite préparation ainsi que le nom de la (ou des) substances(s) vénéneuse(s) qu'elle contient ;
 
-**Nota:**
+2° Le nom ou la raison sociale et l'adresse ou le siège social du fabricant, ou du distributeur, ou de l'importateur ;
 
-[*Nota : Arrêté du 25 septembre 1965 : AUTORISATION DES SUBSTANCES TOXIQUES DANS L'AGRICULTURE. Arrêté du 24 mai 1973 :
-EMPLOI DES PRODUITS ARSENICAUX.*]
+3° Le ou les symboles d'identification de la catégorie à laquelle appartient la substance ou préparation ;
+
+4° Les phrases types prévues par l'arrêté de classement et concernant les risques particuliers que comporte son emploi ;
+
+5° Les phrases types prévues par l'arrêté de classement et concernant les conseils de prudence.
+
+Toutefois, pour les substances et préparations irritantes, le contenant, l'emballage ou l'étiquetage peuvent ne pas comporter
+[*exception*] les mentions prévues aux 4 et 5 ci-dessus, lorsque le contenu ne dépasse pas 125 ml. Dans ce cas, ces mentions
+doivent figurer sur une notice jointe à l'emballage ou au contenant. Il en est de même pour les substances et préparations
+nocives lorsqu'elles ne sont pas destinées à la vente au public.
+
+Les mentions doivent [*obligation*] être apposées sur le contenant ou l'emballage de façon apparente, lisible et en
+caractères indélébiles. Elles sont rédigées en langue française lorsque les substances ou préparations sont destinées au
+marché intérieur.
+
+Un arrêté des ministres chargés de la santé, de l'industrie, de l'agriculture, de l'environnement et de la consommation
+[*autorités compétentes*] détermine les modalités d'application des dispositions qui précèdent, et notamment :
+
+1° Les dimensions minimales de l'étiquette et les conditions dans lesquelles les mentions exigées doivent y être apposées ;
+
+2° La présentation et la couleur des mentions portées sur l'emballage ou l'étiquette.
+
+Il est interdit de faire figurer sur les contenants ou emballages de substances ou préparations mentionnées à l'article R.
+5152 les indications "non toxique", "non nocif", ou toutes autres indications analogues.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1965-09-25
-  - TXT_ASSOCIE: Arrêté 1973-05-24
-
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -50743,80 +50746,109 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-53 (V)
   - Code de la santé publique - art. R5132-56 (V)
 
+_Cite_:
+
+  - Code de la santé publique - art. R5152 (M)
+
 _Cité par_:
 
   - Code de la santé publique - art. R5159 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
 
 ###### Article R5159
 
-Sont interdites la mise en vente et la vente desdites substances [*toxiques*], en vue de leur emploi à la destruction des
-parasites nuisibles à l'agriculture, dans d'autres conditions que celles fixées à l'article précédent.
+Lorsqu'il est fait usage d'un seul emballage extérieur renfermant un ou plusieurs emballages intérieurs pour une ou plusieurs
+substances ou préparations mentionnées à l'article R. 5152, cet emballage peut ne porter que les mentions prévues par la
+réglementation des transports des matières dangereuses. Dans ce cas, l'emballage intérieur ou le contenant de chaque
+substance ou préparation doit porter les indications prévues à l'article R. 5158.
+
+Dans le cas d'un emballage unique, celui-ci peut ne porter que les mentions prévues par la réglementation des transports des
+matières dangereuses ainsi que les mentions prévues aux 1°, 2°, 4° et 5° du premier alinéa de l'article R. 5158.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R5132-54 (M)
   - Code de la santé publique - art. R5132-54 (V)
+  - Code de la santé publique - art. R5132-55 (M)
   - Code de la santé publique - art. R5132-55 (V)
 
 _Cite_:
 
+  - Code de la santé publique - art. R5152 (M)
   - Code de la santé publique - art. R5158 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5160
 
-La délivrance et l'emploi des composés arsenicaux solubles sont interdits pour la destruction des mouches ainsi que pour
-celle des parasites nuisibles à l'agriculture, sauf lorsque ces composés sont utilisés pour les traitements d'hiver. Sont
-également interdits la délivrance et l'emploi des produits destinés à la destruction des mouches et dans la fabrication
-desquels est utilisé l'arsenic métalloïdique.
-
-La délivrance et l'emploi des produits contenant de l'arsenic, du plomb ou du mercure, sont interdits pour la désinfection
-des produits récoltés, destinés à la consommation humaine ou animale, ainsi que pour l'embaumement des cadavres humains, la
-destruction des mauvaises herbes dans les allées des jardins, dans les cours et dans les terrains de sport.
+Toute publicité, sous quelque forme que ce soit, concernant une substance ou une préparation mentionnée à l'article R. 5152
+doit comporter la mention : "Dangereux. - Respecter les précautions d'emploi".
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R5132-57 (M)
   - Code de la santé publique - art. R5132-57 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5152 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5161
 
-Les substances visées au présent paragraphe ne peuvent être délivrées en nature, lorsqu'elles sont destinées à la confection
-d'appâts empoisonnés pour la destruction des insectes et des animaux nuisibles [*interdiction*]. Elles doivent être mélangées
-à dix fois au moins leur poids de substances inertes et insolubles, puis additionnées d'une matière colorante intense rouge,
-noire, verte ou bleue.
-
-Par dérogation à l'article R. 5151 la délivrance au public de ces mélanges est interdite à quiconque n'est pas habilité à
-exercer la pharmacie.
+Pour des raisons d'hygiène et de santé publique, la mise sur le marché, la publicité et l'emploi des substances ou
+préparations mentionnées à l'article R. 5152 peuvent faire l'objet de mesures d'interdiction ou de restriction ou de
+prescriptions particulières définies après avis du Conseil supérieur d'hygiène publique de France, par arrêté pris par le
+ministre chargé de la santé et, selon le cas, les ministres chargés de l'industrie, de l'agriculture ou des douanes
+[*autorités compétentes*].
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -50828,26 +50860,40 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code de la santé publique - art. R5151 (M)
+  - Code de la santé publique - art. R5152 (M)
 
 _Cité par_:
 
   - Code de la santé publique - art. R5154 bis (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
 
 ###### Article R5162
 
-La vente de la picrotoxine, de la coque du Levant et de leurs préparations est interdite pour tout usage autre que celui de
-la médecine.
+Quiconque détient une ou plusieurs substances ou préparations dangereuses classées comme très toxiques, toxiques,
+cancérogènes, tératogènes ou mutagènes, soit en vue de leur mise sur le marché, soit en vue de leur emploi, doit
+[*obligation*] les placer dans des armoires fermées à clef ou dans des locaux où n'ont pas librement accès les personnes
+étrangères à l'établissement. En aucun cas, il ne doit être introduit dans les armoires et locaux des produits destinés à
+l'alimentation de l'homme ou des animaux.
 
-En conséquence, la délivrance au public de ces produits est interdite à quiconque n'est pas habilité à exercer la pharmacie.
+Dans ces armoires ou locaux, les substances ou préparations mentionnées au premier alinéa doivent être détenues séparément de
+toutes autres substances ou préparations, notamment de celles relevant des autres catégories fixées à l'article R. 5152 et
+des autres produits destinés à l'alimentation de l'homme ou des animaux.
+
+Lorsque le détenteur exerce le commerce des produits destinés à l'alimentation humaine ou animale, aucune communication
+intérieure directe ne doit exister entre l'établissement et ses dépendances où s'exerce ledit commerce et les locaux où sont
+détenues les substances et préparations très toxiques ou toxiques. Cette obligation ne s'applique pas aux pharmaciens
+d'officine.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -50857,23 +50903,39 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-66 (V)
 
+_Cite_:
+
+  - Code de la santé publique - art. R5152 (M)
+
 _Cité par_:
 
   - Code de la santé publique - art. R5163 (Ab)
   - Code de la santé publique - art. R5164 (Ab)
 
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
 
 ###### Article R5163
 
-L'addition de radio-éléments ou de produits en contenant aux aliments ainsi qu'aux produits d'hygiène et de beauté visés à
-l'article R. 5145 est interdite.
+La cession à titre gratuit ou onéreux de substances ou préparations mentionnées à l'article R. 5162 ne peut être faite qu'au
+profit d'une personne physique ou morale connue du cédant ou justifiant de son identité. Elle n'a lieu que contre remise au
+cédant d'un reçu ou d'une commande mentionnant le nom des substances ou préparations, leur quantité, le nom et l'adresse de
+l'acquéreur [*conditions de forme*].
+
+Si la profession de l'acheteur n'implique pas l'emploi des substances ou préparations demandées, le reçu ou la commande doit
+mentionner l'usage auquel ces substances ou préparations sont destinées. Le reçu ou la commande doit être conservé pendant
+trois ans [*durée*] par le vendeur pour être présenté à toute réquisition de l'autorité compétente.
+
+Est interdite toute cession desdites substances ou préparations à une personne âgée de moins de dix-huit ans [*âge limite*].
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -50884,211 +50946,100 @@ _Cité par_:
   - Décret n°90-740 du 14 août 1990 - art. 1 (V)
   - Code de la santé publique - art. R5169 (Ab)
 
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R5132-58 (M)
   - Code de la santé publique - art. R5132-58 (V)
 
 _Cite_:
 
-  - Code de la santé publique - art. R5145 (M)
+  - Code de la santé publique - art. R5162 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5164
 
-Il n'est point dérogé aux dispositions du décret du 19 juillet 1895, pris en exécution de la loi du 16 avril précédent, sur
-la vente du phosphore.
+Toute cession des substances ou préparations mentionnées à l'article R. 5162 à titre gratuit ou onéreux doit être enregistrée
+selon un procédé agréé par arrêté des ministres chargés de la santé, de l'agriculture, de l'industrie et de la consommation
+et permettant un contrôle par les autorités compétentes des opérations effectuées. Ces enregistrements indiquent le nom et la
+quantité des substances ou préparations cédées, la date de leur cession, les nom, profession et adresse de l'acquéreur. 
+
+A chacune de ces cessions est attribué un numéro d'ordre qui peut s'appliquer à toutes les substances ou préparations d'une
+même livraison. Ce numéro est inscrit, ainsi que le nom et l'adresse du vendeur, sur l'emballage du produit considéré. 
+
+Par dérogation aux dispositions du premier alinéa, les cessions peuvent ne pas faire l'objet d'un enregistrement, dès lors
+que les factures commerciales permettent de retrouver trace de la cession avec ses références. 
+
+L'enregistrement ou les factures sont conservés pendant dix ans   pour être présentés à toute réquisition des autorités
+compétentes.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-59 (M)
+  - Code de la santé publique - art. R5132-59 (V)
 
 _Cite_:
 
-  - Décret n°1895-07-19
-  - Loi n°1895-04-16
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-59 (V)
-
-
-##### PARAGRAPHE 1 : GENERALITES.<a id=391></a>
-
-###### Article R5150
-
-Les dispositions de la présente section sont applicables aux substances inscrites nommément aux tableaux A, B et C (section
-I) et aux préparations qui les contiennent.
-
-Les préparations sont soumises au même régime que les substances qu'elles contiennent, à l'exception des préparations
-nommément inscrites à un autre tableau et des préparations qui, en raison de leur concentration ou de leur faible volume,
-sont nommément exclues des tableaux des substances vénéneuses (section I).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Code de la santé publique - art. R5162 (M)
 
 **Liens**:
 
-  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 3 (V)
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-43 (V)
-
-
-##### PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C).<a id=392></a>
-
-###### Article R5167
-
-Quiconque détient, en vue de la vente, des substances inscrites au tableau C (section I) est tenu de les placer dans ses
-magasins de manière qu'elles soient séparées des substances non dangereuses, et notamment des produits destinés à
-l'alimentation de l'homme ou des animaux.
-
-Il est interdit de détenir en vue de la vente, de vendre, de livrer, d'expédier ou de faire circuler ces substances autrement
-que dans des enveloppes ou récipients portant inscrit le nom desdites substances, tel qu'il figure au tableau C (section I).
-
-Cette inscription doit être faite en caractères noirs très apparents, sur une étiquette verte [*couleur*] comportant le nom
-et l'adresse du vendeur, et fixée de telle sorte qu'elle ne puisse pas être involontairement détachée.
-
-L'inscription ci-dessus visée doit être accompagnée de la mention "dangereux" en caractères noirs très apparents sur une
-bande de couleur verte faisant le tour de l'enveloppe ou du récipient.
-
-Un arrêté pris conjointement par le ministre de l'industrie, le ministre de l'agriculture et le ministre de la santé publique
-et de la population détermine les conditions auxquelles devront satisfaire, par dérogation aux prescriptions de l'alinéa
-précédent, les enveloppes ou les récipients qui, en raison de leur nature ou de leurs dimensions, ne se prêtent pas à
-l'apposition de bandes.
-
-Les fûts, vases ou autres récipients ainsi que les enveloppes ayant servi à contenir ces substances ne doivent en aucun cas
-être employés à recevoir des produits destinés à l'alimentation de l'homme ou des animaux.
-
-Il est interdit d'employer pour la vente ou le transport de ces substances les bouteilles dites canettes de bière, les
-flacons portant inscrit dans la pâte le nom d'un liquide alimentaire ou médicamenteux, les fûts, vases et autres récipients
-portant encore des étiquettes de produits alimentaires, boissons quelconques ou médicaments.
-
-Lorsqu'elles sont destinées à la destruction des parasites et animaux nuisibles à l'agriculture, par badigeonnages,
-pulvérisations, fumigations, poudrages, appâts et autres procédés, les substances du tableau C en nature et les préparations
-qui en contiennent doivent être mélangées, sauf en cas d'incompatibilité, à des matières odorantes et colorantes ou à l'une
-d'elles seulement, suivant des formules établies par des arrêtés du ministre de l'agriculture, qui pourront fixer les
-conditions d'emploi et de délivrance en ce qui concerne les concentrations.
-
-L'addition de matières colorantes et odorantes ou de matières de l'une de ces deux catégories seulement peut être imposée
-pour tous autres usages par arrêté du ministre de la santé publique et de la population, pris après avis du conseil supérieur
-d'hygiène publique de France, et déterminant pour chaque produit la quantité de la ou des matières à ajouter.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Arrêté du 13 avril 1962 - art. 2 (V)
-  - Arrêté du 26 avril 1988 - art. 2 (V)
-  - Code de la santé publique - art. R5168 (Ab)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-62 (M)
-  - Code de la santé publique - art. R5132-63 (V)
-
-
-##### PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*.<a id=393></a>
-
-###### Article R5168
-
-L'emploi et le commerce des substances inscrites aux tableaux A et C peuvent être l'objet de mesures d'interdiction et de
-prescriptions particulières pour des raisons d'hygiène et de santé publique, par arrêté pris conjointement par le ministre de
-la Santé publique et de la Population et les ministres intéressés après avis du conseil supérieur d'hygiène publique de
-France.
-
-**Nota:**
-
-[*Nota : Arrêté du 8 juillet 1975 : POLYCHLOROBIPHENYLES. Arrêté du 17 février 1976 : CHLORURE DE VINYLE. Arrêté du 6
-novembre 1978 :
-
-SELS DE PLOMB.*]
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1975-07-08
-  - TXT_ASSOCIE: Arrêté 1976-02-17
-  - TXT_ASSOCIE: Arrêté 1978-11-06
-  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 3 (V)
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-64 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5169 (Ab)
-
-
-##### PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B).<a id=394></a>
 
 ###### Article R5165
 
-Sont interdits, à moins d'autorisation, la production, la transformation, l'extraction, la préparation, la détention,
-l'offre, la distribution, le courtage, l'achat, la vente, l'importation, l'exportation des substances inscrites au tableau B
-et, d'une manière générale, toutes opérations agricoles, industrielles et commerciales, relatives à ces substances.
+Il est interdit de délivrer en nature les substances mentionnées à l'article R. 5152 lorsqu'elles sont destinées à la
+destruction des parasites nuisibles à l'agriculture. Elles doivent être mélangées à des matières odorantes et colorantes
+suivant les formules agréées par les ministres chargés de l'agriculture et de la consommation [*autorités compétentes*] qui
+peuvent fixer, par arrêté, la concentration de la ou desdites substances dangereuses et les conditions de délivrance des
+préparations obtenues.
 
-En cas d'autorisation, ces opérations sont réglementées par les dispositions contenues à la section III, paragraphe 4, du
-présent chapitre.
+Par dérogation aux prescriptions de l'alinéa qui précède, lesdites substances peuvent être délivrées en nature, en vue
+d'expériences scientifiques, sur autorisation spéciale des ministres chargés de l'agriculture, de la santé et de la
+consommation qui précise sa durée de validité. Cette autorisation doit être présentée à l'appui de toute acquisition desdites
+substances.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la santé publique - art. L355-14 (Ab)
-  - TXT_ASSOCIE: Code de la santé publique L355-14, L627 et s.
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-60 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5152 (M)
 
 _Cité par_:
 
@@ -51096,28 +51047,33 @@ _Cité par_:
   - Code de la santé publique - art. R5195 (M)
   - Code de la santé publique - art. R5229 (Ab)
 
-_Cite_:
+**Liens**:
 
-  - Code de la santé publique R5189 à R5211
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5166
 
-Sont interdits l'importation, l'exportation, la production, le commerce, l'utilisation et la détention du chanvre indien et
-des préparations en contenant ou fabriquées à partir du chanvre indien.
+Sont interdits la délivrance et l'emploi, lorsqu'ils sont classés comme très toxiques, toxiques, cancérogènes, tératogènes ou
+mutagènes [*liste*]:
 
-On entend par "chanvre indien" [*définition*], pour l'application du présent code, les sommités florifères et fructifères de
-la plante femelle du Cannabis sativa (urticacées-cannabinées), variété dite indienne.
+1° Des composés arsenicaux pour la destruction des mouches et celle des parasites nuisibles à l'agriculture, exception faite
+des composés arsenicaux solubles destinés aux traitements d'hiver de la vigne et du diméthylarsinate de sodium (cacodylate de
+sodium) utilisé comme formicide ;
 
-Des dérogations aux dispositions du premier alinéa du présent article pourront être accordées aux fins de recherches
-scientifiques par le ministre de la Santé publique et de la Population.
+2° De l'arsenic, du plomb, du mercure et de leurs composés en vue de désinfecter les produits récoltés destinés à la
+consommation par l'homme et les animaux, d'embaumer les cadavres et de détruire les mauvaises herbes dans les allées des
+jardins, les cours et les terrains de sport ;
+
+3° De la picrotoxine et de la coque du levant pour tout autre usage que celui de la médecine : en conséquence, la délivrance
+de ces substances au public est interdite à quiconque n'est pas pharmacien titulaire d'une officine.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -51132,117 +51088,220 @@ _Cité par_:
   - Code de la santé publique - art. R5190 (M)
   - Code de la santé publique - art. R5229 (Ab)
 
+**Liens**:
 
-###### Article R5166-1
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
-Le kat est classé comme stupéfiant.
 
-Sont interdits : l'importation, l'exportation, la production, la détention, le commerce et l'utilisation du kat et des
-préparations en contenant ou préparées à partir du kat.
+###### Article R5167
 
-On entend par "kat" [*définition*], pour l'application du présent code, les feuilles de l'arbuste Catha edulis (Celastruis
-edulis), famille des célastracées.
+L'emploi des produits antiparasitaires à usage agricole ou de produits assimilés au sens de la loi n° 72-1139 du 22 décembre
+1972 contenant des substances ou préparations classées comme très toxiques, toxiques, cancérogènes, tératogènes ou mutagènes,
+est interdit dans toutes les cultures et récoltes pour lesquelles leur emploi n'a pas été autorisé par arrêté des ministres
+chargés de la santé, de l'agriculture, de la consommation et de l'environnement [*autorités compétentes*]. Cet arrêté fixe,
+pour chaque substance ou préparation, les conditions limitatives d'emploi, notamment en ce qui concerne les régions, les
+cultures, les parasites concernés, les époques et modalités de traitement et les personnes habilitées à effectuer ceux-ci.
+
+L'emploi de produits antiparasitaires à usage agricole ou de produits assimilés contenant des substances nocives, corrosives
+ou irritantes peut faire l'objet de conditions limitatives fixées par arrêté des ministres chargés de la santé, de
+l'agriculture, de la consommation et de l'environnement.
+
+Lorsqu'elles sont destinées à la confection d'appâts empoisonnés pour la destruction des insectes et animaux nuisibles, les
+substances ou préparations très toxiques, toxiques, cancérogènes, tératogènes ou mutagènes ne peuvent pas être délivrées en
+nature. Elles doivent être mélangées à dix fois au moins [*proportion*] de leur poids de substances inertes et insolubles
+puis additionnées d'une matière colorante intense rouge, noire, verte ou bleue.
+
+La délivrance au public de ces mélanges est interdite à quiconque n'est pas pharmacien titulaire d'une officine
+[*compétence*]. En outre, dans le cas de luttes collectives contre les insectes et animaux nuisibles, un arrêté des ministres
+chargés de la santé et de l'agriculture peut exiger que leur préparation et leur utilisation doivent être faites sous le
+contrôle d'un pharmacien.
+
+**Nota:**
+
+[*Nota : code de la santé publique R5168 : dérogations aux prescriptions de l'article R5167.*]
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Cité par_:
 
-  - Code de la santé publique - art. R5229 (Ab)
+  - Arrêté du 13 avril 1962 - art. 2 (V)
+  - Arrêté du 26 avril 1988 - art. 2 (V)
+  - Code de la santé publique - art. R5168 (Ab)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°57-429 1957-04-02 ART. 1 JORF 5 avril
+  - Loi n°72-1139 1972-12-22
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
+_Abrogé par_:
 
-##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE<a id=395></a>
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
-##### PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*.<a id=396></a>
+_Nouveaux textes_:
 
-###### Article R5169
+  - Code de la santé publique - art. R5132-62 (M)
+  - Code de la santé publique - art. R5132-63 (M)
+  - Code de la santé publique - art. R5132-63 (V)
 
-Les dispositions de la présente section sont applicables aux substances inscrites nommément aux tableaux A, B et C (section
-II) et aux préparations qui les contiennent, destinées à la médecine humaine et vétérinaire.
+**Liens**:
 
-Ces substances sont soumises à des régimes distincts selon leur classement dans les tableaux A, B et C.
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
-Les préparations sont soumises au même régime que les substances qu'elles contiennent, à l'exception des préparations
-nommément inscrites à un autre tableau et des préparations visées à l'article suivant.
+
+###### Article R5168
+
+En vue de faciliter, en cas de diffusion de la rage par les animaux sauvages, la destruction de ces animaux, des substances
+classées comme très toxiques ou toxiques ou des préparations qui en contiennent peuvent être délivrées sous des formes et
+dans des conditions qui dérogent aux prescriptions de l'article R. 5154 et du troisième alinéa de l'article R. 5167.
+
+Sur les ampoules, boîtes, sachets et autres récipients contenant ces substances ou préparations doit être inscrite en
+caractères indélébiles, outre le nom de la substance très toxique qu'ils contiennent, la mention "POISON pour la destruction
+des animaux sauvages, mortel pour l'homme" [*conditions de forme*].
+
+Les emballages extérieurs de ces produits doivent porter les mêmes inscriptions et, le cas échéant, signaler le danger des
+émanations.
+
+Ils doivent, en outre, porter les indications suivantes :
+
+1° Quantités de substance active contenue dans chaque ampoule ou autre récipient ;
+
+2° Antidote à utiliser en cas d'intoxication de l'homme, ainsi que sa posologie et son mode d'administration ;
+
+3° Nom et adresse du fabricant ou de l'importateur ;
+
+4° Numéro du lot de fabrication ou d'importation.
+
+Les ampoules, boîtes, sachets et autres récipients contenant ces substances ou préparations très toxiques ou toxiques doivent
+être fermés hermétiquement et leurs emballages doivent être assez résistants pour permettre leur transport sans danger.
+
+Un arrêté des ministres chargés de la santé et de l'agriculture précise les conditions auxquelles doivent satisfaire les
+récipients et les emballages, compte tenu de leur nature et de leurs dimensions.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 3 (V)
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R5132-64 (M)
+  - Code de la santé publique - art. R5132-64 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5154 (M)
+  - Code de la santé publique - art. R5167 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5169 (Ab)
+
+
+###### Article R5169
+
+Un arrêté des ministres chargés de la santé et de l'agriculture, pris après avis du Conseil supérieur d'hygiène publique de
+France [*autorités compétentes*], désigne les substances très toxiques ou toxiques auxquelles peuvent s'appliquer les
+dérogations prévues à l'article R. 5168 et définit les zones géographiques et les périodes dans lesquelles ces substances
+peuvent être utilisées. Cet arrêté précise, en outre, les conditions d'utilisation de ces substances et préparations ; il
+désigne, notamment, d'une part, les personnes auxquelles, en plus des pharmaciens titulaires d'une officine, les ampoules et
+sachets contenant ces substances peuvent être délivrés par le fabricant ou l'importateur dans les conditions prévues à
+l'article R. 5163 et, d'autre part, les services chargés de contrôler l'emploi de ces produits.
+
+Les pharmaciens et les autres personnes habilitées, mentionnées à l'alinéa précédent, ne peuvent céder ces produits qu'à des
+personnes appelées à concourir à la destruction des animaux propageant la rage, désignées par arrêté du préfet et dans des
+conditions prévues à l'article R. 5163.
+
+Lorsqu'une des substances très toxiques ou toxiques est contenue dans des ampoules de verre destinées à être introduites dans
+les appâts, les personnes chargées de les employer doivent, dans le délai fixé, compte tenu des conditions locales, par
+l'arrêté prévu au premier alinéa, procéder au ramassage des ampoules contenues dans les appâts qui n'auraient pas été gobés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-65 (M)
   - Code de la santé publique - art. R5132-65 (V)
 
 _Cite_:
 
-  - Code de la santé publique - art. R5170 (M)
+  - Code de la santé publique - art. R5163 (M)
+  - Code de la santé publique - art. R5168 (M)
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5170
 
-a) Médecine humaine.
+Quiconque détient une ou plusieurs substances ou préparations dangereuses classées comme nocives, corrosives ou irritantes en
+vue de leur mise sur le marché ou de leur emploi doit [*obligation*] les conserver de manière à les séparer de toutes autres
+substances ou préparations.
 
-Les dispositions de la présente section, à l'exception de celles des articles R. 5190, R. 5195 et des alinéas 3 et 4 de
-l'article R. 5210, ne sont pas applicables aux préparations médicamenteuses destinées à la médecine humaine renfermant des
-substances vénéneuses à des doses et concentrations trop faibles pour que ces préparations puissent être soumises à la
-présente réglementation.
-
-La forme de ces préparations, les doses et les concentrations sont fixées par arrêtés du ministre de la Santé publique et de
-la Population, pris sur l'avis de l'Académie de pharmacie.
-
-b) Médecine vétérinaire.
-
-Les dispositions de la présente section, à l'exception de celles des articles R. 5171, R. 5181, R. 5187, R. 5190, R. 5195, R.
-5204 et des alinéas 3 et 4 de l'article R. 5210, ne sont pas applicables aux préparations médicamenteuses destinées à la
-médecine vétérinaire renfermant des substances vénéneuses à des doses et concentrations fixées par arrêté pris conjointement
-par le ministre de l'Agriculture et le ministre de la Santé publique et de la Population, après avis d'une commission nommée
-dans les mêmes formes.
+Lesdites substances, lorsqu'elles sont destinées à la destruction des parasites et animaux nuisibles à l'agriculture, ne
+peuvent être délivrées en nature ; elles doivent être mélangées, sauf en cas d'incompatibilité, à des matières odorantes et
+colorantes ou à l'une d'elles seulement suivant des modalités prévues par les ministres chargés de l'agriculture et de la
+consommation qui peuvent fixer, par arrêté, la concentration de la ou desdites substances dangereuses et les conditions de
+délivrance des préparations obtenues.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1949-07-20 : DOSES ET CONCENTRATIONS DES PREPARATIONS DESTINEES A LA MEDECINE VETERINAIRE
-  - TXT_ASSOCIE: Arrêté 1957-01-22 : FORME, DOSES ET CONCENTRATIONS DES PREPARATIONS DESTINEES A LA MEDECINE HUMAINE
-  - SPEC_APPLI: Code de la santé publique - art. R5172 (M)
-  - SPEC_APPLI: Code de la santé publique - art. R5197 (M)
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R5132-67 (M)
   - Code de la santé publique - art. R5132-67 (V)
+  - Code de la santé publique - art. R5132-68 (M)
   - Code de la santé publique - art. R5132-68 (V)
 
 _Cité par_:
@@ -51252,38 +51311,46 @@ _Cité par_:
   - Code de la santé publique - art. R5201 (M)
   - Code de la santé publique - art. R5205 (M)
 
-_Cite_:
+**Liens**:
 
-  - Code de la santé publique - art. R5171 (M)
-  - Code de la santé publique - art. R5181 (M)
-  - Code de la santé publique - art. R5187 (M)
-  - Code de la santé publique - art. R5190 (M)
-  - Code de la santé publique - art. R5195 (M)
-  - Code de la santé publique - art. R5204 (M)
-  - Code de la santé publique - art. R5210 (M)
+  - SPEC_APPLI: Code de la santé publique - art. R5172 (M)
+  - SPEC_APPLI: Code de la santé publique - art. R5197 (M)
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
+
+##### 3 : Substances stupéfiantes.<a id=390></a>
 
 ###### Article R5171
 
-Les substances vénéneuses visées à la présente section et les préparations qui les contiennent ne peuvent être délivrées sous
-une forme quelconque :
+Sont interdits, à moins d'autorisation expresse, la production, la mise sur le marché et l'emploi des substances ou
+préparations classées comme stupéfiants et, d'une manière générale, toutes opérations agricoles, artisanales, commerciales et
+industrielles relatives à ces substances ou préparations.
 
-1° Pour l'usage de la médecine humaine, que par les pharmaciens ou par les médecins légalement autorisés à fournir des
-médicaments à leurs clients [*autorités compétentes*] ;
+L'autorisation est donnée par le ministre chargé de la santé [*autorités compétentes*].
 
-2° Pour l'usage de la médecine vétérinaire, que par les pharmaciens et par les docteurs vétérinaires ainsi que, dans les
-conditions définies au deuxième alinéa de l'article L. 612, par les groupements agréés.
+Par dérogation aux dispositions du premier alinéa, tiennent lieu d'autorisation, pour le seul usage professionnel :
+
+1° L'enregistrement à la préfecture prévu à l'article L. 574 ;
+
+2° L'autorisation du préfet délivrée en application de l'article L. 577 ;
+
+3° L'inscription au Conseil supérieur de l'ordre des vétérinaires pour les docteurs vétérinaires ;
+
+4° La faculté accordée par l'article L. 610 aux chefs des services de pharmacie et toxicologie des écoles nationales
+vétérinaires.
+
+Toute modification de l'un des éléments mentionnés dans la demande rend caduque l'autorisation précédemment donnée. Le
+titulaire doit en informer le ministre et lui faire retour du document attestant l'autorisation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
-  - Décret n°77-635 1977-06-10 ART. 2 JORF 23 juin 1977
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 _Cité par_:
@@ -51303,7 +51370,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la santé publique - art. L612 (M)
+  - Code de la santé publique - art. L574 (Ab)
+  - Code de la santé publique - art. L577 (Ab)
+  - Code de la santé publique - art. L610 (M)
 
 _Nouveaux textes_:
 
@@ -51313,35 +51382,28 @@ _Nouveaux textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5182 : champ d'application du paragraphe 3
 
 
 ###### Article R5172
 
-Les médecins, les vétérinaires et, dans le cadre de l'article L. 368 du code de la santé publique, les chirurgiens-dentistes
-peuvent se faire délivrer sur demandes rédigées, conformément aux dispositions des articles R. 5179, R. 5185 et R. 5201, les
-substances visées à la présente section et destinées à être employées par eux soit dans les cas d'urgence, soit pour des
-opérations ou des pansements.
+L'autorisation mentionnée à l'article précédent ne peut être accordée qu'à une personne physique. Elle indique [*contenu*]
+les substances et les préparations dont la production, le transport, l'importation, l'exportation, la détention, l'offre, la
+cession, l'acquisition ou l'emploi est autorisé.
 
-Ces médicaments doivent être employés par les praticiens eux-mêmes : il leur est interdit de les céder à leurs clients à
-titre onéreux ou gratuit.
+Elle peut être assortie de conditions particulières en ce qui concerne la détention des substances stupéfiantes et le
+contrôle de leur extraction, de leur fabrication et de leur transformation.
 
-Ces substances ne peuvent être délivrées que sous la forme pharmaceutique compatible avec leur emploi médical, et doivent
-être détenues dans les conditions fixées par le présent code.
+Elle fixe la quantité de stupéfiants qui peut être cédée ou remise lorsqu'elle est accordée à des fins de recherche ou
+d'enseignement.
 
-Un arrêté du ministre de la santé énumère les substances vénéneuses que les pharmaciens peuvent délivrer aux sages-femmes
-pour leur usage professionnel et fixe les conditions de délivrance et d'utilisation de ces substances.
-
-**Nota:**
-
-[*NOTA : Code de la santé publique R5170 : Non application aux préparations médicamenteuses destinées a la médecine humaine
-et vétérinaire renfermant des substances vénéneuses à des doses fixées par arrêté.*]
+Elle ne peut être donnée et elle est retirée d'office à quiconque aura été condamné pour infraction aux dispositions de la
+présente section ou pour usage illicite de stupéfiants.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°86-314 1986-03-03 art. 1 JORF 7 mars 1986
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 **Liens**:
@@ -51354,17 +51416,20 @@ _Modifié par_:
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
-  - SPEC_APPLI: Code de la santé publique - art. R5170 (M)
+  - SPEC_APPLI: Code de la santé publique R5182 : champ d'application du paragraphe 3
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la santé publique - art. L368 (M)
-  - Code de la santé publique - art. R5179 (M)
-  - Code de la santé publique - art. R5201 (M)
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R5132-77 (M)
   - Code de la santé publique - art. R5132-77 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5171 (M)
 
 _Cité par_:
 
@@ -51375,19 +51440,21 @@ _Cité par_:
 
 ###### Article R5173
 
-Les pharmaciens ne peuvent délivrer les substances vénéneuses et les préparations qui les contiennent que sur la prescription
-[*condition*]:
+Il est interdit d'importer ou d'exporter des stupéfiants, de les mettre en entrepôt ou de les en sortir, de les transporter
+en transit, de les constituer en magasin ou aire de dédouanement ou de les placer sous tout autre régime douanier sans
+autorisation spéciale délivrée pour chaque opération par le ministre chargé de la santé [*autorité compétente*].
 
-- d'un médecin ; - d'un directeur de laboratoire d'analyses de biologie médicale, pour les prescriptions faites dans les
-conditions fixées par le troisième alinéa de l'article L. 761 ; - d'un chirurgien-dentiste dans le cadre de l'article L. 368
-du code de la santé publique ; - d'un vétérinaire ; - d'une sage-femme, dans les limites de la liste mentionnée à l'article
-L. 370.
+L'autorisation mentionne la dénomination et la quantité du produit faisant l'objet de l'opération, la nature et la quantité
+de substance stupéfiante qu'il renferme, les nom et adresse de l'expéditeur et du destinataire, le mode de transport, le
+point de passage en douane et, s'il y a lieu, le transitaire en douane.
+
+Les documents attestant les autorisations délivrées en application du présent article sont conservés pendant trois ans
+[*durée*] pour être présentés à toute réquisition des autorités compétentes.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°85-958 1985-09-10 art. 2 JORF 12 septembre 1985
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 **Liens**:
@@ -51400,7 +51467,7 @@ _Modifié par_:
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
-  - SPEC_APPLI: Code de la santé publique R5170 : Non application aux préparations médicamenteuses destinées à la médecine humaine et vétérinaire renfermant des substances vénéneuses à des doses fixées par arrêté
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 _Cité par_:
 
@@ -51410,11 +51477,6 @@ _Cité par_:
   - Code de la santé publique - art. R5172 (M)
   - Code de la santé publique - art. R5209 (Ab)
 
-_Cite_:
-
-  - Code de la santé publique - art. L368 (M)
-  - Code de la santé publique L368, L. 370, L761 al 3
-
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-78 (V)
@@ -51422,23 +51484,46 @@ _Nouveaux textes_:
 
 ###### Article R5174
 
-Les médecins et vétérinaires autorisés à délivrer des médicaments sont soumis aux obligations imposées aux pharmaciens par la
-présente section.
+Les récipients ou emballages renfermant des stupéfiants et servant à leur importation, à leur transport ou à leur détention
+sont revêtus d'une étiquette [*conditions de forme*], de format adapté à leur volume, apposée de manière à ne pouvoir être
+involontairement détachée.
 
-Toutefois les dispositions de l'article R. 5177 [*relatives aux ordonnances*] ne sont pas applicables aux docteurs
-vétérinaires lorsqu'ils délivrent, dans les conditions prévues au dernier alinéa de l'article R. 5146-52, des médicaments
-relevant des tableaux A et C des substances vénéneuses.
+Cette étiquette porte [*mentions obligatoires*], en caractères noirs indélébiles et lisibles, les indications suivantes :
+
+1° Pour une substance : la dénomination commune internationale recommandée par l'Organisation mondiale de la santé, chaque
+fois qu'elle existe, ou, dans le cas contraire, celle de la pharmacopée européenne ou française ou, à défaut, la dénomination
+scientifique ;
+
+2° Pour une préparation : sa dénomination commerciale, s'il y a lieu, accompagnée du nom de la ou des substances stupéfiantes
+qu'elle renferme exprimée comme ci-dessus ;
+
+3° Le poids brut et net ;
+
+4° Le nom et l'adresse du fabricant ou du distributeur ou de l'importateur ;
+
+5° Une tête de mort à tibias croisés sur un fond carré de couleur orangé jaune et de dimensions suffisantes ; ce carré est
+placé à l'angle supérieur gauche de l'étiquette ;
+
+6° Un numéro de référence pour chaque récipient ou emballage.
+
+Toutefois, en cas de transport, les emballages extérieurs des colis ne doivent comporter aucune autre indication que le nom
+et l'adresse de l'expéditeur et du destinataire. Les colis sont cachetés ou scellés à la marque de l'expéditeur.
+
+**Nota:**
+
+[*Nota : Code de la santé publique R5188 : les dispositions de l'article R5174 sont applicables aux récipients ou emballages
+renfermant des substances psychotropes ou leurs préparations, à l'exclusion de celle qui est relative au numéro de
+référence.*]
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
-  - Décret n°77-635 1977-06-10 ART. 3 JORF 23 juin 1977
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 _Cité par_:
@@ -51453,30 +51538,24 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-79 (V)
 
-_Cite_:
-
-  - Code de la santé publique - art. R5146-52 (M)
-  - Code de la santé publique - art. R5177 (M)
-
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5175
 
-Il est interdit d'employer pour la détention, la vente, ou le transport de ces substances et des préparations qui les
-contiennent, des récipients habituellement utilisés pour contenir des aliments destinés aux humains et aux animaux.
+Un arrêté du ministre chargé de la santé [*autorité compétente*] détermine les modalités matérielles de détention des
+substances et préparations classées comme stupéfiants.
 
-Les récipients ayant contenu lesdites substances ne peuvent plus être utilisés pour l'alimentation des humains et des
-animaux, ni pour la délivrance de médicaments destinés à être absorbés.
+Tout vol ou détournement est signalé sans délai aux autorités de police et à l'inspection régionale de la pharmacie.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -51493,38 +51572,34 @@ _Nouveaux textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5176
 
-Les établissements visés à l'article L. 577 sont soumis aux dispositions de la présente section, lorsqu'ils ont un
-pharmacien-gérant.
+Toute acquisition ou toute cession de stupéfiants, à l'exclusion de celles destinées à des fins de recherche et
+d'enseignement, est soumise à l'utilisation du carnet de commande mentionné à l'article R. 5210. 
 
-Ceux de ces établissements qui n'ont pas de pharmacien-gérant ne peuvent détenir ces substances, ni les préparations qui les
-contiennent ; toutefois, ils sont autorisés à détenir dans une armoire fermée à clef des préparations comportant des
-substances vénéneuses pour soins urgents à condition qu'un médecin accepte la responsabilité de ce dépôt.
+Elle est inscrite sur un registre spécial coté et paraphé par le maire ou le commissaire de police    . L'autorité qui vise
+ce registre se fait présenter l'autorisation délivrée en application de l'article R. 5171. La date et le numéro de cette
+autorisation sont mentionnés à la première page du registre. L'inscription de chaque opération sur le registre reçoit un
+numéro d'ordre qui peut s'appliquer à tous les produits ayant fait l'objet d'une livraison unique. Elle doit être faite au
+moment de l'opération sans blanc, ni rature, ni surcharge. Elle indique les nom, profession et adresse soit du cessionnaire,
+soit du cédant, la quantité du produit acquis ou cédé, sa dénomination ou sa composition et le numéro de référence prévu à
+l'article R. 5174. 
 
-Le contenu maximum de cette armoire d'urgence est fixé qualitativement et quantitativement par le directeur départemental de
-la santé, après avis du conseil départemental de l'Ordre des médecins.
+Lorsque l'exploitation est poursuivie sous le couvert d'une nouvelle autorisation, la date et le numéro de celle-ci sont
+mentionnés sur le registre prévu à l'alinéa précédent. 
 
-Le réapprovisionnement de ces armoires est effectué sur ordonnances rédigées, conformément aux dispositions des articles R.
-5179, R. 5185 et R. 5201 au moment de l'utilisation de ces médicaments.
-
-Un arrêté du ministre de la Santé publique et de la Population fixe les conditions dans lesquelles les préparations
-renfermant des substances vénéneuses sont délivrées dans les établissements hospitaliers.
+Dans le cas de cessions successives d'un produit sous un emballage revêtu d'un cachet d'origine, le numéro de référence porté
+sur l'étiquette d'origine doit être conservé.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1949-01-18 : DELIVRANCE DE CES SUBSTANCES AUX ETABLISSEMENTS HOSPITALIERS
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -51537,45 +51612,57 @@ _Cité par_:
   - Code de la santé publique - art. R5209 (Ab)
   - Code de la santé publique - art. R5210 (Ab)
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la santé publique - art. L577 (Ab)
-  - Code de la santé publique - art. R5179 (M)
-  - Code de la santé publique - art. R5185 (M)
-  - Code de la santé publique - art. R5201 (M)
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R5132-81 (M)
   - Code de la santé publique - art. R5132-81 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5171 (M)
+  - Code de la santé publique - art. R5174 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5182 : champ d'application du paragraphe 3
 
 
 ###### Article R5177
 
-Les praticiens habilités à exécuter les ordonnances prescrivant ces substances et les préparations qui les contiennent,
-doivent transcrire de suite lesdites ordonnances sur un livre-registre d'ordonnances coté et paraphé par le maire ou par le
-commissaire de police, sans blanc, rature ni surcharge [*obligation*].
+Les personnes qui fabriquent, transforment ou divisent des stupéfiants sont tenues d'inscrire [*mentions obligatoires*], au
+moment de l'opération et à la suite, sur le registre spécial prévu à l'article R. 5176 :
 
-Ces transcriptions doivent comporter un numéro d'ordre, le nom du prescripteur, les nom et adresse du client, la date à
-laquelle le médicament a été délivré et sa composition [*mentions obligatoires*].
+1° Les opérations effectuées ;
 
-Les pharmaciens sont autorisés à transcrire dans les mêmes conditions, sur ledit registre, les ordonnances médicales qui ne
-comportent pas de substances vénéneuses.
+2° La nature et la quantité des stupéfiants employés ;
 
-Ce registre est conservé pendant une durée de dix années au moins.
+3° La nature et la quantité des produits obtenus ;
 
-Ces prescriptions ne sont pas applicables à la délivrance, dans les centres de planification ou d'éducation familiale agréés,
-des médicaments ou produits contraceptifs aux mineurs désirant garder le secret.
+4° La mention des pertes résultant de ces opérations.
+
+Décharge de ces pertes est donnée sur ce registre par les pharmaciens inspecteurs de la santé, si elles leur paraissent
+résulter normalement des transformations ou manipulations déclarées.
+
+Ce registre spécial doit être conservé dix ans [*durée*] à compter de la date de la dernière opération mentionnée [*point de
+départ*] pour être présenté à toute réquisition des autorités compétentes.
+
+En cas de cession du fonds ou de l'entreprise, ou s'il y a changement du titulaire de l'autorisation, l'ancien et le nouveau
+titulaire procèdent à un inventaire du stock des stupéfiants ; cet inventaire est consigné sur le registre et contresigné par
+les intéressés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
-  - Décret n°75-317 1975-05-05 art. 2 JORF 6 mai 1975
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 _Nouveaux textes_:
@@ -51587,12 +51674,497 @@ _Cité par_:
   - Code de la santé publique - art. R5174 (M)
   - Code de la santé publique - art. R5209 (Ab)
 
+_Cite_:
+
+  - Code de la santé publique - art. R5176 (M)
+
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5182 : champ d'application du paragraphe 3
 
 
-##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=397></a>
+###### Article R5179
+
+Sont interdits la production, la mise sur le marché, l'emploi et l'usage des substances suivantes, de leurs sels et des
+préparations en contenant ainsi que, d'une manière générale, tous actes commerciaux ou non relatifs à ces produits :
+
+1° Diacétylmorphine ;
+
+2° Phencyclidine ;
+
+3° Ténocyclidine, ou T.C.P. ;
+
+4° Rolicyclidine, ou P.H.P. ou P.C.P.Y. ;
+
+5° Eticyclidine, ou P.C.E.
+
+Des dérogations aux dispositions précédentes pourront être accordées par le ministre chargé de la santé [*autorité
+compétente*], aux fins de recherche, de contrôle ou de fabrication de dérivés autorisés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 10 septembre 1992
+  - TXT_SOURCE: Arrêté du 10 septembre 1992 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 10 mai 1996
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-84 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5172 (M)
+  - Code de la santé publique - art. R5176 (M)
+  - Code de la santé publique - art. R5229-3 (Ab)
+
+
+###### Article R5180
+
+Sont interdits la production, la mise sur le marché, l'emploi et l'usage du khat et des préparations contenant ou préparées à
+partir du khat.
+
+Des dérogations aux dispositions précédentes peuvent être accordées par le ministre chargé de la santé [*autorité
+compétente*], aux fins de recherche et de contrôle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-85 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5229-3 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5182 : champ d'application du paragraphe 3
+
+
+###### Article R5181
+
+Sont interdits la production, la mise sur le marché, l'emploi et l'usage :
+
+1° Du cannabis, de sa plante et de sa résine, des préparations qui en contiennent ou de celles qui sont obtenues à partir du
+cannabis, de sa plante ou de sa résine ;
+
+2° Des tétrahydrocannabinols, de leurs esters, éthers, sels ainsi que des sels des dérivés précités et de leurs préparations.
+
+Des dérogations aux dispositions énoncées ci-dessus peuvent être accordées par le ministre de la santé [*autorité
+compétente*], aux fins de recherche, de contrôle ou de fabrication de dérivés autorisés.    Cependant, le ministre chargé de
+la santé, le ministre chargé de l'agriculture et le ministre chargé de l'industrie peuvent, par arrêté conjoint, autoriser la
+culture, l'importation et l'exportation de variétés de cannabis dépourvues de propriétés stupéfiantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 22 août 1990
+  - TXT_SOURCE: Arrêté du 22 août 1990 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 22 août 1990 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 22 août 1990 - art. ANNEXE (V)
+  - TXT_SOURCE: Arrêté du 27 mai 1997
+  - SPEC_APPLI: Code de la santé publique R5182 : champ d'application du paragraphe 3
+
+_Cité par_:
+
+  - Arrêté du 22 août 1990 - art. 1 (V)
+  - Code de la santé publique - art. R5093 (M)
+  - Code de la santé publique - art. R5123 (M)
+  - Code de la santé publique - art. R5170 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-86 (V)
+
+
+###### Article R5182
+
+Les dispositions du présent paragraphe peuvent être appliquées, en totalité ou en partie, à des substances et aux
+préparations les contenant qui, bien que n'étant pas classées comme stupéfiantes, sont fabriquées à partir de stupéfiants ou
+donnent lieu à la formation de stupéfiants au cours de leur fabrication ou, en raison d'usages abusifs, peuvent nécessiter un
+contrôle à certains stades de leur commercialisation.
+
+Le ministre chargé de la santé [*autorité compétente*] fixe par arrêté, pour chacune de ces substances, les dispositions du
+présent paragraphe qui leur sont applicables.
+
+Une commission dite des stupéfiants et des psychotropes formule un avis sur toute question que lui soumet le ministre
+concernant l'application des dispositions du présent paragraphe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Cité par_:
+
+  - Arrêté du 7 août 1991 - art. 1 (V)
+  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
+  - Code de la santé publique - art. R5089-15 (Ab)
+  - Code de la santé publique - art. R5151 (M)
+  - Code de la santé publique - art. R5189 (Ab)
+  - Code de la santé publique - art. R5192 (M)
+  - Code de la santé publique - art. R5208 (M)
+  - Code de la santé publique - art. R5218-2 (Ab)
+  - Code de la santé publique - art. R5219-1 (M)
+  - Code de la santé publique - art. R5229-3 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-87 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. R5189 (M)
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+
+##### 4 : Substances psychotropes.<a id=391></a>
+
+###### Article R5183
+
+Sont interdits, à moins d'autorisation expresse, la production, la mise sur le marché et l'emploi des substances ou
+préparations classées comme psychotropes par arrêté du ministre chargé de la santé [*autorité compétente*] et, d'une manière
+générale, toutes opérations agricoles, artisanales, commerciales et industrielles relatives à ces substances ou préparations.
+
+Cette autorisation est donnée ou retirée dans les conditions prévues aux articles R. 5171 et R. 5172.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-88 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-25 (Ab)
+  - Code de la santé publique - art. R5184 (Ab)
+  - Code de la santé publique - art. R5185 (Ab)
+  - Code de la santé publique - art. R5187 (Ab)
+  - Code de la santé publique - art. R5187-1 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5171 (M)
+  - Code de la santé publique - art. R5172 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+
+###### Article R5184
+
+Par dérogation aux dispositions de l'article R. 5183, tiennent lieu d'autorisation pour le seul usage professionnel :
+
+1° L'autorisation ministérielle délivrée en application des articles L. 598 ou L. 616 ;
+
+2° L'enregistrement à la préfecture prévu à l'article L. 574 ;
+
+3° L'autorisation préfectorale délivrée en application de l'article L. 577 ;
+
+4° L'inscription au Conseil supérieur de l'ordre des vétérinaires pour les docteurs vétérinaires ;
+
+5° L'habilitation établie en faveur de l'Institut Pasteur par l'article L. 597 ;
+
+6° La faculté accordée par l'article L. 610 aux chefs de services de pharmacie et toxicologie des écoles nationales
+vétérinaires ;
+
+7° L'agrément ministériel accordé en application de l'article L. 667 ;
+
+8° L'autorisation administrative délivrée en application de l'article L. 757.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Cite_:
+
+  - Code de la santé publique - art. L574 (Ab)
+  - Code de la santé publique - art. L577 (Ab)
+  - Code de la santé publique - art. L597 (M)
+  - Code de la santé publique - art. L598 (M)
+  - Code de la santé publique - art. L610 (M)
+  - Code de la santé publique - art. L616 (M)
+  - Code de la santé publique - art. L667 (P)
+  - Code de la santé publique - art. L757 (M)
+  - Code de la santé publique - art. R5183 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-89 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+
+###### Article R5185
+
+Pour les organismes de recherche et d'enseignement, l'autorisation prévue à l'article R. 5183 est donnée par arrêté
+préfectoral.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-90 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5172 (M)
+  - Code de la santé publique - art. R5176 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5183 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+
+###### Article R5186
+
+Les personnes qui se livrent à la fabrication, à la transformation et au commerce intérieur et international des substances
+psychotropes et de leurs préparations sont tenues [*obligation*] de mentionner sur un registre ou par tout système approprié
+d'enregistrement approuvé par le ministre chargé de la santé [*autorité compétente*]:
+
+1° La nature et la quantité de substances psychotropes ou de leurs préparations employées ;
+
+2° La nature et la quantité du ou des produits obtenus ;
+
+3° La nature et la quantité des substances psychotropes et de leurs préparations qui sont acquises ou importées, cédées ou
+exportées, en précisant pour chaque opération les nom et adresse soit du fournisseur, soit de l'acquéreur ;
+
+4° La date de réalisation des opérations.
+
+Les factures, documents de fabrication, bons de livraison, bons de commande peuvent tenir lieu d'enregistrement dès lors
+qu'ils permettent de justifier des opérations et de fournir avec précision les renseignements nécessaires à l'établissement
+des états annuels mentionnés à l'article R. 5187.
+
+Le registre, les enregistrements ou les documents en tenant lieu sont conservés dix ans [*durée*] à compter de la dernière
+opération mentionnée pour être présentés à toute réquisition des autorités compétentes.
+
+Les industriels et grossistes qui se livrent à l'exportation des substances et préparations psychotropes figurant sur une
+liste fixée par arrêté du ministre chargé de la santé doivent déclarer préalablement chaque expédition à cette autorité. Un
+arrêté du même ministre détermine les modalités de cette déclaration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-91 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5142-19 (Ab)
+  - Code de la santé publique - art. R5219 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5187 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+
+###### Article R5187
+
+Les industriels qui fabriquent ou transforment les substances psychotropes ou leurs préparations, les importateurs et
+exportateurs sont tenus [*obligation*] de dresser un état annuel récapitulatif indiquant pour chaque substance psychotrope :
+
+1° Les quantités fabriquées ;
+
+2° Les quantités acquises sur le marché national ;
+
+3° Les quantités importées ;
+
+4° Les quantités utilisées pour la fabrication des préparations mentionnées aux articles R. 5151 et R. 5192 ou la fabrication
+de substances non psychotropes ;
+
+5° Les quantités cédées sur le marché national ;
+
+6° Les quantités exportées.
+
+Cet état, qui couvre l'année civile écoulée, est adressé au ministre chargé de la santé, au plus tard le 15 février [*date
+limite*].
+
+L'autorisation prévue à l'article R. 5183 peut imposer à son titulaire l'établissement et la production au cours de chaque
+année [*périodicité*] civile de plusieurs états récapitulatifs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5093 (M)
+  - Code de la santé publique - art. R5123 (M)
+  - Code de la santé publique - art. R5170 (M)
+  - Code de la santé publique - art. R5186 (Ab)
+  - Code de la santé publique - art. R5219 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-93 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5151 (M)
+  - Code de la santé publique - art. R5183 (M)
+  - Code de la santé publique R5151, R5183, 5192
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+
+###### Article R5188
+
+Les dispositions de l'article R. 5174 sont applicables aux récipients ou emballages renfermant des substances psychotropes ou
+leurs préparations, à l'exclusion de celle qui est relative au numéro de référence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-95 (M)
+  - Code de la santé publique - art. R5132-95 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5174 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+
+###### Article R5189
+
+La commission prévue à l'article R. 5182 formule un avis [*attributions*] sur toute question que lui soumet le ministre
+chargé de la santé concernant l'application des dispositions du présent paragraphe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Cité par_:
+
+  - Arrêté du 7 août 1991 - art. 1 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. R5182 (Ab)
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+_Cite_:
+
+  - Code de la santé publique - art. R5182 (M)
+
+
+##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE<a id=392></a>
+
+##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=393></a>
 
 ###### Article R5178
 
@@ -51633,529 +52205,43 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
-###### Article R5179
+##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact<a id=394></a>
 
-L'auteur de la prescription est tenu de la dater, de la signer, de mentionner lisiblement son nom et son adresse ainsi que le
-mode d'administration du médicament.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 10 septembre 1992
-  - TXT_SOURCE: Arrêté du 10 septembre 1992 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 10 mai 1996
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-84 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5172 (M)
-  - Code de la santé publique - art. R5176 (M)
-  - Code de la santé publique - art. R5229-3 (Ab)
-
-
-###### Article R5180
-
-Après exécution de la prescription, l'ordonnance doit être rendue au client revêtue du timbre de l'officine où elle a été
-exécutée et comporter le numéro sous lequel la prescription est inscrite à l'ordonnancier et la date de la dernière
-délivrance [*mentions obligatoires*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-85 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5229-3 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-###### Article R5181
-
-Les préparations magistrales contenant des substances du tableau C doivent porter sur une étiquette le nom et l'adresse du
-pharmacien, le numéro d'inscription à l'ordonnancier et le mode d'emploi du médicament [*mentions obligatoires*].
-
-Si le médicament est destiné à la médecine humaine et à être administré par les voies : orale, perlinguale, rectale,
-vaginale, urétrale ou transcutanée, cette étiquette est blanche [*couleur*] et la préparation reçoit en outre une contre-
-étiquette portant imprimée en noir sur fond rouge orangé la mention "Ne pas dépasser la dose prescrite".
-
-Dans les autres cas, l'étiquette est rouge orangé avec la mention "Ne pas avaler" imprimée en noir. Elle peut comporter un
-espace blanc suffisant pour permettre l'inscription du mode d'emploi du médicament.
-
-Les médicaments spécialisés contenant une ou plusieurs substances inscrites au tableau C doivent en outre comporter sur les
-étiquettes intérieure et extérieure le nom de la substance tel qu'il figure au tableau C et sa concentration, la quantité
-contenue dans le récipient et, sur l'emballage extérieur, un espace blanc encadré d'un filet vert, dans lequel le pharmacien
-détaillant doit inscrire son nom, son adresse, le numéro d'inscription à l'ordonnancier et le mode d'emploi indiqué par
-l'auteur de la prescription.
-
-Si le médicament est destiné à la médecine vétérinaire, la préparation reçoit en outre, dans tous les cas, une étiquette
-portant imprimée en noir sur fond rouge orangé la mention "Usage vétérinaire".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 22 août 1990
-  - TXT_SOURCE: Arrêté du 22 août 1990 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 22 août 1990 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 22 août 1990 - art. ANNEXE (V)
-  - TXT_SOURCE: Arrêté du 27 mai 1997
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-_Cité par_:
-
-  - Arrêté du 22 août 1990 - art. 1 (V)
-  - Code de la santé publique - art. R5093 (M)
-  - Code de la santé publique - art. R5123 (M)
-  - Code de la santé publique - art. R5170 (M)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-86 (V)
-
-
-###### Article R5182
-
-Les prescriptions comportant des substances du tableau C sont renouvelables, sauf indications contraires de l'auteur de la
-prescription, après un délai déterminé par le mode d'emploi du médicament.
-
-Les renouvellements d'une ordonnance doivent être mentionnés sur le registre sous un nouveau numéro d'ordre. Cette
-inscription peut consister en la seule indication du numéro sous lequel l'ordonnance a été primitivement inscrite.
-
-Mention de la date et du numéro du renouvellement doit être faite sur l'ordonnance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cité par_:
-
-  - Arrêté du 7 août 1991 - art. 1 (V)
-  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
-  - Code de la santé publique - art. R5089-15 (Ab)
-  - Code de la santé publique - art. R5151 (M)
-  - Code de la santé publique - art. R5189 (Ab)
-  - Code de la santé publique - art. R5192 (M)
-  - Code de la santé publique - art. R5208 (M)
-  - Code de la santé publique - art. R5218-2 (Ab)
-  - Code de la santé publique - art. R5219-1 (M)
-  - Code de la santé publique - art. R5229-3 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-87 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-##### PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=398></a>
-
-###### Article R5183
-
-Les substances inscrites au tableau A et leurs dilutions, à l'exception des médicaments spécialisés et des plantes
-médicinales, doivent être détenues dans des armoires ou des locaux fermés à clef [*lieu*].
-
-Il est interdit de détenir dans ces armoires ou locaux d'autres substances que celles mentionnées aux tableaux A et B.
-
-Les récipients contenant des substances du tableau A et leurs dilutions doivent comporter le nom des substances tel qu'il
-figure au tableau A.
-
-Cette inscription doit être faite en caractères noirs très apparents sur une étiquette rouge orangé [*couleur*] fixée de
-telle sorte qu'elle ne puisse pas être involontairement détachée.
-
-L'inscription ci-dessus doit être accompagnée de la mention "POISON" inscrite en caractères noirs très apparents sur une
-bande de couleur rouge orangé faisant le tour de l'enveloppe ou du récipient.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-88 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5146-25 (Ab)
-  - Code de la santé publique - art. R5184 (Ab)
-  - Code de la santé publique - art. R5185 (Ab)
-  - Code de la santé publique - art. R5187 (Ab)
-  - Code de la santé publique - art. R5187-1 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-###### Article R5184
-
-Par dérogation aux dispositions de l'article R. 5155, n'est pas obligatoire l'inscription sur un registre des ventes de
-médicaments spécialisés renfermant des substances du tableau A aux praticiens habilités à les détenir.
-
-Ces ventes ne peuvent être réalisées que sur la fourniture d'une commande ou d'un reçu daté et signé par l'acheteur. Ces
-commandes ou reçus sont conservés pendant trois ans [*durée*] par les vendeurs qui doivent les présenter, classés par
-clients, à toute réquisition de l'autorité compétente.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-89 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5155 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-###### Article R5185
-
-L'auteur de la prescription est tenu, sous les sanctions prévues aux articles L. 626 et L. 630, de la dater, de la signer, de
-mentionner lisiblement son nom et son adresse, ainsi que le mode d'emploi du médicament.
-
-S'il s'agit d'une préparation magistrale, il indique en toutes lettres les doses de substances du tableau A prescrites et
-éventuellement le nombre d'unités thérapeutiques.
-
-S'il s'agit d'un médicament spécialisé, il indique en toutes lettres le nombre d'unités thérapeutiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cite_:
-
-  - Code de la santé publique - art. L626 (M)
-  - Code de la santé publique - art. L630 (M)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-90 (M)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5172 (M)
-  - Code de la santé publique - art. R5176 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-###### Article R5186
-
-Après l'exécution de la prescription, l'ordonnance doit être rendue au client revêtue du timbre de l'officine où elle a été
-exécutée : elle comportera également le numéro sous lequel la prescription est inscrite à l'ordonnancier, la date de la
-délivrance et éventuellement la mention "Renouvellement interdit".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-91 (M)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5142-19 (Ab)
-  - Code de la santé publique - art. R5219 (Ab)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-###### Article R5187
-
-Les préparations magistrales contenant des substances du tableau A doivent porter sur une étiquette le nom et l'adresse du
-pharmacien, le numéro d'inscription à l'ordonnancier et le mode d'emploi du médicament.
-
-Si le médicament est destiné à la médecine humaine et à être administré par les voies : orale, perlinguale, rectale,
-vaginale, urétrale ou transcutanée, cette étiquette est blanche [*couleur*] et la préparation reçoit en outre une contre-
-étiquette portant imprimée en noir sur fond rouge orangé la mention "Ne pas dépasser la dose prescrite".
-
-Dans les autres cas, l'étiquette est rouge orangé avec la mention "Ne pas avaler" imprimée en noir. Elle peut comporter un
-espace blanc suffisant pour permettre l'inscription du mode d'emploi du médicament.
-
-Les médicaments spécialisés contenant une ou plusieurs [*substances*] du tableau A doivent en outre comporter sur les
-étiquettes extérieure et intérieure le nom de la substance tel qu'il figure au tableau A, sa concentration en toutes lettres,
-la quantité contenue dans le récipient, et, sur l'emballage extérieur, un espace blanc encadré d'un filet rouge orangé dans
-lequel le pharmacien détaillant doit inscrire son nom, son adresse, le numéro d'inscription à l'ordonnancier et le mode
-d'emploi indiqué par l'auteur de la prescription.
-
-Si la spécialité contient en outre des substances inscrites au tableau C, l'encadrement doit comporter seulement le filet
-rouge prévu pour le tableau A.
-
-Si le médicament est destiné à la médecine vétérinaire, la préparation reçoit en outre, et dans tous les cas, une étiquette
-portant imprimée en noir sur fond rouge orangé la mention "Usage vétérinaire".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5093 (M)
-  - Code de la santé publique - art. R5123 (M)
-  - Code de la santé publique - art. R5170 (M)
-  - Code de la santé publique - art. R5186 (Ab)
-  - Code de la santé publique - art. R5219 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-93 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-###### Article R5188
-
-A l'exception des médicaments destinés à être appliqués sur la peau, les préparations contenant des substances du tableau A
-ne peuvent être renouvelées que sur indications écrites du prescripteur [*condition*].
-
-Dans ce cas le renouvellement ne peut être exécuté qu'après le délai déterminé par le mode d'emploi du médicament indiqué par
-l'auteur de la prescription.
-
-Les renouvellements d'une même ordonnance doivent être mentionnés sur le registre, sous un nouveau numéro d'ordre.
-
-Cette inscription peut consister en la seule indication du numéro sous lequel l'ordonnance a été primitivement inscrite.
-
-Mention de la date et du numéro du renouvellement doit être faite sur l'ordonnance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-95 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-##### PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT.<a id=399></a>
-
-###### Article R5189
-
-Les substances du tableau B et les préparations qui les contiennent sont soumises à deux régimes distincts selon que les
-opérations qui les concernent sont effectuées en dehors ou dans une officine définie à l'article L. 568.
-
-Partie ou totalité des dispositions du présent paragraphe pourront être appliquées à des substances et éventuellement aux
-préparations les contenant, qui, bien que ne figurant pas au tableau B, sont fabriquées à partir de stupéfiants, ou donnent
-lieu à la formation de stupéfiants au cours de leur fabrication, ou en raison d'usages abusifs peuvent nécessiter un contrôle
-à certains stades de leur commercialisation.
-
-Le ministre de la Santé publique et de la Population fixe par arrêté pour chacune de ces substances les dispositions du
-présent paragraphe qui leur sont applicables.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cité par_:
-
-  - Arrêté du 7 août 1991 - art. 1 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. L568 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la santé publique - art. R5182 (Ab)
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-###### Article R5189-1
-
-Sont interdits : l'importation, l'exportation, la fabrication, la détention, le commerce et l'utilisation de la
-diacétylmorphine, de ses sels et des préparations en contenant ainsi que, d'une manière générale, tous actes commerciaux ou
-non relatifs à ces produits.
-
-Des dérogations aux dispositions précédentes pourront être accordées par le ministre de la santé publique et de la sécurité
-sociale pour la recherche, dans le cadre des dispositions de l'article R. 5197 du présent code, ainsi que pour la fabrication
-de dérivés autorisés.
-
-Le ministre de la Santé publique et de la sécurité sociale peut, à titre transitoire et jusqu'à une date qu'il fixera par
-arrêté, accorder des dérogations aux dispositions du premier alinéa du présent article :
-
-1. Pour la poursuite des traitements en cours au moment de la publication des présentes dispositions ;
-
-2. Pour la mise en oeuvre de traitements de désintoxication dans certains établissements hospitaliers publics ou privés.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cite_:
-
-  - Code de la santé publique - art. R5197 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-  - SPEC_APPLI: DISPOSITIONS APPLICABLES DANS LES TERRITOIRES D'OUTRE-MER
-
-_Créé par_:
-
-  - Décret n°70-127 1970-02-06 ART. 1 JORF 14 février
-
-
-##### 1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE.<a id=400></a>
+##### 1) Dispositions communes.<a id=395></a>
 
 ###### Article R5190
 
-L'autorisation prévue à l'article R. 5165 ci-dessus est donnée par le ministre de la Santé publique et de la Population, sur
-l'avis conforme d'une commission dont la composition est fixée par un arrêté du ministre de la Santé publique et de la
-Population.
+Les dispositions de la présente section s'appliquent [*champ d'application*] aux médicaments mentionnés à l'article L. 511,
+aux produits insecticides ou acaricides, destinés à être appliqués sur l'homme et aux produits destinés à l'entretien ou à
+l'application des lentilles oculaires de contact, mentionnés à l'article L. 658-11, lorsque ces médicaments ou produits :
 
-L'autorisation ne peut être délivrée qu'à une personne physique ; elle est strictement attachée à la personne ; elle indique
-nommément chacune des substances ou préparations dont l'extraction, la transformation, la fabrication ou le commerce est
-autorisé.
+1° Sont classés, par arrêté du ministre chargé de la santé [*autorité compétente*], sur les listes I ou II définies à
+l'article R. 5204 ou comme stupéfiant ;
 
-En ce qui concerne les industriels qui extraient les alcaloïdes de l'opium, du pavot et de la coca, et les industriels qui
-effectuent la synthèse de substances inscrites au tableau B, un arrêté du ministre de la Santé publique et de la Population
-fixe les conditions particulières de contrôle de ces industries.
+2° Ou renferment une ou plusieurs substances ou préparations classées, par arrêté du ministre chargé de la santé, sur les
+listes I ou II ou comme stupéfiantes.
 
-L'autorisation est retirée par le ministre de la Santé publique et de la Population après avis de la commission ci-dessus
-prévue. Elle ne peut être accordée, et sera retirée, à quiconque aura été condamné pour trafic illicite de stupéfiants
-[*sanction*].
+Les médicaments ou produits mentionnés au premier alinéa peuvent faire l'objet d'un classement autre que celui de la ou des
+substances ou préparations classées qu'ils comportent. Ils sont alors soumis au régime se rapportant au classement mentionné
+au 1° ci-dessus.
 
-En cas de changement de domicile industriel et commercial, le titulaire en fait la déclaration au ministre de la Santé
-publique et de la Population avant l'ouverture du nouvel établissement, faute de quoi l'autorisation pourra lui être retirée.
+Lorsqu'un médicament ou un produit non classé contient plusieurs substances ou préparations relevant d'un classement
+différent, il est soumis au régime le plus strict se rapportant au classement de ces substances ou préparations selon l'ordre
+décroissant suivant :
 
-En cas de cessation de fabrication ou de commerce, le titulaire en informe le ministre de la Santé publique et de la
-Population, qui doit alors prononcer le retrait de l'autorisation.
+stupéfiant, liste I, liste II.
 
-Sans préjudice des dispositions de l'article R. 5166, il est interdit à quiconque n'y a pas été autorisé conformément aux
-dispositions du présent article ou de l'article R. 5197, de détenir, d'acheter ou de se faire délivrer ces substances
-autrement que sur ordonnance de tout praticien habilité par les règlements en la matière à les prescrire pour les seuls
-usages thérapeutiques et dans les conditions spéciales fixées au présent code.
+**Nota:**
 
-Par dérogation aux dispositions de l'article R. 5198, les dispositions du présent article sont applicables à la
-méthylmorphine et ses sels, à l'éthylmorphine et ses sels, et à la pholcodine et ses sels.
+[*Nota : Code de la santé publique R5209 : les dispositions des articles R5171 à R5178 sont applicables aux médicaments et
+produits mentionnés au présent article.*]
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1978-03-30 JORF NC 4 AVRIL : COMPOSITION DE LA COMMISSION INTERMINISTERIELLE DES STUPEFIANTS
-  - TXT_ASSOCIE: Code de la santé publique - art. R5198 (M)
-
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -52177,67 +52263,39 @@ _Cité par_:
   - Code de la santé publique - art. R5209 (Ab)
   - Code de la santé publique - art. R5229 (Ab)
 
+_Cite_:
+
+  - Code de la santé publique - art. L511 (M)
+  - Code de la santé publique - art. L658-11 (M)
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-1 (V)
 
-_Cite_:
+**Liens**:
 
-  - Code de la santé publique - art. R5165 (M)
-  - Code de la santé publique - art. R5166 (M)
-  - Code de la santé publique - art. R5198 (M)
+  - TXT_ASSOCIE: Code de la santé publique - art. R5198 (M)
 
 
 ###### Article R5191
 
-Il est interdit d'importer ou d'exporter, de mettre en entrepôt de douane, ou en dépôt en douane, ou de sortir d'entrepôt ou
-de dépôt, des substances classées dans le tableau B, sans une autorisation spéciale délivrée pour chaque opération dans les
-conditions fixées par le décret du 12 décembre 1928 modifié par le décret du 10 septembre 1930 portant organisation des
-importations et exportations des produits et préparations visés par la convention internationale sur les stupéfiants, signée
-à Genève le 19 février 1925.
-
-Les importateurs sont tenus de prendre au bureau de douane par lequel doit avoir lieu l'introduction un acquit-à-caution
-indiquant la quantité importée de chacune desdites substances, ainsi que les nom et adresse du destinataire [*mentions*].
-
-La délivrance de cet acquit-à-caution est subordonnée à la production de l'autorisation d'importer ou de sortir d'entrepôt ou
-de dépôt pour la consommation en France prévue au premier alinéa du présent article. Cet acquit-à-caution doit être envoyé au
-bureau de douane d'émission, dans le délai d'un mois à dater de sa délivrance, revêtu d'un certificat de décharge de
-l'autorité municipale du lieu de résidence du destinataire.
-
-Les exportateurs sont tenus, pour toute expédition hors de la métropole, de prendre au bureau de douane d'exportation un
-certificat de sortie.
-
-Ce certificat doit indiquer la nature et la quantité de la drogue simple exportée et, dans le cas d'une préparation, la
-nature de la préparation exportée ainsi que le nom et la quantité de la ou des drogues simples du tableau B qu'elle renferme
-[*mentions*].
-
-Les certificats de sortie doivent être conservés pendant trois ans [*durée*] par le vendeur pour être représentés à toute
-réquisition de l'autorité compétente.
-
-Il est interdit d'insérer dans les plis ou paquets transportés par la poste l'une quelconque des substances ou préparations
-inscrites au tableau B. Toutefois, l'interdiction ne s'applique pas aux envois de l'espèce effectués dans un but médical pour
-les pays qui les admettent à cette condition. Dans ce cas, les envois ne peuvent être faits que sous forme de "boîtes avec
-valeur déclarée", conformément aux dispositions du décret modifié du 12 décembre 1928.
-
-Sauf arrangement contraire entre pays intéressés, il est interdit d'insérer dans les colis postaux l'une quelconque des
-substances ou préparations inscrites au tableau B.
-
-Toutefois cette interdiction ne s'applique pas aux envois de cette nature effectués dans un but médical à destination des
-pays qui les admettent, à cette condition.
-
-Par dérogation aux dispositions de l'article R. 5198, les dispositions du présent article sont applicables à la
-méthylmorphine et ses sels, à l'éthylmorphine et ses sels, et à la pholcodine et ses sels.
+Les médicaments et produits mentionnés à la présente section doivent être détenus dans un endroit où n'ont pas librement
+accès les personnes étrangères à l'établissement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 _Nouveaux textes_:
 
@@ -52246,37 +52304,31 @@ _Nouveaux textes_:
 **Liens**:
 
   - TXT_ASSOCIE: Code de la santé publique - art. R5198 (M)
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-_Cite_:
-
-  - Code de la santé publique - art. R5198 (M)
-  - Convention 1925-02-19 GENEVE
-  - Décret n°1928-12-12
-  - Décret n°1930-09-10
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
 ###### Article R5192
 
-Les substances du tableau B ne peuvent être détenues en vue de la vente, circuler, être importées ou exportées que si les
-enveloppes ou récipients qui les renferment directement sont revêtus d'une étiquette rouge orangé [*couleur*], fixée de telle
-sorte qu'elle ne puisse pas être involontairement détachée ; cette étiquette porte, outre le nom de la substance contenue,
-tel qu'il figure au tableau B, les poids brut et net, le nom et l'adresse du vendeur ainsi qu'un numéro de référence pour
-chaque enveloppe ou récipient [*mentions*].
+Ne sont pas soumis aux dispositions de la présente section [*hors champ d'application*]:
 
-L'inscription ci-dessus doit être accompagnée de la mention "POISON" inscrite en caractères apparents sur une bande de
-couleur rouge orangé, faisant le tour de l'enveloppe ou du récipient.
+1° Les médicaments et produits mentionnés à l'article R. 5190 qui sont destinés à la médecine humaine et renferment des
+substances classées à des doses ou concentrations trop faibles pour justifier qu'ils soient soumis auxdites dispositions ;
+les formes ou voies d'administration de ces médicaments ou produits, leur composition, les doses ou concentrations maximales
+de substances qu'ils renferment sont fixées par arrêtés du ministre chargé de la santé pris après avis de l'Académie
+nationale de pharmacie et de la commission prévue à l'article R. 5140 ;
 
-Le détenteur de substances classées au tableau B doit les conserver dans des armoires ou locaux fermés à clef. Ces armoires
-ou locaux ne peuvent pas contenir d'autres substances que celles qui figurent aux tableaux A et B. Toute quantité trouvée en
-dehors desdites armoires ou locaux sera saisie.
+2° Les médicaments mentionnés à l'article R. 5190 qui sont destinés à la médecine vétérinaire et renferment des substances
+classées à des doses ou concentrations trop faibles pour justifier qu'ils soient soumis auxdites dispositions ; les formes ou
+voies d'administration de ces médicaments, leur composition, les doses ou concentrations maximales de substances qu'ils
+renferment et les espèces animales concernées sont fixées par arrêté du ministre chargé de la santé et du ministre chargé de
+l'agriculture pris après avis de la commission constituée à cet effet.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -52289,7 +52341,6 @@ _Modifié par_:
   - TXT_SOURCE: Arrêté du 6 septembre 1989 - art. 2 (V)
   - TXT_SOURCE: Arrêté du 6 septembre 1989 - art. 3 (V)
   - TXT_SOURCE: Arrêté du 6 septembre 1989 - art. 4 (V)
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 _Cité par_:
 
@@ -52305,27 +52356,49 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-2 (V)
 
+_Cite_:
+
+  - Code de la santé publique - art. R5140 (M)
+  - Code de la santé publique - art. R5190 (M)
+
 
 ###### Article R5193
 
-Les substances du tableau B et les préparations qui les contiennent ne peuvent circuler que si les récipients qui les
-renferment directement sont revêtus des étiquettes prévues aux articles R. 5192 et R. 5204 [*condition*].
+Les pharmaciens délivrent les médicaments ou produits mentionnés à la présente section sur prescription ou sur commande à
+usage professionnel :
 
-Les enveloppes extérieures des colis d'expédition ne doivent comporter aucune autre indication que les noms et adresses de
-l'expéditeur et du destinataire [*mentions*].
+1° D'un médecin [*autorité compétente*];
 
-Elles devront être cachetées à la marque de l'expéditeur.
+2° D'un directeur de laboratoire d'analyse de biologie médicale dans les limites prévues à l'article L. 761 ;
+
+3° D'un chirurgien-dentiste, pour l'usage de l'art dentaire ;
+
+4° D'un docteur vétérinaire pour la médecine vétérinaire ;
+
+5° D'une sage-femme dans les limites de la liste mentionnée à l'article L. 370.
+
+Les opticiens-lunetiers délivrent sur prescription d'un médecin les produits destinés à l'entretien des lentilles oculaires
+de contact mentionnés à la présente section.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Cite_:
+
+  - Code de la santé publique - art. L370 (M)
+  - Code de la santé publique - art. L761 (M)
 
 _Cité par_:
 
@@ -52333,46 +52406,44 @@ _Cité par_:
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. R5132-6 (M)
   - Code de la santé publique - art. R5132-6 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5192 (M)
-  - Code de la santé publique - art. R5204 (M)
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
 ###### Article R5194
 
-Tout achat ou toute cession, même à titre gratuit, des substances du tableau B doit être inscrit sur un registre spécial coté
-et paraphé par le maire ou le commissaire de police [*autorités compétentes*].
+Toute ordonnance comportant une prescription de médicaments ou produits mentionnés à la présente section doit indiquer
+lisiblement [*mentions obligatoires*]:
 
-L'autorité qui vise ce registre spécial doit se faire présenter l'autorisation délivrée à l'intéressé. Elle mentionne, sur la
-première page dudit registre, la date à laquelle cette autorisation a été donnée.
+1° Le nom, l'adresse et la qualité du prescripteur, sa signature et la date à laquelle elle a été rédigée ;
 
-L'inscription sur le registre de chacune de ces opérations reçoit un numéro d'ordre qui peut s'appliquer à tous les produits
-contenus dans une même réception ou livraison. Elle doit être faite sans aucun blanc, rature, ni surcharge, au moment même de
-la réception ou de la livraison.
+2° La dénomination du médicament ou du produit prescrit, sa posologie et son mode d'emploi ;
 
-Elle indique les nom, profession et adresse soit de l'acheteur, soit du vendeur, ainsi que la quantité du produit avec le nom
-sous lequel il est inscrit au tableau B et le numéro de référence prévu à l'article R. 5192. Pour les préparations, les mêmes
-indications sont inscrites ainsi que la quantité de la ou des drogues simples du tableau B qui y sont contenues.
+3° La quantité prescrite ou la durée du traitement et, éventuellement, le nombre de renouvellements.
 
-Pour l'achat ou la réception, le numéro de référence donné par le vendeur au produit livré est en outre mentionné sur le
-registre.
+En outre, elle mentionne :
 
-Dans le cas de revente d'un produit ou d'une préparation dans un emballage revêtu d'un cachet d'origine, le ou les numéros de
-référence portés sur l'étiquette d'origine sont mentionnés sur le registre.
+1° Lorsqu'elle est destinée à la médecine humaine, les nom et prénoms, le sexe et l'âge du malade ;
+
+2° Lorsqu'elle est destinée à la médecine vétérinaire, les nom et prénoms et l'adresse du détenteur de l'animal ou des
+animaux ainsi que les moyens d'identification de ceux-ci.
+
+Toute commande à usage professionnel de médicaments ou produits mentionnés à la présente section doit indiquer :
+
+1° Le nom, la qualité, le numéro d'inscription à l'ordre, l'adresse et la signature du praticien, ainsi que la date ;
+
+2° La dénomination et la quantité du médicament ou du produit ;    3° La mention "Usage professionnel".
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -52406,65 +52477,39 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 31 mars 1999 - art. 1 (M)
   - TXT_SOURCE: Arrêté du 31 mars 1999 - art. 2 (M)
   - TXT_SOURCE: Arrêté du 31 mars 1999 - art. ANNEXE (M)
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-3 (V)
   - Code de la santé publique - art. R5132-4 (V)
 
-_Cite_:
-
-  - Code de la santé publique - art. R5192 (M)
-
 
 ###### Article R5195
 
-Les industriels qui fabriquent ou transforment des substances du tableau B sont tenus, après avoir indiqué ces opérations sur
-le registre spécial prévu à l'article R. 5194, d'inscrire à la suite de la quantité et de la nature de la matière première
-employée, la quantité et la nature du ou des produits obtenus.
-
-Les pharmaciens d'officine qui, en raison de leur activité sont titulaires de l'autorisation prévue aux articles R. 5165 et
-R. 5190 sont tenus aux mêmes obligations pour les produits qui ne sont pas destinés à être délivrés exclusivement dans leur
-officine.
-
-Décharge de la différence est donnée sur ce registre par les inspecteurs visés à l'article L. 557 si le déficit constaté leur
-paraît résulter normalement des transformations ou manipulations déclarées.
-
-Les industriels et les pharmaciens visés au présent article sont tenus d'adresser au plus tard, le 1er février, le 1er mai,
-le 1er août et le 1er novembre [*dates limites*], au service central de la pharmacie (bureau des stupéfiants) un état
-trimestriel indiquant pour chaque substance inscrite au tableau B : les quantités reçues, utilisées pour la fabrication,
-fabriquées et vendues au cours du trimestre précédent [*mentions*].
-
-Un état des stocks disponibles au 31 décembre de l'année précédente des substances stupéfiantes (drogues simples ou
-préparations) ainsi que des stocks de produits de transformation disponibles à la même date, doit être joint à l'état
-trimestriel qui est adressé avant le 1er février.
-
-Les établissements qui se livrent au commerce de ces produits (droguistes-répartiteurs) sont tenus d'adresser [*obligation*]
-avant le 1er février, au bureau des stupéfiants, un état comportant pour chaque produit les quantités entrées et vendues
-pendant l'année précédente et les quantités restant en stock au 31 décembre.
-
-Par dérogation aux dispositions de l'article R. 5198 les dispositions du présent article sont applicables à la méthylmorphine
-et ses sels, à l'éthylmorphine et ses sels, et à la pholcodine et ses sels.
+Les médecins, les docteurs vétérinaires et les groupements définis à l'article L. 612 qui sont autorisés à délivrer des
+médicaments sont soumis aux obligations imposées aux pharmaciens par le présent chapitre sous réserve, pour les docteurs
+vétérinaires, des dispositions du troisième alinéa de l'article R. 5146-52.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 _Cite_:
 
-  - Code de la santé publique - art. L557 (M)
-  - Code de la santé publique - art. R5165 (M)
-  - Code de la santé publique - art. R5190 (M)
-  - Code de la santé publique - art. R5194 (M)
-  - Code de la santé publique - art. R5198 (M)
+  - Code de la santé publique - art. L612 (M)
+  - Code de la santé publique - art. R5146-52 (M)
 
 _Nouveaux textes_:
 
@@ -52475,84 +52520,74 @@ _Cité par_:
   - Code de la santé publique - art. R5170 (M)
   - Code de la santé publique - art. R5196 (M)
 
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
 
 ###### Article R5196
 
-Le registre prévu aux articles R. 5194 et R. 5195 doit être conservé pendant dix années [*durée*] pour être représenté à
-toute réquisition de l'autorité compétente.
+Les responsables des établissements mentionnés aux articles L. 596 et L. 615 et les personnes physiques ou morales habilitées
+à leur passer commande sont, à tout moment, tenus [*obligation*] de justifier de l'acquisition et de la cession des
+médicaments ou produits mentionnés à l'article R. 5190.
 
-Le vendeur n'est déchargé des quantités reçues que dans la mesure, soit des ventes par lui effectuées et inscrites audit
-registre, soit de la décharge donnée dans les conditions de l'article précédent.
+Les documents justificatifs sont conservés au moins trois ans [*durée*], sous réserve des dispositions particulières
+applicables aux stupéfiants et aux psychotropes.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code de la santé publique - art. R5132-19 (V)
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 _Cite_:
 
-  - Code de la santé publique - art. R5194 (M)
-  - Code de la santé publique - art. R5195 (M)
+  - Code de la santé publique - art. L596 (M)
+  - Code de la santé publique - art. L615 (M)
+  - Code de la santé publique - art. R5190 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-19 (M)
+  - Code de la santé publique - art. R5132-19 (V)
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
 ###### Article R5197
 
-Exception faite pour la délivrance en vue des usages thérapeutiques et sur ordonnances des praticiens habilités à les
-prescrire, il est interdit de vendre ou de délivrer lesdites substances à quiconque ne justifie pas qu'il a satisfait aux
-conditions de l'article R. 5190.
+Il est interdit d'employer, pour les médicaments ou produits mentionnés à l'article R. 5190, des contenants ou des emballages
+portant inscrit le nom d'un produit destiné à l'alimentation humaine ou animale ou susceptible de créer une confusion avec un
+tel produit.
 
-Lesdites substances ne peuvent être délivrées que sur demandes rédigées conformément aux dispositions de l'article R. 5199.
-
-Par dérogation aux dispositions ci-dessus :
-
-1° Les fabricants de médicaments spécialisés contenant des substances du tableau B sont autorisés conformément à l'article L.
-551 à délivrer aux médecins et aux vétérinaires des échantillons médicaux, contre remise d'un reçu daté et signé par le
-médecin ou le vétérinaire, dans les limites et selon les règles fixées par arrêté du ministre de la Santé publique et de la
-Population ;
-
-2° Les laboratoires de recherches peuvent se procurer lesdites substances sur autorisation du ministre de la Santé publique
-et de la Population fixant les quantités qu'ils sont autorisés à détenir et à utiliser.
-
-Les fabricants de médicaments spécialisés adressent trimestriellement [*périodicité*] au ministre de la Santé publique et de
-la Population, un relevé des délivrances d'échantillons médicaux effectués conformément aux dispositions ci-dessus prévues.
-
-Les dispositions des deux premiers alinéas du présent article sont applicables en cas de vente ou de cession desdites
-substances après saisie par l'autorité compétente ou à la requête des créanciers.
+Aucun contenant ou emballage ayant renfermé ces médicaments ou produits ne peut être réutilisé pour recevoir des produits
+destinés à l'alimentation humaine ou animale.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1955-09-15 : DELIVRANCE DES ECHANTILLONS
-  - SPEC_APPLI: Code de la santé publique - art. R5170 (M)
-
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la santé publique - art. L551 (M)
-  - Code de la santé publique - art. R5199 (M)
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 _Nouveaux textes_:
 
@@ -52563,26 +52598,48 @@ _Cité par_:
   - Code de la santé publique - art. R5189-1 (Ab)
   - Code de la santé publique - art. R5190 (M)
 
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
 
 ###### Article R5198
 
-Les dispositions des articles R. 5189 à R. 5211 ne sont pas applicables aux préparations contenant des substances du tableau
-B, qui, en raison de la nature des substances médicamenteuses avec lesquelles ces stupéfiants sont associés et qui empêchent
-de les récupérer pratiquement, auront été reconnues par l'Organisation mondiale de la santé comme ne pouvant pas donner lieu
-à une toxicomanie.
+Les personnes habilitées à exécuter les ordonnances ou les commandes comportant des médicaments, produits ou préparations
+relevant de la présente section doivent aussitôt les transcrire à la suite, sans blanc, rature ni surcharge, sur un registre,
+prévu en ce qui concerne le pharmacien à l'article R. 5092, ou les enregistrer immédiatement par tout système approuvé par le
+ministre chargé de la santé [*autorité compétente*]. Toutefois, en ce qui concerne les stupéfiants, les préparations
+magistrales et les préparations extemporanées, l'utilisation du registre est obligatoire.
 
-Un arrêté ministériel fixe celui des tableaux A ou C sur lequel ces préparations doivent être inscrites.
+Les transcriptions ou enregistrements comportent pour chaque médicament ou produit délivré un numéro d'ordre différent et
+mentionnent :
 
-Les dispositions de la présente section ne sont pas applicables à ceux des alcaloïdes de l'opium, leurs sels et leurs dérivés
-qui ne sont pas classés nommément dans le tableau B. Ces substances sont soumises aux dispositions du paragraphe 3 de la
-présente section et sont classées dans le tableau A.
+1° Le nom et l'adresse du prescripteur ou de l'auteur de la commande et, selon le cas :
+
+a) Le nom et l'adresse du malade ;
+
+b) Le nom et l'adresse du détenteur du ou des animaux ;
+
+c) La mention Usage professionnel ;
+
+2° La date de délivrance ;
+
+3° La dénomination ou la formule du médicament, du produit ou de la préparation ;
+
+4° Les quantités délivrées.
+
+Les dispositions qui précèdent ne sont pas applicables [*dérogation*] aux centres de planification ou d'éducation familiale
+agréés pour la délivrance de contraceptifs aux mineurs désirant garder le secret.
+
+Il ne peut être délivré en une seule fois une quantité de médicaments ou produits correspondant à une durée de traitement
+supérieure à un mois. Toutefois, les médicaments contraceptifs peuvent être délivrés pour une durée de trois mois.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -52601,6 +52658,10 @@ _Cité par_:
   - Code de la santé publique - art. R5201 (Ab)
   - Code de la santé publique - art. R5214 (Ab)
 
+_Cite_:
+
+  - Code de la santé publique - art. R5092 (M)
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-10 (V)
@@ -52611,57 +52672,27 @@ _Nouveaux textes_:
 
 **Liens**:
 
-  - TXT_ASSOCIE: Code de la santé publique - art. R5190 (M)
-  - TXT_ASSOCIE: Code de la santé publique - art. R5191 (M)
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-  - TXT_ASSOCIE: Code de la santé publique R5190, R5191, R5195 : DEROGATION
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
-_Cite_:
-
-  - Code de la santé publique R5189 à R5211
-
-
-##### 2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE.<a id=401></a>
 
 ###### Article R5199
 
-Le dépôt pour visa de son diplôme tient lieu d'autorisation pour le pharmacien d'officine, mais seulement pour la préparation
-et la délivrance dans son officine des médicaments contenant lesdites substances.
+Après exécution, sont apposés sur l'ordonnance ou le bon de commande [*mentions obligatoires*]:
 
-Les achats de substances du tableau B par un pharmacien d'officine ne peuvent être effectués que dans un établissement
-métropolitain détenteur de l'autorisation prévue à l'article R. 5190 sur remise par le pharmacien de deux volets foliotés,
-extraits d'un carnet à souches d'un modèle déterminé pour tout le territoire par le ministre de la Santé publique et de la
-Population. La charge de l'impression et de la répartition de ces carnets incombe à l'Ordre national des pharmaciens.
+1° Le timbre de l'officine ;
 
-L'un des volets porte le nom, l'adresse de l'acheteur, sa signature, la date de la demande et le timbre de l'établissement et
-mentionne en toutes lettres le nom du produit et la quantité demandée.
+2° Le ou les numéros d'enregistrement prévus à l'article R. 5198 ;
 
-Le second ne porte mention que des nom et adresse de l'acheteur et de la nature du médicament.
+3° La date d'exécution ;
 
-Il est renvoyé par le vendeur à l'acheteur en indiquant :
-
-a) Le numéro de sortie à son registre ;
-
-b) Les quantités réellement livrées ;
-
-c) La date de la livraison, le timbre et la signature du vendeur.
-
-Les pièces sont conservées par les intéressés pendant trois ans [*durée*], pour être présentées à toute réquisition de
-l'autorité compétente.
-
-Les produits livrés portent le numéro d'inscription au registre du vendeur.
+4° Les quantités délivrées.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1948-11-21 JORF 14 JANVIER 1949 : MODELE DE CARNET A SOUCHES
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -52671,10 +52702,6 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-13 (V)
 
-_Cite_:
-
-  - Code de la santé publique - art. R5190 (M)
-
 _Cité par_:
 
   - Code de la santé publique - art. R5197 (M)
@@ -52682,33 +52709,54 @@ _Cité par_:
   - Code de la santé publique - art. R5211 (M)
   - Code de la santé publique - art. R5214 (Ab)
 
+_Cite_:
+
+  - Code de la santé publique - art. R5198 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
 
 ###### Article R5200
 
-A l'exception des feuilles de coca, les substances du tableau B et les préparations qui les contiennent au-delà des doses
-d'exonération prévues à l'article R. 5170 doivent être détenues dans des armoires ou locaux fermés à clef [*lieu*].
+L'étiquette des préparations magistrales destinées à la médecine humaine et des médicaments vétérinaires extemporanés
+relevant de la réglementation de la présente section comporte les indications suivantes    : 
 
-Il est interdit de détenir dans ces armoires ou locaux d'autres substances que celles mentionnées aux tableaux A et B.
+1° Nom et adresse du pharmacien, ou du docteur vétérinaire dispensateur ; 
 
-Les récipients contenant des substances inscrites au tableau B et leurs dilutions, doivent comporter le nom des substances
-tel qu'il figure au tableau B.
+2° Numéro d'enregistrement ; 
 
-Cette inscription doit être faite en caractères noirs très apparents sur une étiquette rouge orangé [*couleur*] fixée de
-telle sorte qu'elle ne puisse pas être involontairement détachée.
+3° Posologie et mode d'emploi. 
 
-Elle doit être accompagnée de la mention "POISON" inscrite en caractères noirs très apparents sur une bande de couleur rouge
-orangé, faisant le tour de l'enveloppe ou du récipient.
+L'étiquette est blanche lorsque le médicament est destiné aux voies nasale, orale, perlinguale, sublinguale, rectale,
+vaginale, urétrale ou est injectable. 
+
+Elle est rouge, avec la mention " Ne pas avaler " pour les préparations à usage humain, ou " Ne pas faire avaler " pour les
+médicaments vétérinaires, imprimée en caractères noirs, lorsque le médicament est destiné aux autres voies d'administration.
+Afin d'inscrire le numéro d'enregistrement, la posologie et le mode d'emploi, elle peut comporter un espace blanc de
+dimension suffisante. 
+
+Les étiquettes des médicaments vétérinaires extemporanés comportent, en outre, la mention prévue à l'article R. 5146-49 k, en
+caractères noirs sur fond rouge. 
+
+Dans tous les cas, ces médicaments portent une contre-étiquette, avec la mention " Respecter les doses prescrites " en
+caractères noirs sur fond rouge.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 _Nouveaux textes_:
 
@@ -52716,7 +52764,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code de la santé publique - art. R5170 (M)
+  - Code de la santé publique - art. R5146-49 (M)
 
 _Cité par_:
 
@@ -52724,45 +52772,36 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
 ###### Article R5201
 
-Il est interdit de prescrire et d'exécuter des ordonnances comportant des substances en nature inscrites nommément au tableau
-B.
+L'emballage extérieur des médicaments et produits mentionnés aux articles L. 601, L. 617-1 et L. 658-11 relevant de la
+présente section comporte [*condition de forme*]:
 
-Les substances du tableau B ne peuvent être délivrées que sous une forme compatible avec leur usage thérapeutique.
+1° Si ces médicaments et produits sont destinés à l'homme, un espace blanc, entouré d'un filet coloré, dans lequel le
+pharmacien, le médecin ou l'opticien-lunetier dispensateur inscrit son nom, son adresse, le numéro d'ordre prévu à l'article
+R. 5198 et la posologie prescrite ;
 
-A l'exception de celles prescrivant des liniments et pommades, les ordonnances prescrivant des préparations contenant des
-substances du tableau B à des doses dépassant les doses d'exonération prévues à l'article R. 5170 sont rédigées, après examen
-du malade, sur des feuilles extraites d'un carnet à souches d'un modèle déterminé par le ministre de la Santé publique et de
-la Population.
+2° S'ils sont destinés à l'animal, un espace blanc entouré d'un filet ou d'un double filet coloré, dans lequel le pharmacien
+ou le vétérinaire dispensateur inscrit son nom, son adresse, le numéro d'ordre prévu à l'article R. 5198, la posologie
+prescrite ainsi que la mention prévue à l'article R. 5146-49 k en caractères noirs sur fond rouge.
 
-La charge de l'impression et de la répartition de ces carnets incombe, chacun en ce qui le concerne, à l'Ordre national des
-médecins, à l'Ordre national des vétérinaires et à l'Ordre des chirurgiens dentistes.
+L'espace blanc est d'une surface suffisante pour permettre l'apposition des mentions requises ; il est placé sous la
+dénomination spéciale de la spécialité pharmaceutique ou du produit.
 
-L'auteur de la prescription est tenu sous les sanctions prévues au chapitre I, du titre III, du livre V de la partie
-législative du présent code de la dater, de la signer, de mentionner lisiblement son nom et son adresse, le nom et l'adresse
-du bénéficiaire, le mode d'emploi du médicament.
-
-S'il s'agit d'une préparation magistrale, il indique en toutes lettres les doses des substances du tableau B prescrites et
-éventuellement le nombre d'unités thérapeutiques ; s'il s'agit d'un médicament spécialisé, il indique en toutes lettres le
-nombre d'unités thérapeutiques.
-
-Les souches des carnets doivent être conservées par les praticiens pendant trois ans [*durée*].
+L'étiquetage du récipient et le conditionnement des médicaments et produits mentionnés au premier alinéa ci-dessus
+comportent, d'une façon lisible, les mentions Ne pas avaler, Ne pas faire avaler, Respecter les doses prescrites selon les
+modalités fixées à l'article R. 5200 et, imprimée en caractères noirs, la mention Ne peut être obtenu que sur ordonnance
+médicale.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: Arrêté 1948-12-14 : MODELE DE CARNETS A SOUCHES
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -52779,44 +52818,56 @@ _Cité par_:
   - Code de la santé publique - art. R5207 (Ab)
   - Code de la santé publique - art. R5211 (Ab)
 
+_Cite_:
+
+  - Code de la santé publique - art. L601 (M)
+  - Code de la santé publique - art. L617-1 (M)
+  - Code de la santé publique - art. L658-11 (M)
+  - Code de la santé publique - art. R5146-49 (M)
+  - Code de la santé publique - art. R5198 (M)
+  - Code de la santé publique - art. R5200 (M)
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-15 (V)
 
-_Cite_:
+**Liens**:
 
-  - Code de la santé publique - art. R5170 (M)
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
 ###### Article R5202
 
-A l'exception de celles prescrivant des liniments et pommades, il est interdit de rédiger et d'exécuter des ordonnances
-prescrivant, pour une période supérieure à sept jours, des substances du tableau B.
+Le renouvellement de la délivrance d'un médicament, d'un produit ou d'une préparation relevant de la présente section ne peut
+avoir lieu qu'après un délai déterminé résultant de la posologie et des quantités précédemment délivrées.
 
-Il est interdit aux médecins de formuler, et aux pharmaciens d'exécuter ou renouveler, une prescription de substances du
-tableau B, pour un usager, au cours d'une période couverte par une prescription antérieure de substances du même tableau,
-sauf mention formelle portée sur l'ordonnance par le praticien prescripteur et faisant état de la prescription antérieure.
+Tout renouvellement fait l'objet d'un nouvel enregistrement. Lorsque le renouvellement est effectué par le même dispensateur,
+l'enregistrement peut consister en la seule indication du numéro afférent à la délivrance précédente.
 
-Il est interdit à toute personne déjà pourvue d'une prescription comportant une ou plusieurs substances inscrites au tableau
-B, de recevoir pendant la période de traitement fixée par cette prescription une nouvelle ordonnance comportant des
-substances du tableau B, sans qu'elle ait informé de la ou des précédentes prescriptions le nouveau praticien.
-
-Ce dernier mentionne sur la nouvelle ordonnance qu'il a pris connaissance de la ou des copies des précédentes prescriptions.
+Sont ajoutées sur l'ordonnance les mêmes indications que celles énumérées à l'article R. 5199.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-14 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5199 (M)
 
 _Cité par_:
 
@@ -52825,52 +52876,34 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-  - TXT_ASSOCIE: Code de la santé publique R5202-1 : DEROGATION A LA PERIODE DE SEPT JOURS
-
-
-###### Article R5202-1
-
-Par dérogation aux dispositions du premier alinéa de l'article précédent, des substances et des médicaments soumis au régime
-du tableau B, désignés par arrêté du ministre de la santé publique, peuvent être prescrits pour une période supérieure à sept
-jours, mais qui n'excède pas soixante jours.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Créé par_:
-
-  - Décret n°73-68 1973-01-09 ART. 1 JORF 18 janvier
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cite_:
-
-  - Code de la santé publique - art. R5202 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-  - SPEC_APPLI: DISPOSITIONS APPLICABLES A SAINT-PIERRE-ET-MIQUELON ET AUX    ILES WALLIS ET FUTUNA
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
 ###### Article R5203
 
-Après exécution de la prescription, l'ordonnance doit être revêtue du timbre de l'officine où elle a été exécutée, comporter
-le numéro sous lequel la prescription est inscrite à l'ordonnancier et la date de la délivrance [*mentions*].
+Les établissements mentionnés à l'article L. 577 sont soumis aux dispositions de la présente section lorsqu'ils ont un
+pharmacien gérant.
+
+Les établissements sans pharmacien gérant ne peuvent détenir les médicaments mentionnés à la présente section que pour soins
+urgents et à la condition qu'un médecin attaché à l'établissement accepte la responsabilité de leur dépôt.
+
+Ces médicaments sont détenus dans une armoire fermée à clef dont le contenu maximal est fixé quantitativement par le
+directeur départemental des affaires sanitaires et sociales après avis du conseil départemental de l'ordre des médecins
+[*autorités compétentes*].
+
+L'approvisionnement initial fait l'objet d'une commande à usage professionnel selon les règles fixées à l'article R. 5194.
+
+Le réapprovisionnement est effectué sur prescription, dans les conditions prévues à l'article R. 5194.
+
+Un arrêté du ministre chargé de la santé fixe les conditions dans lesquelles lesdits médicaments et préparations sont
+étiquetés, détenus, prescrits et délivrés dans les établissements mentionnés à l'article L. 577.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -52915,7 +52948,12 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 9 août 1991 - art. 7 (Ab)
   - TXT_SOURCE: Arrêté du 9 août 1991 - art. 8 (Ab)
   - TXT_SOURCE: Arrêté du 9 août 1991 - art. 9 (Ab)
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
+_Cite_:
+
+  - Code de la santé publique - art. L577 (Ab)
+  - Code de la santé publique - art. R5194 (M)
 
 _Nouveaux textes_:
 
@@ -52923,39 +52961,550 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-42 (V)
 
 
-###### Article R5204
+##### 3) Régime particulier des stupéfiants.<a id=396></a>
 
-Les préparations magistrales contenant des substances du tableau B doivent porter sur une étiquette le nom, l'adresse du
-pharmacien, le numéro d'inscription à l'ordonnancier et le mode d'emploi du médicament.
+###### Article R5209
 
-Si le médicament est destiné à la médecine humaine, et à être administré par les voies : orale, perlinguale, rectale,
-vaginale, urétrale ou transcutanée, cette étiquette est blanche et la préparation reçoit en outre une contre-étiquette
-portant imprimée en noir sur fond rouge orangé [*couleur*] la mention "Ne pas dépasser la dose prescrite".
-
-Dans les autres cas l'étiquette est rouge orangé avec la mention "Ne pas avaler" imprimée en noir. Elle peut comporter un
-espace blanc suffisant pour permettre l'inscription du mode d'emploi du médicament.
-
-Les médicaments spécialisés contenant une ou plusieurs substances du tableau B doivent en outre comporter, sur les étiquettes
-intérieure et extérieure, le nom de la substance tel qu'il figure au tableau B, sa concentration en toutes lettres, la
-quantité contenue dans le récipient et, sur l'emballage extérieur, un espace blanc encadré d'un filet rouge-orangé, dans
-lequel le pharmacien détaillant doit inscrire son nom, son adresse, le numéro d'inscription à l'ordonnancier et le mode
-d'emploi indiqué par l'auteur de la prescription.
-
-Si la spécialité comprend en outre des substances inscrites à d'autres tableaux, seul doit figurer le filet rouge-orangé.
-
-Si le médicament est destiné à la médecine vétérinaire, la préparation reçoit en outre, dans tous les cas, une étiquette
-portant, imprimée en noir sur fond rouge orangé, la mention "Usage vétérinaire".
+Sont applicables aux médicaments et produits mentionnés à l'article R. 5190 et classés comme stupéfiants les dispositions des
+articles R. 5171 à R. 5178.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
-  - Décret n°88-661 1988-05-06 art. 12 JORF 8 mai 1988
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-27 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5142-19 (Ab)
+  - Code de la santé publique - art. R5211 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5171 (M)
+  - Code de la santé publique - art. R5172 (M)
+  - Code de la santé publique - art. R5173 (M)
+  - Code de la santé publique - art. R5174 (M)
+  - Code de la santé publique - art. R5175 (M)
+  - Code de la santé publique - art. R5176 (M)
+  - Code de la santé publique - art. R5177 (M)
+  - Code de la santé publique - art. R5178 (M)
+  - Code de la santé publique - art. R5190 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
+
+###### Article R5210
+
+Les personnes mentionnées au troisième alinéa de l'article R. 5171 ne peuvent acquérir des substances stupéfiantes et des
+préparations classées comme stupéfiants que dans un établissement détenteur de l'autorisation prévue au même article.
+
+L'acquisition de ces substances et de ces préparations ne peut avoir lieu que sur remise par lesdites personnes de deux
+volets foliotés extraits d'un carnet à souche d'un modèle déterminé par le ministre chargé de la santé. La charge de
+l'impression et de la répartition de ces carnets incombe à l'ordre national des pharmaciens [*responsabilité*] qui établit un
+relevé nominatif des carnets délivrés dans la région.
+
+L'un des volets porte le nom et l'adresse de l'acquéreur, sa signature et la date de la commande. Il mentionne en toutes
+lettres la dénomination des produits commandés et leur quantité. Il est conservé par le cédant.
+
+Le second volet ne porte mention que des nom et adresse de l'acquéreur et de la nature des produits. Il est renvoyé, sans
+délai, à l'acquéreur par le cédant qui le complète :
+
+1° En indiquant le numéro de référence prévu à l'article R. 5174 ou à l'article R. 5211 et le numéro d'ordre prévu à
+l'article R. 5176 ;
+
+2° En indiquant les quantités livrées et la date de livraison ;    3° En y apposant son timbre et sa signature.
+
+Les pièces sont conservées trois ans par les intéressés pour être présentées à toutes réquisition des autorités compétentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 22 février 1990
+  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 22 février 1990 - art. ANNEXE (V)
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
+_Cité par_:
+
+  - Arrêté du 22 février 1990 - art. 1 (V)
+  - Arrêté du 10 septembre 1992 - art. 8 (V)
+  - Code de la santé publique - art. R5170 (M)
+  - Code de la santé publique - art. R5176 (Ab)
+  - Code de la santé publique - art. R5211 (M)
+  - Code de la santé publique - art. R5218 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-28 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5171 (M)
+  - Code de la santé publique - art. R5174 (M)
+
+
+###### Article R5211
+
+Les récipients ou emballages contenant des médicaments ou produits relevant de la réglementation des stupéfiants et n'ayant
+pas fait l'objet d'un conditionnement destiné au public sont revêtus d'une étiquette d'un format adapté à leur volume,
+apposée de manière à ne pouvoir être involontairement détachée.
+
+Cette étiquette porte de façon apparente, en caractères noirs lisibles, indélébiles, les indications suivantes :
+
+1° La dénomination du contenu ;
+
+2° Les poids brut et net ;
+
+3° L'indication d'origine : les nom et adresse du fabricant ou du distributeur ou de l'importateur ;
+
+4° Une tête de mort à tibias croisés sur un fond carré de couleur orangé-jaune et de dimensions suffisantes ; ce carré est
+placé à l'angle supérieur gauche de l'étiquette.
+
+Pour les spécialités pharmaceutiques relevant de la réglementation des stupéfiants, le filet coloré prévu à l'article R. 5201
+est de couleur rouge.
+
+Chaque unité de médicament mentionné au présent article porte un numéro individuel de référence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Cité par_:
+
+  - Arrêté du 22 février 1990 - art. 1 (V)
+  - Code de la santé publique - art. R5123 (M)
+  - Code de la santé publique - art. R5210 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-38 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5201 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
+
+###### Article R5212
+
+Il est interdit de prescrire et d'exécuter des ordonnances comportant des substances en nature classées comme stupéfiants.
+
+Les ordonnances comportant des prescriptions de médicaments classés comme stupéfiants ou renfermant une ou plusieurs
+substances classées comme stupéfiants sont rédigées sur des feuilles extraites d'un carnet à souches d'un modèle déterminé
+par le ministre chargé de la santé [*autorité compétente*]. La charge de l'impression et de la répartition de ces carnets
+incombe, chacun en ce qui le concerne, à l'ordre national des médecins, à l'ordre national des chirurgiens-dentistes, à
+l'ordre des vétérinaires, qui adressent, annuellement, à chaque inspection régionale de la pharmacie un relevé nominatif des
+carnets délivrés.
+
+Sans préjudice des dispositions de l'article R. 5194, l'auteur de l'ordonnance doit indiquer en toutes lettres la quantité
+qu'il prescrit : nombre d'unités thérapeutiques s'il s'agit de spécialités, doses ou concentrations de substances et nombre
+d'unités ou volume s'il s'agit de préparations magistrales.
+
+Les souches des carnets sont conservées pendant trois ans [*durée*] par les praticiens pour être présentées à toute
+réquisition des autorités compétentes.
+
+Les praticiens prennent toutes précautions afin d'éviter les pertes ou les vols de leurs carnets. En cas de perte ou de vol,
+déclaration en est faite sans délai aux autorités de police, à l'inspection régionale de la pharmacie et à l'ordre concerné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 22 février 1990
+  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 20 septembre 1999
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 3 (Ab)
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 4 (Ab)
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
+_Cité par_:
+
+  - Arrêté du 22 février 1990 - art. 1 (Ab)
+  - Arrêté du 22 février 1990 - art. 2 (V)
+  - Arrêté du 22 février 1990 - art. 3 (V)
+  - Arrêté du 10 septembre 1992 - art. 1 (Ab)
+  - Arrêté du 10 septembre 1992 - art. 1 (V)
+  - Arrêté du 8 décembre 1994 - art. 1 (Ab)
+  - Décret n°99-249 du 31 mars 1999 - art. 8 (Ab)
+  - Arrêté du 20 septembre 1999 - art. 1 (Ab)
+  - Arrêté du 20 septembre 1999 - art. 2 (Ab)
+  - Code de la santé publique - art. R5000-1 (Ab)
+  - Code de la santé publique - art. R5212-31 (V)
+  - Code de la santé publique - art. R5215 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-29 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5194 (M)
+
+
+###### Article R5213
+
+Il est interdit de prescrire des médicaments classés comme stupéfiants pour un traitement d'une durée supérieure à sept
+jours. Pour certains médicaments désignés par arrêté du ministre chargé de la santé [*autorité compétente*], cette durée peut
+être portée à soixante jours. Une telle ordonnance ne peut être exécutée, selon le cas, que pendant les sept ou soixante
+jours qui courent à compter de sa date d'établissement, et seulement pour la durée de la prescription restant à courir.
+
+Il est de même interdit au praticien d'établir, et au pharmacien d'exécuter, une ordonnance comportant une prescription
+desdits médicaments au cours d'une période couverte par une prescription antérieure de médicaments classés comme stupéfiants.
+Il peut toutefois être dérogé à cette interdiction si le prescripteur le demande expressément en faisant état, sur
+l'ordonnance, de la précédente prescription dont il a connaissance.
+
+Il est également interdit à toute personne déjà bénéficiaire d'une telle prescription de recevoir pendant la période de
+traitement couverte par ladite prescription une nouvelle ordonnance comportant une prescription de ces médicaments, sans
+qu'elle ait informé le praticien de la précédente prescription.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Cité par_:
+
+  - Arrêté du 22 février 1990 - art. 1 (Ab)
+  - Décret n°99-249 du 31 mars 1999 - art. 8 (Ab)
+  - Arrêté du 20 septembre 1999 - art. 1 (Ab)
+  - Code de la santé publique - art. R5214 (M)
+  - Code de la santé publique - art. R5227 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 20 septembre 1999
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 3 (Ab)
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 4 (Ab)
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-30 (V)
+  - Code de la santé publique - art. R5132-33 (V)
+
+
+###### Article R5214
+
+Après exécution de la prescription, l'ordonnance, revêtue des mentions prévues à l'article R. 5199, est conservée trois ans
+[*durée*] par le pharmacien. Classées chronologiquement, les ordonnances sont présentées à toute réquisition des autorités
+compétentes. Copie en est remise obligatoirement au client, revêtue des mentions prévues à l'article R. 5199, de l'indication
+"Copie" et de deux barres transversales.
+
+Sans préjudice des transcriptions mentionnées à l'article R. 5198, le pharmacien est tenu [*obligation*] d'enregistrer le nom
+et l'adresse du porteur de l'ordonnance lorsque celui-ci n'est pas le malade.
+
+De plus, si le porteur de l'ordonnance est inconnu du pharmacien, celui-ci est tenu de demander une justification d'identité
+dont il reporte les références sur le registre prévu à l'article R. 5198.
+
+L'utilisation du registre est obligatoire pour transcrire les ordonnances prescrivant des préparations officinales ou
+magistrales qui renferment des substances stupéfiantes, même si ces préparations ne sont pas classées comme stupéfiants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Cité par_:
+
+  - Arrêté du 10 septembre 1992 - art. 2 (Ab)
+  - Arrêté du 10 septembre 1992 - art. 2 (V)
+  - Décret n°99-249 du 31 mars 1999 - art. 8 (Ab)
+  - Arrêté du 20 septembre 1999 - art. 1 (Ab)
+  - Arrêté du 20 septembre 1999 - art. 2 (Ab)
+  - Code de la santé publique - art. R5198 (Ab)
+  - Code de la santé publique - art. R5218 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 20 septembre 1999
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 3 (Ab)
+  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 4 (Ab)
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-35 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5199 (M)
+
+
+###### Article R5215
+
+Les médecins, docteurs vétérinaires, chirurgiens-dentistes et sages-femmes ne peuvent se faire délivrer et détenir pour leur
+usage professionnel des médicaments classés comme stupéfiants que dans la limite d'une provision pour soins urgents.
+
+Cette provision est déterminée par arrêté du ministre chargé de la santé [*autorité compétente*].
+
+Sans préjudice des dispositions du troisième alinéa de l'article R. 5194, la constitution et la reconstitution de cette
+provision sont effectuées respectivement par commandes et prescriptions rédigées sur feuilles extraites du carnet à souches
+mentionné à l'article R. 5212 et dans les conditions fixées par le même article.
+
+Un relevé trimestriel [*périodicité*] indiquant le nom des praticiens, la nature et les quantités des produits délivrés est
+adressé par le pharmacien d'officine à l'inspection régionale de la pharmacie dont il relève.
+
+Pour les établissements mentionnés au deuxième alinéa de l'article R. 5203, l'approvisionnement initial et le
+réapprovisionnement sont effectués respectivement par commandes et prescriptions dans les mêmes conditions que celles prévues
+au troisième alinéa.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Cité par_:
+
+  - Arrêté du 22 février 1990 - art. 1 (Ab)
+  - Code de la santé publique - art. R5216 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-31 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5194 (M)
+  - Code de la santé publique - art. R5203 (M)
+  - Code de la santé publique - art. R5212 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
+
+###### Article R5216
+
+Les feuilles de commandes mentionnées à l'article R. 5215 sont conservées et classées par les pharmaciens d'officine dans les
+mêmes conditions que les ordonnances prescrivant des stupéfiants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-32 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5215 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5218 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
+
+###### Article R5217
+
+Toute entrée et toute sortie de substances et de médicaments classés comme stupéfiants doivent [*obligation*] être inscrites
+par les personnes mentionnées au troisième alinéa de l'article R. 5171 sur un registre spécial coté et paraphé par le maire
+ou le commissaire de police [*autorités compétentes*].
+
+L'inscription des entrées se fait dès réception. Elle comporte la date, la désignation des produits, leur quantité, le nom et
+l'adresse du fournisseur.
+
+L'inscription des sorties se fait mensuellement par relevé global. Elle comporte :
+
+1° Pour les préparations magistrales et officinales, y compris celles qui sont mentionnées à l'article R. 5192, la
+désignation et la quantité de stupéfiants utilisés ;
+
+2° Pour les spécialités pharmaceutiques, leur désignation et les quantités délivrées.
+
+Une balance mensuelle des entrées et sorties est portée au registre.
+
+Ces inscriptions sont faites sans blanc, ni rature, ni surcharge.
+
+Chaque année [*périodicité*], chaque titulaire d'un registre spécial procède à l'inventaire du stock, par pesées et
+décomptes. Les différences constatées entre la balance et l'inventaire sont soumises à l'appréciation du pharmacien
+inspecteur de la santé lors de la première visite qui suit l'établissement de l'inventaire.
+
+Le registre spécial est conservé dix ans [*durée*] à compter de sa dernière mention [*point de départ*], pour être présenté à
+toute réquisition des autorités compétentes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-36 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5171 (M)
+  - Code de la santé publique - art. R5192 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5218 (M)
+  - Code de la santé publique - art. R5219 (M)
+  - Code de la santé publique - art. R5220 (M)
+  - Code de la santé publique - art. R5221 (M)
+  - Code de la santé publique - art. R5227 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
+
+###### Article R5218
+
+Tout pharmacien qui cède son officine procède, en présence de l'acquéreur, à l'inventaire des substances, préparations ou
+médicaments classés comme stupéfiants. Cet inventaire est consigné sur le registre spécial des stupéfiants et contresigné par
+les intéressés.
+
+Le cédant remet à l'acquéreur qui lui en donne décharge le registre spécial des stupéfiants et les pièces à conserver en
+vertu des articles R. 5210, R. 5214 et R. 5216.
+
+En cas de fermeture définitive de l'officine, ce registre et ces pièces sont déposés à l'inspection régionale de la
+pharmacie. L'inspecteur régional [*autorité compétente*] procède à la destruction des substances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-37 (M)
+  - Code de la santé publique - art. R5132-37 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5210 (M)
+  - Code de la santé publique - art. R5214 (M)
+  - Code de la santé publique - art. R5216 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
+
+
+##### 2) Régime particulier des listes 1 et 2.<a id=397></a>
+
+###### Article R5204
+
+Les listes I et II mentionnées à l'article R. 5149 comprennent [*composition*]:
+
+1° Les substances ou préparations vénéneuses présentant pour la santé des risques directs ou indirects ;
+
+2° Les médicaments et produits vénéneux mentionnés à l'article R. 5190 présentant pour la santé des risques directs ou
+indirects.    La liste I comprend les substances ou préparations et les médicaments et produits présentant les risques les
+plus élevés pour la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 _Cité par_:
@@ -52979,29 +53528,28 @@ _Nouveaux textes_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
 ###### Article R5205
 
-A l'exception des liniments et des pommades, il est interdit de renouveler les préparations comportant des substances du
-tableau B à une dose et à une concentration supérieures à celles fixées par l'arrêté prévu à l'article R. 5170.
+Les médicaments et produits relevant de la liste I sont détenus dans des armoires ou des locaux fermés à clef et ne contenant
+rien d'autre, à l'exception des substances dangereuses classées comme très toxiques ou toxiques, en application de l'article
+R. 5152.
 
-En ce qui concerne les liniments et les pommades, les renouvellements d'une même ordonnance ne peuvent être exécutés qu'après
-le délai déterminé par le mode d'emploi indiqué par l'auteur de la prescription. Ils doivent être mentionnés sur le registre
-sous un nouveau numéro d'ordre.
+Les médicaments et produits relevant de la liste II sont détenus séparément de tout autre médicament, produit ou substance, à
+l'exception des substances classées comme nocives, corrosives et irritantes, en application de l'article R. 5152. Cependant,
+ces médicaments et produits doivent être disposés de façon à ne pas être directement accessibles au public.
 
-Cette inscription peut consister dans l'indication du numéro sous lequel l'ordonnance a été primitivement inscrite et du nom
-et de la quantité du stupéfiant prescrit.
-
-Mention de la date et du numéro du renouvellement doit être faite sur l'ordonnance.
+Les dispositions du présent article ne sont pas applicables [*champ d'application*] aux spécialités pharmaceutiques et aux
+produits ayant fait l'objet du conditionnement sous lequel ils sont délivrés aux utilisateurs.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
@@ -53018,40 +53566,45 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code de la santé publique - art. R5170 (M)
+  - Code de la santé publique - art. R5152 (M)
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
 ###### Article R5206
 
-Les pharmaciens ne sont autorisés à délivrer des préparations contenant des substances du tableau B, que contre remise d'une
-ordonnance rédigée conformément aux dispositions de l'article R. 5201 [*condition*].
+Les récipients ou emballages contenant des médicaments ou produits auxquels s'appliquent les dispositions de l'article R.
+5205 et qui n'ont pas fait l'objet d'un conditionnement destiné au public sont revêtus d'une étiquette d'un format adapté à
+leur volume, apposée de manière à ne pouvoir être involontairement détachée. 
 
-Le pharmacien doit mentionner à l'ordonnancier les nom et adresse du malade et, éventuellement, du tiers qui lui présente
-l'ordonnance.
+Cette étiquette porte de façon apparente, en caractères lisibles et indélébiles, les indications suivantes    : 
 
-Si le porteur de l'ordonnance n'est pas connu du pharmacien, celui-ci doit lui demander une justification d'identité. Mention
-est alors portée sur l'ordonnancier de l'autorité qui a délivré la pièce d'identité, de son numéro, de la date à laquelle
-elle a été délivrée.
+1° La dénomination du contenu ; 
 
-Les ordonnances non renouvelables sont conservées pendant trois ans [*durée*] par le pharmacien. Elles sont classées
-mensuellement pour être représentées à toute réquisition de l'autorité compétente.
+2° Le nom ou la raison sociale et l'adresse ou le siège social du fabricant ou du distributeur ou de l'importateur ; 
 
-Copie des ordonnances non renouvelables est remise au client, avec les mentions prévues à l'article R. 5203.
+3° Pour les médicaments ou produits relevant de la liste I, une tête de mort à tibias croisés imprimée en noir, sur un fond
+carré de couleur orangé-jaune et de dimensions suffisantes ; ce carré est placé à l'angle supérieur gauche de l'étiquette ; 
+
+4° Pour les médicaments ou produits relevant de la liste II, une croix de Saint-André imprimée en noir sur un fond carré de
+couleur orangé jaune et de dimensions suffisantes ; ce carré est placé à l'angle supérieur gauche de l'étiquette.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 _Cité par_:
 
@@ -53064,41 +53617,32 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code de la santé publique - art. R5201 (M)
-  - Code de la santé publique - art. R5203 (M)
+  - Code de la santé publique - art. R5205 (M)
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
 ###### Article R5207
 
-Les médecins et vétérinaires sont autorisés à détenir des médicaments contenant des substances inscrites au tableau B, dans
-la limite d'une provision pour soins urgents.
-
-Cette provision est déterminée qualitativement et quantitativement par le directeur départemental de la santé [*autorité
-compétente*], après avis de l'Ordre intéressé.
-
-Cette provision est, à la suite des prélèvements qui auront été effectués, reconstituée sur demandes rédigées par le médecin
-ou le vétérinaire, conformément aux dispositions de l'article R. 5201.
-
-Ces demandes ne peuvent être exécutées que par un des pharmaciens domiciliés dans la commune du praticien ou par un
-pharmacien de la commune la plus proche, si la sienne est dépourvue d'officine.
-
-Le pharmacien choisi par le médecin ou le vétérinaire sera dans tous les cas signalé par lui au conseil départemental de
-l'Ordre dont il dépend.
+Le filet coloré prévu par l'article R. 5201 est rouge pour les médicaments et produits relevant de la liste I, vert pour ceux
+qui relèvent de la liste II.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 _Cité par_:
 
@@ -53116,25 +53660,36 @@ _Cite_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
 ###### Article R5208
 
-Les chirurgiens-dentistes sont autorisés à détenir, pour leur usage professionnel, dans les conditions fixées à l'article
-précédent, les préparations contenant des substances inscrites au tableau B qui sont nécessaires à l'exercice de l'art
-dentaire.
+Une prescription de médicaments ou produits relevant des listes I et II ne peut être faite pour une durée de traitement
+supérieure à douze mois.
 
-Les sages-femmes sont autorisées à détenir, pour leur usage professionnel, des préparations contenant des substances
-inscrites au tableau B dont la liste qualitative et quantitative est fixée par arrêté du ministre de la Santé publique et de
-la Population, précisant dans quelles conditions ces médicaments peuvent être délivrés aux sages-femmes et utilisés par
-elles.
+Les pharmaciens et opticiens-lunetiers ne sont autorisés à effectuer la première délivrance de ces médicaments ou produits
+que sur présentation d'une ordonnance datant de moins de trois mois.
+
+La délivrance d'un médicament ou produit relevant de la liste I ne peut être renouvelée que sur indication écrite du
+prescripteur précisant le nombre de renouvellements ou la durée du traitement.
+
+La délivrance d'un médicament ou d'un produit relevant de la liste II peut être renouvelée lorsque le prescripteur ne l'a pas
+expressément interdit.
+
+Dans tous les cas, le ou les renouvellements ne peuvent être exécutés que dans la limite du délai de traitement mentionnée au
+premier alinéa.
+
+Les dispensateurs sont tenus d'exécuter les renouvellements selon les modalités définies à l'article R. 5202.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
 **Liens**:
 
-  - TXT_ASSOCIE: Arrêté 1971-10-05 : Relatif à la délivrance de certaines substances vénéneuses aux sages-femmes
   - TXT_SOURCE: Arrêté du 10 octobre 1989
   - TXT_SOURCE: Arrêté du 17 octobre 1983
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 1 (Ab)
@@ -53143,12 +53698,7 @@ elles.
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
-  - SPEC_APPLI: Code de la santé publique R5170 : Non application aux préparations médicamenteuses destinées à la médecine humaine et vétérinaire renfermant des substances vénéneuses  à des doses fixées par arrêté
-
-_Modifié par_:
-
-  - Décret n°85-958 1985-09-10 art. 3 JORF 12 septembre 1985
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 _Nouveaux textes_:
 
@@ -53157,596 +53707,99 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code de la santé publique - art. R5207 (M)
+  - Code de la santé publique - art. R5202 (M)
 
 _Cité par_:
 
   - Code de la santé publique - art. R5209 (M)
 
 
-###### Article R5209
-
-Les pharmaciens doivent conserver pendant trois ans [*durée*], pour être représentées à toute réquisition de l'autorité
-compétente, les demandes visées aux articles R. 5207 et R. 5208 émanant des médecins, vétérinaires, chirurgiens dentistes et
-sages-femmes et en adresser un relevé à la fin de chaque trimestre au directeur départemental de la santé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-27 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5142-19 (Ab)
-  - Code de la santé publique - art. R5211 (M)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5207 (M)
-  - Code de la santé publique - art. R5208 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-###### Article R5210
-
-Les pharmaciens sont tenus d'inscrire dès réception, tout achat ou toute entrée dans leur officine, même à titre gratuit, de
-substances du tableau B et de préparations qui en contiennent, sur un registre spécial coté et paraphé par le maire ou le
-commissaire de police [*autorités compétentes*]. L'autorité qui vise le registre doit se faire présenter le diplôme du
-praticien, portant mention de l'enregistrement à la préfecture.
-
-L'inscription de ces entrées fait mention de la date, du nom du fournisseur, de la désignation du produit et des quantités
-reçues.
-
-Les pharmaciens sont tenus d'inscrire sur ce registre les qualité et quantité des substances du tableau B utilisées pour la
-fabrication des préparations officinales ainsi que la quantité des produits obtenus.
-
-En ce qui concerne les préparations magistrales inscrites à l'ordonnancier et les préparations officinales, si elles y sont
-également inscrites le jour de leur fabrication, les pharmaciens sont autorisés à n'en effectuer le relevé que mensuellement
-[*périodicité*] sur le registre prévu au 1er alinéa du présent article.
-
-Ces inscriptions doivent être faites sans blanc, rature, ni surcharge.
-
-Le registre d'entrées et de sorties des stupéfiants doit être conservé pendant dix ans [*durée*] au moins.
-
-Chaque année au moins, le pharmacien procède à l'inventaire des substances du tableau B et des préparations qui en
-contiennent qu'il détient, et établit la balance des entrées et sorties. Les différences constatées sont proposées à la
-ratification du pharmacien inspecteur de la santé à l'occasion de la première visite qui suit l'établissement de la balance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 22 février 1990
-  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 22 février 1990 - art. ANNEXE (V)
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-_Cité par_:
-
-  - Arrêté du 22 février 1990 - art. 1 (V)
-  - Arrêté du 10 septembre 1992 - art. 8 (V)
-  - Code de la santé publique - art. R5170 (M)
-  - Code de la santé publique - art. R5176 (Ab)
-  - Code de la santé publique - art. R5211 (M)
-  - Code de la santé publique - art. R5218 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-28 (Ab)
-
-
-###### Article R5211
-
-Tout pharmacien qui cède son officine procède, en présence de l'acquéreur, à l'inventaire des substances du tableau B et des
-préparations qui en contiennent ; cet inventaire est consigné sur le registre prévu à l'article précédent et contresigné par
-les intéressés.
-
-Le vendeur remet à l'acquéreur, qui lui en donne décharge, le registre des stupéfiants et les pièces à conserver en vertu des
-articles R. 5199, R. 5206 et R. 5209.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cité par_:
-
-  - Arrêté du 22 février 1990 - art. 1 (V)
-  - Code de la santé publique - art. R5123 (M)
-  - Code de la santé publique - art. R5210 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-38 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5199 (M)
-  - Code de la santé publique - art. R5206 (M)
-  - Code de la santé publique - art. R5209 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
-
-
-##### SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=402></a>
-
-###### Article R5212
-
-Conformément aux dispositions de l'article R. 5149 (dernier alinéa) du présent code, sont soumis aux seules dispositions de
-la présente section les produits capillaires, d'hygiène corporelle et de beauté renfermant des substances vénéneuses et
-définis aux articles ci-après.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 22 février 1990
-  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 20 septembre 1999
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 4 (Ab)
-
-_Cité par_:
-
-  - Arrêté du 22 février 1990 - art. 1 (Ab)
-  - Arrêté du 22 février 1990 - art. 2 (V)
-  - Arrêté du 22 février 1990 - art. 3 (V)
-  - Arrêté du 10 septembre 1992 - art. 1 (Ab)
-  - Arrêté du 10 septembre 1992 - art. 1 (V)
-  - Arrêté du 8 décembre 1994 - art. 1 (Ab)
-  - Décret n°99-249 du 31 mars 1999 - art. 8 (Ab)
-  - Arrêté du 20 septembre 1999 - art. 1 (Ab)
-  - Arrêté du 20 septembre 1999 - art. 2 (Ab)
-  - Code de la santé publique - art. R5000-1 (Ab)
-  - Code de la santé publique - art. R5212-31 (V)
-  - Code de la santé publique - art. R5215 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-29 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5149 (M)
-
-
-##### PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*.<a id=403></a>
-
-###### Article R5227
-
-Les fabricants et importateurs des produits visés aux articles R. 5213, R. 5217 et R. 5222 doivent pouvoir justifier que sur
-chaque lot desdits produits a été effectué un contrôle comportant au moins l'identification de la ou des substances
-vénéneuses utilisées, d'une part, et leur dosage dans le produit terminé d'autre part.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Créé par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cite_:
-
-  - Code de la santé publique - art. R5213 (M)
-  - Code de la santé publique - art. R5217 (M)
-  - Code de la santé publique - art. R5222 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 522
-
-
-##### SECTION 4 : PRODUITS CAPILLAIRES<a id=404></a>
-
-##### PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX.<a id=405></a>
-
-###### Article R5213
-
-Sont seuls autorisés à utiliser pour friser, défriser ou onduler les cheveux ou à détenir en vue d'un tel usage les produits
-renfermant de l'acide thioglycolique ou ses sels les coiffeurs titulaires de la carte professionnelle instituée par le décret
-n° 47-476 du 18 mars 1947, pris en exécution de la loi du 23 mai 1946 portant réglementation des conditions d'accès à la
-profession de coiffeur [*compétence*].
-
-La délivrance directe de ces produits à des utilisateurs autres que les coiffeurs visés à l'alinéa précédent est interdite.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - TXT_ASSOCIE: Conseil d'Etat ASSEMBLEE, SOCIETE TONI, 1951-04-27, Recueil P. 236
-  - TXT_SOURCE: Arrêté du 20 septembre 1999
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 4 (Ab)
-
-_Cite_:
-
-  - Décret n°47-476 1947-03-18
-  - Loi n°1946-05-23
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cité par_:
-
-  - Arrêté du 22 février 1990 - art. 1 (Ab)
-  - Décret n°99-249 du 31 mars 1999 - art. 8 (Ab)
-  - Arrêté du 20 septembre 1999 - art. 1 (Ab)
-  - Code de la santé publique - art. R5214 (M)
-  - Code de la santé publique - art. R5227 (M)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-30 (V)
-  - Code de la santé publique - art. R5132-33 (V)
-
-
-###### Article R5214
-
-Les produits visés à l'article R. 5213 ne peuvent être fabriqués et utilisés à une concentration pondérale supérieure à huit
-pour cent en acide thioglycolique.
-
-Ces produits doivent être livrés avec les quantités correspondantes de substances destinées à arrêter, par oxydation,
-l'action de l'acide thioglycolique et de ses sels.
-
-L'inactivation des solutions d'acide thioglycolique ou de ses sels doit être faite aussitôt que l'effet recherché est obtenu.
-La composition et le mode d'emploi des substances d'inactivation doivent être indiqués sur le récipient et l'emballage.
-
-Les récipients qui contiennent les produits visés à l'article R. 5213 et les emballages qui les renferment doivent être munis
-d'étiquettes indiquant [*mentions*] :
-
-La dénomination générique de vente du produit ;
-
-La concentration pondérale en acide thioglycolique ;
-
-Le poids net de produit contenu dans le récipient ;
-
-Le nom et l'adresse du fabricant, ainsi que, le cas échéant, ceux du distributeur français d'un produit importé.
-
-Les récipients contenant lesdits produits doivent en outre comporter une étiquette de couleur rouge sur laquelle sont
-inscrits, en caractères très apparents, le nom chimique de la substance utilisée et la mention suivante :
-
-"Ce produit ne peut être utilisé que par les coiffeurs et uniquement pour friser, défriser ou onduler les cheveux.
-
-"Tout autre emploi est dangereux".
-
-Un arrêté conjoint du ministre des affaires sociales, du ministre de l'agriculture et du ministre de l'industrie fixe, après
-avis du conseil supérieur d'hygiène publique de France, les normes techniques auxquelles doivent être conformes les produits
-visés à l'article R. 5213 et leurs inactivants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cité par_:
-
-  - Arrêté du 10 septembre 1992 - art. 2 (Ab)
-  - Arrêté du 10 septembre 1992 - art. 2 (V)
-  - Décret n°99-249 du 31 mars 1999 - art. 8 (Ab)
-  - Arrêté du 20 septembre 1999 - art. 1 (Ab)
-  - Arrêté du 20 septembre 1999 - art. 2 (Ab)
-  - Code de la santé publique - art. R5198 (Ab)
-  - Code de la santé publique - art. R5218 (Ab)
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 20 septembre 1999
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 4 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-35 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5213 (M)
-
-
-###### Article R5215
-
-Les locaux dans lesquels sont utilisés ces produits et leurs produits d'inactivation doivent pouvoir être aérés facilement.
-
-Les utilisateurs sont tenus de déclarer au directeur départemental de l'action sanitaire et sociale, dès qu'ils en ont
-connaissance, les accidents survenus à la suite de l'emploi de ces produits.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cité par_:
-
-  - Arrêté du 22 février 1990 - art. 1 (Ab)
-  - Code de la santé publique - art. R5216 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-31 (V)
-
-
-###### Article R5216
-
-Il est interdit d'utiliser les composés du mercure, sous quelque forme que ce soit, en vue de friser, défriser ou onduler les
-cheveux.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-32 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5218 (Ab)
-
-
-##### PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES.<a id=406></a>
-
-###### Article R5217
-
-Il est interdit, sauf aux personnes réunissant les conditions exigées pour l'exercice de la profession de pharmacien, de
-fabriquer ou de vendre, dans les conditions fixées aux articles ci-après, les teintures, shampooings et lotions capillaires
-renfermant des substances vénéneuses autres que celles dont la liste limitative, les concentrations et doses maximum seront
-fixées par arrêté conjoint du ministre des affaires sociales, du ministre de l'agriculture et du ministre de l'industrie,
-après avis du conseil supérieur d'hygiène publique de France.
-
-Aucune teinture capillaire visée au présent article ne peut être délivrée aux utilisateurs que sous une forme immédiatement
-utilisable.
-
-Aucune teinture capillaire visée au présent article ne peut être délivrée au public s'il n'est adjoint au récipient la
-renfermant en quantité suffisante, un produit de lavage neutralisant. La dénomination générique, la composition et le volume
-net du produit de lavage doivent figurer sur le récipient le contenant [*mentions obligatoires*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-36 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5218 (M)
-  - Code de la santé publique - art. R5219 (M)
-  - Code de la santé publique - art. R5220 (M)
-  - Code de la santé publique - art. R5221 (M)
-  - Code de la santé publique - art. R5227 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Conseil d'Etat ASSEMBLEE, SOCIETE TONI, 1951-04-27, Recueil P. 236
-
-
-###### Article R5218
-
-Les récipients qui contiennent les produits visés au 1er alinéa de l'article R. 5217 et les emballages qui les renferment
-doivent être munis d'étiquettes indiquant :
-
-La dénomination générique de vente du produit ;
-
-Le nom de la ou des substances vénéneuses y contenues, tel qu'il figure dans la liste fixée par l'arrêté prévu à l'article R.
-5217 ;
-
-Le pourcentage pondéral de ces substances ;
-
-Le poids net du produit contenu dans le récipient ;
-
-Le nom et l'adresse du fabricant, ainsi que, le cas échéant, ceux du distributeur français d'un produit importé ;
-
-La mention ci-après qui doit occuper une surface ayant au moins deux centimètres de côté :
-
-"Ce produit est exclusivement destiné à l'emploi indiqué ;
-
-"Il serait dangereux de s'en servir pour un autre usage ;
-
-"Se conformer à la notice".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5132-37 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5217 (M)
-
+##### 4) Régime particulier des psychotropes.<a id=398></a>
 
 ###### Article R5219
 
-Une notice doit être jointe à l'emballage renfermant les produits visés au premier alinéa de l'article R. 5217. Elle comporte
-obligatoirement le mode d'emploi, éventuellement la manière de procéder à une touche d'essai, l'indication du délai minimum à
-observer avant de procéder à l'application, ainsi que l'avis ci-après qui sera inscrit en caractères très apparents
-[*mentions*] ;
-
-Avis important    "L'usage des teintures et lotions capillaires renfermant des substances vénéneuses peut, chez certains
-sujets, donner lieu à des accidents graves.
-
-"L'épreuve de la touche d'essai constitue une mesure de précaution qui peut permettre de prévenir de tels accidents.
-
-"Cette épreuve est obligatoire pour certaines substances, même pour les personnes ayant supporté sans inconvénient les
-précédentes applications.
-
-"Un rinçage neutralisant (par un produit tel que la solution chlorurée oxygénée) doit être pratiqué immédiatement après
-l'emploi des teintures."    L'avis prévu ci-dessus doit être affiché chez les coiffeurs qui utilisent les produits visés au
-premier alinéa de l'article R. 5217 et chez tous les commerçants qui en délivrent au public.
-
-L'affiche doit être placée en évidence [*lieu*] et écrite en caractères gras d'au moins six millimètres de hauteur.
+Les responsables des établissements mentionnés aux articles L. 596 et L. 615 se livrant à toutes opérations relatives à des
+médicaments contenant une ou plusieurs substances psychotropes sont soumis aux dispositions des articles R. 5186 et R. 5187.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Cite_:
+
+  - Code de la santé publique - art. L596 (M)
+  - Code de la santé publique - art. L615 (M)
+  - Code de la santé publique - art. R5186 (M)
+  - Code de la santé publique - art. R5187 (M)
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5132-96 (V)
 
-_Cite_:
+**Liens**:
 
-  - Code de la santé publique - art. R5217 (M)
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
+
+#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=399></a>
 
 ###### Article R5220
 
-Il est interdit aux coiffeurs d'appliquer sans avoir procédé au préalable à la touche d'essai ceux des produits visés au
-premier alinéa de l'article R. 5217 dont la liste est fixée par arrêté conjoint du ministre des affaires sociales, du
-ministre de l'agriculture et du ministre de l'industrie, après avis du conseil supérieur d'hygiène publique de France.
+Les locaux dans lesquels sont utilisés les produits renfermant de l'acide thioglycolique ou ses sels et destinés à friser,
+défriser ou onduler les cheveux doivent pouvoir être aérés facilement.
 
-Les fabricants doivent préciser dans la notice qui accompagne lesdits produits que la touche d'essai est obligatoire
-[*mention*].
+Les coiffeurs sont tenus [*obligation*] de déclarer au directeur départemental des affaires sanitaires et sociales [*autorité
+compétente*], dès qu'ils en ont connaissance, tout accident survenu à la suite de l'emploi de ces produits.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la santé publique - art. R5217 (M)
+  - Décret n°2000-569 du 23 juin 2000 - art. 3 (Ab) JORF 27 juin 2000
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
 ###### Article R5221
 
-Tout accident survenant à la suite d'une application d'un des produits visés au premier alinéa de l'article R. 5217 par un
-coiffeur doit être signalé par ce dernier, dès qu'il en a connaissance, au directeur départemental de l'action sanitaire et
-sociale [*obligation*].
+Il est interdit aux coiffeurs d'appliquer sans avoir procédé au préalable à la touche d'essai ceux des produits dont la liste
+est fixée par arrêté du ministre chargé de la santé après avis du Conseil supérieur d'hygiène publique de France [*autorités
+compétentes*].
+
+Les fabricants doivent préciser dans la notice qui accompagne lesdits produits que la touche d'essai est obligatoire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la santé publique - art. R5217 (M)
+  - Décret n°2000-569 du 23 juin 2000 - art. 3 (Ab) JORF 27 juin 2000
 
 _Cité par_:
 
@@ -53756,37 +53809,43 @@ _Cité par_:
   - Code de la santé publique - art. R5225 (M)
   - Code de la santé publique - art. R5226 (M)
 
+**Liens**:
 
-##### SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE<a id=407></a>
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
-##### PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE.<a id=408></a>
 
 ###### Article R5222
 
-Il est interdit, sauf aux personnes réunissant les conditions exigées pour l'exercice de la profession de pharmacien, de
-fabriquer ou de vendre, dans les conditions fixées aux articles ci-après, les produits d'hygiène corporelle et de beauté
-renfermant les substances vénéneuses autres que celles dont la liste limitative, les concentrations et les doses maximum sont
-fixées par arrêté conjoint du ministre des affaires sociales, du ministre de l'agriculture et du ministre de l'industrie,
-après avis du conseil supérieur d'hygiène publique de France.
+Les coiffeurs professionnels qui utilisent des shampooings, lotions capillaires ou teintures contenant des diaminobenzènes,
+des diaminophénols, des diaminotoluènes ou leurs dérivés ou de la résorcine doivent placer en évidence dans leur salon de
+coiffure l'avis ci-après écrit en caractères gras d'au moins 6 millimètres :
+
+"Avis important : l'usage des teintures et lotions capillaires renfermant des substances vénéneuses peut, chez certains
+sujets, donner lieu à des accidents graves.
+
+"L'épreuve de la touche d'essai constitue une mesure de précaution qui peut permettre d'éviter de tels accidents.
+
+"Cette épreuve est conseillée même pour les personnes qui ont supporté sans inconvénient les précédentes applications.
+
+"Un rinçage neutralisant doit être pratiqué immédiatement et soigneusement après l'emploi des teintures".
+
+Ces coiffeurs sont tenus [*obligation*] de déclarer au directeur départemental des affaires sanitaires et sociales [*autorité
+compétente*], dès qu'ils en ont eu connaissance, tout accident survenu à la suite de l'emploi de ces produits.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 Recueil P. 527 : le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 5226, et en t
-
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Créé par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Abrogé par_:
+
+  - Décret n°2000-569 du 23 juin 2000 - art. 3 (Ab) JORF 27 juin 2000
 
 _Cité par_:
 
@@ -53796,220 +53855,12 @@ _Cité par_:
   - Code de la santé publique - art. R5226 (M)
   - Code de la santé publique - art. R5227 (M)
 
-
-###### Article R5223
-
-Les récipients qui contiennent les produits visés à l'article R. 5222 et les emballages qui les renferment doivent comporter
-les indications suivantes :
-
-La dénomination générique de vente du produit ;
-
-Le nom de la ou des substances vénéneuses y contenues, tel qu'il figure dans la liste fixée par l'arrêté prévu à l'article R.
-5222 ;
-
-Le pourcentage pondéral de ces substances ;
-
-Le poids net du produit contenu dans le récipient ;
-
-Le nom et l'adresse du fabricant, ainsi que, le cas échéant, ceux du distributeur français d'un produit importé ;
-
-La mention ci-après qui doit occuper une surface ayant au moins deux centimètres de côté :
-
-"Ce produit ne doit être utilisé que pour l'emploi indiqué.
-
-"Se conformer à la notice."
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Créé par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cite_:
-
-  - Code de la santé publique - art. R5222 (M)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5224 (M)
-
 **Liens**:
 
-  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS, 1971-07-09, N° 76-922 Recueil P. 527 : le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 et R.
+  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-###### Article R5224
-
-Une notice doit être jointe à l'emballage des produits visés à l'article R. 5222. Elle comporte obligatoirement un mode
-d'emploi précis et détaillé et, éventuellement, les contre-indications à l'usage du produit [*mentions*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 522
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Créé par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cite_:
-
-  - Code de la santé publique - art. R5222 (M)
-
-
-###### Article R5225
-
-Les produits visés à l'article R. 5222 ne doivent comporter aucune mention, ni faire l'objet d'aucune publicité, quelle qu'en
-soit la forme, relative à des propriétés préventives ou curatives à l'égard des maladies humaines [*interdiction*].
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09 N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 522
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Créé par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cite_:
-
-  - Code de la santé publique - art. R5222 (M)
-
-
-###### Article R5226
-
-Tout fabricant ou vendeur de produits visés à l'article R. 5222 doit, dès qu'il a connaissance d'un accident attribué à leur
-application, en informer le directeur départemental de l'action sanitaire et sociale.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Conseil d'Etat CONSEIL NATIONAL DE L'ORDRE DES PHARMACIENS 1971-07-09, N° 76-922 Recueil P. 527 : Le Conseil d'Etat a annulé l'art. 1er du décret n°68-397 du 16 avril 1968, en tant qu'il a abrogé et remplacé les dispositions des art. R. 5222 à R. 52
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Créé par_:
-
-  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cite_:
-
-  - Code de la santé publique - art. R5222 (M)
-
-
-##### SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS<a id=409></a>
-
-##### INSPECTION.<a id=410></a>
-
-###### Article R5228
-
-Concurremment avec les inspecteurs de la pharmacie visés à l'article L. 557 et les inspecteurs et agents du service de la
-répression des fraudes, les maires et les commissaires de police doivent veiller à l'exécution des dispositions du présent
-chapitre [*autorités compétentes*]. Ils ont qualité pour visiter avec l'assistance d'un inspecteur de la pharmacie, ou en cas
-d'empêchement de ce dernier avec le concours d'un pharmacien désigné par le préfet, les officines de pharmacie, les dépôts de
-médicaments tenus par les médecins et les vétérinaires, ainsi que les entrepôts et magasins des droguistes et des
-commissionnaires en marchandises, trafiquants de ces substances, les laboratoires où elles sont traitées pour en extraire les
-alcaloïdes ou pour les transformer en préparations pharmaceutiques, les magasins des herboristes, épiciers, coiffeurs et
-parfumeurs et d'une manière générale tous les lieux où sont fabriqués, entreposés, ou mis en vente des produits soumis à la
-réglementation du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-_Cite_:
-
-  - Code de la santé publique - art. L557 (M)
-
-
-###### Article R5229
-
-L'autorité qui procède à l'inspection exige la production du récépissé de la déclaration qui a dû être faite en exécution de
-l'article R. 5151 ou, s'il y a lieu, l'autorisation prévue aux articles R. 5165 et R. 5190. Si cette justification n'est pas
-apportée, les produits trouvés en contravention sont saisis, et si, parmi eux, la présence d'une ou plusieurs substances du
-tableau B [*stupéfiants*] est constatée, la fermeture de l'établissement est ordonnée par le préfet [*autorité compétente*].
-Si la déclaration est produite, l'autorité qui procède à la visite s'assure que les registres sont régulièrement tenus, et
-que leurs énonciations concordent avec les quantités existantes. Dans le cas d'infractions pouvant entraîner l'application
-des peines prévues au chapitre I du titre III du livre V de la partie législative du présent code, procès-verbal est dressé
-des constatations et opérations effectuées. Ce procès-verbal est transmis au procureur de la République par l'autorité qui a
-procédé aux constatations ; copie dudit acte est adressée par elle au préfet.
-
-Toute quantité de chanvre indien ou de ses préparations, saisie à l'occasion de la constatation d'une infraction aux
-dispositions de l'article R. 5166, sera détruite.
-
-Toute quantité de kat ou de ses préparations saisie à l'occasion de la constatation d'une infraction aux dispositions de
-l'article R. 5166-1 sera détruite, après le prélèvement de deux échantillons qui seront transmis respectivement à l'autorité
-judiciaire compétente et à l'office central pour la répression du trafic illicite des stupéfiants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5151 (M)
-  - Code de la santé publique - art. R5165 (M)
-  - Code de la santé publique - art. R5166 (M)
-  - Code de la santé publique - art. R5166-1 (M)
-  - Code de la santé publique - art. R5190 (M)
-
-_Modifié par_:
-
-  - Décret n°57-429 1957-04-02 ART. 2 JORF 5 avril
-
-_Abrogé par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-
-#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=411></a>
+#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=400></a>
 
 ###### Article R5230
 
@@ -54894,7 +54745,7 @@ _Cite_:
   - Code de la santé publique - art. R5235 (M)
 
 
-#### Chapitre 4 : Médicaments antivénériens.<a id=412></a>
+#### Chapitre 4 : Médicaments antivénériens.<a id=401></a>
 
 ###### Article R5239
 
@@ -54980,7 +54831,7 @@ _Cite_:
   - Code de la santé publique L643, R5060 à R5089
 
 
-#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=413></a>
+#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=402></a>
 
 ###### Article R5242
 
@@ -55041,7 +54892,7 @@ _Cite_:
   - Code de la santé publique - art. L645 (Ab)
 
 
-#### Chapitre 7 : Biberons à tube et tétines.<a id=414></a>
+#### Chapitre 7 : Biberons à tube et tétines.<a id=403></a>
 
 ###### Article R5262
 
@@ -55202,7 +55053,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=415></a>
+#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=404></a>
 
 ###### Article R5266-1
 
@@ -55701,9 +55552,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5136-17 (V)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=416></a>
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=405></a>
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=417></a>
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=406></a>
 
 ###### Article R5267
 
@@ -55758,7 +55609,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=418></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=407></a>
 
 ###### Article R5269
 
@@ -55851,9 +55702,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 4 : Visa des spécialités anciennes<a id=419></a>
+#### Chapitre 4 : Visa des spécialités anciennes<a id=408></a>
 
-##### Section 1 : Spécialités pharmaceutiques.<a id=420></a>
+##### Section 1 : Spécialités pharmaceutiques.<a id=409></a>
 
 ###### Article R5272
 
@@ -55894,7 +55745,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-33 (V)
 
 
-##### Section 2 : Produits d'origine microbienne.<a id=421></a>
+##### Section 2 : Produits d'origine microbienne.<a id=410></a>
 
 ###### Article R5273
 
