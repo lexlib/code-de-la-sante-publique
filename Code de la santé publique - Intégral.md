@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-08-08
+Version Consolidée au 1992-08-12
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -493,20 +493,21 @@ Version Consolidée au 1992-08-08
           - [Section 2 : Autorisations (art. D712-15 à D712-16)](#490)
             - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#491)
         - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-19-2)](#492)
-          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-2-3)](#493)
+          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-4)](#493)
             - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#494)
-          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#495)
-            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#496)
-            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#497)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-14)](#498)
-      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#499)
-        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#500)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-14)](#501)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#502)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#503)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#504)
-        - [Section 2 : Autorisations (art. D712-14)](#505)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#506)
+            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#495)
+          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#496)
+            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#497)
+            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#498)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-14)](#499)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#500)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#501)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-14)](#502)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#503)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#504)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#505)
+        - [Section 2 : Autorisations (art. D712-14)](#506)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#507)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -77360,9 +77361,109 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (M)
 
 
-##### Section 2 : organes représentatifs<a id=495></a>
+##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=495></a>
 
-##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=496></a>
+###### Article D714-12-1
+
+Dans le cadre de ses compétences définies à l'article L. 714-12, le directeur d'un établissement public de santé peut, sous
+sa responsabilité, déléguer sa signature à un ou plusieurs membres du corps de direction des hôpitaux ou à un ou plusieurs
+fonctionnaires appartenant à un corps ou occupant un emploi classé dans la catégorie A ou la catégorie B, ou à un ou
+plusieurs pharmaciens des hôpitaux.
+
+Il peut en outre, le cas échéant, déléguer sa signature au directeur du centre de transfusion sanguine, conformément aux
+dispositions de l'article 9 du décret du 16 janvier 1954 susvisé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cite_:
+
+  - Décret n°54-65 du 16 janvier 1954 - art. 9 (Ab)
+  - Code de la santé publique - art. L714-12 (M)
+
+_Créé par_:
+
+  - Décret n°92-783 du 6 août 1992 - art. 1 () JORF 12 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6143-33 (V)
+
+
+###### Article D714-12-2
+
+Toute délégation doit mentionner :
+
+a) Le nom et la fonction de l'agent auquel la délégation a été donnée ;
+
+b) La nature des actes délégués ;
+
+c) Eventuellement, les conditions ou réserves dont le directeur juge opportun d'assortir la délégation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°92-783 du 6 août 1992 - art. 1 () JORF 12 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6143-34 (V)
+
+
+###### Article D714-12-3
+
+Toute délégation de signature peut être retirée à tout moment.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°92-783 du 6 août 1992 - art. 1 () JORF 12 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6143-35 (V)
+
+
+###### Article D714-12-4
+
+Les délégations sont communiquées au conseil d'administration et transmises sans délai au comptable de l'établissement
+lorsqu'elles concernent des actes liés à la fonction d'ordonnateur du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Décret n°92-783 du 6 août 1992 - art. 1 () JORF 12 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6143-36 (V)
+
+
+##### Section 2 : organes représentatifs<a id=496></a>
+
+##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=497></a>
 
 ###### Article D714-17-1
 
@@ -77393,7 +77494,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=497></a>
+##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=498></a>
 
 ###### Article D714-19-1
 
@@ -77450,11 +77551,11 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=498></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=499></a>
 
-### Chapitre Ier : Missions et obligations des établissements de santé<a id=499></a>
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=500></a>
 
-#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=500></a>
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=501></a>
 
 ###### Article D711-16-1
 
@@ -77589,11 +77690,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-47 (T)
 
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=501></a>
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=502></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=502></a>
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=503></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=503></a>
+##### Sous-section 1 : Du collège national d'experts<a id=504></a>
 
 ###### Article D712-1
 
@@ -77691,7 +77792,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=504></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=505></a>
 
 ###### Article D712-8
 
@@ -77838,9 +77939,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=505></a>
+#### Section 2 : Autorisations<a id=506></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=506></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=507></a>
 
 ###### Article D712-14
 
