@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-07-27
+Version Consolidée au 1994-07-28
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-11)](#2)
@@ -447,7 +447,7 @@ Version Consolidée au 1994-07-27
         - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#444)
         - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#445)
         - [Chapitre 5 : Homologation de certains produits et appareils. (art. R5274 à R5287)](#446)
-    - [Livre 6 : Utilisation thérapeutique de produits d'origine humaine (art. R666-12-1 à R668-5)](#447)
+    - [Livre 6 : Utilisation thérapeutique de produits d'origine humaine (art. R666-12-1 à R669-5)](#447)
       - [Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. R666-12-1 à R666-12-26)](#448)
         - [Section 1 : Hémovigilance (art. R666-12-1 à R666-12-26)](#449)
           - [Sous-section 1 : Dispositions générales (art. R666-12-1 à R666-12-3)](#450)
@@ -475,165 +475,166 @@ Version Consolidée au 1994-07-27
         - [Section 1 : Des organismes agréés en qualité d'établissement de transfusion sanguine (art. R668-1 à R668-5)](#472)
           - [Sous-section 1 : Des associations agréées en qualité d'établissement de transfusion sanguine (art. R668-1)](#473)
           - [Sous-section 2 : Des groupements d'intérêt public agréés en qualité d'établissement de transfusion sanguine (art. R668-2 à R668-5)](#474)
-    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R710-2-1 à R716-9-1)](#475)
-      - [Titre 1 : Etablissements de santé (art. R710-2-1 à R716-9-1)](#476)
-        - [Chapitre 1 A : Principes fondamentaux (art. R710-2-1 à R710-2-10)](#477)
-          - [Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés (art. R710-2-1 à R710-2-10)](#478)
-        - [Chapitre 1 : Missions et obligations des établissements de santé (art. R711-6-1 à R711-15)](#479)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. R711-6-1 à R711-6-21)](#480)
-            - [Sous-section 1 : Catégories d'établissements publics de santé (art. R711-6-1 à R711-6-3)](#481)
-            - [Sous-section 2 : Fonctionnement médical des hôpitaux locaux (art. R711-6-4 à R711-6-21)](#482)
-          - [Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé (art. R711-7 à R711-15)](#483)
-        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. R712-1 à R712-59)](#484)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. R712-1 à R712-36)](#485)
-            - [Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire. (art. R712-1 à R712-13)](#486)
-            - [Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale (art. R712-14 à R712-21)](#487)
-            - [Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale (art. R712-22 à R712-29)](#488)
-            - [Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale (art. R712-30 à R712-36)](#489)
-          - [Section 2 : Autorisations (art. R712-37 à R712-51)](#490)
-          - [Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie (art. R712-52 à R712-59)](#491)
-        - [Chapitre 3 : Les actions de coopération (art. R713-1 à R713-15)](#492)
-          - [Section 1 : Les conférences sanitaires de secteur (art. R713-1 à R713-15)](#493)
-        - [Chapitre 4 : Les établissements publics de santé (art. R714-1-1 à R714-28-4)](#494)
-          - [Section 1 : Organisation administrative et financière (art. R714-1-1 à R714-4-5)](#495)
-            - [Sous-section 1 : Création, transformation et suppression des établissements publics de sante (art. R714-1-1 à R714-1-3)](#496)
-            - [Sous-section 2 : Composition et fonctionnement du conseil d'administration (art. R714-2-1 à R714-2-24)](#497)
-            - [Sous-section 3 : Budget et comptabilité des établissements publics de santé (art. R714-3-1 à R714-3-53)](#498)
-              - [Paragraphe 1 : Dispositions générales (art. R714-3-1 à R714-3-6)](#499)
-              - [Paragraphe 2 : Présentation et vote du budget (art. R714-3-7 à R714-3-18)](#500)
-              - [Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale (art. R714-3-19 à R714-3-26)](#501)
-              - [Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget (art. R714-3-27 à R714-3-40)](#502)
-              - [Paragraphe 5 : Du directeur, ordonnateur du budget (art. R714-3-41 à R714-3-45)](#503)
-              - [Paragraphe 6 : Clôture de l'exercice et affectation des résultats (art. R714-3-46 à R714-3-50)](#504)
-              - [Paragraphe 7 : Du comptable (art. R714-3-51 à R714-3-53)](#505)
-            - [Sous-section 4 : Programmes d'investissement (art. R714-4-1 à R714-4-5)](#506)
-          - [Section 2 : Organes représentatifs (art. R714-16-1 à R714-18-15)](#507)
-            - [Sous-section 1 : Commissions médicales d'établissement (art. R714-16-1 à R714-16-34)](#508)
-              - [Paragraphe 1 : Composition de commissions médicales d'établissement (art. R714-16-1 à R714-16-13)](#509)
-                - [I : Centres hospitaliers autres que les centres hospitaliers universitaires (art. R714-16-1 à R714-16-5)](#510)
-                - [II : Centres hospitaliers universitaires (art. R714-16-6 à R714-16-10)](#511)
-                - [III : Hôpitaux locaux (art. R714-16-11)](#512)
-                - [IV : Syndicats interhospitaliers (art. R714-16-12 à R714-16-13)](#513)
-              - [Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement (art. R714-16-14 à R714-16-28)](#514)
-              - [Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux (art. R714-16-29 à R714-16-34)](#515)
-            - [Sous-section 2 : Comités techniques d'établissement (art. R714-17-1 à R714-18-15)](#516)
-              - [Paragraphe 1 : Composition des comités techniques d'établissement (art. R714-17-1 à R714-17-24)](#517)
-              - [Paragraphe 2 : Attributions des comités techniques d'établissement (art. R714-18-1)](#518)
-              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement (art. R714-18-2 à R714-18-14)](#519)
-              - [Paragraphe 3 : Dispositions diverses (art. R714-18-15)](#520)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. R714-21-1 à R714-26-11)](#521)
-            - [Sous-section 1 : Des chefs de service ou de département (art. R714-21-1 à R714-21-25)](#522)
-              - [Paragraphe 1 : Dispositions générales (art. R714-21-1 à R714-21-2)](#523)
-              - [Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires (art. R714-21-3 à R714-21-5)](#524)
-              - [Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires (art. R714-21-6)](#525)
-              - [Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958 (art. R714-21-7 à R714-21-19)](#526)
-                - [I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein (art. R714-21-8 à R714-21-11)](#527)
-                - [II. - Nomination aux fonctions de chef de service ou de département à temps partiel (art. R714-21-12 à R714-21-13)](#528)
-                - [III (art. R714-21-14 à R714-21-17)](#529)
-                  - [- Dispositions propres aux fonctions de chef de service ou de département de psychiatrie (art. R714-21-14 à R714-21-17)](#530)
-                - [IV (art. R714-21-18)](#531)
-                  - [- Dispositions particulières aux pharmacies hospitalières (art. R714-21-18)](#532)
-                - [V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre (art. R714-21-19)](#533)
-              - [Paragraphe 5 : Dispositions communes (art. R714-21-20 à R714-21-25)](#534)
-            - [Sous-section 2 : Conseil de service ou de département (art. R714-22-1 à R714-22-11)](#535)
-            - [Sous-section 3 : Des responsables d'unité fonctionnelle (art. R714-24-1 à R714-24-2)](#536)
-            - [Sous-section 4 : Service de soins infirmiers (art. R714-26-1 à R714-26-11)](#537)
-          - [Section 4 : Les personnels des établissements publics de santé (art. R714-28-1 à R714-28-4)](#538)
-        - [Chapitre 5 : Les établissements de santé privés (art. R715-7-1 à R715-11-4)](#539)
-          - [Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement (art. R715-7-1 à R715-11-4)](#540)
-            - [Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier (art. R715-7-1 à R715-7-6)](#541)
-            - [Sous-section 4 : De la concession du service public hospitalier (art. R715-10-1 à R715-10-14)](#542)
-              - [Paragraphe 1 : Objet, contenu et durée du contrat de concession (art. R715-10-1 à R715-10-3)](#543)
-              - [Paragraphe 2 : Procédure (art. R715-10-4 à R715-10-9)](#544)
-              - [Paragraphe 3 : Renouvellement et prorogation du contrat de concession (art. R715-10-10)](#545)
-              - [Paragraphe 4 : Contrôle (art. R715-10-11 à R715-10-12)](#546)
-              - [Paragraphe 5 : Mesures diverses (art. R715-10-13 à R715-10-14)](#547)
-            - [Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier (art. R715-11-1 à R715-11-4)](#548)
-              - [Paragraphe 1 : Nature et objet de l'accord d'association (art. R715-11-1 à R715-11-3)](#549)
-              - [Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association (art. R715-11-4)](#550)
-        - [Chapitre 6 : Expérimentation et dispositions diverses (art. R716-3-1 à R716-9-1)](#551)
-          - [Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux (art. R716-3-1 à R716-3-65)](#552)
-            - [Sous-section 1 : Assistance publique - hôpitaux de Paris (art. R716-3-1 à R716-3-38)](#553)
-              - [Paragraphe 1 : Conseil d'administration (art. R716-3-2 à R716-3-9)](#554)
-              - [Paragraphe 2 : Le directeur général et le secrétaire général (art. R716-3-10 à R716-3-12)](#555)
-              - [Paragraphe 3 : Les instances représentatives centrales (art. R716-3-13 à R716-3-18)](#556)
-                - [A. - Commission médicale d'établissement (art. R716-3-13 à R716-3-14)](#557)
-                - [B. - Comité technique central d'établissement (art. R716-3-15 à R716-3-17)](#558)
-                - [C : Commission centrale du service de soins infirmiers (art. R716-3-18)](#559)
-              - [Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général (art. R716-3-19 à R716-3-30)](#560)
-                - [A. - Budget (art. R716-3-19)](#561)
-                - [B. - Direction (art. R716-3-20)](#562)
-                - [C. - Instances représentatives locales (art. R716-3-21 à R716-3-30)](#563)
-                  - [Commission de surveillance (art. R716-3-22 à R716-3-25)](#564)
-                  - [Comité consultatif médical (art. R716-3-26)](#565)
-                  - [Comité technique local d'établissement (art. R716-3-27 à R716-3-29)](#566)
-                  - [Commission locale du service de soins infirmiers (art. R716-3-30)](#567)
-              - [Paragraphe 5 : Contrôle financier (art. R716-3-31)](#568)
-              - [Paragraphe 6 : Marchés (art. R716-3-32)](#569)
-              - [Paragraphe 7 : Contrôle de l'Etat (art. R716-3-33 à R716-3-35)](#570)
-              - [Paragraphe 8 : Dispositions diverses (art. R716-3-36 à R716-3-38)](#571)
-            - [Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille (art. R716-3-39 à R716-3-56)](#572)
-              - [Paragraphe 1 : Conseil d'administration (art. R716-3-40 à R716-3-44)](#573)
-              - [Paragraphe 2 : Directeur général et secrétaire général (art. R716-3-45)](#574)
-              - [Paragraphe 3 : Instances représentatives centrales (art. R716-3-46 à R716-3-49)](#575)
-              - [Paragraphe 4 : Instances représentatives locales (art. R716-3-50 à R716-3-56)](#576)
-            - [Sous-section 3 : Etablissements publics nationaux (art. R716-3-57 à R716-3-65)](#577)
-          - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#578)
-          - [Section 5 : Dispositions diverses (art. R716-9-1)](#579)
-  - [Partie réglementaire ancienne - Décrets simples (art. D666-3-1 à D712-38)](#580)
-    - [Livre VI : Utilisation thérapeutique de produits d'origine humaine (art. D666-3-1 à D666-3-5)](#581)
-      - [Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. D666-3-1 à D666-3-5)](#582)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#583)
-      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#584)
-        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#585)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#586)
-          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#587)
-          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#588)
-        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-39)](#589)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#590)
-            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#591)
-            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#592)
-            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#593)
-            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#594)
-          - [Section 2 : Autorisations (art. D712-16)](#595)
-            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#596)
-          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-39)](#597)
-            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#598)
-              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#599)
-              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#600)
-        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. D712-13-2)](#601)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-13-2)](#602)
-            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2)](#603)
-        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#604)
-          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#605)
-            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#606)
-            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#607)
-            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#608)
-            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#609)
-          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#610)
-            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#611)
-            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#612)
-          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#613)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#614)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-38)](#615)
-      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#616)
-        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#617)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-38)](#618)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#619)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#620)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#621)
-        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#622)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#623)
-          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#624)
-        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#625)
-          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#626)
-            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#627)
-            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#628)
-  - [Annexes (art. Annexe II aux articles R668-1-1 à R668-21)](#629)
-    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. Annexe II aux articles R668-1-1 à R668-21)](#630)
-      - [Titre 2 : Du sang humain (art. Annexe II aux articles R668-1-1 à R668-21)](#631)
-        - [Chapitre 3 : Des établissements de transfusion sanguine (art. Annexe II aux articles R668-1-1 à R668-21)](#632)
-          - [Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public. (art. Annexe II aux articles R668-1-1 à R668-21)](#633)
+      - [Chapitre 4 : Des schémas d'organisation de la transfusion sanguine (art. R669-1 à R669-5)](#475)
+    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R710-2-1 à R716-9-1)](#476)
+      - [Titre 1 : Etablissements de santé (art. R710-2-1 à R716-9-1)](#477)
+        - [Chapitre 1 A : Principes fondamentaux (art. R710-2-1 à R710-2-10)](#478)
+          - [Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés (art. R710-2-1 à R710-2-10)](#479)
+        - [Chapitre 1 : Missions et obligations des établissements de santé (art. R711-6-1 à R711-15)](#480)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. R711-6-1 à R711-6-21)](#481)
+            - [Sous-section 1 : Catégories d'établissements publics de santé (art. R711-6-1 à R711-6-3)](#482)
+            - [Sous-section 2 : Fonctionnement médical des hôpitaux locaux (art. R711-6-4 à R711-6-21)](#483)
+          - [Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé (art. R711-7 à R711-15)](#484)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. R712-1 à R712-59)](#485)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. R712-1 à R712-36)](#486)
+            - [Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire. (art. R712-1 à R712-13)](#487)
+            - [Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale (art. R712-14 à R712-21)](#488)
+            - [Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale (art. R712-22 à R712-29)](#489)
+            - [Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale (art. R712-30 à R712-36)](#490)
+          - [Section 2 : Autorisations (art. R712-37 à R712-51)](#491)
+          - [Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie (art. R712-52 à R712-59)](#492)
+        - [Chapitre 3 : Les actions de coopération (art. R713-1 à R713-15)](#493)
+          - [Section 1 : Les conférences sanitaires de secteur (art. R713-1 à R713-15)](#494)
+        - [Chapitre 4 : Les établissements publics de santé (art. R714-1-1 à R714-28-4)](#495)
+          - [Section 1 : Organisation administrative et financière (art. R714-1-1 à R714-4-5)](#496)
+            - [Sous-section 1 : Création, transformation et suppression des établissements publics de sante (art. R714-1-1 à R714-1-3)](#497)
+            - [Sous-section 2 : Composition et fonctionnement du conseil d'administration (art. R714-2-1 à R714-2-24)](#498)
+            - [Sous-section 3 : Budget et comptabilité des établissements publics de santé (art. R714-3-1 à R714-3-53)](#499)
+              - [Paragraphe 1 : Dispositions générales (art. R714-3-1 à R714-3-6)](#500)
+              - [Paragraphe 2 : Présentation et vote du budget (art. R714-3-7 à R714-3-18)](#501)
+              - [Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale (art. R714-3-19 à R714-3-26)](#502)
+              - [Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget (art. R714-3-27 à R714-3-40)](#503)
+              - [Paragraphe 5 : Du directeur, ordonnateur du budget (art. R714-3-41 à R714-3-45)](#504)
+              - [Paragraphe 6 : Clôture de l'exercice et affectation des résultats (art. R714-3-46 à R714-3-50)](#505)
+              - [Paragraphe 7 : Du comptable (art. R714-3-51 à R714-3-53)](#506)
+            - [Sous-section 4 : Programmes d'investissement (art. R714-4-1 à R714-4-5)](#507)
+          - [Section 2 : Organes représentatifs (art. R714-16-1 à R714-18-15)](#508)
+            - [Sous-section 1 : Commissions médicales d'établissement (art. R714-16-1 à R714-16-34)](#509)
+              - [Paragraphe 1 : Composition de commissions médicales d'établissement (art. R714-16-1 à R714-16-13)](#510)
+                - [I : Centres hospitaliers autres que les centres hospitaliers universitaires (art. R714-16-1 à R714-16-5)](#511)
+                - [II : Centres hospitaliers universitaires (art. R714-16-6 à R714-16-10)](#512)
+                - [III : Hôpitaux locaux (art. R714-16-11)](#513)
+                - [IV : Syndicats interhospitaliers (art. R714-16-12 à R714-16-13)](#514)
+              - [Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement (art. R714-16-14 à R714-16-28)](#515)
+              - [Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux (art. R714-16-29 à R714-16-34)](#516)
+            - [Sous-section 2 : Comités techniques d'établissement (art. R714-17-1 à R714-18-15)](#517)
+              - [Paragraphe 1 : Composition des comités techniques d'établissement (art. R714-17-1 à R714-17-24)](#518)
+              - [Paragraphe 2 : Attributions des comités techniques d'établissement (art. R714-18-1)](#519)
+              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement (art. R714-18-2 à R714-18-14)](#520)
+              - [Paragraphe 3 : Dispositions diverses (art. R714-18-15)](#521)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. R714-21-1 à R714-26-11)](#522)
+            - [Sous-section 1 : Des chefs de service ou de département (art. R714-21-1 à R714-21-25)](#523)
+              - [Paragraphe 1 : Dispositions générales (art. R714-21-1 à R714-21-2)](#524)
+              - [Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires (art. R714-21-3 à R714-21-5)](#525)
+              - [Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires (art. R714-21-6)](#526)
+              - [Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958 (art. R714-21-7 à R714-21-19)](#527)
+                - [I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein (art. R714-21-8 à R714-21-11)](#528)
+                - [II. - Nomination aux fonctions de chef de service ou de département à temps partiel (art. R714-21-12 à R714-21-13)](#529)
+                - [III (art. R714-21-14 à R714-21-17)](#530)
+                  - [- Dispositions propres aux fonctions de chef de service ou de département de psychiatrie (art. R714-21-14 à R714-21-17)](#531)
+                - [IV (art. R714-21-18)](#532)
+                  - [- Dispositions particulières aux pharmacies hospitalières (art. R714-21-18)](#533)
+                - [V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre (art. R714-21-19)](#534)
+              - [Paragraphe 5 : Dispositions communes (art. R714-21-20 à R714-21-25)](#535)
+            - [Sous-section 2 : Conseil de service ou de département (art. R714-22-1 à R714-22-11)](#536)
+            - [Sous-section 3 : Des responsables d'unité fonctionnelle (art. R714-24-1 à R714-24-2)](#537)
+            - [Sous-section 4 : Service de soins infirmiers (art. R714-26-1 à R714-26-11)](#538)
+          - [Section 4 : Les personnels des établissements publics de santé (art. R714-28-1 à R714-28-4)](#539)
+        - [Chapitre 5 : Les établissements de santé privés (art. R715-7-1 à R715-11-4)](#540)
+          - [Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement (art. R715-7-1 à R715-11-4)](#541)
+            - [Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier (art. R715-7-1 à R715-7-6)](#542)
+            - [Sous-section 4 : De la concession du service public hospitalier (art. R715-10-1 à R715-10-14)](#543)
+              - [Paragraphe 1 : Objet, contenu et durée du contrat de concession (art. R715-10-1 à R715-10-3)](#544)
+              - [Paragraphe 2 : Procédure (art. R715-10-4 à R715-10-9)](#545)
+              - [Paragraphe 3 : Renouvellement et prorogation du contrat de concession (art. R715-10-10)](#546)
+              - [Paragraphe 4 : Contrôle (art. R715-10-11 à R715-10-12)](#547)
+              - [Paragraphe 5 : Mesures diverses (art. R715-10-13 à R715-10-14)](#548)
+            - [Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier (art. R715-11-1 à R715-11-4)](#549)
+              - [Paragraphe 1 : Nature et objet de l'accord d'association (art. R715-11-1 à R715-11-3)](#550)
+              - [Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association (art. R715-11-4)](#551)
+        - [Chapitre 6 : Expérimentation et dispositions diverses (art. R716-3-1 à R716-9-1)](#552)
+          - [Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux (art. R716-3-1 à R716-3-65)](#553)
+            - [Sous-section 1 : Assistance publique - hôpitaux de Paris (art. R716-3-1 à R716-3-38)](#554)
+              - [Paragraphe 1 : Conseil d'administration (art. R716-3-2 à R716-3-9)](#555)
+              - [Paragraphe 2 : Le directeur général et le secrétaire général (art. R716-3-10 à R716-3-12)](#556)
+              - [Paragraphe 3 : Les instances représentatives centrales (art. R716-3-13 à R716-3-18)](#557)
+                - [A. - Commission médicale d'établissement (art. R716-3-13 à R716-3-14)](#558)
+                - [B. - Comité technique central d'établissement (art. R716-3-15 à R716-3-17)](#559)
+                - [C : Commission centrale du service de soins infirmiers (art. R716-3-18)](#560)
+              - [Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général (art. R716-3-19 à R716-3-30)](#561)
+                - [A. - Budget (art. R716-3-19)](#562)
+                - [B. - Direction (art. R716-3-20)](#563)
+                - [C. - Instances représentatives locales (art. R716-3-21 à R716-3-30)](#564)
+                  - [Commission de surveillance (art. R716-3-22 à R716-3-25)](#565)
+                  - [Comité consultatif médical (art. R716-3-26)](#566)
+                  - [Comité technique local d'établissement (art. R716-3-27 à R716-3-29)](#567)
+                  - [Commission locale du service de soins infirmiers (art. R716-3-30)](#568)
+              - [Paragraphe 5 : Contrôle financier (art. R716-3-31)](#569)
+              - [Paragraphe 6 : Marchés (art. R716-3-32)](#570)
+              - [Paragraphe 7 : Contrôle de l'Etat (art. R716-3-33 à R716-3-35)](#571)
+              - [Paragraphe 8 : Dispositions diverses (art. R716-3-36 à R716-3-38)](#572)
+            - [Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille (art. R716-3-39 à R716-3-56)](#573)
+              - [Paragraphe 1 : Conseil d'administration (art. R716-3-40 à R716-3-44)](#574)
+              - [Paragraphe 2 : Directeur général et secrétaire général (art. R716-3-45)](#575)
+              - [Paragraphe 3 : Instances représentatives centrales (art. R716-3-46 à R716-3-49)](#576)
+              - [Paragraphe 4 : Instances représentatives locales (art. R716-3-50 à R716-3-56)](#577)
+            - [Sous-section 3 : Etablissements publics nationaux (art. R716-3-57 à R716-3-65)](#578)
+          - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#579)
+          - [Section 5 : Dispositions diverses (art. R716-9-1)](#580)
+  - [Partie réglementaire ancienne - Décrets simples (art. D666-3-1 à D712-38)](#581)
+    - [Livre VI : Utilisation thérapeutique de produits d'origine humaine (art. D666-3-1 à D666-3-5)](#582)
+      - [Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. D666-3-1 à D666-3-5)](#583)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#584)
+      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#585)
+        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#586)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#587)
+          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#588)
+          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#589)
+        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-39)](#590)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#591)
+            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#592)
+            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#593)
+            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#594)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#595)
+          - [Section 2 : Autorisations (art. D712-16)](#596)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#597)
+          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-39)](#598)
+            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#599)
+              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#600)
+              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#601)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. D712-13-2)](#602)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-13-2)](#603)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2)](#604)
+        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#605)
+          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#606)
+            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#607)
+            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#608)
+            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#609)
+            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#610)
+          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#611)
+            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#612)
+            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#613)
+          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#614)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#615)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-38)](#616)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#617)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#618)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-38)](#619)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#620)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#621)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#622)
+        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#623)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#624)
+          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#625)
+        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#626)
+          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#627)
+            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#628)
+            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#629)
+  - [Annexes (art. Annexe II aux articles R668-1-1 à R668-21)](#630)
+    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. Annexe II aux articles R668-1-1 à R668-21)](#631)
+      - [Titre 2 : Du sang humain (art. Annexe II aux articles R668-1-1 à R668-21)](#632)
+        - [Chapitre 3 : Des établissements de transfusion sanguine (art. Annexe II aux articles R668-1-1 à R668-21)](#633)
+          - [Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public. (art. Annexe II aux articles R668-1-1 à R668-21)](#634)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -80299,13 +80300,173 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R668-1-5 (M)
 
 
-## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires<a id=475></a>
+### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine<a id=475></a>
 
-### Titre 1 : Etablissements de santé<a id=476></a>
+###### Article R669-1
 
-#### Chapitre 1 A : Principes fondamentaux<a id=477></a>
+Les schémas d'organisation de la transfusion sanguine sont élaborés dans le cadre d'un ressort territorial déterminé par le
+ministre chargé de la santé, après avis de l'Agence française du sang, par référence aux régions administratives telles
+qu'elles sont définies par l'annexe I du décret n° 60-516 du 2 juin 1960 modifié portant harmonisation des circonscriptions
+administratives.
 
-##### Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés<a id=478></a>
+Le schéma prévoit, le cas échéant, les modalités de coopération entre des établissements de transfusion sanguine de son
+ressort et des établissements situés dans le ressort d'un ou plusieurs autres schémas, notamment sous la forme d'échanges de
+produits sanguins labiles ou de regroupement de certaines activités.
+
+Si la couverture des besoins de santé l'exige, les schémas dont les ressorts territoriaux sont limitrophes peuvent établir
+une organisation commune concernant certaines activités sur tout ou partie de leur ressort.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Décret n°60-516 1960-06-02 annexe I
+
+_Créé par_:
+
+  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1224-1 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R668-2-2 (M)
+  - Code de la santé publique - art. R669-2 (Ab)
+
+
+###### Article R669-2
+
+La commission d'organisation de la transfusion sanguine, instituée dans le ressort de chaque schéma d'organisation de la
+transfusion sanguine, établit le cas échéant, à la demande de l'Agence française du sang, du directeur régional des affaires
+sanitaires et sociales ou du tiers de ses membres, des modalités de coopération avec une ou plusieurs commissions
+d'organisation de la transfusion sanguine pour les questions visées aux deuxième et troisième alinéas de l'article R. 669-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1224-2 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R669-1 (M)
+
+
+###### Article R669-3
+
+La commission d'organisation de la transfusion sanguine est présidée par le préfet de région ou par son représentant. Elle
+désigne en son sein un bureau.
+
+La commission peut déléguer au bureau, selon des modalités qu'elle définit, le soin d'émettre un avis sur les décisions
+individuelles relatives à la délivrance et au retrait d'agrément ou d'autorisation, ainsi que sur l'attribution des
+subventions prévues à l'article L. 667-11 pour l'application des schémas d'organisation de la transfusion sanguine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+
+_Cite_:
+
+  - Code de la santé publique - art. L667-11 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1224-3 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R669-4 (Ab)
+
+
+###### Article R669-4
+
+A la demande du président de la commission ou du président de l'Agence française du sang, un représentant de l'agence est
+entendu par la commission.
+
+La commission, ou le bureau si celui-ci s'est vu déléguer cette compétence, émet les avis concernant les décisions
+individuelles mentionnées à l'article R. 669-3 dans un délai de quinze jours, ramené à huit jours en cas d'urgence déclarée
+par le président de l'Agence française du sang ou le préfet de région.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1224-3 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R669-3 (M)
+
+
+###### Article R669-5
+
+Les membres ayant voix délibérative ne peuvent siéger dans les affaires concernant la délivrance ou le retrait d'agrément et
+d'autorisation, mentionnées à l'article L. 669-4, au titre desquelles ils sont directement intéressés.
+
+Les membres des commissions sont soumis à l'obligation de discrétion professionnelle à l'égard de tous les faits et documents
+dont ils ont connaissance en cette qualité ainsi que des délibérations des commissions.
+
+Les membres des commissions exercent leur mandat à titre gratuit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+
+_Cite_:
+
+  - Code de la santé publique - art. L669-4 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R1224-4 (Ab)
+
+
+## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires<a id=476></a>
+
+### Titre 1 : Etablissements de santé<a id=477></a>
+
+#### Chapitre 1 A : Principes fondamentaux<a id=478></a>
+
+##### Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés<a id=479></a>
 
 ###### Article R710-2-1
 
@@ -80632,11 +80793,11 @@ _Créé par_:
   - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
 
 
-#### Chapitre 1 : Missions et obligations des établissements de santé<a id=479></a>
+#### Chapitre 1 : Missions et obligations des établissements de santé<a id=480></a>
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=480></a>
+##### Section 2 : Dispositions propres au service public hospitalier<a id=481></a>
 
-##### Sous-section 1 : Catégories d'établissements publics de santé<a id=481></a>
+##### Sous-section 1 : Catégories d'établissements publics de santé<a id=482></a>
 
 ###### Article R711-6-1
 
@@ -80728,7 +80889,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6141-16 (V)
 
 
-##### Sous-section 2 : Fonctionnement médical des hôpitaux locaux<a id=482></a>
+##### Sous-section 2 : Fonctionnement médical des hôpitaux locaux<a id=483></a>
 
 ###### Article R711-6-4
 
@@ -81365,7 +81526,7 @@ _Cite_:
   - Code de la santé publique - art. R711-6-18 (M)
 
 
-##### Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé<a id=483></a>
+##### Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé<a id=484></a>
 
 ###### Article R711-7
 
@@ -81744,11 +81905,11 @@ _Cite_:
   - Code de la santé publique - art. R711-7 (M)
 
 
-#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=484></a>
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=485></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=485></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=486></a>
 
-##### Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire.<a id=486></a>
+##### Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire.<a id=487></a>
 
 ###### Article R712-1
 
@@ -82634,7 +82795,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-6 (Ab)
 
 
-##### Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale<a id=487></a>
+##### Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale<a id=488></a>
 
 ###### Article R712-14
 
@@ -83041,7 +83202,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-6 (Ab)
 
 
-##### Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale<a id=488></a>
+##### Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale<a id=489></a>
 
 ###### Article R712-22
 
@@ -83484,7 +83645,7 @@ _Cite_:
   - Code de la santé publique - art. R712-27 (M)
 
 
-##### Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale<a id=489></a>
+##### Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale<a id=490></a>
 
 ###### Article R712-30
 
@@ -83743,7 +83904,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-11 (Ab)
 
 
-##### Section 2 : Autorisations<a id=490></a>
+##### Section 2 : Autorisations<a id=491></a>
 
 ###### Article R712-37
 
@@ -84415,7 +84576,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-13 (M)
 
 
-##### Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie<a id=491></a>
+##### Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie<a id=492></a>
 
 ###### Article R712-52
 
@@ -84719,9 +84880,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R710-5-19 (Ab)
 
 
-#### Chapitre 3 : Les actions de coopération<a id=492></a>
+#### Chapitre 3 : Les actions de coopération<a id=493></a>
 
-##### Section 1 : Les conférences sanitaires de secteur<a id=493></a>
+##### Section 1 : Les conférences sanitaires de secteur<a id=494></a>
 
 ###### Article R713-1
 
@@ -85337,11 +85498,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R713-1-16 (Ab)
 
 
-#### Chapitre 4 : Les établissements publics de santé<a id=494></a>
+#### Chapitre 4 : Les établissements publics de santé<a id=495></a>
 
-##### Section 1 : Organisation administrative et financière<a id=495></a>
+##### Section 1 : Organisation administrative et financière<a id=496></a>
 
-##### Sous-section 1 : Création, transformation et suppression des établissements publics de sante<a id=496></a>
+##### Sous-section 1 : Création, transformation et suppression des établissements publics de sante<a id=497></a>
 
 ###### Article R714-1-1
 
@@ -85462,7 +85623,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6141-12 (V)
 
 
-##### Sous-section 2 : Composition et fonctionnement du conseil d'administration<a id=497></a>
+##### Sous-section 2 : Composition et fonctionnement du conseil d'administration<a id=498></a>
 
 ###### Article R714-2-1
 
@@ -86468,9 +86629,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6143-20 (V)
 
 
-##### Sous-section 3 : Budget et comptabilité des établissements publics de santé<a id=498></a>
+##### Sous-section 3 : Budget et comptabilité des établissements publics de santé<a id=499></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=499></a>
+##### Paragraphe 1 : Dispositions générales<a id=500></a>
 
 ###### Article R714-3-1
 
@@ -86686,7 +86847,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-7-1 (M)
 
 
-##### Paragraphe 2 : Présentation et vote du budget<a id=500></a>
+##### Paragraphe 2 : Présentation et vote du budget<a id=501></a>
 
 ###### Article R714-3-7
 
@@ -87292,7 +87453,7 @@ _Cite_:
   - Code de la santé publique - art. L712-4 (Ab)
 
 
-##### Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale<a id=501></a>
+##### Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale<a id=502></a>
 
 ###### Article R714-3-19
 
@@ -87596,7 +87757,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-30 (T)
 
 
-##### Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget<a id=502></a>
+##### Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget<a id=503></a>
 
 ###### Article R714-3-27
 
@@ -88212,7 +88373,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (Ab)
 
 
-##### Paragraphe 5 : Du directeur, ordonnateur du budget<a id=503></a>
+##### Paragraphe 5 : Du directeur, ordonnateur du budget<a id=504></a>
 
 ###### Article R714-3-41
 
@@ -88393,7 +88554,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-3-29 (M)
 
 
-##### Paragraphe 6 : Clôture de l'exercice et affectation des résultats<a id=504></a>
+##### Paragraphe 6 : Clôture de l'exercice et affectation des résultats<a id=505></a>
 
 ###### Article R714-3-46
 
@@ -88694,7 +88855,7 @@ _Cite_:
   - Code de la santé publique - art. R714-3-9 (M)
 
 
-##### Paragraphe 7 : Du comptable<a id=505></a>
+##### Paragraphe 7 : Du comptable<a id=506></a>
 
 ###### Article R714-3-51
 
@@ -88775,7 +88936,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-57 (T)
 
 
-##### Sous-section 4 : Programmes d'investissement<a id=506></a>
+##### Sous-section 4 : Programmes d'investissement<a id=507></a>
 
 ###### Article R714-4-1
 
@@ -88954,13 +89115,13 @@ _Cite_:
   - Code de la santé publique - art. R714-4-4 (Ab)
 
 
-##### Section 2 : Organes représentatifs<a id=507></a>
+##### Section 2 : Organes représentatifs<a id=508></a>
 
-##### Sous-section 1 : Commissions médicales d'établissement<a id=508></a>
+##### Sous-section 1 : Commissions médicales d'établissement<a id=509></a>
 
-##### Paragraphe 1 : Composition de commissions médicales d'établissement<a id=509></a>
+##### Paragraphe 1 : Composition de commissions médicales d'établissement<a id=510></a>
 
-##### I : Centres hospitaliers autres que les centres hospitaliers universitaires<a id=510></a>
+##### I : Centres hospitaliers autres que les centres hospitaliers universitaires<a id=511></a>
 
 ###### Article R714-16-1
 
@@ -89252,7 +89413,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-7 (V)
 
 
-##### II : Centres hospitaliers universitaires<a id=511></a>
+##### II : Centres hospitaliers universitaires<a id=512></a>
 
 ###### Article R714-16-6
 
@@ -89553,7 +89714,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-3 (M)
 
 
-##### III : Hôpitaux locaux<a id=512></a>
+##### III : Hôpitaux locaux<a id=513></a>
 
 ###### Article R714-16-11
 
@@ -89614,7 +89775,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-14 (V)
 
 
-##### IV : Syndicats interhospitaliers<a id=513></a>
+##### IV : Syndicats interhospitaliers<a id=514></a>
 
 ###### Article R714-16-12
 
@@ -89733,7 +89894,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-12 (M)
 
 
-##### Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement<a id=514></a>
+##### Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement<a id=515></a>
 
 ###### Article R714-16-14
 
@@ -90444,7 +90605,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-24 (M)
 
 
-##### Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux<a id=515></a>
+##### Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux<a id=516></a>
 
 ###### Article R714-16-29
 
@@ -90707,9 +90868,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-39 (V)
 
 
-##### Sous-section 2 : Comités techniques d'établissement<a id=516></a>
+##### Sous-section 2 : Comités techniques d'établissement<a id=517></a>
 
-##### Paragraphe 1 : Composition des comités techniques d'établissement<a id=517></a>
+##### Paragraphe 1 : Composition des comités techniques d'établissement<a id=518></a>
 
 ###### Article R714-17-1
 
@@ -91763,7 +91924,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-67 (V)
 
 
-##### Paragraphe 2 : Attributions des comités techniques d'établissement<a id=518></a>
+##### Paragraphe 2 : Attributions des comités techniques d'établissement<a id=519></a>
 
 ###### Article R714-18-1
 
@@ -91800,7 +91961,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-40 (V)
 
 
-##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement<a id=519></a>
+##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement<a id=520></a>
 
 ###### Article R714-18-2
 
@@ -92270,7 +92431,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-80 (V)
 
 
-##### Paragraphe 3 : Dispositions diverses<a id=520></a>
+##### Paragraphe 3 : Dispositions diverses<a id=521></a>
 
 ###### Article R714-18-15
 
@@ -92303,11 +92464,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-41 (V)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=521></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=522></a>
 
-##### Sous-section 1 : Des chefs de service ou de département<a id=522></a>
+##### Sous-section 1 : Des chefs de service ou de département<a id=523></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=523></a>
+##### Paragraphe 1 : Dispositions générales<a id=524></a>
 
 ###### Article R714-21-1
 
@@ -92384,7 +92545,7 @@ _Cite_:
   - Code de la santé publique - art. L714-21 (M)
 
 
-##### Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires<a id=524></a>
+##### Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires<a id=525></a>
 
 ###### Article R714-21-3
 
@@ -92493,7 +92654,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-21-1 (V)
 
 
-##### Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires<a id=525></a>
+##### Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires<a id=526></a>
 
 ###### Article R714-21-6
 
@@ -92530,7 +92691,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-21-8 (V)
 
 
-##### Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958<a id=526></a>
+##### Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958<a id=527></a>
 
 ###### Article R714-21-7
 
@@ -92570,7 +92731,7 @@ _Cité par_:
   - Arrêté du 20 août 1992 - art. 1 (V)
 
 
-##### I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein<a id=527></a>
+##### I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein<a id=528></a>
 
 ###### Article R714-21-8
 
@@ -92699,7 +92860,7 @@ _Cité par_:
   - Arrêté du 20 août 1992 - art. 4 (V)
 
 
-##### II. - Nomination aux fonctions de chef de service ou de département à temps partiel<a id=528></a>
+##### II. - Nomination aux fonctions de chef de service ou de département à temps partiel<a id=529></a>
 
 ###### Article R714-21-12
 
@@ -92768,9 +92929,9 @@ _Cite_:
   - Code de la santé publique - art. R714-21-12 (M)
 
 
-##### III<a id=529></a>
+##### III<a id=530></a>
 
-##### - Dispositions propres aux fonctions de chef de service ou de département de psychiatrie<a id=530></a>
+##### - Dispositions propres aux fonctions de chef de service ou de département de psychiatrie<a id=531></a>
 
 ###### Article R714-21-14
 
@@ -92898,9 +93059,9 @@ _Cité par_:
   - Loi n°2004-806 du 9 août 2004 - art. 155 (V)
 
 
-##### IV<a id=531></a>
+##### IV<a id=532></a>
 
-##### - Dispositions particulières aux pharmacies hospitalières<a id=532></a>
+##### - Dispositions particulières aux pharmacies hospitalières<a id=533></a>
 
 ###### Article R714-21-18
 
@@ -92930,7 +93091,7 @@ _Créé par_:
   - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
 
 
-##### V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre<a id=533></a>
+##### V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre<a id=534></a>
 
 ###### Article R714-21-19
 
@@ -92963,7 +93124,7 @@ _Cite_:
   - Code de la santé publique - art. R714-21-8 (M)
 
 
-##### Paragraphe 5 : Dispositions communes<a id=534></a>
+##### Paragraphe 5 : Dispositions communes<a id=535></a>
 
 ###### Article R714-21-20
 
@@ -93132,7 +93293,7 @@ _Créé par_:
   - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
 
 
-##### Sous-section 2 : Conseil de service ou de département<a id=535></a>
+##### Sous-section 2 : Conseil de service ou de département<a id=536></a>
 
 ###### Article R714-22-1
 
@@ -93461,7 +93622,7 @@ _Modifié par_:
   - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
-##### Sous-section 3 : Des responsables d'unité fonctionnelle<a id=536></a>
+##### Sous-section 3 : Des responsables d'unité fonctionnelle<a id=537></a>
 
 ###### Article R714-24-1
 
@@ -93510,7 +93671,7 @@ _Cité par_:
   - Code de la santé publique - art. R6146-18 (M)
 
 
-##### Sous-section 4 : Service de soins infirmiers<a id=537></a>
+##### Sous-section 4 : Service de soins infirmiers<a id=538></a>
 
 ###### Article R714-26-1
 
@@ -93807,7 +93968,7 @@ _Modifié par_:
   - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
-##### Section 4 : Les personnels des établissements publics de santé<a id=538></a>
+##### Section 4 : Les personnels des établissements publics de santé<a id=539></a>
 
 ###### Article R714-28-1
 
@@ -93955,11 +94116,11 @@ _Cité par_:
   - Code de la santé publique - art. R714-28-1 (Ab)
 
 
-#### Chapitre 5 : Les établissements de santé privés<a id=539></a>
+#### Chapitre 5 : Les établissements de santé privés<a id=540></a>
 
-##### Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement<a id=540></a>
+##### Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement<a id=541></a>
 
-##### Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier<a id=541></a>
+##### Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier<a id=542></a>
 
 ###### Article R715-7-1
 
@@ -94200,9 +94361,9 @@ _Cite_:
   - Code de la santé publique L312 à L314
 
 
-##### Sous-section 4 : De la concession du service public hospitalier<a id=542></a>
+##### Sous-section 4 : De la concession du service public hospitalier<a id=543></a>
 
-##### Paragraphe 1 : Objet, contenu et durée du contrat de concession<a id=543></a>
+##### Paragraphe 1 : Objet, contenu et durée du contrat de concession<a id=544></a>
 
 ###### Article R715-10-1
 
@@ -94348,7 +94509,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-10-10 (Ab)
 
 
-##### Paragraphe 2 : Procédure<a id=544></a>
+##### Paragraphe 2 : Procédure<a id=545></a>
 
 ###### Article R715-10-4
 
@@ -94549,7 +94710,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-10-10 (Ab)
 
 
-##### Paragraphe 3 : Renouvellement et prorogation du contrat de concession<a id=545></a>
+##### Paragraphe 3 : Renouvellement et prorogation du contrat de concession<a id=546></a>
 
 ###### Article R715-10-10
 
@@ -94594,7 +94755,7 @@ _Cite_:
   - Code de la santé publique - art. R715-10-9 (M)
 
 
-##### Paragraphe 4 : Contrôle<a id=546></a>
+##### Paragraphe 4 : Contrôle<a id=547></a>
 
 ###### Article R715-10-11
 
@@ -94653,7 +94814,7 @@ _Cité par_:
   - Code de la santé publique - art. R712-15 (M)
 
 
-##### Paragraphe 5 : Mesures diverses<a id=547></a>
+##### Paragraphe 5 : Mesures diverses<a id=548></a>
 
 ###### Article R715-10-13
 
@@ -94722,9 +94883,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-31 (V)
 
 
-##### Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier<a id=548></a>
+##### Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier<a id=549></a>
 
-##### Paragraphe 1 : Nature et objet de l'accord d'association<a id=549></a>
+##### Paragraphe 1 : Nature et objet de l'accord d'association<a id=550></a>
 
 ###### Article R715-11-1
 
@@ -94839,7 +95000,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-34 (V)
 
 
-##### Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association<a id=550></a>
+##### Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association<a id=551></a>
 
 ###### Article R715-11-4
 
@@ -94879,11 +95040,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-35 (V)
 
 
-#### Chapitre 6 : Expérimentation et dispositions diverses<a id=551></a>
+#### Chapitre 6 : Expérimentation et dispositions diverses<a id=552></a>
 
-##### Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux<a id=552></a>
+##### Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux<a id=553></a>
 
-##### Sous-section 1 : Assistance publique - hôpitaux de Paris<a id=553></a>
+##### Sous-section 1 : Assistance publique - hôpitaux de Paris<a id=554></a>
 
 ###### Article R716-3-1
 
@@ -94919,7 +95080,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6147-1 (V)
 
 
-##### Paragraphe 1 : Conseil d'administration<a id=554></a>
+##### Paragraphe 1 : Conseil d'administration<a id=555></a>
 
 ###### Article R716-3-2
 
@@ -95269,7 +95430,7 @@ _Cité par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 2 : Le directeur général et le secrétaire général<a id=555></a>
+##### Paragraphe 2 : Le directeur général et le secrétaire général<a id=556></a>
 
 ###### Article R716-3-10
 
@@ -95367,9 +95528,9 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 3 : Les instances représentatives centrales<a id=556></a>
+##### Paragraphe 3 : Les instances représentatives centrales<a id=557></a>
 
-##### A. - Commission médicale d'établissement<a id=557></a>
+##### A. - Commission médicale d'établissement<a id=558></a>
 
 ###### Article R716-3-13
 
@@ -95474,7 +95635,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-26 (Ab)
 
 
-##### B. - Comité technique central d'établissement<a id=558></a>
+##### B. - Comité technique central d'établissement<a id=559></a>
 
 ###### Article R716-3-15
 
@@ -95592,7 +95753,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### C : Commission centrale du service de soins infirmiers<a id=559></a>
+##### C : Commission centrale du service de soins infirmiers<a id=560></a>
 
 ###### Article R716-3-18
 
@@ -95645,9 +95806,9 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général<a id=560></a>
+##### Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général<a id=561></a>
 
-##### A. - Budget<a id=561></a>
+##### A. - Budget<a id=562></a>
 
 ###### Article R716-3-19
 
@@ -95666,7 +95827,7 @@ _Créé par_:
   - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
 
 
-##### B. - Direction<a id=562></a>
+##### B. - Direction<a id=563></a>
 
 ###### Article R716-3-20
 
@@ -95693,7 +95854,7 @@ _Créé par_:
   - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
 
 
-##### C. - Instances représentatives locales<a id=563></a>
+##### C. - Instances représentatives locales<a id=564></a>
 
 ###### Article R716-3-21
 
@@ -95742,7 +95903,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Commission de surveillance<a id=564></a>
+##### Commission de surveillance<a id=565></a>
 
 ###### Article R716-3-22
 
@@ -95923,7 +96084,7 @@ _Cite_:
   - Code de la santé publique - art. R716-3-9 (V)
 
 
-##### Comité consultatif médical<a id=565></a>
+##### Comité consultatif médical<a id=566></a>
 
 ###### Article R716-3-26
 
@@ -95956,7 +96117,7 @@ _Cite_:
   - Code de la santé publique R714-16-29 à R714-16-34, R716-3-14
 
 
-##### Comité technique local d'établissement<a id=566></a>
+##### Comité technique local d'établissement<a id=567></a>
 
 ###### Article R716-3-27
 
@@ -96075,7 +96236,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Commission locale du service de soins infirmiers<a id=567></a>
+##### Commission locale du service de soins infirmiers<a id=568></a>
 
 ###### Article R716-3-30
 
@@ -96119,7 +96280,7 @@ _Cité par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 5 : Contrôle financier<a id=568></a>
+##### Paragraphe 5 : Contrôle financier<a id=569></a>
 
 ###### Article R716-3-31
 
@@ -96151,7 +96312,7 @@ _Cite_:
   - Loi n°1922-08-10
 
 
-##### Paragraphe 6 : Marchés<a id=569></a>
+##### Paragraphe 6 : Marchés<a id=570></a>
 
 ###### Article R716-3-32
 
@@ -96187,7 +96348,7 @@ _Cite_:
   - Code de la santé publique - art. R716-3-33 (M)
 
 
-##### Paragraphe 7 : Contrôle de l'Etat<a id=570></a>
+##### Paragraphe 7 : Contrôle de l'Etat<a id=571></a>
 
 ###### Article R716-3-33
 
@@ -96335,7 +96496,7 @@ _Cite_:
   - Code de la santé publique - art. L714-9 (M)
 
 
-##### Paragraphe 8 : Dispositions diverses<a id=571></a>
+##### Paragraphe 8 : Dispositions diverses<a id=572></a>
 
 ###### Article R716-3-36
 
@@ -96422,7 +96583,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille<a id=572></a>
+##### Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille<a id=573></a>
 
 ###### Article R716-3-39
 
@@ -96459,7 +96620,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6147-3 (V)
 
 
-##### Paragraphe 1 : Conseil d'administration<a id=573></a>
+##### Paragraphe 1 : Conseil d'administration<a id=574></a>
 
 ###### Article R716-3-40
 
@@ -96675,7 +96836,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 2 : Directeur général et secrétaire général<a id=574></a>
+##### Paragraphe 2 : Directeur général et secrétaire général<a id=575></a>
 
 ###### Article R716-3-45
 
@@ -96723,7 +96884,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 3 : Instances représentatives centrales<a id=575></a>
+##### Paragraphe 3 : Instances représentatives centrales<a id=576></a>
 
 ###### Article R716-3-46
 
@@ -96902,7 +97063,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 4 : Instances représentatives locales<a id=576></a>
+##### Paragraphe 4 : Instances représentatives locales<a id=577></a>
 
 ###### Article R716-3-50
 
@@ -97202,7 +97363,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Sous-section 3 : Etablissements publics nationaux<a id=577></a>
+##### Sous-section 3 : Etablissements publics nationaux<a id=578></a>
 
 ###### Article R716-3-57
 
@@ -97546,7 +97707,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif<a id=578></a>
+##### Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif<a id=579></a>
 
 ###### Article R716-5-1
 
@@ -97864,7 +98025,7 @@ _Abrogé par_:
   - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
 
 
-##### Section 5 : Dispositions diverses<a id=579></a>
+##### Section 5 : Dispositions diverses<a id=580></a>
 
 ###### Article R716-9-1
 
@@ -97900,11 +98061,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-5 (T)
 
 
-# Partie réglementaire ancienne - Décrets simples<a id=580></a>
+# Partie réglementaire ancienne - Décrets simples<a id=581></a>
 
-## Livre VI : Utilisation thérapeutique de produits d'origine humaine<a id=581></a>
+## Livre VI : Utilisation thérapeutique de produits d'origine humaine<a id=582></a>
 
-### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=582></a>
+### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=583></a>
 
 ###### Article D666-3-1
 
@@ -98019,13 +98180,13 @@ _Cite_:
   - Code de la santé publique - art. L667-9 (M)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=583></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=584></a>
 
-### Titre Ier : Etablissements de santé<a id=584></a>
+### Titre Ier : Etablissements de santé<a id=585></a>
 
-#### Chapitre Ier : Missions et obligations des établissements de santé<a id=585></a>
+#### Chapitre Ier : Missions et obligations des établissements de santé<a id=586></a>
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=586></a>
+##### Section 2 : Dispositions propres au service public hospitalier<a id=587></a>
 
 ###### Article D711-6-1
 
@@ -98118,7 +98279,7 @@ _Cite_:
   - Code de la santé publique - art. L711-6 (M)
 
 
-##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=587></a>
+##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=588></a>
 
 ###### Article D711-9-1
 
@@ -98424,7 +98585,7 @@ _Cite_:
   - Code de la santé publique R711-9-1
 
 
-##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=588></a>
+##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=589></a>
 
 ###### Article D711-16-3
 
@@ -98511,11 +98672,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-50 (T)
 
 
-#### Chapitre II : L'organisation et l'équipement sanitaires<a id=589></a>
+#### Chapitre II : L'organisation et l'équipement sanitaires<a id=590></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=590></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=591></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=591></a>
+##### Sous-section 1 : Du collège national d'experts<a id=592></a>
 
 ###### Article D712-2
 
@@ -98610,7 +98771,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=592></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=593></a>
 
 ###### Article D712-7
 
@@ -98694,7 +98855,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=593></a>
+##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=594></a>
 
 ###### Article D712-13-1
 
@@ -98751,7 +98912,7 @@ _Cite_:
   - Code de la santé publique - art. L712-4 (Ab)
 
 
-##### Sous-section 4 : Regroupements et reconversions<a id=594></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=595></a>
 
 ###### Article D712-13-3
 
@@ -98878,9 +99039,9 @@ _Créé par_:
   - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
 
 
-##### Section 2 : Autorisations<a id=595></a>
+##### Section 2 : Autorisations<a id=596></a>
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=596></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=597></a>
 
 ###### Article D712-16
 
@@ -98908,11 +99069,11 @@ _Cite_:
   - Code de la santé publique - art. D712-15 (M)
 
 
-##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=597></a>
+##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=598></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=598></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=599></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=599></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=600></a>
 
 ###### Article D712-30
 
@@ -99051,7 +99212,7 @@ _Cite_:
   - Code de la santé publique - art. D712-30 (M)
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=600></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=601></a>
 
 ###### Article D712-35
 
@@ -99137,11 +99298,11 @@ _Cité par_:
   - Code de la santé publique - art. D712-37 (Ab)
 
 
-#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=601></a>
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=602></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=602></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=603></a>
 
-##### Sous-section 4 : Regroupements et reconversions<a id=603></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=604></a>
 
 ###### Article D712-13-2
 
@@ -99188,11 +99349,11 @@ _Cite_:
   - Code de la santé publique - art. L712-11 (M)
 
 
-#### Chapitre IV : Les établissements publics de santé<a id=604></a>
+#### Chapitre IV : Les établissements publics de santé<a id=605></a>
 
-##### Section 1 : Organisation administrative et financière<a id=605></a>
+##### Section 1 : Organisation administrative et financière<a id=606></a>
 
-##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=606></a>
+##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=607></a>
 
 ###### Article D714-2-1
 
@@ -99329,7 +99490,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (M)
 
 
-##### Sous-section 4 : Composition des groupes fonctionnels<a id=607></a>
+##### Sous-section 4 : Composition des groupes fonctionnels<a id=608></a>
 
 ###### Article D714-7-1
 
@@ -99385,7 +99546,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6145-6 (Ab)
 
 
-##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=608></a>
+##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=609></a>
 
 ###### Article D714-12-1
 
@@ -99485,7 +99646,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6143-36 (V)
 
 
-##### Sous-section 5 : Virements de crédits<a id=609></a>
+##### Sous-section 5 : Virements de crédits<a id=610></a>
 
 ###### Article D714-12-5
 
@@ -99528,9 +99689,9 @@ _Cite_:
   - Code de la santé publique R714-3-38, R714-3-11 à R714-3-13, R714-3-27
 
 
-##### Section 2 : organes représentatifs<a id=610></a>
+##### Section 2 : organes représentatifs<a id=611></a>
 
-##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=611></a>
+##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=612></a>
 
 ###### Article D714-17-1
 
@@ -99561,7 +99722,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=612></a>
+##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=613></a>
 
 ###### Article D714-19-1
 
@@ -99618,7 +99779,7 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Section 2 : Organisation des soins et fonctionnement médical<a id=613></a>
+##### Section 2 : Organisation des soins et fonctionnement médical<a id=614></a>
 
 ###### Article D714-21-1
 
@@ -99664,7 +99825,7 @@ _Cité par_:
   - Code de la santé publique - art. D714-21-2 (M)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=614></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=615></a>
 
 ###### Article D714-21-2
 
@@ -99727,11 +99888,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6151-1 (V)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=615></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=616></a>
 
-### Chapitre Ier : Missions et obligations des établissements de santé<a id=616></a>
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=617></a>
 
-#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=617></a>
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=618></a>
 
 ###### Article D711-16-1
 
@@ -99866,11 +100027,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-47 (T)
 
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=618></a>
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=619></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=619></a>
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=620></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=620></a>
+##### Sous-section 1 : Du collège national d'experts<a id=621></a>
 
 ###### Article D712-1
 
@@ -99968,7 +100129,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=621></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=622></a>
 
 ###### Article D712-8
 
@@ -100115,9 +100276,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=622></a>
+#### Section 2 : Autorisations<a id=623></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=623></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=624></a>
 
 ###### Article D712-14
 
@@ -100156,7 +100317,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L712-12 (M)
 
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=624></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=625></a>
 
 ###### Article D712-15
 
@@ -100217,11 +100378,11 @@ _Cite_:
   - Code de la santé publique - art. L712-2 (M)
 
 
-#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=625></a>
+#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=626></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=626></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=627></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=627></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=628></a>
 
 ###### Article D712-31
 
@@ -100328,7 +100489,7 @@ _Cite_:
   - Code de la santé publique D712-30, D712-32, D712-33, R710-2-1 à R710-2-10
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=628></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=629></a>
 
 ###### Article D712-36
 
@@ -100445,15 +100606,15 @@ _Cité par_:
   - Code de la santé publique - art. D712-39 (Ab)
 
 
-# Annexes<a id=629></a>
+# Annexes<a id=630></a>
 
-## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=630></a>
+## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=631></a>
 
-### Titre 2 : Du sang humain<a id=631></a>
+### Titre 2 : Du sang humain<a id=632></a>
 
-#### Chapitre 3 : Des établissements de transfusion sanguine<a id=632></a>
+#### Chapitre 3 : Des établissements de transfusion sanguine<a id=633></a>
 
-##### Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public.<a id=633></a>
+##### Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public.<a id=634></a>
 
 ###### Article Annexe II aux articles R668-1-1 à R668-21
 
