@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1977-06-23
+Version Consolidée au 1977-07-10
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -200,7 +200,7 @@ Version Consolidée au 1977-06-23
           - [Section 1 : Des officines de pharmacie (art. L568 à L578)](#197)
           - [Section 2 : Exercice personnel de la profession (art. L579 à L580)](#198)
           - [Section 3 : Des préparateurs en pharmacie (art. L581 à L588)](#199)
-          - [Section 4 : Règles générales de la pharmacie d'officine (art. L588-1 à L593)](#200)
+          - [Section 4 : Règles générales de la pharmacie d'officine (art. L588-1 à L593-1)](#200)
           - [Section 5 : Délivrance des médicaments par les médecins (art. L594 à L595)](#201)
         - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. L596 à L603)](#202)
           - [Section 1 : Des établissements de préparation et de vente en gros (art. L596 à L600)](#203)
@@ -24471,6 +24471,41 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de la santé publique - art. L601 (M)
+
+
+###### Article L593-1
+
+Les pharmaciens et les personnes légalement autorisées à les seconder pour la délivrance des médicaments dans une officine de
+pharmacie doivent porter un insigne indiquant leur qualité [*obligation*] ; les caractéristiques de cet insigne ainsi que les
+conditions selon lesquelles le public est informé de sa signification, sont fixées par arrêté du ministre chargé de la santé.
+
+Toute personne portant, contrairement aux dispositions de l'alinéa précédent, un insigne ne correspondant pas à sa qualité
+sera passible des sanctions prévues au premier alinéa de l'article 259 du code pénal.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté 1978-10-19 JORF 24 octobre : INSIGNE
+  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°77-745 1977-07-08 art. 6 JORF 10 juillet 1977
+
+_Cite_:
+
+  - Code pénal 259
 
 
 ##### Section 5 : Délivrance des médicaments par les médecins<a id=201></a>
