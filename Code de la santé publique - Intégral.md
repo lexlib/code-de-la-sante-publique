@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1987-07-25
+Version Consolidée au 1987-07-31
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -58,7 +58,7 @@ Version Consolidée au 1987-07-25
         - [Chapitre 8 : Dispositions relatives aux départements d'outre-mer. (art. L190 à L190-1)](#55)
       - [Titre 2 : Santé scolaire et universitaire. (art. L191 à L198)](#56)
       - [Titre 3 : Maisons d'enfants à caractère sanitaire. (art. L199 à L208)](#57)
-    - [Livre 3 : Lutte contre les fléaux sociaux (art. L214 à L355-21)](#58)
+    - [Livre 3 : Lutte contre les fléaux sociaux (art. L214 à L355-23)](#58)
       - [Titre 1 : Lutte contre la tuberculose (art. L214 à L253)](#59)
         - [Chapitre 1 : Prophylaxie (art. L215 à L225)](#60)
           - [Section 1 : Vaccination par le B.C.G. et dispositions pénales. (art. L215 à L218)](#61)
@@ -132,45 +132,45 @@ Version Consolidée au 1987-07-25
         - [Chapitre 1 : Dispositions particulières aux personnes signalées par le procureur de la République (art. L355-15 à L355-17)](#129)
         - [Chapitre 2 : Dispositions particulières aux personnes signalées par les services médicaux et sociaux (art. L355-18 à L355-20)](#130)
         - [Chapitre 3 : Dispositions particulières aux personnes se présentant spontanément aux services de prévention ou de cure (art. L355-21)](#131)
-    - [LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX (art. L356 à L510-11)](#132)
-      - [TITRE 1 : PROFESSIONS DE MEDECIN, DE CHIRURGIEN DENTISTE ET DE SAGE-FEMME (art. L356 à L471)](#133)
-        - [CHAPITRE 1 : EXERCICE DE LA PROFESSION (art. L356 à L379)](#134)
-          - [SECTION 1 : CONDITIONS AUXQUELLES EST SUBORDONNE L'EXERCICE DE LA PROFESSION. (art. L356 à L360)](#135)
-          - [Section 2 : Règles d'exercice de la profession (art. L361 à L371-1)](#136)
-            - [Paragraphe 1 : Règles communes *à l'exercice de la profession de médecin, chirurgien-dentiste ou sage-femme* (art. L361 à L366)](#137)
-            - [Paragraphe 2 : Règles propres à l'exercice de la profession de médecin (art. L367 à L367-1)](#138)
-            - [Paragraphe 3 : Règles propres à l'exercice de la profession de chirurgien-dentiste (art. L368 à L368-1)](#139)
-            - [Paragraphe 4 : Règles propres à l'exercice de la profession de sage-femme (art. L369 à L371-1)](#140)
-          - [Section 3 : Exercice illégal des professions de médecin, de chirurgien-dentiste et de sage-femme (art. L372 à L374)](#141)
-          - [SECTION 4 : DISPOSITIONS PENALES. (art. L375 à L379)](#142)
-        - [Chapitre 2 : Organisation de la profession de médecin (art. L381 à L428)](#143)
-          - [Section 1 : Ordre national des médecins (art. L381 à L382)](#144)
-          - [Section 2 : Conseils de l'Ordre des médecins (art. L383 à L410-1)](#145)
-            - [Paragraphe 1 : Conseils départementaux *de l'Ordre des médecins* (art. L383 à L397)](#146)
-            - [Paragraphe 2 : Conseils régionaux *de l'Ordre des médecins* (art. L398 à L403)](#147)
-            - [Paragraphe 3 : Conseil national *de l'Ordre des médecins* (art. L404 à L410-1)](#148)
-          - [Section 3 : Inscription aux tableaux départementaux de l'Ordre (art. L413 à L416)](#149)
-          - [Section 4 : Discipline (art. L417 à L428)](#150)
-        - [Chapitre 3 : Organisation de la profession dentaire (art. L429 à L443)](#151)
-          - [Section 1 : Ordre national des chirurgiens-dentistes (art. L429 à L431)](#152)
-          - [Section 2 : Conseils de l'Ordre des chirurgiens-dentistes (art. L432 à L440)](#153)
-            - [Paragraphe 1 : Des conseils départementaux (art. L432 à L435)](#154)
-            - [Paragraphe 2 : Conseils régionaux (art. L436 à L438)](#155)
-            - [Paragraphe 3 : Conseil national de l'Ordre (art. L439 à L440)](#156)
-          - [Section 3 : Inscription aux tableaux départementaux de l'Ordre et discipline (art. L441 à L443)](#157)
-        - [Chapitre 4 : Organisation de la profession de sage-femme (art. L444 à L456)](#158)
-          - [Section 1 : Ordre national des sages-femmes (art. L444 à L445)](#159)
-          - [Section 2 : Conseils de l'Ordre des sages-femmes (art. L446 à L452)](#160)
-            - [Paragraphe 1 : Conseils départementaux (art. L446 à L448)](#161)
-            - [Paragraphe 2 : Conseil national (art. L449 à L452)](#162)
-          - [Section 3 : Inscription au tableau et discipline (art. L453 à L456)](#163)
-        - [Chapitre 5 : Dispositions communes à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme (art. L457 à L465)](#164)
-        - [Chapitre 6 : Mesures d'adaptation pour les départements d'outre-mer. (art. L466 à L471)](#165)
-      - [TITRE 1 : PROFESSION DE MEDECIN (art. L411 à L412)](#166)
-        - [CHAPITRE 2 : ORGANISATION DE LA PROFESSION DE MEDECIN (art. L411 à L412)](#167)
-          - [SECTION 2 : CONSEILS DE L'ORDRE DES MEDECINS (art. L411)](#168)
-            - [PARAGRAPHE 3 : CONSEIL NATIONAL *DE L'ORDRE DES MEDECINS*. (art. L411)](#169)
-          - [SECTION 3 : INSCRIPTION AUX TABLEAUX DEPARTEMENTAUX DE L'ORDRE. (art. L412)](#170)
+      - [Titre 7 : Lutte contre l'infection par le virus de l'immuno-déficience humaine *SIDA*. (art. L355-22 à L355-23)](#132)
+    - [LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX (art. L356 à L510-11)](#133)
+      - [TITRE 1 : PROFESSIONS DE MEDECIN, DE CHIRURGIEN DENTISTE ET DE SAGE-FEMME (art. L356 à L471)](#134)
+        - [CHAPITRE 1 : EXERCICE DE LA PROFESSION (art. L356 à L379)](#135)
+          - [SECTION 1 : CONDITIONS AUXQUELLES EST SUBORDONNE L'EXERCICE DE LA PROFESSION. (art. L356 à L360)](#136)
+          - [Section 2 : Règles d'exercice de la profession (art. L361 à L371-1)](#137)
+            - [Paragraphe 1 : Règles communes *à l'exercice de la profession de médecin, chirurgien-dentiste ou sage-femme* (art. L361 à L366)](#138)
+            - [Paragraphe 2 : Règles propres à l'exercice de la profession de médecin (art. L367 à L367-1)](#139)
+            - [Paragraphe 3 : Règles propres à l'exercice de la profession de chirurgien-dentiste (art. L368 à L368-1)](#140)
+            - [Paragraphe 4 : Règles propres à l'exercice de la profession de sage-femme (art. L369 à L371-1)](#141)
+          - [Section 3 : Exercice illégal des professions de médecin, de chirurgien-dentiste et de sage-femme (art. L372 à L374)](#142)
+          - [SECTION 4 : DISPOSITIONS PENALES. (art. L375 à L379)](#143)
+        - [Chapitre 2 : Organisation de la profession de médecin (art. L381 à L428)](#144)
+          - [Section 1 : Ordre national des médecins (art. L381 à L382)](#145)
+          - [Section 2 : Conseils de l'Ordre des médecins (art. L383 à L410-1)](#146)
+            - [Paragraphe 1 : Conseils départementaux *de l'Ordre des médecins* (art. L383 à L397)](#147)
+            - [Paragraphe 2 : Conseils régionaux *de l'Ordre des médecins* (art. L398 à L403)](#148)
+            - [Paragraphe 3 : Conseil national *de l'Ordre des médecins* (art. L404 à L410-1)](#149)
+          - [Section 3 : Inscription aux tableaux départementaux de l'Ordre (art. L412 à L416)](#150)
+          - [Section 4 : Discipline (art. L417 à L428)](#151)
+        - [Chapitre 3 : Organisation de la profession dentaire (art. L429 à L443)](#152)
+          - [Section 1 : Ordre national des chirurgiens-dentistes (art. L429 à L431)](#153)
+          - [Section 2 : Conseils de l'Ordre des chirurgiens-dentistes (art. L432 à L440)](#154)
+            - [Paragraphe 1 : Des conseils départementaux (art. L432 à L435)](#155)
+            - [Paragraphe 2 : Conseils régionaux (art. L436 à L438)](#156)
+            - [Paragraphe 3 : Conseil national de l'Ordre (art. L439 à L440)](#157)
+          - [Section 3 : Inscription aux tableaux départementaux de l'Ordre et discipline (art. L441 à L443)](#158)
+        - [Chapitre 4 : Organisation de la profession de sage-femme (art. L444 à L456)](#159)
+          - [Section 1 : Ordre national des sages-femmes (art. L444 à L445)](#160)
+          - [Section 2 : Conseils de l'Ordre des sages-femmes (art. L446 à L452)](#161)
+            - [Paragraphe 1 : Conseils départementaux (art. L446 à L448)](#162)
+            - [Paragraphe 2 : Conseil national (art. L449 à L452)](#163)
+          - [Section 3 : Inscription au tableau et discipline (art. L453 à L456)](#164)
+        - [Chapitre 5 : Dispositions communes à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme (art. L457 à L465)](#165)
+        - [Chapitre 6 : Mesures d'adaptation pour les départements d'outre-mer. (art. L466 à L471)](#166)
+      - [TITRE 1 : PROFESSION DE MEDECIN (art. L411)](#167)
+        - [CHAPITRE 2 : ORGANISATION DE LA PROFESSION DE MEDECIN (art. L411)](#168)
+          - [SECTION 2 : CONSEILS DE L'ORDRE DES MEDECINS (art. L411)](#169)
+            - [PARAGRAPHE 3 : CONSEIL NATIONAL *DE L'ORDRE DES MEDECINS*. (art. L411)](#170)
       - [Titre 2 : Profession d'infirmier ou d'infirmière (art. L473 à L486)](#171)
         - [Chapitre 1 : Conditions auxquelles est subordonné l'exercice de la profession (art. L473 à L477)](#172)
         - [Chapitre 2 : Règles d'exercice de la profession et dispositions pénales. (art. L478 à L486)](#173)
@@ -13043,13 +13043,89 @@ _Cité par_:
   - Code de la santé publique - art. L628-1 (Ab)
 
 
-## LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX<a id=132></a>
+### Titre 7 : Lutte contre l'infection par le virus de l'immuno-déficience humaine *SIDA*.<a id=132></a>
 
-### TITRE 1 : PROFESSIONS DE MEDECIN, DE CHIRURGIEN DENTISTE ET DE SAGE-FEMME<a id=133></a>
+###### Article L355-22
 
-#### CHAPITRE 1 : EXERCICE DE LA PROFESSION<a id=134></a>
+La définition de la politique de lutte contre l'infection par le virus de l'immuno-déficience humaine appartient à l'Etat.
 
-##### SECTION 1 : CONDITIONS AUXQUELLES EST SUBORDONNE L'EXERCICE DE LA PROFESSION.<a id=135></a>
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L3121-1 (M)
+  - Code de la santé publique - art. L3121-1 (V)
+
+_Créé par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 29 () JORF 31 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L355-23
+
+Dans chaque département, le représentant de l'Etat désigne au moins une consultation destinée à effectuer de façon anonyme et
+gratuite le dépistage de l'infection par le virus de l'immuno-déficience humaine [*SIDA*].
+
+Les conditions de désignation et le fonctionnement de ces consultations sont fixés par décret. Ce même décret précise les
+conditions dans lesquelles les dépenses afférentes à ce dépistage sont prises en charge par l'Etat et les organismes
+d'assurance maladie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 29 () JORF 31 juillet 1987
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988 - art. 10 (Ab)
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988 - art. 3-1 (Ab)
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988 - art. 6 (Ab)
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988 - art. 7 (Ab)
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988 - art. 8 (Ab)
+  - TXT_SOURCE: Décret n°88-61 du 18 janvier 1988 - art. 9 (Ab)
+  - TXT_SOURCE: Décret n°98-74 du 11 février 1998
+
+_Cité par_:
+
+  - Décret n°88-61 du 18 janvier 1988 - art. 1 (Ab)
+  - Décret n°88-61 du 18 janvier 1988 - art. 10 (Ab)
+  - Décret n°2000-763 du 1 août 2000 - art. 2 (Ab)
+  - Code de la sécurité sociale. - art. D174-15 (V)
+  - Code de la sécurité sociale. - art. L174-16 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L3121-2 (V)
+
+
+## LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX<a id=133></a>
+
+### TITRE 1 : PROFESSIONS DE MEDECIN, DE CHIRURGIEN DENTISTE ET DE SAGE-FEMME<a id=134></a>
+
+#### CHAPITRE 1 : EXERCICE DE LA PROFESSION<a id=135></a>
+
+##### SECTION 1 : CONDITIONS AUXQUELLES EST SUBORDONNE L'EXERCICE DE LA PROFESSION.<a id=136></a>
 
 ###### Article L356
 
@@ -13067,7 +13143,7 @@ de celles qui découlent d'engagements internationaux autres que ceux mentionné
 
 Toutefois, lorsqu'un Etat étranger accorde à des médecins, chirurgiens-dentistes ou sages-femmes nationaux français ou
 ressortissants français, le droit d'exercer leur profession sur son territoire, le ressortissant de cet Etat peut être
-autorisé à pratiquer son art en France par arrêté du ministre de la santé publique et de la population, si des accords ont
+autorisé à pratiquer son art en France par arrêté du ministre de la Santé publique et de la population, si des accords ont
 été passés à cet effet avec cet Etat et si l'équivalence de la valeur scientifique du diplôme est reconnue par le ministre de
 l'Education nationale [*condition*]. Ces accords, conclus avec l'agrément du ministre de la santé publique et de la
 population, devront comporter obligatoirement la parité effective et stipuleront le nombre des praticiens étrangers que
@@ -13081,44 +13157,50 @@ En outre, le ministre chargé de la santé publique peut, après avis d'une comm
 conseils nationaux des ordres et des organisations syndicales nationales des professions intéressées, choisis par ces
 organismes, autoriser individuellement à exercer :
 
-- des personnes étrangères titulaires d'un diplôme français permettant l'exercice de la profession ;
+- des personnes étrangères titulaires d'un diplôme, certificat ou autre titre mentionné à l'article L. 356-2 ;
 
 - des personnes françaises ou étrangères, titulaires d'un diplôme, titre ou certificat de valeur scientifique reconnue
 équivalente par le ministre chargé des universités à celle d'un diplôme français permettant l'exercice de la profession et
 qui ont subi avec succès des épreuves définies par voie réglementaire.
 
-Le nombre maximum de ces autorisations est fixé chaque année par voie réglementaire, en accord avec la commission prévue ci-
-dessus et compte tenu du mode d'exercice de la profession.
+Le nombre maximum de ces autorisations est fixé chaque année par arrêté du ministre chargé de la santé, en accord avec la
+commission prévue ci-dessus et compte tenu du mode d'exercice de la profession.
 
 Lorsqu'un établissement hospitalier, établi sur le territoire français par un organisme étranger, a obtenu la reconnaissance
 d'utilité publique avant le 10 juin 1949 [*date*], le ministre de la santé publique et de la population peut autoriser, par
 arrêté individuel, certains praticiens attachés à cet établissement à exercer leur art en France, par dérogation aux
 dispositions des paragraphes 1er et 2ème du présent article et après avis des organisations nationales intéressées. Ces
-praticiens devront être inscrits au tableau de l'ordre intéressé. Le nombre maximum par établissement hospitalier de ces
-praticiens autorisés est fixé par arrêté conjoint du ministre de la santé publique et de la population et du ministre des
-affaires étrangères, et l'autorisation n'est valable que pour la période durant laquelle lesdits praticiens sont
-effectivement attachés à cet établissement ;
+praticiens devront être inscrits au tableau de l'ordre intéressé.
+
+Le nombre maximum par établissement hospitalier de ces praticiens autorisés est fixé par arrêté conjoint du ministre de la
+santé publique et de la population et du ministre des affaires étrangères, et l'autorisation n'est valable que pour la
+période durant laquelle lesdits praticiens sont effectivement attachés à cet établissement ;
 
 3° Inscrit à un tableau de l'ordre des médecins, à un tableau de l'ordre des chirurgiens-dentistes ou à un tableau de l'ordre
 des sages-femmes ;
 
 Toutefois, cette dernière condition ne s'applique pas [*non*] aux médecins, chirurgiens-dentistes et sages-femmes appartenant
-aux cadres actifs du service de santé des armées. Elle ne s'applique pas non plus à ceux des médecins, chirurgiens-dentistes
-ou sages-femmes qui, ayant la qualité de fonctionnaire de l'Etat ou d'agent titulaire d'une collectivité locale ne sont pas
-appelés, dans l'exercice de leurs fonctions, à exercer la médecine ou l'art dentaire ou à pratiquer les actes entrant dans la
-définition de la profession de sage-femme.
+aux cadres actifs du service de santé des armées.
+
+Elle ne s'applique pas non plus à ceux des médecins, chirurgiens-dentistes ou sages-femmes qui, ayant la qualité de
+fonctionnaire de l'Etat ou d'agent titulaire d'une collectivité locale ne sont pas appelés, dans l'exercice de leurs
+fonctions, à exercer la médecine ou l'art dentaire ou à pratiquer les actes entrant dans la définition de la profession de
+sage-femme.
 
 **Nota:**
 
-[*Nota : Code de la santé publique L357 : DEROGATION POUR CERTAINS ETRANGERS.*]
+[*Nota : Code de la santé publique L357 : DEROGATION POUR CERTAINS ETRANGERS.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Arrêté 1919-09-24
-  - Décret n°1922-07-05
   - Décret n°1947-01-15
+  - Décret n°1922-07-05
   - Loi n°1892-11-30
   - Loi n°1921-07-13
   - Loi n°1924-08-10
@@ -13186,7 +13268,7 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
 
 **Liens**:
 
@@ -13260,7 +13342,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°84-391 1984-05-25 ART. 2, ART. 13 JORF 26 MAI 1984
+  - Loi n°87-588 du 30 juillet 1987 - art. 30 () JORF 31 juillet 1987
 
 
 ###### Article L356-1
@@ -13629,22 +13711,22 @@ _Abrogé par_:
 
 ###### Article L359
 
-Les étudiants en médecine français ou ressortissant de l'un des états membres de la communauté économique européenne
+Les étudiants en médecine français ou ressortissant de l'un des Etats membres de la Communauté économique européenne
 [*condition de nationalité*] reçus au concours de l'internat des centres hospitaliers régionaux faisant partie d'un centre
-hospitalier et universitaire et les étudiants en médecine français ou ressortissants de l'un des états membres de la
-communauté économique européenne ayant achevé en France avec succès le deuxième cycle des études médicales peuvent être
+hospitalier et universitaire et les étudiants en médecine français ou ressortissants de l'un des Etats membres de la
+Communauté économique européenne ayant achevé en France avec succès le deuxième cycle des études médicales peuvent être
 autorisés à exercer la médecine soit en temps d'épidémie, soit à titre de remplaçant d'un docteur en médecine, soit, en cas
 d'afflux exceptionnel de population dans une région déterminée, comme adjoint d'un docteur en médecine.
 
 Par dérogation aux dispositions ci-dessus, les étudiants en médecine français ou ressortissants de l'un des Etats membres de
-la communauté économique européenne ayant validé en France la totalité des enseignements théoriques afférents à la deuxième
+la Communauté économique européenne ayant validé en France la totalité des enseignements théoriques afférents à la deuxième
 partie du deuxième cycle des études médicales peuvent être autorisés à effectuer des remplacements pendant leur congé
 [*payé*] annuel.
 
 Les autorisations visées aux alinéas ci-dessus sont délivrées par le préfet [*autorité compétente*], après avis favorable du
 conseil départemental de l'ordre, et limitées à trois mois [*durée*] ; elles sont renouvelables dans les mêmes conditions.
 
-Lorsque les besoins de la santé publique l'exigent, le ministre chargé de la santé publique [*autorité compétente*] peut, par
+Lorsque les besoins de la santé publique l'exigent, le ministre chargé de la Santé publique [*autorité compétente*] peut, par
 arrêté pris, sauf en cas d'extrême urgence, après avis des conseils de l'ordre intéressés, habiliter les préfets à autoriser,
 dans les conditions prévues à l'alinéa précédent, l'exercice de la médecine par :
 
@@ -13665,15 +13747,15 @@ Peuvent être autorisés par le préfet, après avis du conseil départemental d
 de remplaçant, soit comme adjoint d'un chirurgien dentiste :
 
 1° Pour les seules périodes de vacances universitaires et dans la limite de deux années consécutives [*durée*], les étudiants
-en chirurgie dentaire français ou ressortissants de l'un des états membres de la communauté économique européenne ayant
+en chirurgie dentaire français ou ressortissants de l'un des Etats membres de la Communauté économique européenne ayant
 accompli en France leur quatrième année d'études odontologiques, celle-ci étant validée ; dans ce cas, l'avis du directeur de
 l'unité d'enseignement et de recherche d'otontologie doit avoir été recueilli par le conseil de l'ordre ;
 
-2° Les étudiants en chirurgie dentaire français ou ressortissants de l'un des états membres de la communauté économique
-européenne ayant satisfait en France à l'examen de cinquième année, pendant l'année qui suit cet examen, ce délai pouvant
-être prorogé d'une durée égale à celle du service national accompli par les intéressés à la suite dudit examen. Le bénéfice
-de l'autorisation préfectorale est prolongé après la soutenance de thèse jusqu'à ce qu'il soit statué sur leur demande
-d'inscription au tableau de l'ordre, si la demande est faite dans le mois de cette soutenance.
+2° Les étudiants en chirurgie dentaire français ou ressortissants de l'un des Etats membres des Communautés européennes ayant
+satisfait en France à l'examen de cinquième année, à compter de cet examen et jusqu'à la fin de l'année civile qui suit , ce
+délai pouvant être prorogé d'une durée égale à celle du service national accompli par les intéressés à la suite dudit examen.
+Le bénéfice de l'autorisation préfectorale est prolongé après la soutenance de thèse jusqu'à ce qu'il soit statué sur leur
+demande d'inscription au tableau de l'ordre, si la demande est faite dans le mois de cette soutenance.
 
 **Liens relatifs à cet article**
 
@@ -13703,13 +13785,6 @@ _Cité par_:
   - Code de la sécurité sociale. - art. L722-1 (M)
   - Code des débits de boissons et des mesures contre  - art. R*18 (Ab)
 
-_Modifié par_:
-
-  - Loi n°58-350 1958-04-04 art. 1 JORF 5 avril 1958
-  - Loi n°72-660 1972-07-13 art. 2 JORF 14 juillet 1972
-  - Loi n°75-1282 1975-12-30 art. 1 JORF 31 décembre 1975
-  - Loi n°80-1040 1980-12-23 art. 3 et art. 4 JORF 24 décembre 1980
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°94-120 du 4 février 1994
@@ -13721,6 +13796,10 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. 6 (Ab)
   - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. ANNEXE (Ab)
   - TXT_SOURCE: Décret n°98-168 du 13 mars 1998
+
+_Modifié par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 31 () JORF 31 juillet 1987
 
 
 ###### Article L359-1
@@ -13801,9 +13880,9 @@ _Modifié par_:
   - Loi n°55-19 1955-01-04 art. 2 JORF 7 janvier 1955
 
 
-##### Section 2 : Règles d'exercice de la profession<a id=136></a>
+##### Section 2 : Règles d'exercice de la profession<a id=137></a>
 
-##### Paragraphe 1 : Règles communes *à l'exercice de la profession de médecin, chirurgien-dentiste ou sage-femme*<a id=137></a>
+##### Paragraphe 1 : Règles communes *à l'exercice de la profession de médecin, chirurgien-dentiste ou sage-femme*<a id=138></a>
 
 ###### Article L361
 
@@ -14103,7 +14182,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4127-1 (V)
 
 
-##### Paragraphe 2 : Règles propres à l'exercice de la profession de médecin<a id=138></a>
+##### Paragraphe 2 : Règles propres à l'exercice de la profession de médecin<a id=139></a>
 
 ###### Article L367
 
@@ -14189,7 +14268,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4111-5 (V)
 
 
-##### Paragraphe 3 : Règles propres à l'exercice de la profession de chirurgien-dentiste<a id=139></a>
+##### Paragraphe 3 : Règles propres à l'exercice de la profession de chirurgien-dentiste<a id=140></a>
 
 ###### Article L368
 
@@ -14250,7 +14329,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4111-5 (V)
 
 
-##### Paragraphe 4 : Règles propres à l'exercice de la profession de sage-femme<a id=140></a>
+##### Paragraphe 4 : Règles propres à l'exercice de la profession de sage-femme<a id=141></a>
 
 ###### Article L369
 
@@ -14400,7 +14479,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4111-5 (V)
 
 
-##### Section 3 : Exercice illégal des professions de médecin, de chirurgien-dentiste et de sage-femme<a id=141></a>
+##### Section 3 : Exercice illégal des professions de médecin, de chirurgien-dentiste et de sage-femme<a id=142></a>
 
 ###### Article L372
 
@@ -14697,7 +14776,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4161-3 (V)
 
 
-##### SECTION 4 : DISPOSITIONS PENALES.<a id=142></a>
+##### SECTION 4 : DISPOSITIONS PENALES.<a id=143></a>
 
 ###### Article L375
 
@@ -14857,9 +14936,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4163-7 (V)
 
 
-#### Chapitre 2 : Organisation de la profession de médecin<a id=143></a>
+#### Chapitre 2 : Organisation de la profession de médecin<a id=144></a>
 
-##### Section 1 : Ordre national des médecins<a id=144></a>
+##### Section 1 : Ordre national des médecins<a id=145></a>
 
 ###### Article L381
 
@@ -14973,9 +15052,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4121-2 (M)
 
 
-##### Section 2 : Conseils de l'Ordre des médecins<a id=145></a>
+##### Section 2 : Conseils de l'Ordre des médecins<a id=146></a>
 
-##### Paragraphe 1 : Conseils départementaux *de l'Ordre des médecins*<a id=146></a>
+##### Paragraphe 1 : Conseils départementaux *de l'Ordre des médecins*<a id=147></a>
 
 ###### Article L383
 
@@ -15710,7 +15789,7 @@ _Cité par_:
   - Code de la santé publique - art. L433 (Ab)
 
 
-##### Paragraphe 2 : Conseils régionaux *de l'Ordre des médecins*<a id=147></a>
+##### Paragraphe 2 : Conseils régionaux *de l'Ordre des médecins*<a id=148></a>
 
 ###### Article L398
 
@@ -16035,7 +16114,7 @@ _Cité par_:
   - Code de la santé publique - art. L491-7 (Ab)
 
 
-##### Paragraphe 3 : Conseil national *de l'Ordre des médecins*<a id=148></a>
+##### Paragraphe 3 : Conseil national *de l'Ordre des médecins*<a id=149></a>
 
 ###### Article L404
 
@@ -16446,7 +16525,65 @@ _Cité par_:
   - Code de la santé publique - art. L491-7 (Ab)
 
 
-##### Section 3 : Inscription aux tableaux départementaux de l'Ordre<a id=149></a>
+##### Section 3 : Inscription aux tableaux départementaux de l'Ordre<a id=150></a>
+
+###### Article L412
+
+Les médecins qui exercent dans un département sont inscrits, dans les formes indiquées ci-après, sur un tableau établi et
+tenu à jour par le conseil départemental de l'Ordre visé à l'article L. 383 du présent titre. Ce tableau est déposé à la
+préfecture ainsi qu'au parquet du tribunal [*lieu*]. Dans le courant du mois de janvier de chaque année, il est publié
+conformément à l'article 362 ci-dessus.
+
+Nul ne peut être inscrit sur ce tableau [*interdiction*] s'il ne remplit pas les conditions requises par le présent titre.
+
+Un médecin ne peut être inscrit que sur un seul tableau qui est celui du département où se trouve sa résidence
+professionnelle sauf dérogation prévue par le code de déontologie.
+
+Un médecin inscrit ou enregistré en qualité de médecin dans un Etat ne faisant pas partie de la Communauté économique
+européenne ne peut être inscrit à un tableau à l'ordre des médecins.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 453 : APPLICATION AUX SAGES-FEMMES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 20, v. init.
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 34 () JORF 31 juillet 1987
+
+_Cité par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 3 (M)
+  - Code de la santé publique - art. L413 (Ab)
+  - Code de la santé publique - art. L441 (Ab)
+  - Code de la santé publique - art. L453 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L362 (Ab)
+  - Code de la santé publique - art. L383 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4112-1 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique - art. L453 (Ab)
+
 
 ###### Article L413
 
@@ -16704,7 +16841,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4421-7 (V)
 
 
-##### Section 4 : Discipline<a id=150></a>
+##### Section 4 : Discipline<a id=151></a>
 
 ###### Article L417
 
@@ -17376,9 +17513,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4441-11 (V)
 
 
-#### Chapitre 3 : Organisation de la profession dentaire<a id=151></a>
+#### Chapitre 3 : Organisation de la profession dentaire<a id=152></a>
 
-##### Section 1 : Ordre national des chirurgiens-dentistes<a id=152></a>
+##### Section 1 : Ordre national des chirurgiens-dentistes<a id=153></a>
 
 ###### Article L429
 
@@ -17515,9 +17652,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4121-2 (M)
 
 
-##### Section 2 : Conseils de l'Ordre des chirurgiens-dentistes<a id=153></a>
+##### Section 2 : Conseils de l'Ordre des chirurgiens-dentistes<a id=154></a>
 
-##### Paragraphe 1 : Des conseils départementaux<a id=154></a>
+##### Paragraphe 1 : Des conseils départementaux<a id=155></a>
 
 ###### Article L432
 
@@ -17667,7 +17804,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4123-13 (V)
 
 
-##### Paragraphe 2 : Conseils régionaux<a id=155></a>
+##### Paragraphe 2 : Conseils régionaux<a id=156></a>
 
 ###### Article L436
 
@@ -17815,7 +17952,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4142-5 (M)
 
 
-##### Paragraphe 3 : Conseil national de l'Ordre<a id=156></a>
+##### Paragraphe 3 : Conseil national de l'Ordre<a id=157></a>
 
 ###### Article L439
 
@@ -17982,7 +18119,7 @@ _Cite_:
   - Code de la santé publique - art. L439-1 (Ab)
 
 
-##### Section 3 : Inscription aux tableaux départementaux de l'Ordre et discipline<a id=157></a>
+##### Section 3 : Inscription aux tableaux départementaux de l'Ordre et discipline<a id=158></a>
 
 ###### Article L441
 
@@ -18140,9 +18277,9 @@ _Cite_:
   - Code de la santé publique - art. L428 (Ab)
 
 
-#### Chapitre 4 : Organisation de la profession de sage-femme<a id=158></a>
+#### Chapitre 4 : Organisation de la profession de sage-femme<a id=159></a>
 
-##### Section 1 : Ordre national des sages-femmes<a id=159></a>
+##### Section 1 : Ordre national des sages-femmes<a id=160></a>
 
 ###### Article L444
 
@@ -18234,9 +18371,9 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-##### Section 2 : Conseils de l'Ordre des sages-femmes<a id=160></a>
+##### Section 2 : Conseils de l'Ordre des sages-femmes<a id=161></a>
 
-##### Paragraphe 1 : Conseils départementaux<a id=161></a>
+##### Paragraphe 1 : Conseils départementaux<a id=162></a>
 
 ###### Article L446
 
@@ -18383,7 +18520,7 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-##### Paragraphe 2 : Conseil national<a id=162></a>
+##### Paragraphe 2 : Conseil national<a id=163></a>
 
 ###### Article L449
 
@@ -18571,7 +18708,7 @@ _Modifié par_:
   - Décret n°58-1340 1958-12-20 art. 2 JORF 27 décembre 1958
 
 
-##### Section 3 : Inscription au tableau et discipline<a id=163></a>
+##### Section 3 : Inscription au tableau et discipline<a id=164></a>
 
 ###### Article L453
 
@@ -18811,7 +18948,7 @@ _Cite_:
   - Code de la santé publique - art. L428 (Ab)
 
 
-#### Chapitre 5 : Dispositions communes à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme<a id=164></a>
+#### Chapitre 5 : Dispositions communes à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme<a id=165></a>
 
 ###### Article L457
 
@@ -19215,7 +19352,7 @@ _Cite_:
   - Code de la santé publique L404 4/, L439 3/
 
 
-#### Chapitre 6 : Mesures d'adaptation pour les départements d'outre-mer.<a id=165></a>
+#### Chapitre 6 : Mesures d'adaptation pour les départements d'outre-mer.<a id=166></a>
 
 ###### Article L466
 
@@ -19496,13 +19633,13 @@ _Cité par_:
   - Code de la santé publique - art. L471-7 (Ab)
 
 
-### TITRE 1 : PROFESSION DE MEDECIN<a id=166></a>
+### TITRE 1 : PROFESSION DE MEDECIN<a id=167></a>
 
-#### CHAPITRE 2 : ORGANISATION DE LA PROFESSION DE MEDECIN<a id=167></a>
+#### CHAPITRE 2 : ORGANISATION DE LA PROFESSION DE MEDECIN<a id=168></a>
 
-##### SECTION 2 : CONSEILS DE L'ORDRE DES MEDECINS<a id=168></a>
+##### SECTION 2 : CONSEILS DE L'ORDRE DES MEDECINS<a id=169></a>
 
-##### PARAGRAPHE 3 : CONSEIL NATIONAL *DE L'ORDRE DES MEDECINS*.<a id=169></a>
+##### PARAGRAPHE 3 : CONSEIL NATIONAL *DE L'ORDRE DES MEDECINS*.<a id=170></a>
 
 ###### Article L411
 
@@ -19540,63 +19677,6 @@ _Modifié par_:
 _Cite_:
 
   - Code de la santé publique - art. L428 (Ab)
-
-
-##### SECTION 3 : INSCRIPTION AUX TABLEAUX DEPARTEMENTAUX DE L'ORDRE.<a id=170></a>
-
-###### Article L412
-
-Les médecins qui exercent dans un département sont inscrits, dans les formes indiquées ci-après, sur un tableau établi et
-tenu à jour par le conseil départemental de l'Ordre visé à l'article L. 383 du présent titre. Ce tableau est déposé à la
-préfecture ainsi qu'au parquet du tribunal [*lieu*]. Dans le courant du mois de janvier de chaque année, il est publié
-conformément à l'article 362 ci-dessus.
-
-Nul ne peut être inscrit sur ce tableau [*interdiction*] s'il ne remplit pas les conditions requises par le présent titre.
-
-Un médecin ne peut être inscrit que sur un seul tableau qui est celui du département où se trouve sa résidence
-professionnelle sauf dérogation prévue par le code de déontologie.
-
-Un médecin inscrit ou enregistré en qualité de médecin dans un Etat étranger ne peut être inscrit à un tableau de l'Ordre des
-médecins [*non cumul*].
-
-**Nota:**
-
-[*Nota : Code de la santé publique L. 453 : APPLICATION AUX SAGES-FEMMES.*]
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 20, v. init.
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Loi n°76-1288 1976-12-31 ART. 10 JORF 1ER janvier 1977
-
-_Cité par_:
-
-  - Loi n°95-116 du 4 février 1995 - art. 3 (M)
-  - Code de la santé publique - art. L413 (Ab)
-  - Code de la santé publique - art. L441 (Ab)
-  - Code de la santé publique - art. L453 (Ab)
-
-_Cite_:
-
-  - Code de la santé publique - art. L362 (Ab)
-  - Code de la santé publique - art. L383 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L4112-1 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la santé publique - art. L453 (Ab)
 
 
 ### Titre 2 : Profession d'infirmier ou d'infirmière<a id=171></a>
@@ -23203,17 +23283,37 @@ _Nouveaux textes_:
 
 ###### Article L514
 
-Nul ne peut exercer la profession de pharmacien, s'il n'offre toutes garanties de moralité professionnelle et s'il ne réunit
+Nul ne peut exercer la profession de pharmacien s'il n'offre toutes garanties de moralité professionnelle et s'il ne réunit
 les conditions suivantes :
 
-a) Etre titulaire du diplôme français d'Etat de docteur en pharmacie ou du diplôme français d'Etat de pharmacien. Ce diplôme
-doit être enregistré sans frais à la préfecture ;
+1° Etre titulaire :
 
-b) Etre de nationalité française, citoyen andorran, ressortissant de l'un des Etats membres de la Communauté économique
+a) Soit du diplôme français d'Etat de docteur en pharmacie ou de pharmacien ;
+
+b) Soit d'un diplôme, certificat ou autre titre de pharmacien délivré par un des Etats membres de la Communauté économique
+européenne et figurant sur une liste établie conformément aux obligations communautaires par arrêté conjoint du ministre
+chargé de la santé et du ministre chargé des universités ;
+
+c) Soit de tout autre diplôme, certificat ou autre titre de pharmacien délivré par l'un des Etats membres sanctionnant une
+formation de pharmacien acquise dans l'un de ces Etats et commencée avant le 1er octobre 1987, à la condition qu'il soit
+accompagné d'une attestation d'un Etat membre certifiant que le titulaire du diplôme, certificat ou titre de pharmacien s'est
+consacré de façon effective et licite aux activités de pharmacien pendant au moins trois années consécutives au cours des
+cinq années précédant la délivrance de l'attestation.
+
+Les diplômes, certificats ou titres doivent être enregistrés sans frais à la préfecture.
+
+Les diplômes, certificats ou autres titres délivrés par la République hellénique ne sont reconnus que pour l'exercice d'une
+activité salariée.
+
+2° Etre de nationalité française, citoyen andorran, ressortissant de l'un des Etats membres de la Communauté économique
 européenne ou ressortissant d'un pays dans lequel les Français peuvent exercer la pharmacie lorsqu'ils sont titulaires du
-diplôme qui en ouvre l'exercice aux nationaux de ce pays ;
+diplôme qui en ouvre l'exercice aux nationaux de ce pays.
 
-c) Etre inscrit à l'Ordre des pharmaciens.
+3° Etre inscrit à l'ordre des pharmaciens.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -23227,8 +23327,8 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Cité par_:
 
@@ -23247,7 +23347,6 @@ _Cité par_:
   - Décret n°92-1432 du 30 décembre 1992 - art. 5 (M)
   - Arrêté du 15 février 1993 - art. 3 (Ab)
   - Décret n°93-701 du 27 mars 1993 - art. 3 (M)
-  - Loi n°95-116 du 4 février 1995 - art. 4 (Ab)
   - Décret n°95-568 du 6 mai 1995 - art. 4 (Ab)
   - Décret n°95-569 du 6 mai 1995 - art. 2 (V)
   - Décret n°95-569 du 6 mai 1995 - art. 3 (V)
@@ -23268,7 +23367,6 @@ _Cité par_:
   - Décret n°99-517 du 25 juin 1999 - art. 2 (M)
   - Décret n°99-517 du 25 juin 1999 - art. 4 (M)
   - Décret n°99-517 du 25 juin 1999 - art. 5 (Ab)
-  - Loi n°99-641 du 27 juillet 1999 - art. 61 (M)
   - Décret n°99-1039 du 10 décembre 1999 - art. 58 (V)
   - Décret n°2020-408 du 8 avril 2020 - art. 7
   - Code de la santé publique - art. L514-1 (MMN)
@@ -23285,6 +23383,12 @@ _Cité par_:
   - Code de la santé publique - art. R5114-2 (M)
   - Code de la santé publique - art. R5146-10 (Ab)
   - Code de la santé publique - art. R5146-14 (Ab)
+  - Loi n°95-116 du 4 février 1995 - art. 4 (Ab)
+  - Loi n°99-641 du 27 juillet 1999 - art. 61 (M)
+
+_Modifié par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 35 () JORF 31 juillet 1987
 
 **Liens**:
 
@@ -23307,12 +23411,111 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4221-1 (V)
   - Code de la santé publique - art. L4221-16 (M)
   - Code de la santé publique - art. L4221-2 (V)
-  - Code de la santé publique - art. L4221-4 (V)
   - Code de la santé publique - art. L4221-5 (M)
   - Code de la santé publique - art. L4221-6 (Ab)
+  - Code de la santé publique - art. L4422-6 (V)
+  - Code de la santé publique - art. L4221-4 (V)
   - Code de la santé publique - art. L4221-7 (V)
   - Code de la santé publique - art. L4221-8 (V)
-  - Code de la santé publique - art. L4422-6 (V)
+
+
+###### Article L514-1
+
+Le ministre chargé de la santé, après avis du Conseil supérieur de la pharmacie, peut autoriser un pharmacien d'une
+nationalité autre [*étrangers*] que celles qui sont mentionnées au 2° de l'article L. 514 et titulaire du diplôme français
+d'Etat de docteur en pharmacie ou de pharmacien, à exercer la profession de pharmacien.
+
+Le nombre maximum de ces autorisations est fixé chaque année par arrêté du ministre chargé de la santé, après avis du Conseil
+supérieur de la pharmacie et compte tenu du mode d'exercice de la profession.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 36 () JORF 31 juillet 1987
+
+_Cité par_:
+
+  - Décret n°87-788 du 28 septembre 1987 - art. 2 (M)
+  - Décret n°87-788 du 28 septembre 1987 - art. 2-1 (M)
+  - Décret n°93-701 du 27 mars 1993 - art. 3 (M)
+  - Arrêté du 2 novembre 1994 - art. Annexe A (V)
+  - Décret n°95-569 du 6 mai 1995 - art. 2 (V)
+  - Décret n°95-569 du 6 mai 1995 - art. 3 (V)
+  - Décret n°95-569 du 6 mai 1995 - art. 4 (V)
+  - Décret n°96-182 du 7 mars 1996 - art. 56 (Ab)
+  - Décret n°96-182 du 7 mars 1996 - art. 8 (Ab)
+  - Décret n°99-517 du 25 juin 1999 - art. 2 (M)
+  - Décret n°99-517 du 25 juin 1999 - art. 4 (M)
+  - Décret n°99-517 du 25 juin 1999 - art. 5 (Ab)
+  - Loi n°99-641 du 27 juillet 1999 - art. 61 (M)
+  - Code de la santé publique - art. R5014-2 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 1 (Ab)
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 10 (Ab)
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 11 (Ab)
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 2 (M)
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 3 (Ab)
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 4 (M)
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 5 (Ab)
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 6 (Ab)
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 7 (M)
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 8 (Ab)
+  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 9 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L514 (M)
+
+
+###### Article L514-2
+
+Tout pharmacien non titulaire du diplôme français d'Etat de docteur en pharmacie ou de pharmacien est tenu, dans tous les cas
+où il fait état de son titre ou de sa qualité de pharmacien, de faire figurer le lieu et l'établissement universitaire où il
+a obtenu le titre ou le certificat lui permettant d'exercer la profession de pharmacien.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 36 () JORF 31 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Cité par_:
+
+  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4221-14 (V)
+  - Code de la santé publique - art. L4223-2 (M)
+  - Code de la santé publique - art. L4223-2 (V)
 
 
 ###### Article L515
@@ -23794,38 +23997,16 @@ _Cité par_:
 
 ###### Article L525
 
-Les demandes d'inscription au tableau sont adressées par les intéressés au conseil régional de l'Ordre [*compétence*]. Elles
-sont accompagnées des pièces suivantes [*documents*] :
+Les demandes d'inscription [*formalité*] au tableau sont adressées par les intéressés au conseil régional de l'ordre ; elles
+sont accompagnées d'un dossier dont la composition est fixée par décret en Conseil d'Etat.
 
-Une copie de l'acte de naissance ;
+En cas de cessation de l'activité professionnelle ou de changement du siège de l'établissement, une déclaration est adressée
+dans les quinze jours [*délai*] au conseil régional de l'ordre qui radie l'inscription au tableau s'il y a lieu.
 
-Un extrait du casier judiciaire ;
+**Nota:**
 
-Une copie certifiée conforme du diplôme ;
-
-Un certificat de radiation d'inscription s'il y a lieu ;
-
-Une copie du projet de l'acte d'achat ou un acte de propriété de l'officine.
-
-Le conseil régional doit statuer sur les inscriptions dans un délai maximum de deux mois à compter de la réception de la
-demande. Après avoir examiné les titres et qualités du demandeur, il accorde l'inscription au tableau ou la refuse par
-décision motivée écrite si les garanties de moralité professionnelle et les conditions prévues par la loi ne sont pas
-remplies.
-
-Signification par lettre recommandée à l'intéressé est faite dans la semaine qui suit le délai imparti au conseil [*condition
-de forme*].
-
-Le délai de deux mois peut être prolongé par décision motivée si un supplément d'instruction paraît nécessaire. En ce cas le
-demandeur doit être avisé.
-
-Si aucune décision n'est intervenue dans le délai de deux mois à compter du dépôt de la demande, sauf le cas prévu à l'alinéa
-précédent, l'inscription a lieu de droit à l'expiration dudit délai, sur demande de l'intéressé [*accord tacite*].
-
-Toute inscription ou tout refus d'inscription au tableau peut faire l'objet d'un appel devant le conseil national de l'Ordre
-des pharmaciens [*recours*].
-
-En cas de cessation de l'activité professionnelle ou de changement du siège de l'établissement [*modification*], une
-déclaration est adressée dans les quinze jours au conseil régional qui radie l'inscription au tableau s'il y a lieu.
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -23835,8 +24016,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Modifié par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 37 () JORF 31 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -23846,6 +24035,117 @@ _Cité par_:
 
   - Code de la santé publique - art. L523 (Ab)
   - Code de la santé publique - art. L536 (M)
+
+
+###### Article L525-1
+
+Le conseil régional de l'ordre statue sur la demande d'inscription au tableau dans un délai maximum de trois mois à compter
+de la réception de la demande accompagnée d'un dossier complet.
+
+En ce qui concerne les ressortissants des Etats membres de la Communauté économique européenne [*CEE*] autres que la France,
+lorsqu'il y a lieu de consulter un Etat membre sur l'existence de faits graves et précis commis hors de France et
+susceptibles d'avoir des conséquences sur l'inscription au tableau, le délai fixé au premier alinéa est suspendu par la
+demande de consultation jusqu'à la réception de la réponse de l'Etat consulté. Si la réponse n'est pas parvenue à
+l'expiration d'un délai de trois mois, la suspension prend fin. L'intéressé reçoit notification de la date de suspension du
+délai ainsi que de la date de sa réouverture.
+
+En ce qui concerne les personnes autres que celles mentionnées à l'alinéa précédent [*étrangers*], le délai initial de trois
+mois fixé au premier alinéa est porté à six mois lorsqu'il y a lieu de procéder à une enquête hors de la France
+métropolitaine. L'intéressé en reçoit notification.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 38 () JORF 31 juillet 1987
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4222-3 (V)
+
+
+###### Article L525-2
+
+Après avoir examiné les titres et qualités du demandeur, le conseil régional de l'ordre soit accorde l'inscription au
+tableau, soit, si les garanties de moralité professionnelle ou les conditions prévues par la loi ne sont pas remplies, la
+refuse par décision motivée écrite. L'intéressé reçoit notification de la décision du conseil, par lettre recommandée, dans
+la semaine qui suit cette décision.
+
+A l'expiration du délai imparti au conseil régional de l'ordre pour statuer, le silence gardé par celui-ci constitue une
+décision implicite de rejet susceptible de recours [*refus tacite*].
+
+Toute inscription ou tout refus d'inscription au tableau peut faire l'objet d'un appel devant le conseil national de l'ordre
+[*recours*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 38 () JORF 31 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4222-4 (V)
+
+
+###### Article L525-3
+
+Le pharmacien qui demande son inscription à un tableau doit faire la preuve d'une connaissance suffisante de la langue
+française.
+
+Lorsque cette preuve ne résulte pas du dossier accompagnant la demande d'inscription, la vérification est faite par
+l'autorité administrative compétente.
+
+Une nouvelle vérification peut être faite à la demande de l'intéressé par la même autorité.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 38 () JORF 31 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4222-6 (M)
+  - Code de la santé publique - art. L4222-6 (V)
 
 
 ###### Article L526
@@ -24092,8 +24392,8 @@ _Nouveaux textes_:
 
 ###### Article L531
 
-Le conseil central gérant la section D de l'Ordre des pharmaciens est composé de dix [*nombre*] membres, nommés ou élus pour
-quatre ans [*durée*] par tous les pharmaciens inscrits sur le tableau de la section D de l'Ordre.
+Le conseil central gérant la section D de l'Ordre des pharmaciens est composé de seize [*nombre*] membres, nommés ou élus
+pour quatre ans [*durée*] par tous les pharmaciens inscrits sur le tableau de la section D de l'Ordre.
 
 Ce conseil central comprend :
 
@@ -24102,27 +24402,41 @@ la proposition du ministre de l'Education nationale ;
 
 Un inspecteur de la pharmacie représentant, à titre consultatif, le ministre de la Santé publique ;
 
-Deux pharmaciens d'hôpitaux, hospices ou asiles, élus ;
+Cinq pharmaciens des établissements de soins publics ou privés, élus, dont au moins un pharmacien à temps plein et un
+pharmacien à temps partiel.
 
 Un pharmacien mutualiste, élu ;
 
-Cinq pharmaciens salariés dont au moins un représentant de l'industrie, un de la droguerie et un de la pharmacie de détail,
-élus.
+Huit pharmaciens appartenant aux autres catégories de pharmaciens inscrits en section D, dont au moins deux pharmaciens
+assistants de l'industrie, un de la vente en gros ou de la distribution en gros et deux de la pharmacie d'officine, élus.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
 
 _Anciens textes_:
 
-  - Ordonnance 45-919 1945-05-05 ART. 14
+  - Ordonnance 45-919 1945-05-05 art. 14
 
 _Modifié par_:
 
-  - Décret n°77-470 1977-05-03 art. 3 JORF 5 mai 1977
+  - Loi n°87-588 du 30 juillet 1987 - art. 41 () JORF 31 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4232-9 (M)
 
 
 ###### Article L531-1
@@ -24358,8 +24672,8 @@ _Cite_:
 ###### Article L535-1
 
 Le conseil central des pharmaciens directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale publics
-et privés gérant la section G de l'ordre des pharmaciens est composé de douze [*nombre*] membres nommés ou élus pour quatre
-ans [*durée*] par tous les pharmaciens inscrits au tableau de la section G de l'ordre.
+et privés gérant la section G de l'ordre des pharmaciens est composé de quatorze [*nombre*] membres nommés ou élus pour
+quatre ans [*durée*] par tous les pharmaciens inscrits au tableau de la section G de l'ordre.
 
 Ce conseil central comprend :
 
@@ -24368,18 +24682,27 @@ ministre chargé de la santé sur proposition du ministre chargé des universit�
 
 Un inspecteur de la pharmacie représentant, à titre consultatif, le ministre chargé de la santé ;
 
-Dix pharmaciens biologistes élus.
+Douze pharmaciens biologistes élus dont au moins deux praticiens hospitaliers.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-470 1977-05-03 art. 5 JORF 5 mai 1977
+  - Loi n°87-588 du 30 juillet 1987 - art. 39 () JORF 31 juillet 1987
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -25727,8 +26050,12 @@ _Anciens textes_:
 ###### Article L570
 
 Toute ouverture d'une nouvelle officine, tout transfert d'une officine d'un lieu dans un autre sont subordonnés à l'octroi
-d'une licence délivrée par le préfet sur la proposition de l'inspecteur divisionnaire de la santé après avis du conseil
-régional de l'Ordre des pharmaciens [*condition d'exercice*].
+d'une licence délivrée par le représentant de l'Etat dans le département après avis du conseil régional de l'ordre des
+pharmaciens et du directeur régional des affaires sanitaires et sociales.
+
+Le transfert d'une officine ne peut être autorisé qu'à la double condition qu'il ne compromette pas l'approvisionnement
+normal en médicaments de la population du quartier d'origine et qu'il réponde à un besoin réel de la population résidant dans
+le quartier d'accueil.
 
 Cette licence [*mention obligatoire*] fixe l'emplacement où l'officine sera exploitée [*lieu*].
 
@@ -25741,25 +26068,27 @@ la Santé publique et de la Population sur avis du préfet et du conseil supéri
 cédée avant l'expiration d'un délai de cinq ans, qui court à partir du jour de son ouverture.
 
 Tout refus de licence doit faire l'objet d'une décision motivée. Il peut en être fait appel au ministre de la Santé publique
-qui statue après avis du conseil régional [*recours*]. Lors de la fermeture définitive de l'officine, la licence doit être
-remise à la préfecture par son dernier titulaire ou par ses héritiers.
+qui statue après avis du conseil régional [*recours*].
+
+Lors de la fermeture définitive de l'officine, la licence doit être remise à la préfecture par son dernier titulaire ou par
+ses héritiers.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 47.*]
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Ordonnance 45-1014 1945-05-23 ART. 4
-  - Loi n°41-3890 1941-09-11 ART. 21
+  - Ordonnance 45-1014 1945-05-23 art. 4
+  - Loi n°41-3890 1941-09-11 art. 21
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Loi n°75-1226 1975-12-26 ART. 1 JORF 27 décembre 1975
-  - Décret n°55-685 1955-05-20 ART. 2 JORF 22 mai 1955
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Cité par_:
 
@@ -25777,10 +26106,45 @@ _Cité par_:
   - Code de la santé publique - art. R5089-6 (Ab)
   - Code de la santé publique - art. R5089-7 (Ab)
 
+_Modifié par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 40 () JORF 31 juillet 1987
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L5424-1 (V)
   - Code de la santé publique - art. L5511-5 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L570-1
+
+Seuls les pharmaciens titulaires des diplômes français d'Etat de docteur en pharmacie ou de pharmacien peuvent
+individuellement ou en société créer une officine de pharmacie ou racheter une officine ouverte depuis moins de trois ans.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°87-588 du 30 juillet 1987 - art. 43 () JORF 31 juillet 1987
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L5125-8 (V)
+  - Code de la santé publique - art. L5424-3 (V)
 
 **Liens**:
 
@@ -25808,12 +26172,17 @@ La population dont il est tenu compte pour l'application de l'article L. 571 du 
 municipale totale, telle qu'elle est définie par le décret ayant ordonné le dernier dénombrement général de la population
 [*dispositions réglementaires*].
 
-Si les besoins de la population l'exigent, des dérogations à ces règles peuvent être accordées [*autorisations dérogatoires*]
-par le préfet après avis du chef de service régional des affaires sanitaires et sociales, du pharmacien inspecteur régional
-de la santé, du conseil régional de l'ordre des pharmaciens et des syndicats professionnels [*dernière phrase : dispositions
-réglementaires*].
+Si les besoins réels de la population résidente et de la population saisonnière l'exigent, des dérogations à ces règles
+peuvent être accordées [*autorisations dérogatoires*] par le préfet après avis du chef de service régional des affaires
+sanitaires et sociales, du pharmacien inspecteur régional de la santé, du conseil régional de l'ordre des pharmaciens et des
+syndicats professionnels [*dernière phrase : dispositions réglementaires*].
 
 Dans tous les cas, le préfet peut imposer une distance minimum entre deux officines.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 47.*]
 
 **Liens relatifs à cet article**
 
@@ -25836,7 +26205,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-10 du 3 janvier 1985 - art. 97 () JORF 4 janvier 1985
+  - Loi n°87-588 du 30 juillet 1987 - art. 42 () JORF 31 juillet 1987
 
 **Liens**:
 
@@ -27929,11 +28298,10 @@ _Nouveaux textes_:
 
 Des décrets en Conseil d'Etat précisent les conditions d'application des articles L. 601 à L. 604 ci-dessus, et notamment :
 
-1° Les règles concernant la présentation et la dénomination des spécialités pharmaceutiques ;
-
-2° Les justifications, y compris celles relatives à l'étiquetage des spécialités qui doivent être fournies à l'appui des
-demandes d'autorisation de mise sur le marché et qui comprennent obligatoirement la vérification, par des experts agréés ou
-désignés par le ministre des Affaires sociales, de l'existence des propriétés définies à l'article L. 601 ci-dessus.
+1° Les règles concernant la présentation et la dénomination des spécialités pharmaceutiques ;    2° Les justifications, y
+compris celles relatives à l'étiquetage des spécialités, qui doivent être fournies à l'appui des demandes d'autorisation de
+mise sur le marché et qui comprennent obligatoirement la vérification de l'existence des propriétés définies à l'article L.
+601 ci-dessus par des experts possédant les qualifications techniques et professionnelles fixées par le même décret ;
 
 3° Les conditions dans lesquelles interviennent les décisions accordant, renouvelant, suspendant ou supprimant une
 autorisation de mise sur le marché ainsi que les règles de procédure applicables aux recours ouverts contre lesdites
@@ -27967,10 +28335,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°59-250 du 4 février 1959 - art. 2 () JORF 8 FEVRIER 1959
-  - Ordonnance 67-827 1967-09-23 ART. 4 JORF 28 SEPTEMBRE 1967
-  - Loi n°77-1467 1977-12-30 ART. 97 JORF 31 DECEMBRE 1977
-  - Loi n°80-512 1980-07-07 ART. 1 JORF 9 JUILLET 1980
+  - Loi n°87-588 du 30 juillet 1987 - art. 44 () JORF 31 juillet 1987
 
 _Cité par_:
 
