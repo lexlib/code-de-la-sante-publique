@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1973-03-01
+Version Consolidée au 1973-07-01
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -13480,6 +13480,115 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L4132-7 (M)
 
 
+###### Article L399
+
+Les membres suppléants du conseil régional remplacent les titulaires empêchés de siéger. Lorsqu'un membre titulaire vient à
+cesser ses fonctions pour quelque cause que ce soit, il est remplacé par un suppléant et il est alors procédé à une élection
+complémentaire pour la désignation d'un nouveau membre suppléant dont le mandat prendra fin à la même date que celle à
+laquelle aurait pris fin celui du membre à remplacer.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 437 : DISPOSITIONS APPLICABLES AU CONSEIL REGIONAL DE L'ORDRE DES CHIRURGIENS
+DENTISTES, L. 454-1 : DISPOSITIONS APPLICABLES AUX SAGES-FEMMES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°72-660 1972-07-13 art. 13, art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+  - TXT_ASSOCIE: Code de la santé publique - art. L437 (Ab)
+  - TXT_ASSOCIE: Code de la santé publique - art. L454-1 (Ab)
+  - SPEC_APPLI: Décret n°61-483 1961-05-12 art. 1 : AVAIT ABROGE L'ARTICLE L399 ET REMPLACE PAR DES DISPOSITIONS REGLEMENTAIRES
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+  - Décret n°61-483 1961-05-12 art. 1 JORF 17 mai 1961
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4124-5 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L437 (Ab)
+  - Code de la santé publique - art. L448-2 (Ab)
+  - Code de la santé publique - art. L454-1 (Ab)
+  - Code de la santé publique - art. L491-7 (Ab)
+  - Code de la santé publique - art. L496-7 (Ab)
+
+
+###### Article L400
+
+Le conseil régional de l'ordre des médecins de la région parisienne comporte deux chambres comptant chacune treize [*nombre*]
+membres titulaires, dont six délégués du conseil départemental de Paris et un délégué de chacun des conseils départementaux
+de la région parisienne autres que celui de Paris [*composition*].
+
+De plus, ce conseil régional comporte treize membres suppléants, dont six délégués du conseil départemental de Paris et un
+délégué de chacun des conseils départementaux de la région parisienne autres que celui de Paris.
+
+Les membres titulaires de chacune des chambres et les membres suppléants du conseil sont renouvelables par deux fractions de
+quatre membres et par une troisième fraction de cinq membres [*élection, date*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°68-644 1968-07-09 ART. 1 : AVAIT ABROGE L'ARTICLE L400
+  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 2 (V)
+  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+_Abrogé par_:
+
+  - Décret n°68-644 1968-07-09 art. 1 JORF 14 juillet 1968
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Créé par_:
+
+  - Loi n°72-660 1972-07-13 art. 14, art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+_Cité par_:
+
+  - Loi n°91-558 du 17 juin 1991 - art. 2 (V)
+  - Code de la santé publique - art. L398 (Ab)
+  - Code de la santé publique - art. L470 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4132-8 (M)
+
+
 ###### Article L401
 
 Les fonctions de président du conseil départemental, de président de conseil régional et de secrétaire général d'un de ces
@@ -15873,6 +15982,45 @@ _Modifié par_:
   - Décret n°72-660 1972-07-13 art. 30 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
 
 
+###### Article L449-1
+
+La représentation des sages-femmes des départements d'outre-mer au sein du conseil national de leur Ordre [*composition*] est
+assurée par deux [*nombre*] sages-femmes désignées, l'une au titre de la Guadeloupe, de la Martinique et de la Guyane,
+l'autre au titre de la Réunion. Elles sont élues par les conseils départementaux intéressés parmi les sages-femmes exerçant
+dans la métropole et qui sont déjà membres du conseil national de l'Ordre. A défaut de conseil départemental, le corps
+électoral ne comportera que les sages-femmes elles-mêmes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°72-660 1972-07-13 art. 31 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+_Cité par_:
+
+  - Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+  - Code de la santé publique - art. L467 (M)
+  - Code de la santé publique - art. L491-4 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4152-2 (Ab)
+
+
 ###### Article L450
 
 Sont adjoints au Conseil national des sages-femmes [*composition*], avec voix consultative, trois [*nombre*] médecins
@@ -16087,6 +16235,43 @@ _Cité par_:
 _Abrogé par_:
 
   - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
+
+
+###### Article L454-1
+
+Les dispositions de l'article L. 399 [*règles de suppléance*]
+
+sont applicables au conseil régional de l'Ordre des médecins lorsqu'il est appelé à statuer dans les conditions prévues à
+l'article L. 454.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°72-660 1972-07-13 art. 33 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+_Abrogé par_:
+
+  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
+
+_Cite_:
+
+  - Code de la santé publique - art. L399 (Ab)
+  - Code de la santé publique - art. L454 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. L399 (Ab)
 
 
 ###### Article L455
