@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1959-03-06
+Version Consolidée au 1959-03-28
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -293,7 +293,7 @@ Version Consolidée au 1959-03-06
   - [Partie réglementaire ancienne (art. R5002 à R5273)](#290)
     - [Livre 5 : Pharmacie (art. R5002 à R5273)](#291)
       - [Titre 1 : Dispositions générales (art. R5002 à R5089)](#292)
-        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5002 à R*5013)](#293)
+        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5002 à R5013 bis)](#293)
           - [Section 1 : Pharmacopée (art. R5002 à R5005)](#294)
             - [Paragraphe 1 : Pharmacopée (art. R5002 à R5005)](#295)
           - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#296)
@@ -301,7 +301,7 @@ Version Consolidée au 1959-03-06
             - [Paragraphe 2 : Formulaire (art. R5006 à R5006-1)](#298)
           - [Section 3 : Pharmaciens assistants (art. R5008 à R5012)](#299)
           - [Section 2 : Licences spéciales et brevets d'invention. (art. R5007)](#300)
-          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013)](#301)
+          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#301)
         - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R*5015-64)](#302)
           - [Section 1 : Organisation (art. R5014)](#303)
           - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5016 à R*5043)](#304)
@@ -32010,6 +32010,49 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5125-30 (V)
+
+
+###### Article R5013 bis
+
+Dans le cas d'infirmité ou d'état pathologique rendant dangereux l'exercice de la profession, le conseil régional de l'Ordre
+national des pharmaciens, pour les pharmaciens d'officine exerçant dans la métropole et en Algérie, et le conseil central
+compétent en ce qui concerne les autres pharmaciens peut prononcer la suspension temporaire du droit d'exercer. Toutefois,
+lorsque cette infirmité ou l'état pathologique n'est pas de nature à interdire à l'intéressé toute activité de pharmacien,
+les autorités ci-dessus désignées peuvent se borner à lui imposer l'obligation de se faire assister.
+
+Ces décisions sont prononcées pour une durée limitée ; elles peuvent, s'il y a lieu, être renouvelées. Elles ne peuvent être
+prises que sur un rapport motivé, établi après examen par un expert choisi en accord entre l'intéressé ou sa famille et le
+conseil compétent. En cas de désaccord ou de carence de l'intéressé et de sa famille, l'expert est désigné, à la demande du
+conseil, par le président du tribunal de grande instance du domicile de l'intéressé.
+
+Le conseil régional ou le conseil central est saisi soit par le conseil national, soit par le préfet ou le directeur
+départemental de la santé. L'expertise ci-dessus prévue doit être effectuée au plus tard dans un délai d'un mois à compter de
+la saisine de l'instance compétente. L'appel de la décision de ladite instance est porté dans tous les cas devant le conseil
+national. Il peut être introduit soit par le pharmacien intéressé, soit par les autorités susindiquées, dans les dix jours de
+la notification de la décision. Il n'a pas d'effet suspensif.
+
+Si le conseil régional ou le conseil central n'a pas statué dans le délai de deux mois à compter de la demande dont il est
+saisi, l'affaire est portée devant le conseil national de l'Ordre.
+
+Ces instances peuvent subordonner la reprise de l'activité professionnelle à la constatation de l'aptitude de l'intéressé par
+une nouvelle expertise, effectuée à la diligence du conseil régional ou du conseil central dans les conditions ci-dessus
+prévues, dans le mois qui précède l'expiration de la période de suspension. Si cette expertise est défavorable au praticien,
+celui-ci peut saisir le conseil régional ou le conseil central et, en appel, le conseil national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R4221-12 (T)
 
 
 #### Chapitre 2 : De l'Ordre national des pharmaciens<a id=302></a>
