@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1958-12-31
+Version Consolidée au 1959-01-06
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -32,7 +32,7 @@ Version Consolidée au 1958-12-31
           - [Section 4 : Dispositions pénales (art. L144 à L145)](#29)
     - [Livre Ier : Protection générale de la santé publique (art. L80 à L89)](#30)
       - [Titre II : Contrôle sanitaire aux frontières. (art. L80 à L89)](#31)
-    - [Livre 2 : Protection sanitaire de la famille et de l'enfance (art. L148 à L207)](#32)
+    - [Livre 2 : Protection sanitaire de la famille et de l'enfance (art. L148 à L208)](#32)
       - [Titre 1 : Protection maternelle et infantile. (art. L148 à L189)](#33)
         - [Chapitre 1 : Organisation administrative (art. L148 à L154)](#34)
           - [Section 1 : Institutions. (art. L148 à L150)](#35)
@@ -55,7 +55,7 @@ Version Consolidée au 1958-12-31
         - [Chapitre 6 : Financement. (art. L182 à L186)](#52)
         - [Chapitre 7 : Dispositions diverses. (art. L187 à L189)](#53)
       - [Titre 2 : Santé scolaire et universitaire. (art. L191 à L198)](#54)
-      - [Titre 3 : Maisons d'enfants à caractère sanitaire. (art. L199 à L207)](#55)
+      - [Titre 3 : Maisons d'enfants à caractère sanitaire. (art. L199 à L208)](#55)
     - [Livre 3 : Lutte contre les fléaux sociaux (art. L214 à L355-8)](#56)
       - [Titre 1 : Lutte contre la tuberculose (art. L214 à L253)](#57)
         - [Chapitre 1 : Prophylaxie (art. L215 à L225)](#58)
@@ -6207,6 +6207,43 @@ _Modifié par_:
   - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
 
 
+###### Article L205
+
+S'il est établi que la santé, la sécurité ou la moralité des enfants se trouvent compromises, ou si la direction de
+l'établissement refuse de se soumettre à la surveillance prévue à l'article 204, le préfet [*autorité compétente*] peut, par
+arrêté motivé, ordonner la fermeture de l'établissement, sous réserve de l'approbation du ministre de la santé publique et de
+la population [*sanction*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cite_:
+
+  - Code de la santé publique - art. L204 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L2321-6 (Ab)
+
+_Anciens textes_:
+
+  - Décret n°55-685 1955-05-20 ART. 1
+  - Décret n°56-907 1956-09-10
+
+_Modifié par_:
+
+  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
+  - Ordonnance 59-34 1959-01-05 art. 1 JORF 6 janvier 1959
+
+_Cité par_:
+
+  - Décret n°56-841 du 18 août 1956 - art. 28 (Ab)
+
+
 ###### Article L206
 
 Un décret en Conseil d'Etat fixera les conditions d'application du présent titre et notamment : 
@@ -6267,6 +6304,46 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
+
+
+###### Article L208
+
+Sera puni d'une amende de 400 F à 15.000 F [*montant*] et d'un emprisonnement de un à trois mois [*durée*] ou de l'une de ces
+deux peines seulement : 
+
+1° Quiconque aura ouvert ou dirigé sans autorisation l'un des établissements visés au présent titre, ou aura sciemment fait
+une déclaration inexacte ou incomplète ; 
+
+2° Quiconque aura continué l'exploitation d'un tel établissement malgré une décision de fermeture ;
+
+3° Quiconque, assumant la direction d'un des établissements visés, aura mis ou tenté de mettre obstacle au contrôle prévu à
+l'article 204.
+
+En cas de récidive, le délinquant sera condamné à une amende de 2.000 F à 30.000 F et à un emprisonnement de deux mois à un
+an ou à l'une de ces deux peines seulement.
+
+En ce cas, le tribunal pourra ordonner la fermeture temporaire ou définitive de l'établissement et prononcer en outre
+l'interdiction, à temps ou définitive, d'exercer les fonctions de directeur d'un établissement visé au présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cite_:
+
+  - Code de la santé publique - art. L204 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L2326-1 (V)
+
+_Modifié par_:
+
+  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
+  - Ordonnance 59-34 1959-01-05 ART. 2 JORF 6 janvier 1959
 
 
 ## Livre 3 : Lutte contre les fléaux sociaux<a id=56></a>
