@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1974-10-23
+Version Consolidée au 1974-12-05
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -4448,6 +4448,75 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L2112-1 (M)
+
+
+###### Article L149
+
+Le centre principal de protection maternelle et infantile prévu pour chaque circonscription à l'article précédent, est
+constitué par des formations sanitaires diverses relevant d'organismes publics ou privés exerçant leur activité, en partie ou
+en totalité, dans le domaine de la protection maternelle et infantile.
+
+Le centre de protection maternelle et infantile de circonscription [*lieu*] comporte obligatoirement les formations
+sanitaires suivantes :
+
+- Des consultations prénuptiales, prénatales et postnatales dans lesquelles pourront être examinés les futurs couples et les
+parents ;
+
+- Des consultations de médecine infantile, d'enfants du premier et du second âge ;
+
+- Une consultation de lutte contre la stérilité ;
+
+- Une consultation de conseil génétique ;
+
+- Un centre de planification ou d'éducation familiale ;
+
+Ces trois dernières formations peuvent être regroupées avec les consultations prénuptiales et prénatales sous la dénomination
+de "consultations sur les problèmes de la naissance".
+
+Chaque centre doit s'assurer et rémunérer le concours d'un service antituberculeux, d'un service antivénérien, d'un
+laboratoire d'analyses médicales, suivant les modalités fixées par le directeur départemental de la santé.
+
+Il peut toutefois faire appel pour les examens de radiologie à un autre service. Les modalités suivant lesquelles il est
+admis à user de cette faculté ou à demander le concours d'autres services spécialisés sont fixées comme il est prévu à
+l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 30, v. init.
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cité par_:
+
+  - Décret n°62-840 du 19 juillet 1962 - art. 12 (Ab)
+  - Décret n°62-840 du 19 juillet 1962 - art. 13 (Ab)
+  - Décret n°72-180 du 7 mars 1972 - art. 2 (V)
+  - Décret n°88-61 du 18 janvier 1988 - art. 3-1 (Ab)
+  - Décret n°92-785 du 6 août 1992 - art. 1 (Ab)
+  - Décret n°92-785 du 6 août 1992 - art. 14 (Ab)
+  - Décret n°92-785 du 6 août 1992 - art. 2 (Ab)
+  - Décret n°92-785 du 6 août 1992 - art. 3 (Ab)
+  - Décret n°92-785 du 6 août 1992 - art. 4 (Ab)
+  - Code de la santé publique - art. L149-1 (Ab)
+  - Code de la santé publique - art. L150 (Ab)
+  - Code de la santé publique - art. L198-1 (Ab)
+
+_Modifié par_:
+
+  - Loi n°74-1026 1974-12-04 ART. 6 JORF 5 DECEMBRE 1974
+
+_Cite_:
+
+  - Code de la santé publique - art. L148 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L2112-2 (V)
 
 
 ###### Article L150
