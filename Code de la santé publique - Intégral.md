@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1959-01-07
+Version Consolidée au 1959-02-08
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -185,7 +185,7 @@ Version Consolidée au 1959-01-07
         - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. L511 à L519)](#182)
         - [Chapitre 2 : De l'Ordre national des pharmaciens (art. L520 à L548)](#183)
         - [Chapitre 3 : Prohibition de certaines conventions entre pharmaciens et membres de certaines professions (art. L549)](#184)
-        - [CHAPITRE 4 : REGLEMENTATION DE LA PUBLICITE. (art. L551 à L555)](#185)
+        - [CHAPITRE 4 : REGLEMENTATION DE LA PUBLICITE. (art. L551)](#185)
         - [Chapitre 5 : De l'inspection de la pharmacie (art. L557 à L567)](#186)
       - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. L568 à L625)](#187)
         - [Chapitre 1 : Conditions de l'exercice de la pharmacie d'officine (art. L568 à L595)](#188)
@@ -20063,46 +20063,6 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de la santé publique - art. L601 (M)
-
-
-###### Article L553
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L635 (Ab)
-
-
-###### Article L554
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L555
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 #### Chapitre 5 : De l'inspection de la pharmacie<a id=186></a>
