@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1962-04-19
+Version Consolidée au 1962-07-24
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -37,7 +37,7 @@ Version Consolidée au 1962-04-19
       - [Titre 1 : Protection maternelle et infantile. (art. L148 à L189)](#34)
         - [Chapitre 1 : Organisation administrative (art. L148 à L154)](#35)
           - [Section 1 : Institutions. (art. L148 à L150)](#36)
-          - [Section 2 : Direction et coordination. (art. L151 à L153)](#37)
+          - [Section 2 : Direction et coordination. (art. L151 à L152)](#37)
           - [Section 3 : Dispositions spéciales du département de la Seine. (art. L154)](#38)
         - [Chapitre 2 : Du certificat prénuptial. (art. L155 à L158)](#39)
         - [Chapitre 3 : Protection des futurs parents (art. L159 à L162)](#40)
@@ -53,7 +53,7 @@ Version Consolidée au 1962-04-19
         - [Chapitre 5 : Du contrôle de certains établissements (art. L176 à L181)](#50)
           - [Section 1 : Etablissements d'hospitalisation recevant des femmes enceintes. (art. L176 à L179)](#51)
           - [Section 2 : Etablissements concourant à la protection, à la garde ou au placement des enfants du premier et du second âge. (art. L180 à L181)](#52)
-        - [Chapitre 6 : Financement. (art. L182 à L186)](#53)
+        - [Chapitre 6 : Financement. (art. L184 à L186)](#53)
         - [Chapitre 7 : Dispositions diverses. (art. L187 à L189)](#54)
       - [Titre 2 : Santé scolaire et universitaire. (art. L191 à L198)](#55)
       - [Titre 3 : Maisons d'enfants à caractère sanitaire. (art. L199 à L208)](#56)
@@ -4692,41 +4692,6 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L2112-6 (V)
 
 
-###### Article L153
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-  - Décret n°92-143 du 14 février 1992 - art. 1 (Ab)
-  - Arrêté du 7 mai 1992 - art. 2 (Ab)
-  - Arrêté du 7 mars 1997 - art. Unique (VD)
-  - Code de la santé publique - art. L149 (Ab)
-  - Code de la santé publique - art. L186 (Ab)
-  - Code de la sécurité sociale. - art. L321-1 (M)
-  - Code de la sécurité sociale. - art. L615-14 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 7 mai 1992
-  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 3 (Ab)
-  - SPEC_APPLI: Code de la sécurité sociale. - art. L321-1 (M)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L2121-1 (V)
-
-
 ##### Section 3 : Dispositions spéciales du département de la Seine.<a id=38></a>
 
 ###### Article L154
@@ -4975,22 +4940,6 @@ _Abrogé par_:
   - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
 
 
-###### Article L161
-
-texte abrogé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-
-
 ###### Article L161-1
 
 Lorsque la sauvegarde de la vie de la mère gravement menacée exige soit une intervention chirurgicale, soit l'emploi d'une
@@ -5149,26 +5098,6 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L2132-2 (V)
-
-
-###### Article L165
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L2132-3 (V)
 
 
 ###### Article L166
@@ -5685,47 +5614,6 @@ _Nouveaux textes_:
 
 
 #### Chapitre 6 : Financement.<a id=53></a>
-
-###### Article L182
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 10 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L2324-3 (V)
-
-
-###### Article L183
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L2326-4 (V)
-
 
 ###### Article L184
 
