@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-03-05
+Version Consolidée au 1992-03-18
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -297,7 +297,7 @@ Version Consolidée au 1992-03-05
           - [Section 1 : Activités, congés. (art. L850 à L859)](#294)
         - [Chapitre X : Dispositions diverses et transitoires. (art. L895)](#295)
         - [Dispositions finales. (art. L897)](#296)
-  - [Partie réglementaire ancienne (art. R2009 à R712-47)](#297)
+  - [Partie réglementaire ancienne (art. R2009 à R713-1-15)](#297)
     - [Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales (art. R2009 à R2053)](#298)
       - [Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale (art. R2009 à R2020)](#299)
         - [Chapitre 2 : Organisation et agrément. (art. R2009 à R2011)](#300)
@@ -429,8 +429,8 @@ Version Consolidée au 1992-03-05
         - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#426)
           - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#427)
           - [Section 2 : Produits d'origine microbienne. (art. R5273)](#428)
-    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R712-1 à R712-47)](#429)
-      - [Titre 1 : Etablissements de santé (art. R712-1 à R712-47)](#430)
+    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R712-1 à R713-1-15)](#429)
+      - [Titre 1 : Etablissements de santé (art. R712-1 à R713-1-15)](#430)
         - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. R712-1 à R712-47)](#431)
           - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. R712-1 à R712-36)](#432)
             - [Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire. (art. R712-1 à R712-13)](#433)
@@ -438,27 +438,29 @@ Version Consolidée au 1992-03-05
             - [Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale (art. R712-22 à R712-29)](#435)
             - [Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale (art. R712-30 à R712-36)](#436)
           - [Section 2 : Autorisations (art. R712-37 à R712-47)](#437)
-  - [Partie réglementaire ancienne - Décrets simples (art. D711-6-1 à D712-14)](#438)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D712-16)](#439)
-      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D712-16)](#440)
-        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#441)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#442)
-          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#443)
-        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-16)](#444)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13)](#445)
-            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#446)
-            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#447)
-          - [Section 2 : Autorisations (art. D712-15 à D712-16)](#448)
-            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#449)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-14)](#450)
-      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#451)
-        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#452)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-14)](#453)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#454)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#455)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#456)
-        - [Section 2 : Autorisations (art. D712-14)](#457)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#458)
+        - [Chapitre 3 : Les actions de coopération (art. R713-1-13 à R713-1-15)](#438)
+          - [Section 1 : Les conférences sanitaires de secteur (art. R713-1-13 à R713-1-15)](#439)
+  - [Partie réglementaire ancienne - Décrets simples (art. D711-6-1 à D712-14)](#440)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D712-16)](#441)
+      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D712-16)](#442)
+        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#443)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#444)
+          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#445)
+        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-16)](#446)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13)](#447)
+            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#448)
+            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#449)
+          - [Section 2 : Autorisations (art. D712-15 à D712-16)](#450)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#451)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-14)](#452)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#453)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#454)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-14)](#455)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#456)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#457)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#458)
+        - [Section 2 : Autorisations (art. D712-14)](#459)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#460)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -67481,15 +67483,112 @@ _Cite_:
   - Code de la santé publique - art. L715-2 (Ab)
 
 
-# Partie réglementaire ancienne - Décrets simples<a id=438></a>
+#### Chapitre 3 : Les actions de coopération<a id=438></a>
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=439></a>
+##### Section 1 : Les conférences sanitaires de secteur<a id=439></a>
 
-### Titre Ier : Etablissements de santé<a id=440></a>
+###### Article R713-1-13
 
-#### Chapitre Ier : Missions et obligations des établissements de santé<a id=441></a>
+Les séances des conférences ne sont pas publiques.
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=442></a>
+La police de l'assemblée appartient au président, qui peut suspendre la séance ou prononcer son renvoi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°97-240 du 17 mars 1997 - art. 2 (Ab) JORF du 18 mars 1997
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6131-13 (V)
+
+_Anciens textes_:
+
+  - Code de la santé publique - art. R713-12 (T)
+
+
+###### Article R713-1-14
+
+Les conférences sanitaires de secteur délibèrent valablement :
+
+1. Pour celles dont le nombre de membres est au plus égal à cinquante, lorsque plus de la moitié des membres est présente ;
+
+2. Pour celles dont le nombre de membres est supérieur à cinquante, lorsque plus du tiers des membres est présent, sans
+toutefois que ce nombre puisse être inférieur à vingt-six.
+
+Lorsque ce quorum n'a pas été atteint, une deuxième convocation est faite à huit jours d'intervalle. La conférence délibère
+alors valablement quel que soit le nombre des membres présents.
+
+Le vote par correspondance et le vote par procuration ne sont pas admis.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°97-240 du 17 mars 1997 - art. 2 (Ab) JORF du 18 mars 1997
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6131-14 (V)
+
+_Anciens textes_:
+
+  - Code de la santé publique - art. R713-13 (T)
+
+
+###### Article R713-1-15
+
+Les fonctions de représentant d'un établissement de santé à la conférence sanitaire de secteur sont gratuites
+[*rémunération*].
+
+Les frais d'organisation et de fonctionnement des conférences sont à la charge des établissements qui en sont membres au
+prorata du nombre de leurs représentants, dans des conditions précisées par le règlement intérieur.
+
+Les frais de déplacement des représentants des établissements, membres de la conférence ou du bureau, sont à la charge de
+l'établissement qu'ils représentent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°97-240 du 17 mars 1997 - art. 2 (Ab) JORF du 18 mars 1997
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6131-15 (V)
+
+_Anciens textes_:
+
+  - Code de la santé publique - art. R713-14 (T)
+
+
+# Partie réglementaire ancienne - Décrets simples<a id=440></a>
+
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=441></a>
+
+### Titre Ier : Etablissements de santé<a id=442></a>
+
+#### Chapitre Ier : Missions et obligations des établissements de santé<a id=443></a>
+
+##### Section 2 : Dispositions propres au service public hospitalier<a id=444></a>
 
 ###### Article D711-6-1
 
@@ -67582,7 +67681,7 @@ _Cite_:
   - Code de la santé publique - art. L711-6 (M)
 
 
-##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=443></a>
+##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=445></a>
 
 ###### Article D711-16-3
 
@@ -67669,11 +67768,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-50 (T)
 
 
-#### Chapitre II : L'organisation et l'équipement sanitaires<a id=444></a>
+#### Chapitre II : L'organisation et l'équipement sanitaires<a id=446></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=445></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=447></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=446></a>
+##### Sous-section 1 : Du collège national d'experts<a id=448></a>
 
 ###### Article D712-2
 
@@ -67768,7 +67867,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=447></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=449></a>
 
 ###### Article D712-7
 
@@ -67852,9 +67951,9 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Section 2 : Autorisations<a id=448></a>
+##### Section 2 : Autorisations<a id=450></a>
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=449></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=451></a>
 
 ###### Article D712-15
 
@@ -67941,11 +68040,11 @@ _Cite_:
   - Code de la santé publique - art. D712-15 (M)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=450></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=452></a>
 
-### Chapitre Ier : Missions et obligations des établissements de santé<a id=451></a>
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=453></a>
 
-#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=452></a>
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=454></a>
 
 ###### Article D711-16-1
 
@@ -68080,11 +68179,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-47 (T)
 
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=453></a>
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=455></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=454></a>
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=456></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=455></a>
+##### Sous-section 1 : Du collège national d'experts<a id=457></a>
 
 ###### Article D712-1
 
@@ -68182,7 +68281,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=456></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=458></a>
 
 ###### Article D712-8
 
@@ -68329,9 +68428,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=457></a>
+#### Section 2 : Autorisations<a id=459></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=458></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=460></a>
 
 ###### Article D712-14
 
