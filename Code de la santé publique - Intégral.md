@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-10-10
+Version Consolidée au 1984-11-17
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -391,10 +391,10 @@ Version Consolidée au 1984-10-10
             - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#388)
         - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#389)
           - [DISPOSITIONS GENERALES. (art. R5145)](#390)
-          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17)](#391)
+          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 bis)](#391)
             - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#392)
             - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#393)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17)](#394)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 bis)](#394)
           - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#395)
             - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#396)
             - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#397)
@@ -48631,8 +48631,8 @@ _Cite_:
 
 ###### Article R5146-6
 
-Dans les sociétés mentionnées à l'article L. 615, le pharmacien ou le docteur vétérinaire responsable doit être [*autorités
-compétentes*] :
+Dans les sociétés mentionnées à l'article L. 615, excepté celles qui fabriquent des aliments médicamenteux à l'exclusion de
+tous autres médicaments vétérinaires, le pharmacien ou le docteur vétérinaire doit être [*autorités compétentes*] :
 
 Dans les sociétés anonymes autres que celles qui sont régies par les articles 118 et suivants de la loi n° 66-537 du 24
 juillet 1966, le président du conseil d'administration ou un directeur général ;
@@ -48647,25 +48647,24 @@ Dans les sociétés coopératives agricoles, un directeur général ou un membre
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
 _Cite_:
 
   - Loi n°66-537 1966-07-24 ART. 118 et S.
   - Code de la santé publique - art. L615 (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+  - Décret n°84-1003 1984-11-16 art. 1 JORF 17 novembre 1984
 
 _Cité par_:
 
   - Arrêté du 9 mai 1995 - art. 2 (Ab)
   - Code de la santé publique - art. R5146-16 (Ab)
   - Code de la santé publique - art. R5146-8 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
 
 
 ###### Article R5146-7
@@ -49037,6 +49036,57 @@ _Cité par_:
 
   - Code de la santé publique - art. R5146-17 bis (Ab)
   - Code de la santé publique - art. R5146-57 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. R5146-57 (M)
+  - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+
+
+###### Article R5146-17 bis
+
+Dans les établissements visés à l'article L. 615 qui fabriquent, à l'exclusion de tous autres médicaments vétérinaires, des
+aliments médicamenteux à partir de prémélanges médicamenteux autorisés, la surveillance de la fabrication est assurée par un
+docteur vétérinaire ou un pharmacien lié par convention à l'établissement.
+
+Celui-ci procède, au moins deux fois par mois [*périodicité*] à une visite des locaux de fabrication et au contrôle du
+registre de fabrication dont la tenue est obligatoire dans chaque établissement et sur lequel il appose son visa. Il vérifie
+que les délivrances d'aliments médicamenteux faites par l'établissement correspondent aux prescriptions vétérinaires qui sont
+tenues à sa disposition et propose toutes mesures d'amélioration qu'il juge utiles pour assurer de bonnes pratiques de
+fabrication.
+
+Le vétérinaire ou le pharmacien chargé de la surveillance fait part au pharmacien inspecteur régional de la santé et au
+directeur départemental des services vétérinaires des difficultés éventuellement rencontrées dans l'accomplissement de sa
+mission ainsi que des observations qu'il est appelé à formuler dans l'intérêt de la santé publique.
+
+Les dispositions des articles R. 5146-9 à R. 5146-12, R. 5146-14, R. 5146-16 et R. 5146-17 ne sont pas applicables au docteur
+vétérinaire ou au pharmacien prévu au présent article [*hors champ d'application*].
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°84-1003 1984-11-16 art. 2 JORF 17 novembre 1984
+
+_Cité par_:
+
+  - Arrêté du 9 mai 1995 - art. 7 (Ab)
+  - Code de la santé publique - art. R5146-57 (M)
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
+
+_Cite_:
+
+  - Code de la santé publique - art. L615 (M)
+  - Code de la santé publique - art. R5146-10 (Ab)
+  - Code de la santé publique - art. R5146-11 (Ab)
+  - Code de la santé publique - art. R5146-12 (Ab)
+  - Code de la santé publique - art. R5146-14 (Ab)
+  - Code de la santé publique - art. R5146-16 (M)
+  - Code de la santé publique - art. R5146-17 (Ab)
+  - Code de la santé publique - art. R5146-9 (Ab)
 
 **Liens**:
 
@@ -50575,43 +50625,44 @@ _Cite_:
 
 Sans préjudice des dispositions de l'article L. 611, il est interdit de délivrer sans présentation d'une ordonnance les
 médicaments vétérinaires qui comportent dans leur composition des substances mentionnées par les points c, e, f et g de
-l'article L. 617-6 lorsque la décision d'autorisation de mise sur le marché comporte cette interdiction.
+l'article L. 617-6 lorsque la décision d'autorisation de mise sur le marché comporte cette interdiction. 
 
-L'ordonnance comporte obligatoirement [*mentions obligatoires*] :
+L'ordonnance comporte obligatoirement    : 
 
-Les nom et adresse du prescripteur ;
+Les nom et adresse du prescripteur ; 
 
-La date de prescription ;
+La date de prescription ; 
 
-Les nom, prénoms et adresse du détenteur du ou des animaux ;
+Les nom, prénoms et adresse du détenteur du ou des animaux ; 
 
-Les moyens d'identification des animaux : espèce, âge, sexe, signalement et numéro matricule ;
+Les moyens d'identification des animaux : espèce, âge, sexe, signalement et numéro matricule ; 
 
 Le nom ou la formule du médicament ; pour les aliments médicamenteux, le détail des composants du support alimentaire n'est
-pas exigé ;
+pas exigé ; 
 
-La voie d'administration, le point d'inoculation ou d'implantation, le temps d'attente ;
+La voie d'administration, le point d'inoculation ou d'implantation, le temps d'attente ; 
 
-La mention Renouvellement interdit.
+La mention Renouvellement interdit. 
 
 En cas de cession du ou des animaux par des détenteurs successifs pendant le temps d'attente du médicament, l'ordonnance doit
 être transmise à chaque nouvel acquéreur et conservée par lui durant cette période. En cas de pluralité de détenteurs
 d'animaux ayant fait l'objet d'une même ordonnance, une copie de celle-ci doit être remise à chaque nouvel acquéreur et
-conservée par lui durant la même période.
+conservée par lui durant la même période. 
 
 Les dispositions du présent article s'appliquent au cas où la délivrance par le docteur vétérinaire s'effectue sous forme
-d'administration directe du médicament à l'animal.
+d'administration directe du médicament à l'animal. 
+
+La prescription des aliments médicamenteux en vue de leur délivrance dans des conditions prévues à l'article L. 617 est
+établie en trois exemplaires au moins. Deux exemplaires sont remis à l'éleveur afin d'être présentés à l'établissement
+fabricant. L'un de ces exemplaires est conservé au siège de l'établissement pendant une durée de trois ans ; l'autre est
+restitué à l'éleveur lors de la livraison de l'aliment médicamenteux. Un exemplaire est conservé par le vétérinaire
+prescripteur dans les conditions prévues à l'article R. 5146-52.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
 _Modifié par_:
 
-  - Décret n°82-165 1982-02-08 ART. 5 JORF 16 FEVRIER 1982
+  - Décret n°84-1003 1984-11-16 art. 4 JORF 17 novembre 1984
 
 _Cité par_:
 
@@ -50623,10 +50674,13 @@ _Cité par_:
   - Code rural - art. R234-7 (V)
   - Code rural - art. R242-45 (M)
 
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 _Cite_:
 
-  - Code de la santé publique - art. L611 (M)
-  - Code de la santé publique L617-6 C, E, F, G, L611
+  - Code de la santé publique - art. L617 (M)
 
 _Nouveaux textes_:
 
@@ -50805,25 +50859,23 @@ _Nouveaux textes_:
 
 ###### Article R5146-57
 
-Les infractions aux dispositions de l'article L. 611, de l'article R. 5146-17, de l'article R. 5146-20, des articles R.
-5146-42 à R. 5146-45 et R. 5146-47 à R. 5146-52 sont punies d'une peine d'emprisonnement de six jours à un mois et d'une
-amende de 600 à 1.000 F ou de l'une de ces deux peines seulement. En cas de récidive, ces peines pourront être doublées.
+Les infractions aux dispositions de l'article L. 611, des articles R. 5146-17 et R. 5146-17 bis, de l'article R. 5146-20, des
+articles R. 5146-42 à R. 5146-45 et R. 5146-47 à R. 5146-50, de l'article R.  5146-50 bis, alinéa 1er, des articles R.
+5146-51 et R. 5146-52, et de l'article R. 5146-53 bis sont punies des peines prévues par les contraventions de la cinquième
+classe. En cas de récidive, les peines applicables sont celles prévues pour la récidive des contraventions de la cinquième
+classe.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Créé par_:
-
-  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+  - Décret n°84-1003 1984-11-16 art. 6 JORF 17 novembre 1984
 
 _Cite_:
 
   - Code de la santé publique - art. L611 (M)
   - Code de la santé publique - art. R5146-17 (Ab)
+  - Code de la santé publique - art. R5146-17 bis (Ab)
   - Code de la santé publique - art. R5146-20 (M)
   - Code de la santé publique - art. R5146-42 (Ab)
   - Code de la santé publique - art. R5146-43 (M)
@@ -50833,8 +50885,10 @@ _Cite_:
   - Code de la santé publique - art. R5146-48 (M)
   - Code de la santé publique - art. R5146-49 (M)
   - Code de la santé publique - art. R5146-50 (M)
+  - Code de la santé publique - art. R5146-50 bis (M)
   - Code de la santé publique - art. R5146-51 (M)
   - Code de la santé publique - art. R5146-52 (M)
+  - Code de la santé publique L611, R5146-17, R5146-20, R5146-42, R5146-43, R5146-44, R5146-45, R5146-47, R5146-48, R5146-49, R5146-50, R5146-51, R5146-52, R5146-17 bis, R5146-50 bis, R5146-53 bis
 
 _Nouveaux textes_:
 
