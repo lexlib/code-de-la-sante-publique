@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1987-09-27
+Version Consolidée au 1988-01-05
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -223,7 +223,7 @@ Version Consolidée au 1987-09-27
           - [Section 1 : Agrément pour les collectivités publiques. (art. L618 à L622)](#220)
           - [Section 3 : Dispositions communes. (art. L625 à L625 Bis)](#221)
       - [Titre 3 : Restrictions au commerce de certaines substances ou de certains objets (art. L626 à L658-11)](#222)
-        - [Chapitre 1 : Substances vénéneuses. (art. L626 à L630-2)](#223)
+        - [Chapitre 1 : Substances vénéneuses. (art. L626 à L630-3)](#223)
         - [Chapitre 2 : Radio-éléments artificiels (art. L631 à L640)](#224)
         - [Chapitre 3 : Essences pouvant servir à la fabrication des boissons alcooliques (art. L641 à L642)](#225)
         - [Chapitre 4 : Médicaments antivénériens. (art. L643 à L644)](#226)
@@ -30560,16 +30560,20 @@ _Nouveaux textes_:
 
 ###### Article L627
 
-Seront punis d'un emprisonnement de deux ans à dix ans et d'une amende de 5.000 F à 50.000.000 F, ou de l'une de ces deux
-peines seulement, ceux qui auront contrevenu aux dispositions des règlements d'administration publique prévus à l'article
-précédent et concernant les substances ou plantes vénéneuses classées comme stupéfiants par voie réglementaire. Lorsque le
-délit aura consisté dans l'importation, la fabrication, ou l'exportation illicite desdites substances ou plantes, la peine
-d'emprisonnement sera de dix à vingt ans.
+Seront punis d'un emprisonnement de deux ans à dix ans [*durée*] et d'une amende de 5.000 F à 50.000.000 F [*montant*], ou de
+l'une de ces deux peines seulement, ceux qui auront contrevenu aux dispositions des règlements d'administration publique
+prévus à l'article précédent et concernant les substances ou plantes vénéneuses classées comme stupéfiants par voie
+réglementaire. Lorsque le délit aura consisté dans l'importation, la fabrication, ou l'exportation illicite desdites
+substances ou plantes, la peine d'emprisonnement sera de dix à vingt ans.
 
 La tentative d'une des infractions réprimées par l'alinéa précédent sera punie comme le délit consommé. Il en sera de même de
-l'association ou de l'entente en vue de commettre ces infractions.
+l'association ou de l'entente en vue de commettre ces infractions.    Seront punis d'un emprisonnement de deux à dix ans et
+d'une amende de 5 000 F à 500 000 F ou de l'une de ces deux peines seulement ceux qui, par tout moyen frauduleux, auront
+facilité ou tenté de faciliter la justification mensongère de l'origine des ressources ou des biens de l'auteur de l'une des
+infractions mentionnées au premier alinéa du présent article ou ceux qui auront sciemment apporté leur concours à toute
+opération de placement, de dissimulation ou de conversion du produit d'une telle infraction.
 
-Les peines prévues aux deux alinéas précédents pourront être prononcées alors même que les divers actes qui constituent les
+Les peines prévues aux trois alinéas précédents pourront être prononcées alors même que les divers actes qui constituent les
 éléments de l'infraction auront été accomplis dans des pays différents [*à l'étranger*].
 
 Seront également punis d'un emprisonnement de deux à dix ans et d'une amende de 5.000 F à 50.000.000 F, ou de l'une de ces
@@ -30610,10 +30614,6 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-_Modifié par_:
-
-  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
-
 _Cité par_:
 
   - Loi n°84-46 du 24 janvier 1984 - art. 13 (Ab)
@@ -30650,6 +30650,10 @@ _Cité par_:
   - Code du travail - art. L351-4 (M)
   - Code du travail - art. L351-6 (MMN)
 
+_Modifié par_:
+
+  - Loi n°87-1157 du 31 décembre 1987 - art. 2 () JORF 5 janvier 1988
+
 _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 59 (M)
@@ -30667,7 +30671,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la santé publique - art. L629 (M)
   - TXT_ASSOCIE: Code de la santé publique - art. L629-1 (M)
   - TXT_ASSOCIE: Code de la santé publique - art. L630 (M)
-  - TXT_ASSOCIE: Code de la santé publique L627-1 : GARDE A VUE
+  - TXT_ASSOCIE: Code de la santé publique L629, L629-1, L630, L630-1 : AUTRES DISPOSITIONS PENALES
 
 _Nouveaux textes_:
 
@@ -30722,8 +30726,13 @@ _Cité par_:
 
 ###### Article L627-2
 
-Seront punis d'un emprisonnement d'un an à cinq ans et d'une amende de 5.000 F à 500.000 F, ou de l'une de ces deux peines
-seulement, ceux qui auront cédé ou offert des stupéfiants à une personne en vue de sa consommation personnelle.
+Seront punis d'un emprisonnement d'un an à cinq ans [*durée*] et d'une amende de 5.000 F à 500.000 F [*montant*], ou de l'une
+de ces deux peines seulement, ceux qui auront cédé ou offert des stupéfiants à une personne en vue de sa consommation
+personnelle.
+
+La peine d'emprisonnement sera de deux à dix ans lorsque les stupéfiants auront été offerts ou cédés, dans les conditions
+définies à l'alinéa précédent, à des mineurs ou dans des centres d'enseignement ou d'éducation, ou dans des locaux de
+l'administration [*circonstances aggravantes*].
 
 **Liens relatifs à cet article**
 
@@ -30740,9 +30749,9 @@ _Cité par_:
   - Code de la santé publique - art. L630-1 (Ab)
   - Code de la santé publique - art. L630-3 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°86-76 du 17 janvier 1986 - art. 2 () JORF 18 janvier 1986
+  - Loi n°87-1157 du 31 décembre 1987 - art. 3 () JORF 5 janvier 1988) A(Loi 92-1336 1992-12-16 art. 223 JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 
 ###### Article L627-3
@@ -30763,6 +30772,76 @@ _Abrogé par_:
 _Cite_:
 
   - Code de la santé publique - art. L627-2 (M)
+
+
+###### Article L627-4
+
+En cas d'inculpation du chef de l'une des infractions mentionnées aux premier et deuxième alinéas de l'article L. 627 et afin
+de garantir le paiement des amendes encourues, des frais de justice et de la confiscation prévue à l'article L. 629, le
+président du tribunal de grande instance [*magistrat compétent*], sur requête du ministère public, pourra ordonner, aux frais
+avancés du Trésor et selon les modalités prévues par le code de procédure civile, des mesures conservatoires sur les biens de
+la personne inculpée.
+
+La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
+
+La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
+ordonnées. Il en est de même en cas d'extinction de l'action publique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°87-1157 du 31 décembre 1987 - art. 4 () JORF 5 janvier 1988
+
+_Cite_:
+
+  - Code de la santé publique - art. L627 (M)
+  - Code de la santé publique - art. L629 (M)
+
+
+###### Article L627-5
+
+Toute personne qui se sera rendue coupable de participation à une association ou à une entente constituée en vue de commettre
+l'une des infractions énumérées à l'article L. 627 sera exempte de peine si, ayant révélé cette association ou cette entente
+à l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier les autres
+personnes en cause.
+
+Hors les cas prévus à l'alinéa précédent, la peine maximale encourue par toute personne, auteur ou complice de l'une des
+infractions énumérées à l'article L. 627 qui aura, avant toute poursuite, permis ou facilité l'identification des autres
+coupables ou, après l'engagement des poursuites permis ou facilité l'arrestation de ceux-ci, sera réduite de moitié
+[*réduction de peine*].
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°87-1157 du 31 décembre 1987 - art. 4 () JORF 5 janvier 1988) A(Loi 92-1336 1992-12-16 art. 223 JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+_Cite_:
+
+  - Code de la santé publique - art. L627 (M)
+
+
+###### Article L627-6
+
+L'action publique pour la répression de l'une des infractions prévues par l'article L. 627 se prescrit par dix ans. La peine
+prononcée en cas de condamnation pour l'une de ces infractions se prescrit par vingt ans à compter de la date à laquelle la
+décision de condamnation est devenue définitive.
+
+Par dérogation aux dispositions de l'article 750 du code de procédure pénale, la durée de la contrainte par corps est fixée à
+deux années lorsque l'amende et les condamnations pécuniaires prononcées pour l'une des infractions mentionnées à l'alinéa
+ci-dessus ou pour les infractions douanières connexes éxèdent 500 000 francs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°87-1157 du 31 décembre 1987 - art. 4 () JORF 5 janvier 1988) A(Loi 92-1336 1992-12-16 art. 223 JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 750 (M)
+  - Code de la santé publique - art. L627 (M)
 
 
 ###### Article L628-1
@@ -31026,9 +31105,9 @@ lorsque le délit aura été constaté dans une officine pharmaceutique si le d�
 que le propriétaire de l'officine n'ait fait acte de complicité ou que la détention de ces substances ou plantes ne soit
 illicite.
 
-Dans les cas prévus au premier alinéa et au 3° du quatrième alinéa de l'article L. 627, les tribunaux pourront interdire au
-condamné l'exercice de la profession à l'occasion de laquelle le délit aura été commis pendant un délai qui ne pourra excéder
-cinq ans [*délai de prescription*].
+Dans les cas prévus au premier alinéa et au 3° de l'article L. 627, les tribunaux pourront interdire au condamné l'exercice
+de la profession à l'occasion de laquelle le délit aura été commis pendant un délai qui ne pourra excéder cinq ans [*délai de
+prescription*].
 
 Dans les cas prévus par les alinéas premier et deuxième de l'article L. 627, seront saisis et confisqués les installations,
 matériels et tous biens mobiliers ayant servi, directement ou indirectement, à la commission de l'infraction ainsi que tout
@@ -31036,20 +31115,23 @@ produit provenant de celle-ci, à quelque personne qu'ils appartiennent à moins
 foi. Les frais d'enlèvement et de transport de ces installations, matériels et biens seront à la charge du condamné ; s'ils
 ont été avancés pas l'administration, ils seront recouvrés comme frais de justice criminelle.
 
-Dans les cas prévus au 1° du quatrième alinéa de l'article L. 627, les tribunaux pourront ordonner la confiscation des
-ustensiles, matériels et meubles dont les lieux seront garnis et décorés, ainsi que l'interdiction pour le délinquant,
-pendant un délai qui ne pourra excéder cinq ans, d'exercer la profession sous le couvert de laquelle le délit aura été
-perpétré.
+Dans les cas prévus par les premier et deuxième alinéas de l'article L. 627, les juridictions compétentes pourront, en outre,
+ordonner la confiscation de tout ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou
+indivis, suivant les modalités définies par les articles 38 et 39 du code pénal.
 
-Quiconque contreviendra à l'interdiction de l'exercice de sa profession prononcée en vertu des alinéas 2 et 4 du présent
-article sera puni d'un emprisonnement de six mois au moins et de deux ans au plus, et d'une amende de 3.600 F au moins et de
-60.000 F au plus, ou de l'une de ces deux peines seulement.
+Dans les cas prévus au 1° de l'article L. 627, les tribunaux pourront ordonner la confiscation des ustensiles, matériels et
+meubles dont les lieux seront garnis et décorés, ainsi que l'interdiction pour le délinquant, pendant un délai qui ne pourra
+excéder cinq ans, d'exercer la profession sous le couvert de laquelle le délit aura été perpétré.
+
+Quiconque contreviendra à l'interdiction de l'exercice de sa profession prononcée en vertu des deuxième et cinquième alinéas
+du présent article sera puni d'un emprisonnement de six mois au moins [*durée*] et de deux ans au plus, et d'une amende de
+3.600 F au moins et de 60.000 F au plus [*montant*], ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°86-76 du 17 janvier 1986 - art. 4 () JORF 18 janvier 1986
+  - Loi n°87-1157 du 31 décembre 1987 - art. 5 () JORF 5 janvier 1988
 
 _Cité par_:
 
@@ -31057,14 +31139,15 @@ _Cité par_:
   - Code de la santé publique - art. L48-1 (Ab)
   - Code de la santé publique - art. L627-4 (Ab)
 
+_Cite_:
+
+  - Code pénal 38, 39
+  - Code de la santé publique - art. L627 (M)
+  - Code de la santé publique - art. L628 (Ab)
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L3421-2 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. L627 (M)
-  - Code de la santé publique - art. L628 (Ab)
 
 **Liens**:
 
@@ -31074,8 +31157,8 @@ _Cite_:
 
 ###### Article L629-1
 
-En cas de poursuites exercées pour l'un des délits prévus aux articles L. 627 et L. 628 [*opérations ou usage illicite de
-stupéfiants*], le juge d'instruction pourra ordonner à titre provisoire, pour une durée de trois mois au plus, la fermeture
+En cas de poursuites pour l'un des délits prévus par les articles L. 627, L. 627-2 et L. 628 [*opérations ou usage illicite
+de stupéfiants*], le juge d'instruction pourra ordonner à titre provisoire, pour une durée de six mois au plus, la fermeture
 de tout hôtel, maison meublée, pension, débit de boissons, restaurant, club, cercle, dancing, lieu de spectacle ou leurs
 annexes, ou lieu quelconque ouvert au public ou utilisé par le public, où ont été commis ces délits par l'exploitant ou avec
 sa complicité.
@@ -31102,9 +31185,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+  - Loi n°87-1157 du 31 décembre 1987 - art. 7 () JORF 5 janvier 1988
 
 _Cité par_:
 
@@ -31115,6 +31198,7 @@ _Cite_:
 
   - CODE DE PROCEDURE PENALE - art. 148-1 (M)
   - Code de la santé publique - art. L627 (M)
+  - Code de la santé publique - art. L627-2 (M)
   - Code de la santé publique - art. L628 (Ab)
   - Code des débits de boissons TITRE 3
 
@@ -31126,6 +31210,48 @@ _Nouveaux textes_:
 
   - TXT_ASSOCIE: Code de la santé publique - art. L627 (M)
   - TXT_ASSOCIE: Code de la santé publique - art. L628 (Ab)
+
+
+###### Article L629-2
+
+En cas d'infraction aux articles L. 627, L. 627-2 ou L. 628 du présent code, la fermeture administrative des lieux mentionnés
+au premier alinéa de l'article L. 629-1 [*hôtel, maison meublée, pension, débit de boisson, restaurant, club, cercle,
+dancing, lieu de spectacle*] peut être ordonnée par le commissaire de la République [*autorité compétente*] pour une durée
+n'excédant pas trois mois.
+
+Le ministre de l'intérieur peut, dans les mêmes conditions, ordonner la fermeture de ces mêmes lieux pour une durée pouvant
+aller jusqu'à un an ; dans ce cas, la durée de la fermeture prononcée par le commissaire de la République s'impute sur celle
+de la fermeture prononcée par le ministre.
+
+Les mesures prévues par les deux alinéas qui précèdent cessent de plein droit de produire effet en cas de décision de non-
+lieu ou de relaxe. La durée de la fermeture par l'autorité administrative s'impute sur celle de la fermeture prononcée en
+application de l'article L. 629-1.
+
+Quiconque aura contrevenu à une décision de fermeture prononcée en application du présent article sera puni d'une amende de 3
+000 F à 15 000 F [*montant*] et d'un emprisonnement de six jours à deux mois [*durée*] ou de l'une de ces deux peines
+seulement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°87-1157 du 31 décembre 1987 - art. 6 () JORF 5 janvier 1988
+
+_Cité par_:
+
+  - Loi n°90-1010 du 14 novembre 1990 - art. 13 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L627 (M)
+  - Code de la santé publique - art. L627-2 (M)
+  - Code de la santé publique - art. L628 (Ab)
+  - Code de la santé publique - art. L629-1 (M)
 
 
 ###### Article L630
@@ -31192,6 +31318,9 @@ peine.
 
 Le condamné sera dans tous les cas soumis aux dispositions des articles 27, 28 et 35 bis de l'ordonnance précitée.
 
+En cas de condamnation à l'interdiction définitive du territoire, le condamné ne pourra demander à bénéficier des
+dispositions de l'article 55-1 du code pénal.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -31199,6 +31328,7 @@ _Cite_:
   - Ordonnance 45-2658 1945-11-02 art. 23 et S., art. 27, art. 28, art. 35 bis
   - Ordonnance n°45-2658 du 2 novembre 1945 - art. 27 (M)
   - Ordonnance n°45-2658 du 2 novembre 1945 - art. 28 (M)
+  - Code pénal 55-1
   - Code de la santé publique - art. L626 (M)
   - Code de la santé publique - art. L627 (M)
   - Code de la santé publique - art. L627-2 (M)
@@ -31208,7 +31338,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°86-76 du 17 janvier 1986 - art. 5 () JORF 18 janvier 1986
+  - Loi n°87-1157 du 31 décembre 1987 - art. 8 () JORF 5 janvier 1988
 
 _Cité par_:
 
@@ -31239,6 +31369,41 @@ _Cite_:
 
   - Code pénal 58
   - Code de la santé publique L626 A L630-2
+
+
+###### Article L630-3
+
+Lorsque, à l'occasion d'une même procédure, la personne poursuivie aura été déclarée coupable de plusieurs infractions parmi
+lesquelles figurent au moins un crime et l'un des délits prévus par les articles L. 627, L. 627-2 ou L. 630, chacune des
+peines encourues pourra être prononcée. Toutefois, si plusieurs infractions constitutives d'un crime ou délit sont punies de
+peines de même espèce, la juridiction ne pourra prononcer, pour ces infractions, qu'une seule peine de cette espèce dans la
+limite du maximum légal le plus élevé. Chaque peine prononcée sera réputée commune à l'ensemble des infractions constitutives
+d'un crime ou délit dans la limite du maximum légal applicable à chacune d'entre elles.
+
+Lorsque, à l'occasion de procédures séparées, la personne poursuivie aura fait l'objet d'une condamnation pour crime et d'une
+condamnation pour l'un des délits prévus par les articles L. 627, L. 627-2 ou L. 630, les peines de même espèce s'exécuteront
+cumulativement dans la limite du maximum légal le plus élevé toutes les fois que les faits ayant donné lieu à l'une des
+condamnations auront été commis avant que l'autre ne devienne définitive. Néanmoins, la confusion des peines de même espèce
+pourra être ordonnée.
+
+Pour l'application du présent article, les peines privatives de liberté seront considérées comme étant de même espèce ; le
+maximum légal le plus élevé sera déterminé en considération de la durée de la peine la plus longue. "
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°87-1157 du 31 décembre 1987 - art. 12 () JORF 5 janvier 1988) A(Loi 92-1336 1992-12-16 art. 223 JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+_Cité par_:
+
+  - Loi n°90-1010 du 14 novembre 1990 - art. 13 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L627 (M)
+  - Code de la santé publique - art. L627-2 (M)
+  - Code de la santé publique - art. L630 (M)
 
 
 #### Chapitre 2 : Radio-éléments artificiels<a id=224></a>
