@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1953-10-07
+Version Consolidée au 1953-10-27
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L844)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L142)](#2)
@@ -271,14 +271,17 @@ Version Consolidée au 1953-10-07
         - [Chapitre II : Dispositions organiques (art. L806)](#268)
         - [Chapitre III : Recrutement. (art. L810)](#269)
         - [Chapitre VI : Discipline. (art. L838 à L844)](#270)
-  - [Partie réglementaire ancienne (art. R5142-1 à R5229-1)](#271)
-    - [Livre 5 : Pharmacie (art. R5142-1 à R5229-1)](#272)
-      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5142-1)](#273)
-        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5142-1)](#274)
-          - [Section 2 : Spécialités pharmaceutiques (art. R5142-1)](#275)
-            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5142-1)](#276)
-      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5229-1)](#277)
-        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5229-1)](#278)
+  - [Partie réglementaire ancienne (art. R5091-2 à R5229-1)](#271)
+    - [Livre 5 : Pharmacie (art. R5091-2 à R5229-1)](#272)
+      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5091-2 à R5142-1)](#273)
+        - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5091-2)](#274)
+          - [Section 1 : Des officines de pharmacie (art. R5091-2)](#275)
+            - [Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes (art. R5091-2)](#276)
+        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5142-1)](#277)
+          - [Section 2 : Spécialités pharmaceutiques (art. R5142-1)](#278)
+            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5142-1)](#279)
+      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5229-1)](#280)
+        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5229-1)](#281)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -24705,11 +24708,48 @@ _Codifié par_:
 
 ### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=273></a>
 
-#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=274></a>
+#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine<a id=274></a>
 
-##### Section 2 : Spécialités pharmaceutiques<a id=275></a>
+##### Section 1 : Des officines de pharmacie<a id=275></a>
 
-##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=276></a>
+##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes<a id=276></a>
+
+###### Article R5091-2
+
+Dans les établissements comptant au moins 500 lits, la gérance de la pharmacie doit être confiée à un pharmacien n'ayant pas
+d'autre activité professionnelle, sous réserve des dispositions de l'article L. 560 du présent code. Un pharmacien assistant
+doit être adjoint à ce pharmacien lorsque la capacité d'hospitalisation de l'établissement est au moins égale à 1000 lits.
+Au-dessus de ce chiffre, un pharmacien assistant supplémentaire par tranche entière de 500 lits doit être adjoint au
+pharmacien gérant. Toutefois lorsque l'établissement dispose d'une façon permanente d'internes en pharmacie, le premier
+pharmacien assistant n'est exigé que si la capacité d'hospitalisation dépasse 1500 lits.
+
+Les pharmaciens assistants ne peuvent exercer aucune autre activité professionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+
+_Cite_:
+
+  - Code de la santé publique - art. L560 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5091-5 (Ab)
+
+
+#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=277></a>
+
+##### Section 2 : Spécialités pharmaceutiques<a id=278></a>
+
+##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=279></a>
 
 ###### Article R5142-1
 
@@ -24727,9 +24767,9 @@ _Abrogé par_:
   - Décret n°78-988 1978-09-20 art. 16 JORF 6 octobre 1978
 
 
-### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=277></a>
+### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=280></a>
 
-#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=278></a>
+#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=281></a>
 
 ###### Article R5229-1
 
