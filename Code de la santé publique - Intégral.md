@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1991-02-06
+Version Consolidée au 1991-05-11
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -408,7 +408,7 @@ Version Consolidée au 1991-02-06
         - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#405)
         - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#406)
         - [Chapitre 5 : Homologation de certains produits et appareils. (art. R5274 à R5287)](#407)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5279 à R5273)](#408)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#408)
           - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#409)
           - [Section 2 : Produits d'origine microbienne. (art. R5273)](#410)
 # Partie législative ancienne<a id=1></a>
@@ -58889,8 +58889,8 @@ La demande d'homologation concerne un produit ou appareil ayant dépassé le sta
 La demande accompagnée du dossier technique est enregistrée par le secrétariat de la commission lorsque toutes les pièces
 requises sont fournies. Le demandeur est avisé de cet enregistrement.
 
-Un arrêté du ministre chargé de la santé fixe la liste des pièces qui doivent accompagner la demande d'homologation et de
-celles que doit comporter le dossier technique.
+Un arrêté du ministre chargé de la santé fixe la liste des pièces qui doivent accompagner la demande d'homologation ou de
+renouvellement d'homologation et de celles que doit comporter le dossier technique.
 
 Dans des cas exceptionnels, le ministre chargé de la santé peut autoriser la production d'un dossier simplifié.
 
@@ -58901,9 +58901,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+  - Décret n°91-423 du 10 mai 1991 - art. 1 () JORF 11 mai 1991
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 _Cité par_:
 
@@ -58976,6 +58980,29 @@ _Abrogé par_:
 _Cite_:
 
   - Code de la santé publique - art. R5276 (M)
+
+
+###### Article R5279
+
+L'homologation est accordée par arrêté du ministre chargé de la santé pour une durée maximale de cinq ans ; elle est
+renouvelable sur demande de son titulaire.
+
+L'arrêté d'homologation peut limiter les conditions d'utilisation des produits et appareils.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°91-423 du 10 mai 1991 - art. 1 () JORF 11 mai 1991
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 
 ###### Article R5280
@@ -59093,8 +59120,9 @@ _Abrogé par_:
 
 ###### Article R5284
 
-Les décisions d'homologation, de refus ou de retrait d'homologation ainsi que les décisions suspendant l'homologation ou
-mettant fin à cette suspension sont publiées par extraits au Journal officiel de la République française.
+Les décisions d'homologation, de renouvellement d'homologation, de refus ou de retrait d'homologation ainsi que les décisions
+suspendant l'homologation ou mettant fin à cette suspension sont publiées par extraits au Journal officiel de la République
+française.
 
 Les décisions de suspension et de retrait ainsi que celles qui mettent fin à une suspension font l'objet des autres
 publicités que le ministre chargé de la santé estime nécessaire d'ordonner.
@@ -59106,9 +59134,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+  - Décret n°91-423 du 10 mai 1991 - art. 2 () JORF 11 mai 1991
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 
 ###### Article R5285
@@ -59163,8 +59195,8 @@ _Abrogé par_:
 
 Les produits et appareils appartenant aux catégories qui figurent sur la liste mentionnée à l'article R. 5274 et qui n'ont
 pas encore été homologués ne peuvent être présentés ou exposés que si le fabricant ou son mandataire y appose de manière
-claire et visible la mention " produit non homologué et ne pouvant être vendu " ou " appareil non homologué et ne pouvant
-être vendu ".
+claire et visible la mention "produit non homologué et ne pouvant être ni utilisé, ni mis sur le marché" ou "appareil non
+homologué et ne pouvant être ni utilisé, ni mis sur le marché".
 
 **Liens relatifs à cet article**
 
@@ -59173,9 +59205,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+  - Décret n°91-423 du 10 mai 1991 - art. 3 () JORF 11 mai 1991
+
+_Abrogé par_:
+
+  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 _Cite_:
 
@@ -59183,24 +59219,6 @@ _Cite_:
 
 
 #### Chapitre 4 : Visa des spécialités anciennes<a id=408></a>
-
-###### Article R5279
-
-L'homologation est accordée par arrêté du ministre chargé de la santé.
-
-L'arrêté d'homologation peut limiter les conditions d'utilisation des produits et appareils.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Créé par_:
-
-  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
-
 
 ##### Section 1 : Spécialités pharmaceutiques.<a id=409></a>
 
