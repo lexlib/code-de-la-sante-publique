@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-06-14
+Version Consolidée au 1992-07-14
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -5015,15 +5015,21 @@ _Nouveaux textes_:
 ###### Article L147
 
 Les services et consultations de santé maternelle et infantile, les activités de protection de la santé maternelle et
-infantile à domicile, la formation et l'agrément des assistantes maternelles relèvent de la compétence du département qui en
-assure l'organisation et le financement sous réserve des dispositions du chapitre VI du présent titre.
+infantile à domicile, l'agrément des assistantes maternelles et la formation de celles qui accueillent des mineurs à titre
+non permanent, relèvent de la compétence du département qui en assure l'organisation et le financement sous réserve des
+dispositions du chapitre VI du présent titre.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 7.*]
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Cité par_:
 
@@ -5035,10 +5041,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+  - Loi n°92-642 du 12 juillet 1992 - art. 6 () JORF 14 juillet 1992
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L2111-2 (M)
   - Code de la santé publique - art. L2111-2 (V)
 
 
@@ -5114,18 +5125,24 @@ particulier de celles qui figurent sur les documents mentionnés par l'article L
 
 6° L'édition et la diffusion des documents mentionnés par les articles L. 153, L. 155, L. 163 et L. 164 ;
 
-7° Des actions de formation destinées à aider les assistantes maternelles dans leurs tâches éducatives.
+7° Des actions de formations destinées à aider dans leurs tâches éducatives les assistantes maternelles accueillant des
+mineurs à titre non permanent.
 
 En outre, le service doit participer aux actions de prévention des mauvais traitements et de prise en charge des mineurs
 maltraités dans les conditions prévues au sixième alinéa (5°) de l'article 40 et aux articles 66 à 72 du code de la famille
 et de l'aide sociale.
 
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique, à l'exception de son dernier alinéa à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Cité par_:
 
@@ -5162,20 +5179,27 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+  - Loi n°92-642 du 12 juillet 1992 - art. 6 () JORF 14 juillet 1992
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
+  - Code de la santé publique - art. L2112-2 (M)
   - Code de la santé publique - art. L2112-2 (V)
 
 
-###### Article L150
+###### Article L149-1
 
-Les activités mentionnées à l'article L. 149 sont gérées soit directement, soit par voie de convention avec d'autres
-collectivités publiques ou des personnes morales de droit privé à but non lucratif ; elles sont organisées sur une base
-territoriale en fonction des besoins sanitaires et sociaux de la population et selon des normes minimales fixées par voie
-réglementaire. Elles sont menées en liaison avec le service départemental d'action sociale et le service départemental de
-l'aide sociale à l'enfance.
+Dans un délai de cinq ans suivant son agrément pour l'accueil de mineurs à titre non permanent, toute assistante maternelle
+doit suivre, à raison d'une durée minimale de soixante heures, dont vingt au cours des deux premières années, les actions de
+formation prévues au 7° de l'article L. 149. Un décret détermine le contenu et les conditions de validation de ces heures de
+formation ainsi que les dispenses de formation qui peuvent être accordées si l'assistante maternelle justifie d'une formation
+antérieure équivalente.
+
+Le département organise et finance, durant le temps de formation, l'accueil des enfants confiés aux assistantes maternelles.
 
 **Liens relatifs à cet article**
 
@@ -5183,6 +5207,72 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°92-642 du 12 juillet 1992 - art. 7 () JORF 14 juillet 1992
+
+_Cité par_:
+
+  - Loi n°92-642 du 12 juillet 1992 - art. 18 (V)
+  - Décret n°92-1051 du 29 septembre 1992 - art. 5 (Ab)
+  - Décret n°92-1245 du 27 novembre 1992 - art. 4 (Ab)
+  - Décret n°92-1245 du 27 novembre 1992 - art. 6 (Ab)
+  - Décret n°92-1245 du 27 novembre 1992 - art. 7 (Ab)
+  - Décret n°92-1245 du 27 novembre 1992 - art. 8 (Ab)
+  - Décret n°92-1245 du 27 novembre 1992 - art. 9 (Ab)
+  - Arrêté du 17 janvier 1994 - art. 2 (V)
+  - Arrêté du 17 janvier 1994 - art. 4 (V)
+  - Décret n°94-909 du 14 octobre 1994 - art. 6 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 123-1 (Ab)
+  - Code de la santé publique - art. L150 (Ab)
+  - Code du travail - art. L773-4-1 (T)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté du 17 janvier 1994
+  - TXT_ASSOCIE: Arrêté du 17 janvier 1994 - art. 1 (V)
+  - TXT_ASSOCIE: Arrêté du 17 janvier 1994 - art. 2 (V)
+  - TXT_ASSOCIE: Arrêté du 17 janvier 1994 - art. 3 (V)
+  - TXT_ASSOCIE: Arrêté du 17 janvier 1994 - art. 4 (V)
+  - TXT_ASSOCIE: Arrêté du 17 janvier 1994 - art. 5 (V)
+  - TXT_ASSOCIE: Arrêté du 17 janvier 1994 - art. 6 (V)
+  - TXT_ASSOCIE: Arrêté du 17 janvier 1994 - art. 7 (V)
+  - TXT_ASSOCIE: Arrêté du 17 janvier 1994 - art. Annexe (V)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Cite_:
+
+  - Code de la santé publique - art. L149 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L2112-3 (M)
+  - Code de la santé publique - art. L2112-3 (V)
+
+
+###### Article L150
+
+Les activités mentionnées aux articles L. 149 et L149-1 sont gérées soit directement, soit par voie de convention avec
+d'autres collectivités publiques ou des personnes morales de droit privé à but non lucratif ; elles sont organisées sur une
+base territoriale en fonction des besoins sanitaires et sociaux de la population et selon des normes minimales fixées par
+voie réglementaire. Elles sont menées en liaison avec le service départemental d'action sociale et le service départemental
+de l'aide sociale à l'enfance.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Cité par_:
 
@@ -5194,11 +5284,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+  - Loi n°92-642 du 12 juillet 1992 - art. 7 () JORF 14 juillet 1992
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Cite_:
 
   - Code de la santé publique - art. L149 (M)
+  - Code de la santé publique - art. L149-1 (Ab)
 
 _Nouveaux textes_:
 
