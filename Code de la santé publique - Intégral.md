@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-01-01
+Version Consolidée au 1992-01-04
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -18,7 +18,7 @@ Version Consolidée au 1992-01-01
         - [Chapitre 3-1 : Des piscines et baignades (art. L25-2 à L25-5)](#15)
         - [Chapitre 4 : Salubrité des immeubles (art. L26 à L32)](#16)
         - [Chapitre 5 : Salubrité des agglomérations (art. L33 à L44)](#17)
-          - [Section 1 : Evacuation des eaux usées. (art. L33 à L35-9)](#18)
+          - [Section 1 : Evacuation des eaux usées. (art. L33 à L35-10)](#18)
           - [Section 2 : Des ilôts insalubres (art. L36 à L43-1)](#19)
           - [Section 3 : Mortalité excessive dans une commune. (art. L44)](#20)
         - [Chapitre 5-1 : Des radiations ionisantes. (art. L44-1 à L44-3)](#21)
@@ -26,7 +26,7 @@ Version Consolidée au 1992-01-01
         - [CHAPITRE 7 : DISPOSITIONS DIVERSES (art. L49 à L51)](#23)
           - [SECTION 1 : DEPENSES. (art. L49 à L50)](#24)
           - [Section 2 : Champ d'application du présent titre (art. L51)](#25)
-      - [TITRE 1 BIS : TRANSPORTS SANITAIRES. (art. L51-1 à L51-4)](#26)
+      - [TITRE 1 BIS : TRANSPORTS SANITAIRES. (art. L51-1 à L51-6)](#26)
       - [Titre 2 : Contrôle sanitaire aux frontières. (art. L52 à L53)](#27)
       - [Titre 3 : Mesures d'hygiène particulières (art. L140 à L145)](#28)
         - [Chapitre unique (art. L140 à L145)](#29)
@@ -282,161 +282,178 @@ Version Consolidée au 1992-01-01
           - [Section 3 : Dispositions diverses (art. L761-11 à L761-15)](#279)
           - [Section 4 : Dispositions pénales (art. L761-16 à L761-23)](#280)
         - [Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales (art. L762 à L764)](#281)
-    - [Livre 7 : Etablissement de santé, thermoclimatisme, laboratoires (art. L714-17 à L744)](#282)
-      - [Titre 1 : Etablissements de santé (art. L714-17 à L714-25-2)](#283)
-        - [Chapitre 4 : Les établissements publics de santé (art. L714-17 à L714-25-2)](#284)
-          - [Section 2 : Organes représentatifs (art. L714-17)](#285)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. L714-21 à L714-25-2)](#286)
-      - [Titre 2 : Thermo-climatisme (art. L736 à L744)](#287)
-        - [Chapitre 1 : Sources d'eaux minérales (art. L736 à L744)](#288)
-          - [Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent. (art. L736 à L744)](#289)
-    - [Livre 8 : Institutions (art. L772 à L782)](#290)
-      - [Chapitre 1 : Services administratifs locaux (art. L772 à L775)](#291)
-        - [Section 2 : Service communal d'hygiène et de santé. (art. L772)](#292)
-        - [SECTION 3 : MODALITES D'APPLICATION. (art. L775)](#293)
-      - [CHAPITRE 2 : CONSEILS ET COMMISSIONS (art. L776 à L782)](#294)
-        - [Section 1 : Conseils départementaux d'hygiène et commissions sanitaires (art. L776)](#295)
-        - [Section 3 : Conseil permanent d'hygiène sociale. (art. L782)](#296)
-    - [Livre IX : Personnel (art. L803 à L897)](#297)
-      - [Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social (art. L803 à L897)](#298)
-        - [Chapitre II : Dispositions organiques (art. L803 à L807)](#299)
-        - [Chapitre V : Notation et avancement. (art. L818 à L826)](#300)
-        - [Chapitre VII : Positions. (art. L850 à L859)](#301)
-          - [Section 1 : Activités, congés. (art. L850 à L859)](#302)
-        - [Chapitre X : Dispositions diverses et transitoires. (art. L895)](#303)
-        - [Dispositions finales. (art. L897)](#304)
-  - [Partie réglementaire ancienne (art. R2009 à R5273)](#305)
-    - [Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales (art. R2009 à R2053)](#306)
-      - [Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale (art. R2009 à R2020)](#307)
-        - [Chapitre 2 : Organisation et agrément. (art. R2009 à R2011)](#308)
-        - [Chapitre 1 : Constitution (art. R2001 à R2008)](#309)
-        - [Chapitre 3 : Financement et fonctionnement. (art. R2012 à R2020)](#310)
-      - [Titre 3 : Informations communiquées par l'investigateur au comité consultatif de protection des personnes dans la recherche biomédicale. (art. R2029 à R2031)](#311)
-      - [Titre 2 : Autorisation des lieux de recherches biomédicales sans bénéfice individuel direct (art. R2021 à R2028)](#312)
-      - [Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct. (art. R2039 à R2046)](#313)
-      - [Titre 5 : Dispositions financières. (art. R2038)](#314)
-      - [Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention. (art. R2032 à R2037)](#315)
-      - [Titre 7 : Assurance des promoteurs de recherches biomédicales (art. R2047 à R2053)](#316)
-    - [Livre 5 : Pharmacie (art. R5001 à R5273)](#317)
-      - [Titre 1 : Dispositions générales (art. R5001 à R5089)](#318)
-        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5001 à R5013 bis)](#319)
-          - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#320)
-            - [Paragraphe 1 : Pharmacopée (art. R5001 à R5005)](#321)
-            - [Paragraphe 2 : Formulaire (art. R5006 à R5006-1)](#322)
-          - [Section 3 : Pharmaciens assistants (art. R5008 à R5012)](#323)
-          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#324)
-        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R5014-3)](#325)
-          - [Section 1 : Organisation (art. R5014)](#326)
-          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5017 à R*5043)](#327)
-            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5017 à R5016)](#328)
-            - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#329)
-            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#330)
-          - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#331)
-            - [Paragraphe 1 : Devoirs généraux des pharmaciens (art. R*5015-2 à R*5015-25)](#332)
-              - [1) Dispositions générales. (art. R*5015-2 à R*5015-3)](#333)
-              - [2) Du concours du pharmacien à l'oeuvre de protection de la santé. (art. R*5015-4 à R*5015-10)](#334)
-              - [3) De la responsabilité et de l'indépendance des pharmaciens. (art. R*5015-11 à R*5015-22)](#335)
-              - [4) De la tenue des établissements pharmaceutiques. (art. R*5015-23 à R*5015-25)](#336)
-            - [Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle (art. R*5015-26 à R*5015-38)](#337)
-              - [1) De la publicité. (art. R*5015-26 à R*5015-29)](#338)
-              - [2) De la concurrence déloyale. (art. R*5015-30 à R*5015-33)](#339)
-              - [3) Prohibition de certaines conventions ou ententes (art. R*5015-34 à R*5015-38)](#340)
-            - [Paragraphe 3 : Relations avec des agents de l'administration. (art. R*5015-39 à R*5015-42)](#341)
-            - [Paragraphe 4 : Des règles à observer dans les relations avec le public. (art. R*5015-43 à R*5015-47)](#342)
-            - [Paragraphe 5 : Relations avec les membres des professions médicales (art. R*5015-48 à R*5015-64)](#343)
-              - [1) Relations avec les membres des professions non pharmaceutiques. (art. R*5015-48 à R*5015-52)](#344)
-              - [2) Relations des pharmaciens avec leurs collaborateurs. (art. R*5015-53 à R*5015-55)](#345)
-              - [3) Devoirs des maîtres de stage. (art. R*5015-56 à R*5015-58)](#346)
-              - [4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires. (art. R*5015-59)](#347)
-              - [5) Devoirs de confraternité. (art. R*5015-60 à R*5015-64)](#348)
-          - [Section 1 bis : Composition du dossier d'inscription au tableau (art. R5014-1 à R5014-3)](#349)
-        - [Chapitre 4 : Réglementation de la publicité (art. R5047 à R5052-3)](#350)
-          - [Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551. (art. R5047 à R5051)](#351)
-          - [Section 1 : Dispositions générales. (art. R5045 à R5046-2)](#352)
-          - [Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement (art. R5055 à R5055-4)](#353)
-          - [Section 4 : Publicité en faveur des établissements pharmaceutiques. (art. R5053)](#354)
-          - [Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments (art. R5054 à R5054-3)](#355)
-          - [Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art. (art. R5052 à R5052-3)](#356)
-        - [Chapitre 5 : De l'inspection de la pharmacie (art. R5056 à R5089)](#357)
-          - [Section 1 : Fonctions des inspecteurs de la pharmacie. (art. R5056 à R5059)](#358)
-          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5060 à R5089)](#359)
-            - [Paragraphe 1 : Généralités (art. R5060)](#360)
-            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#361)
-            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#362)
-            - [Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives. (art. R5071 à R5075)](#363)
-            - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#364)
-            - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#365)
-      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#366)
-        - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#367)
-          - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#368)
-            - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#369)
-            - [Paragraphe 5 : Médicaments spécialisés de l'officine (art. R5097 à R5098)](#370)
-            - [Paragraphe 4 : Remèdes secrets (art. R5094 à R5096)](#371)
-            - [Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes (art. R5091 à R5091-9)](#372)
-            - [Paragraphe 1 : Exploitation des officines (art. R5090)](#373)
-            - [Paragraphe 6 : Produits officinaux divisés (art. R5098-1 à R5098-2)](#374)
-          - [Section 2 : Exercice personnel de la profession (art. R5099 à R5104)](#375)
-            - [Paragraphe 1 : Assistance par des pharmaciens (art. R5099)](#376)
-            - [Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis (art. R5100 à R5104)](#377)
-        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5144)](#378)
-          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-9)](#379)
-            - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#380)
-            - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#381)
-            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#382)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-9)](#383)
-              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#384)
-              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-9)](#385)
-          - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5144)](#386)
-            - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#387)
-            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142)](#388)
-            - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#389)
-        - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#390)
-          - [DISPOSITIONS GENERALES. (art. R5145)](#391)
-          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 ter)](#392)
-            - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#393)
-            - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#394)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 ter)](#395)
-          - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#396)
-            - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#397)
-            - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#398)
-            - [Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché. (art. R5146-33 à R5146-39-6)](#399)
-            - [Paragraphe 4 : Prélèvements d'échantillons. (art. R5146-40 à R5146-41)](#400)
-          - [Section 3 : Réglementation de la publicité. (art. R5146-42 à R5146-48)](#401)
-          - [SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES. (art. R5146-49 à R5146-50 bis)](#402)
-          - [SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS. (art. R5146-51 à R5146-55)](#403)
-          - [Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents. (art. R5146-56)](#404)
-          - [SECTION 7 : SANCTIONS. (art. R5146-57)](#405)
-        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#406)
-          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#407)
-        - [Chapitre 2 bis : Pharmacovigilance (art. R5144-1 à R5144-11)](#408)
-          - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#409)
-          - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#410)
-      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-16)](#411)
-        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5219)](#412)
-          - [SECTION 1 : GENERALITES. (art. R5149)](#413)
-          - [Section 2 : Substances dangereuses, stupéfiantes ou psychotropes (art. R5150 à R5189)](#414)
-            - [1 : Dispositions communes. (art. R5150 à R5151)](#415)
-            - [2 : Substances dangereuses. (art. R5152 à R5170)](#416)
-            - [3 : Substances stupéfiantes. (art. R5171 à R5182)](#417)
-            - [4 : Substances psychotropes. (art. R5183 à R5189)](#418)
-          - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact (art. R5190 à R5219)](#419)
-            - [1) Dispositions communes. (art. R5190 à R5203)](#420)
-            - [3) Régime particulier des stupéfiants. (art. R5209 à R5218)](#421)
-            - [2) Régime particulier des listes 1 et 2. (art. R5204 à R5208)](#422)
-            - [4) Régime particulier des psychotropes. (art. R5219)](#423)
-        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#424)
-        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#425)
-        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#426)
-        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#427)
-        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#428)
-        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-16)](#429)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#430)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#431)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#432)
-        - [Chapitre 5 : Homologation de certains produits et appareils. (art. R5274 à R5287)](#433)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#434)
-          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#435)
-          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#436)
+    - [Livre 8 : Institutions (art. L772 à L782)](#282)
+      - [Chapitre 1 : Services administratifs locaux (art. L772 à L775)](#283)
+        - [Section 2 : Service communal d'hygiène et de santé. (art. L772)](#284)
+        - [SECTION 3 : MODALITES D'APPLICATION. (art. L775)](#285)
+      - [CHAPITRE 2 : CONSEILS ET COMMISSIONS (art. L776 à L782)](#286)
+        - [Section 1 : Conseils départementaux d'hygiène et commissions sanitaires (art. L776)](#287)
+        - [Section 3 : Conseil permanent d'hygiène sociale. (art. L782)](#288)
+    - [Livre IX : Personnel (art. L803 à L897)](#289)
+      - [Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social (art. L803 à L897)](#290)
+        - [Chapitre II : Dispositions organiques (art. L803 à L807)](#291)
+        - [Chapitre V : Notation et avancement. (art. L818 à L826)](#292)
+        - [Chapitre VII : Positions. (art. L850 à L859)](#293)
+          - [Section 1 : Activités, congés. (art. L850 à L859)](#294)
+        - [Chapitre X : Dispositions diverses et transitoires. (art. L895)](#295)
+        - [Dispositions finales. (art. L897)](#296)
+  - [Partie réglementaire ancienne (art. R2009 à R712-47)](#297)
+    - [Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales (art. R2009 à R2053)](#298)
+      - [Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale (art. R2009 à R2020)](#299)
+        - [Chapitre 2 : Organisation et agrément. (art. R2009 à R2011)](#300)
+        - [Chapitre 1 : Constitution (art. R2001 à R2008)](#301)
+        - [Chapitre 3 : Financement et fonctionnement. (art. R2012 à R2020)](#302)
+      - [Titre 3 : Informations communiquées par l'investigateur au comité consultatif de protection des personnes dans la recherche biomédicale. (art. R2029 à R2031)](#303)
+      - [Titre 2 : Autorisation des lieux de recherches biomédicales sans bénéfice individuel direct (art. R2021 à R2028)](#304)
+      - [Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct. (art. R2039 à R2046)](#305)
+      - [Titre 5 : Dispositions financières. (art. R2038)](#306)
+      - [Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention. (art. R2032 à R2037)](#307)
+      - [Titre 7 : Assurance des promoteurs de recherches biomédicales (art. R2047 à R2053)](#308)
+    - [Livre 5 : Pharmacie (art. R5001 à R5273)](#309)
+      - [Titre 1 : Dispositions générales (art. R5001 à R5089)](#310)
+        - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5001 à R5013 bis)](#311)
+          - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#312)
+            - [Paragraphe 1 : Pharmacopée (art. R5001 à R5005)](#313)
+            - [Paragraphe 2 : Formulaire (art. R5006 à R5006-1)](#314)
+          - [Section 3 : Pharmaciens assistants (art. R5008 à R5012)](#315)
+          - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013 à R5013 bis)](#316)
+        - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R5014-3)](#317)
+          - [Section 1 : Organisation (art. R5014)](#318)
+          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5017 à R*5043)](#319)
+            - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5017 à R5016)](#320)
+            - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#321)
+            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#322)
+          - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#323)
+            - [Paragraphe 1 : Devoirs généraux des pharmaciens (art. R*5015-2 à R*5015-25)](#324)
+              - [1) Dispositions générales. (art. R*5015-2 à R*5015-3)](#325)
+              - [2) Du concours du pharmacien à l'oeuvre de protection de la santé. (art. R*5015-4 à R*5015-10)](#326)
+              - [3) De la responsabilité et de l'indépendance des pharmaciens. (art. R*5015-11 à R*5015-22)](#327)
+              - [4) De la tenue des établissements pharmaceutiques. (art. R*5015-23 à R*5015-25)](#328)
+            - [Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle (art. R*5015-26 à R*5015-38)](#329)
+              - [1) De la publicité. (art. R*5015-26 à R*5015-29)](#330)
+              - [2) De la concurrence déloyale. (art. R*5015-30 à R*5015-33)](#331)
+              - [3) Prohibition de certaines conventions ou ententes (art. R*5015-34 à R*5015-38)](#332)
+            - [Paragraphe 3 : Relations avec des agents de l'administration. (art. R*5015-39 à R*5015-42)](#333)
+            - [Paragraphe 4 : Des règles à observer dans les relations avec le public. (art. R*5015-43 à R*5015-47)](#334)
+            - [Paragraphe 5 : Relations avec les membres des professions médicales (art. R*5015-48 à R*5015-64)](#335)
+              - [1) Relations avec les membres des professions non pharmaceutiques. (art. R*5015-48 à R*5015-52)](#336)
+              - [2) Relations des pharmaciens avec leurs collaborateurs. (art. R*5015-53 à R*5015-55)](#337)
+              - [3) Devoirs des maîtres de stage. (art. R*5015-56 à R*5015-58)](#338)
+              - [4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires. (art. R*5015-59)](#339)
+              - [5) Devoirs de confraternité. (art. R*5015-60 à R*5015-64)](#340)
+          - [Section 1 bis : Composition du dossier d'inscription au tableau (art. R5014-1 à R5014-3)](#341)
+        - [Chapitre 4 : Réglementation de la publicité (art. R5047 à R5052-3)](#342)
+          - [Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551. (art. R5047 à R5051)](#343)
+          - [Section 1 : Dispositions générales. (art. R5045 à R5046-2)](#344)
+          - [Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement (art. R5055 à R5055-4)](#345)
+          - [Section 4 : Publicité en faveur des établissements pharmaceutiques. (art. R5053)](#346)
+          - [Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments (art. R5054 à R5054-3)](#347)
+          - [Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art. (art. R5052 à R5052-3)](#348)
+        - [Chapitre 5 : De l'inspection de la pharmacie (art. R5056 à R5089)](#349)
+          - [Section 1 : Fonctions des inspecteurs de la pharmacie. (art. R5056 à R5059)](#350)
+          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5060 à R5089)](#351)
+            - [Paragraphe 1 : Généralités (art. R5060)](#352)
+            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#353)
+            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#354)
+            - [Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives. (art. R5071 à R5075)](#355)
+            - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#356)
+            - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#357)
+      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#358)
+        - [Chapitre 1 : Conditions d'exercice de la pharmacie d'officine (art. R5092 à R5104)](#359)
+          - [Section 1 : Des officines de pharmacie (art. R5092 à R5098-2)](#360)
+            - [Paragraphe 3 : Délivrance des médicaments (art. R5092 à R5093)](#361)
+            - [Paragraphe 5 : Médicaments spécialisés de l'officine (art. R5097 à R5098)](#362)
+            - [Paragraphe 4 : Remèdes secrets (art. R5094 à R5096)](#363)
+            - [Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes (art. R5091 à R5091-9)](#364)
+            - [Paragraphe 1 : Exploitation des officines (art. R5090)](#365)
+            - [Paragraphe 6 : Produits officinaux divisés (art. R5098-1 à R5098-2)](#366)
+          - [Section 2 : Exercice personnel de la profession (art. R5099 à R5104)](#367)
+            - [Paragraphe 1 : Assistance par des pharmaciens (art. R5099)](#368)
+            - [Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis (art. R5100 à R5104)](#369)
+        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5144)](#370)
+          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-9)](#371)
+            - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#372)
+            - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#373)
+            - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#374)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-9)](#375)
+              - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#376)
+              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-9)](#377)
+          - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5144)](#378)
+            - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#379)
+            - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142)](#380)
+            - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#381)
+        - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#382)
+          - [DISPOSITIONS GENERALES. (art. R5145)](#383)
+          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 ter)](#384)
+            - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#385)
+            - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#386)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 ter)](#387)
+          - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#388)
+            - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#389)
+            - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#390)
+            - [Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché. (art. R5146-33 à R5146-39-6)](#391)
+            - [Paragraphe 4 : Prélèvements d'échantillons. (art. R5146-40 à R5146-41)](#392)
+          - [Section 3 : Réglementation de la publicité. (art. R5146-42 à R5146-48)](#393)
+          - [SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES. (art. R5146-49 à R5146-50 bis)](#394)
+          - [SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS. (art. R5146-51 à R5146-55)](#395)
+          - [Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents. (art. R5146-56)](#396)
+          - [SECTION 7 : SANCTIONS. (art. R5146-57)](#397)
+        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#398)
+          - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#399)
+        - [Chapitre 2 bis : Pharmacovigilance (art. R5144-1 à R5144-11)](#400)
+          - [Section 1 : Organisation de la pharmacovigilance. (art. R5144-1 à R5144-7)](#401)
+          - [Section 2 : Déclarations obligatoires. (art. R5144-8 à R5144-11)](#402)
+      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-16)](#403)
+        - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5219)](#404)
+          - [SECTION 1 : GENERALITES. (art. R5149)](#405)
+          - [Section 2 : Substances dangereuses, stupéfiantes ou psychotropes (art. R5150 à R5189)](#406)
+            - [1 : Dispositions communes. (art. R5150 à R5151)](#407)
+            - [2 : Substances dangereuses. (art. R5152 à R5170)](#408)
+            - [3 : Substances stupéfiantes. (art. R5171 à R5182)](#409)
+            - [4 : Substances psychotropes. (art. R5183 à R5189)](#410)
+          - [Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact (art. R5190 à R5219)](#411)
+            - [1) Dispositions communes. (art. R5190 à R5203)](#412)
+            - [3) Régime particulier des stupéfiants. (art. R5209 à R5218)](#413)
+            - [2) Régime particulier des listes 1 et 2. (art. R5204 à R5208)](#414)
+            - [4) Régime particulier des psychotropes. (art. R5219)](#415)
+        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#416)
+        - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#417)
+        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#418)
+        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#419)
+        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#420)
+        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-16)](#421)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#422)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#423)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#424)
+        - [Chapitre 5 : Homologation de certains produits et appareils. (art. R5274 à R5287)](#425)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#426)
+          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#427)
+          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#428)
+    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R712-1 à R712-47)](#429)
+      - [Titre 1 : Etablissements de santé (art. R712-1 à R712-47)](#430)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. R712-1 à R712-47)](#431)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. R712-1 à R712-36)](#432)
+            - [Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire. (art. R712-1 à R712-13)](#433)
+            - [Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale (art. R712-14 à R712-21)](#434)
+            - [Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale (art. R712-22 à R712-29)](#435)
+            - [Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale (art. R712-30 à R712-36)](#436)
+          - [Section 2 : Autorisations (art. R712-37 à R712-47)](#437)
+  - [Partie réglementaire ancienne - Décrets simples (art. D712-2 à D712-14)](#438)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D712-2 à D712-16)](#439)
+      - [Titre Ier : Etablissements de santé (art. D712-2 à D712-16)](#440)
+        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-16)](#441)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13)](#442)
+            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#443)
+            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#444)
+          - [Section 2 : Autorisations (art. D712-15 à D712-16)](#445)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#446)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D712-1 à D712-14)](#447)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-14)](#448)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#449)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#450)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#451)
+        - [Section 2 : Autorisations (art. D712-14)](#452)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#453)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -1900,12 +1917,25 @@ délais dans lesquels il devra être satisfait aux conditions prévues par le pr
 Des actes déclaratifs d'utilité publique peuvent, dans les mêmes conditions, déterminer les périmètres de protection autour
 des points de prélèvement existants, ainsi qu'autour des ouvrages d'adduction à écoulement libre et des réservoirs enterrés.
 
+Si un point de prélèvement, un ouvrage ou un réservoir, existant à la date de publication de la loi n° 64-1245 du 16 décembre
+1964 relative au régime et à la répartition des eaux et à la lutte contre leur pollution, ne bénéficie pas d'une protection
+naturelle permettant efficacement d'assurer la qualité des eaux, des périmètres de protection sont déterminés par déclaration
+d'utilité publique, dans un délai de cinq ans à compter de la publication de la loi n° 92-3 du 3 janvier 1992 sur l'eau.
+
+**Nota:**
+
+*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la collectivité
+territoriale de Mayotte.*
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 _Anciens textes_:
 
@@ -1913,9 +1943,10 @@ _Anciens textes_:
   - Décret n°1935-10-30 ART. 1
   - Décret n°1935-10-30 art. 1
 
-_Modifié par_:
+_Cite_:
 
-  - Loi n°64-1245 1964-12-16 art. 7 JORF 18 décembre 1964
+  - Loi n°64-1245 1964-12-16
+  - Loi n°92-3 1992-01-03
 
 _Cité par_:
 
@@ -1940,6 +1971,14 @@ _Cité par_:
   - Code de la santé publique - art. L46 (Ab)
   - Code rural - art. R341-7 (M)
 
+_Modifié par_:
+
+  - Loi n°92-3 1992-01-03 art. 13 JORF 4 janvier 1992
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L1321-10 (M)
@@ -1950,7 +1989,7 @@ _Nouveaux textes_:
 **Liens**:
 
   - TXT_ASSOCIE: Code de la santé publique - art. L46 (Ab)
-  - TXT_ASSOCIE: Code de la santé publique L46 : DISPOSITIONS PENALES
+  - TXT_ASSOCIE: Code de la santé publique L46 : dispositions pénales
   - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
 
 
@@ -2751,23 +2790,35 @@ _Anciens textes_:
 
 Le raccordement des immeubles aux égouts disposés pour recevoir les eaux usées domestiques et établis sous la voie publique à
 laquelle ces immeubles ont accès soit directement, soit par l'intermédiaire de voies privées ou de servitudes de passage, est
-obligatoire avant le 1er octobre 1961 [*date limite*] ou dans le délai de deux ans à compter de la mise en service de l'égout
-si celle-ci est postérieure au 1er octobre 1958.
+obligatoire avant le 1er octobre 1961 [*date limite*], ou dans le délai de deux ans à compter de la mise en service de
+l'égout si celle-ci est postérieure au 1er octobre 1958.
 
 Un arrêté interministériel déterminera les catégories d'immeubles pour lesquelles un arrêté du maire, approuvé par le préfet,
 pourra accorder soit des prolongations de délais qui ne pourront excéder une durée de dix ans, soit des exonérations de
 l'obligation prévue au premier alinéa.
 
+Il peut être décidé par la commune qu'entre la mise en service de l'égout et le raccordement de l'immeuble ou l'expiration du
+délai accordé pour le raccordement, elle percevra auprès des propriétaires des immeubles raccordables une somme équivalente à
+la redevance instituée en application de l'article L. 372-7 du code des communes.
+
+Les immeubles non raccordés doivent être dotés d'un assainissement autonome dont les installations seront maintenues en bon
+état de fonctionnement. Cette obligation ne s'applique ni aux immeubles abandonnés, ni aux immeubles qui, en application de
+la réglementation, doivent être démolis ou doivent cesser d'être utilisés.
+
+**Nota:**
+
+[*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la
+collectivité territoriale de Mayotte.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 2.*]
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Ordonnance 58-1004 1958-10-23 ART. 1 JORF 26 octobre 1958
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 **Liens**:
 
@@ -2775,6 +2826,10 @@ _Modifié par_:
   - TXT_SOURCE: Arrêté du 19 juillet 1960 - art. 2 (V)
   - TXT_SOURCE: Arrêté du 19 juillet 1960 - art. 3 (V)
   - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+_Modifié par_:
+
+  - Loi n°92-3 du 3 janvier 1992 - art. 36 () JORF 4 janvier 1992
 
 _Cité par_:
 
@@ -2784,13 +2839,17 @@ _Cité par_:
   - Code de la santé publique - art. L35-1 (Ab)
   - Code général des collectivités territoriales - art. L2224-12 (M)
 
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L1331-1 (M)
 
 _Anciens textes_:
 
-  - Décret n°1935-10-30 ART. 4
+  - Décret n°1935-10-30 art. 4
 
 
 ###### Article L34
@@ -2802,23 +2861,28 @@ jusques et y compris le regard le plus proche des limites du domaine public.
 Pour les immeubles édifiés postérieurement à la mise en service de l'égout, la commune peut se charger, à la demande des
 propriétaires, de l'exécution de la partie des branchements visés ci-dessus.
 
-Ces parties de branchements sont incorporées au réseau public, propriété de la commune qui en assure désormais l'entretien.
+Ces parties de branchements sont incorporées au réseau public, propriété de la commune qui en assure désormais l'entretien et
+en contrôle la conformité.
 
 La commune est autorisée à se faire rembourser par les propriétaires intéressés [*charge financière*] tout ou partie des
 dépenses entraînées par ces travaux, diminuées des subventions éventuellement obtenues et majorées de 10 p. 100 pour frais
 généraux, suivant des modalités à fixer par délibération du conseil municipal approuvée par l'autorité supérieure
 [*montant*].
 
+**Nota:**
+
+[*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la
+collectivité territoriale de Mayotte.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Ordonnance 58-1004 1958-10-23 ART. 1 JORF 26 octobre 1958
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 _Cité par_:
 
@@ -2828,6 +2892,14 @@ _Cité par_:
   - Code de la santé publique - art. L35 (Ab)
   - Code de la santé publique - art. L35-6 (Ab)
   - Code de la santé publique - art. L35-8 (Ab)
+
+_Modifié par_:
+
+  - Loi n°92-3 du 3 janvier 1992 - art. 36 () JORF 4 janvier 1992
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -2840,7 +2912,7 @@ _Nouveaux textes_:
 
 _Anciens textes_:
 
-  - Décret n°1935-10-30 ART. 5
+  - Décret n°1935-10-30 art. 5
 
 
 ###### Article L35
@@ -2902,24 +2974,37 @@ _Nouveaux textes_:
 ###### Article L35-1
 
 Tous les ouvrages nécessaires pour amener les eaux usées à la partie publique du branchement sont à la charge exclusive des
-propriétaires et doivent être réalisés dans les conditions fixées à l'article L. 33.
+propriétaires et doivent être réalisés dans les conditions fixées à l'article L. 33. La commune contrôle la conformité des
+installations correspondantes.
+
+**Nota:**
+
+[*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la
+collectivité territoriale de Mayotte.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 58-1004 1958-10-23 ART. 2 JORF 26 octobre 1958
+  - Loi n°92-3 du 3 janvier 1992 - art. 36 () JORF 4 janvier 1992
 
 _Cité par_:
 
   - Arrêté du 22 décembre 1994 - art. 24 (Ab)
   - Code de la santé publique - art. L35-10 (Ab)
   - Code de la santé publique - art. L35-3 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -3073,28 +3158,37 @@ _Nouveaux textes_:
 
 Tant que le propriétaire ne s'est pas conformé aux obligations prévues aux articles qui précèdent, il est astreint au
 paiement d'une somme au moins équivalente à la redevance qu'il aurait payée si son immeuble avait été raccordé au réseau et
-qui pourra être majorée dans une proportion fixée par le conseil municipal dans la limite de 100 p. 100 [*sanction,
-montant*].
+qui pourra être majorée dans une proportion fixée par le conseil municipal dans la limite de 100 p. 100 [*sanction, montant*]
+ou s'il est propriétaire d'une installation d'assainissement autonome, à la redevance qu'il aurait payée au service public
+d'assainissement.
+
+**Nota:**
+
+[*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la
+collectivité territoriale de Mayotte.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Loi n°65-997 1965-11-29 ART. 75 II ET V date d'entrée en vigueur 1ER janvier 1968
-
 _Cité par_:
 
+  - Loi n°48-1360 du 1 septembre 1948 - art. 38 (M)
   - Décret n°82-954 du 9 novembre 1982 - art. Annexe (V)
   - CODE DES COMMUNES. - art. L253-2 (Ab)
   - CODE DES COMMUNES. - art. L372-7 (Ab)
   - CODE DES COMMUNES. - art. R*372-18 (M)
   - Code général des collectivités territoriales - art. L2224-12 (M)
-  - Loi n°48-1360 du 1 septembre 1948 - art. 38 (M)
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Loi n°92-3 du 3 janvier 1992 - art. 36 () JORF 4 janvier 1992
 
 _Nouveaux textes_:
 
@@ -3103,10 +3197,6 @@ _Nouveaux textes_:
 **Liens**:
 
   - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
-
-_Créé par_:
-
-  - Ordonnance 58-1004 1958-10-23 ART. 2 JORF 26 octobre 1958
 
 
 ###### Article L35-6
@@ -3274,6 +3364,53 @@ _Cité par_:
 _Abrogé par_:
 
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L35-10
+
+Les agents du service d'assainissement ont accès aux propriétés privées pour l'application des articles L. 35-1 et L. 35-3 ou
+pour assurer le contrôle des installations d'assainissement non collectif et leur entretien si la commune a décidé sa prise
+en charge par le service.
+
+**Nota:**
+
+[*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la
+collectivité territoriale de Mayotte.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°92-3 du 3 janvier 1992 - art. 36 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 6 mai 1996 - art. 3 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1331-11 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L35-1 (M)
+  - Code de la santé publique - art. L35-3 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
 
 
 ##### Section 2 : Des ilôts insalubres<a id=19></a>
@@ -4377,6 +4514,76 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L6312-3 (M)
+
+
+###### Article L51-6
+
+Dans chaque département, la mise en service par les personnes visées à l'article L. 51-2 ci-dessus de véhicules affectés aux
+transports sanitaires terrestres est soumise à l'autorisation du représentant de l'Etat.
+
+Aucune autorisation n'est délivrée si le nombre de véhicules déjà en service égale ou excède un nombre fixé en fonction des
+besoins sanitaires de la population.
+
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles le nombre théorique de véhicules mentionné à l'alinéa
+précédent est fixé, ainsi que les conditions de délivrance, de transfert et de retrait des autorisations de mise en service,
+notamment au regard de l'agrément.
+
+Le retrait de l'agrément peut être prononcé à l'encontre de toute personne qui aura mis ou maintenu en service un véhicule
+sans autorisation. En outre, elle est passible des peines prévues à l'article L. 51-4 ci-dessus.
+
+Les dispositions du présent article ne sont pas applicables aux véhicules exclusivement affectés aux transports sanitaires
+effectués dans le cadre de l'aide médicale urgente.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°87-964 du 30 novembre 1987 - art. 5 (Ab)
+  - Loi n°91-1406 du 31 décembre 1991 - art. 16 (V)
+  - Décret n°95-1093 du 5 octobre 1995 - art. 1 (Ab)
+  - Décret n°95-1093 du 5 octobre 1995 - art. 12 (Ab)
+  - Décret n°95-1093 du 5 octobre 1995 - art. 15 (Ab)
+  - Décret n°95-1093 du 5 octobre 1995 - art. 3 (Ab)
+  - Décret n°2005-840 du 20 juillet 2005 - art. 5 (V)
+
+_Créé par_:
+
+  - Loi n°91-1406 du 31 décembre 1991 - art. 15 () JORF 4 janvier 1992
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 10 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 11 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 12 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 13 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 14 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 15 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 16 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 17 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 6 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 7 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 8 (Ab)
+  - TXT_SOURCE: Décret n°95-1093 du 5 octobre 1995 - art. 9 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Cite_:
+
+  - Code de la santé publique - art. L51-2 (M)
+  - Code de la santé publique - art. L51-4 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L6312-4 (M)
+  - Code de la santé publique - art. L6312-5 (M)
 
 
 ### Titre 2 : Contrôle sanitaire aux frontières.<a id=27></a>
@@ -21772,6 +21979,15 @@ de sa résidence professionnelle [*condition*]. L'inscription mentionne la ou le
 l'infirmier ou l'infirmière exerce (infirmiers exerçant à titre libéral, infirmiers salariés du secteur public, infirmiers
 salariés du secteur privé, infirmiers de secteur psychiatrique).
 
+Toutefois, l'infirmier ou infirmière n'ayant pas de résidence professionnelle peut être autorisé à remplacer un infirmier ou
+une infirmière.
+
+L'autorisation mentionnée à l'alinéa précédent est délivrée, pour une durée limitée, par le préfet du département de leur
+domicile. Elle est renouvelable dans les mêmes conditions.
+
+Les conditions d'application des deux alinéas précédents, et notamment les modalités de remplacement, la durée des
+autorisations et les conditions de leur prorogation sont fixées par décret pris après avis du Conseil d'Etat.
+
 En cas de transfert de la résidence professionnelle dans un autre département, l'infirmier ou l'infirmière doit demander le
 transfert de son inscription dans un délai de trois mois à compter du transfert de résidence, faute de quoi il est radié
 d'office.
@@ -21782,26 +21998,31 @@ géographiquement les possibilités d'exercice.
 L'infirmier ou l'infirmière qui est inscrit ou enregistré dans un Etat étranger pour l'exercice de sa profession ne peut être
 inscrit sur une liste départementale [*interdiction*].
 
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique, à l'exception des trois derniers alinéas, à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Anciens textes_:
-
-  - Loi n°46-630 1946-04-08 ART. 6
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
 _Modifié par_:
 
-  - Loi n°80-527 1980-07-12 ART. 4 JORF 13 juillet 1980
+  - Loi n°91-1406 du 31 décembre 1991 - art. 36 () JORF 4 janvier 1992
 
 _Cité par_:
 
   - Décret n°95-1113 du 16 octobre 1995 - art. 1 (Ab)
   - Code de la santé publique - art. L479 (Ab)
   - Code de la santé publique - art. L480 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
@@ -39194,6 +39415,73 @@ _Cite_:
   - Code de la santé publique - art. L714-6 (M)
 
 
+###### Article L714-17
+
+Dans chaque établissement public de santé, est institué un comité technique d'établissement présidé par le directeur, ou son
+représentant, membre du corps des personnels de direction de l'établissement et composé de représentants du personnel
+relevant du titre IV du statut général des fonctionnaires, élus par collèges définis en fonction des catégories mentionnées à
+l'article 4 de ce titre sur des listes présentées par les organisations syndicales représentatives au sein de chaque
+établissement pour chaque catégorie de personnel.
+
+La représentativité des organisations syndicales s'apprécie d'après les critères suivants :
+
+- les effectifs ;
+
+- l'indépendance ;
+
+- les cotisations ;
+
+- l'expérience et l'ancienneté du syndicat.
+
+Tout syndicat affilié à une organisation représentative sur le plan national est considéré comme représentatif dans
+l'établissement.
+
+Lorsqu'aucune organisation syndicale ne présente de liste ou lorsque la participation est inférieure à un taux fixé par
+décret, les listes peuvent être librement établies.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cité par_:
+
+  - Loi n°86-33 du 9 janvier 1986 - art. 23 (Ab)
+  - Décret n°95-236 du 2 mars 1995 - art. 7 (Ab)
+  - Arrêté du 3 octobre 1995 - art. 2 (V)
+  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 10 (Ab)
+  - Décret n°96-1232 du 27 décembre 1996 - art. 11 (V)
+  - Code de la santé publique - art. D714-17-1 (Ab)
+  - Code de la santé publique - art. D714-2-1 (Ab)
+  - Code de la santé publique - art. L714-19 (Ab)
+  - Code de la santé publique - art. R712-89 (M)
+  - Code de la santé publique - art. R714-17-1 (Ab)
+  - Code de la santé publique - art. R714-17-11 (Ab)
+  - Code de la santé publique - art. R714-17-24 (Ab)
+  - Code de la santé publique - art. R714-18-4 (Ab)
+  - Code de la santé publique - art. R714-2-25 (M)
+  - Code de la santé publique - art. R716-3-15 (Ab)
+  - Code de la santé publique - art. R716-3-47 (Ab)
+  - Code de la santé publique - art. R726-21 (Ab)
+
+_Modifié par_:
+
+  - Loi n°91-1406 du 31 décembre 1991 - art. 6 () JORF 4 janvier 1992
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 96-1122 1996-12-20 art. 10 V : rédaction de l'article L714-17 applicable à la collectivité territoriale de Mayotte
+  - TXT_SOURCE: Code de la santé publique - art. D714-17-1 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. D714-19-1 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. D714-19-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L6144-4 (V)
+
+
 ###### Article L714-18
 
 Le comité technique d'établissement est obligatoirement consulté sur [*attribution*] :
@@ -39344,6 +39632,82 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de la santé publique - art. L714-11 (M)
+
+
+###### Article L714-21
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 91-297 DC du 29 juillet
+1991.]
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 91-297 DC du 29 juillet
+1991.]
+
+[Dispositions déclarées inséparables de l'article L. 724-21 (alinéas 1 et 2) de la présente loi par décision du Conseil
+constitutionnel n° 91-297 DC du 29 juillet 1991.]
+
+Les chefs de service ou de département sont nommés, pour une durée de cinq ans renouvelable, par le ministre chargé de la
+santé après avis de la commission médicale d'établissement qui siège en formation restreinte aux praticiens titulaires et du
+conseil d'administration ; le renouvellement est prononcé après avis de la commission médicale d'établissement, puis du
+conseil d'administration, par le représentant de l'Etat dans la région, y compris en ce qui concerne les chefs de service
+nommés avant l'entrée en vigueur de la loi n° 91-1406 du 31 décembre 1991 portant diverses dispositions d'ordre social. Il
+est subordonné au dépôt, auprès du représentant de l'Etat dans la région et des instances citées ci-dessus, quatre mois avant
+l'expiration du mandat, d'une demande de l'intéressé, accompagnée d'un bilan de son activité en qualité de chef de service ou
+de département et d'un projet pour le mandat sollicité. Le non-renouvellement est notifié à l'intéressé avant le terme de son
+mandat. Il peut être fait appel de cette décision dans un délai de deux mois auprès du ministre chargé de la santé.
+
+Les conditions de candidature et de nomination dans ces fonctions, dont certaines peuvent être propres à la psychiatrie, sont
+fixées par voie réglementaire.
+
+Peuvent exercer la fonction de chef de service ou de département ou de responsable de structures créées, en application de
+l'article L. 714-25-2, les praticiens titulaires relevant d'un statut à temps plein ou, si l'activité du service, du
+département ou de la structure ou la situation des effectifs le justifient, les praticiens titulaires relevant d'un statut à
+temps partiel.
+
+Les dispositions du premier alinéa ne font pas obstacle à l'application des dispositions relatives aux sanctions prises en
+cas de faute ou d'insuffisance professionnelle et aux décisions prises dans l'intérêt du service.
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 91-297 DC du 29 juillet
+1991.]
+
+Les fonctions hospitalières exercées par les professeurs des universités-praticiens hospitaliers cessent à la fin de l'année
+universitaire au cours de laquelle ils atteignent la limite d'âge fixée pour les praticiens hospitaliers.
+
+Toutefois, les professeurs des universités-praticiens hospitaliers qui bénéficient d'une prolongation d'activité au-delà de
+l'âge de soixante-cinq ans conformément à l'article 2 de la loi n° 86-1304 du 23 décembre 1986 relative à la limite d'âge et
+aux modalités de recrutement de certains fonctionnaires civils de l'Etat peuvent demander à poursuivre, en qualité de
+consultants, des fonctions hospitalières à l'exclusion de celles de chef de service.
+
+Les candidatures et la nature des missions confiées aux consultants, dans ou en dehors de l'établissement, sont examinées par
+le conseil d'administration et la commission médicale d'établissement qui émettent un avis motivé sur l'opportunité et le
+contenu de la demande. Le statut de consultant est fixé par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cite_:
+
+  - Loi n°86-1304 du 23 décembre 1986 - art. 2 (M)
+  - Loi n°91-1406 1991-12-31
+  - Code de la santé publique L724-21, L714-25-2
+
+_Modifié par_:
+
+  - Loi n°91-1406 du 31 décembre 1991 - art. 7 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Code de la santé publique - art. D714-21-1 (M)
+  - Code de la santé publique - art. L714-25-2 (M)
+  - Code de la santé publique - art. R714-21-19 (V)
+  - Code de la santé publique - art. R714-21-2 (V)
+  - Code de la santé publique - art. R714-21-20 (V)
+  - Code de la santé publique - art. R716-3-14 (Ab)
+  - Code de la santé publique - art. R716-3-51 (Ab)
+  - Code de la santé publique - art. R716-3-9 (Ab)
 
 
 ###### Article L714-22
@@ -39530,6 +39894,74 @@ _Cite_:
 
   - Code de la santé publique - art. L714-23 (M)
   - Code de la santé publique - art. L714-25-2 (M)
+
+
+###### Article L714-25-2
+
+Par dérogation aux dispositions des articles L. 714-20 à L. 714-25, le conseil d'administration d'un établissement public de
+santé peut décider d'arrêter librement l'organisation des soins et le fonctionnement médical de l'établissement, dans le
+respect du projet d'établissement approuvé.
+
+Cette décision est prise sur proposition de la commission médicale d'établissement siégeant en formation restreinte aux
+praticiens titulaires et adoptée à la majorité des deux tiers de cette assemblée après avis du comité technique
+d'établissement.
+
+Dans ce cas, le conseil d'administration nomme les responsables des structures médicales et médico-techniques ainsi créées
+après avis de la commission médicale d'établissement qui siège en formation restreinte aux praticiens titulaires. Il prévoit,
+après consultation de la commission médicale d'établissement et du comité technique d'établissement, les modalités de
+participation et d'expression des personnels au fonctionnement de ces structures. La mise en place de celles-ci ne peut
+intervenir qu'à l'occasion des renouvellements des chefs de service en fonction à la date de promulgation de la loi n° 91-748
+du 31 juillet 1991 portant réforme hospitalière [Dispositions déclarées inséparables de l'article L. 724-21 (alinéas 1 et 2)
+de la présente loi par décision du Conseil constitutionnel n° 91-297 DC du 29 juillet 1991.].
+
+Les dispositions du troisième alinéa ne font pas obstacle à l'application des dispositions relatives aux sanctions prises en
+cas de faute ou d'insuffisance professionnelle et aux décisions prises dans l'intérêt du service.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cité par_:
+
+  - Décret n°70-931 du 8 octobre 1970 - art. 2 (Ab)
+  - Arrêté du 2 novembre 1994 - art. ANNEXE (V)
+  - Décret n°95-569 du 6 mai 1995 - art. 1 (V)
+  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 10 (Ab)
+  - Arrêté du 31 mars 1999 - art. 4 (V)
+  - Décret n°99-1111 du 27 décembre 1999 - art. 6 (Ab)
+  - Code de la santé publique - art. D711-9-7 (Ab)
+  - Code de la santé publique - art. D712-52 (Ab)
+  - Code de la santé publique - art. L713-11-3 (Ab)
+  - Code de la santé publique - art. L714-16 (Ab)
+  - Code de la santé publique - art. L714-21 (Ab)
+  - Code de la santé publique - art. L714-25-1 (Ab)
+  - Code de la santé publique - art. R5143-5-2 (M)
+  - Code de la santé publique - art. R5143-5-3 (T)
+  - Code de la santé publique - art. R5144-16 (Ab)
+  - Code de la santé publique - art. R711-11 (Ab)
+  - Code de la santé publique - art. R714-16-5 (M)
+  - Code de la santé publique - art. R716-3-16 (Ab)
+  - Code de la santé publique - art. R716-3-44 (Ab)
+  - Code de la santé publique - art. R716-3-7 (Ab)
+
+_Cite_:
+
+  - Loi n°91-748 1991-07-31
+  - Code de la santé publique - art. L714-20 (M)
+  - Code de la santé publique - art. L714-23 (M)
+  - Code de la santé publique - art. L714-24 (M)
+  - Code de la santé publique L714-20, L714-21, L724-22, L714-23, L714-24, L724-25
+
+_Modifié par_:
+
+  - Loi n°91-1406 du 31 décembre 1991 - art. 7 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L6146-8 (Ab)
 
 
 ###### Article L714-26
@@ -41147,6 +41579,181 @@ _Anciens textes_:
   - Loi n°1856-07-14 ART. 1
 
 
+###### Article L736
+
+Un périmètre de protection peut être assigné, par décret pris dans les formes établies à l'article précédent, à une source
+déclarée d'intérêt public. Il peut porter sur des terrains disjoints. A l'intérieur de ces périmètres peuvent être interdits
+ou réglementés toutes activités, dépôts ou installations de nature à nuire directement ou indirectement à la qualité des
+eaux.
+
+Ce périmètre peut être modifié si de nouvelles circonstances en font reconnaître la nécessité.
+
+**Nota:**
+
+[*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Modifié par_:
+
+  - Loi n°92-3 du 3 janvier 1992 - art. 14 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Décret n°93-743 du 29 mars 1993 - art. 2 (M)
+  - Code de l'urbanisme - art. R*126-1, Annexe (M)
+  - Code de la santé publique - art. L743 (Ab)
+  - Code de la santé publique - art. L744 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1322-13 (V)
+  - Code de la santé publique - art. L1322-3 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L735 (M)
+
+
+###### Article L737
+
+Aucun sondage, aucun travail souterrain ne peuvent être pratiqués dans le périmètre de protection d'une source d'eau minérale
+déclarée d'intérêt public, sans autorisation préalable.
+
+A l'égard des fouilles, tranchées pour extraction de matériaux ou tout autre objet, fondations de maisons, caves ou autres
+travaux à ciel ouvert, le décret qui fixe le périmètre de protection peut exceptionnellement imposer aux propriétaires
+l'obligation de faire, au moins un mois à l'avance [*délai*], une déclaration au préfet qui en délivre récépissé.
+
+Les autres activités, dépôts ou installations de nature à nuire directement ou indirectement à la qualité des eaux peuvent
+également être soumis à autorisation ou à déclaration par le décret instituant le périmètre de protection.
+
+**Nota:**
+
+[*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Modifié par_:
+
+  - Loi n°92-3 du 3 janvier 1992 - art. 14 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1322-4 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L738 (Ab)
+  - Code de la santé publique - art. L743 (Ab)
+  - Code de la santé publique - art. L744 (Ab)
+  - Code de la santé publique - art. L747 (Ab)
+  - Code de la santé publique - art. L751 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique L747 : DISPOSITIONS PENALES
+
+
+###### Article L738
+
+Les travaux [*sondages, fouilles, tranchées, fondations*], activités, dépôts ou installations mentionnés à l'article
+précédent et entrepris, soit en vertu d'une autorisation régulière, soit après une déclaration préalable, peuvent, sur la
+demande du propriétaire de la source, être interdits par le préfet, si leur résultat constaté est d'altérer ou de diminuer la
+source. Le propriétaire du terrain est préalablement entendu.
+
+L'arrêté du préfet est exécutoire par provision, sauf recours au tribunal administratif et au Conseil d'Etat par la voie
+contentieuse [*juridictions compétentes*].
+
+**Nota:**
+
+[*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Modifié par_:
+
+  - Loi n°92-3 du 3 janvier 1992 - art. 14 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1322-5 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L737 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L743 (Ab)
+  - Code de la santé publique - art. L744 (Ab)
+  - Code de la santé publique - art. L747 (Ab)
+  - Code de la santé publique - art. L751 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique L747 : DISPOSITIONS PENALES
+
+
+###### Article L739
+
+Lorsque, à raison de sondages ou de travaux souterrains ou à raison d'autres activités, dépôts ou installations entrepris en
+dehors du périmètre et jugés de nature à altérer ou diminuer une source minérale déclarée d'intérêt public, l'extension du
+périmètre paraît nécessaire, le préfet [*autorité compétente*] peut, sur la demande du propriétaire de la source, ordonner
+provisoirement la suspension des travaux ou activités.
+
+Les travaux ou activités peuvent être repris si, dans le délai de six mois, il n'a pas été statué sur l'extension du
+périmètre.
+
+**Nota:**
+
+[*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Modifié par_:
+
+  - Loi n°92-3 du 3 janvier 1992 - art. 14 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1322-6 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L740 (Ab)
+  - Code de la santé publique - art. L743 (Ab)
+  - Code de la santé publique - art. L744 (Ab)
+  - Code de la santé publique - art. L747 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique L747 : DISPOSITIONS PENALES
+
+
 ###### Article L740
 
 Les dispositions de l'article précédent s'appliquent à une source minérale déclarée d'intérêt public, à laquelle aucun
@@ -41255,6 +41862,101 @@ _Anciens textes_:
 _Modifié par_:
 
   - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+
+
+###### Article L743
+
+L'occupation d'un terrain compris dans le périmètre de protection pour l'exécution des travaux [*de captage et d'aménagement
+de la source*] prévus par l'article L. 741 ne peut avoir lieu qu'en vertu d'un arrêté du préfet qui en fixe la durée.
+
+Lorsque l'occupation d'un terrain compris dans le périmètre ou l'application des articles L. 736 à L. 740 ci-dessus prive le
+propriétaire de la jouissance du revenu au-delà du temps d'une année [*durée*] ou lorsque après les travaux le terrain n'est
+plus propre à l'usage auquel il était employé, le propriétaire dudit terrain peut exiger du propriétaire de la source
+l'acquisition du terrain occupé ou dénaturé. Dans ce cas, l'indemnité est réglée suivant les formes prescrites par les
+décrets des 8 août et 30 octobre 1935. Dans aucun cas, l'expropriation ne peut être provoquée par le propriétaire de la
+source.
+
+**Nota:**
+
+[*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Modifié par_:
+
+  - Loi n°92-3 du 3 janvier 1992 - art. 14 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1322-10 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L736 (M)
+  - Code de la santé publique - art. L737 (M)
+  - Code de la santé publique - art. L738 (M)
+  - Code de la santé publique - art. L739 (M)
+  - Code de la santé publique - art. L740 (M)
+  - Code de la santé publique - art. L741 (M)
+  - Décret n°1935-08-08
+  - Décret n°1935-10-30
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. L741 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L744 (M)
+
+
+###### Article L744
+
+Les dommages dus par suite des mesures imposées en application des articles L. 736 à L. 740 ci-dessus ainsi que ceux dus à
+raison de travaux exécutés en vertu des articles L. 741 et L. 743 sont à la charge du propriétaire de la source. L'indemnité
+est réglée à l'amiable ou par les tribunaux.
+
+Dans les cas prévus par les articles L. 736 à L. 740 ci-dessus, l'indemnité due par le propriétaire de la source ne peut
+excéder le montant des pertes matérielles qu'a éprouvées le propriétaire du terrain et le prix des travaux devenus inutiles,
+augmenté de la somme nécessaire pour le rétablissement des lieux dans leur état primitif.
+
+**Nota:**
+
+[*Nota : Loi 92-3 du 3 janvier 1992 art. 45 : le présent article du code de la santé publique est applicable à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Modifié par_:
+
+  - Loi n°92-3 du 3 janvier 1992 - art. 14 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1322-11 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L736 (M)
+  - Code de la santé publique - art. L737 (M)
+  - Code de la santé publique - art. L738 (M)
+  - Code de la santé publique - art. L739 (M)
+  - Code de la santé publique - art. L740 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L745 (Ab)
 
 
 ###### Article L745
@@ -42965,459 +43667,11 @@ _Cite_:
   - Code de la santé publique - art. L765 (M)
 
 
-## Livre 7 : Etablissement de santé, thermoclimatisme, laboratoires<a id=282></a>
+## Livre 8 : Institutions<a id=282></a>
 
-### Titre 1 : Etablissements de santé<a id=283></a>
+### Chapitre 1 : Services administratifs locaux<a id=283></a>
 
-#### Chapitre 4 : Les établissements publics de santé<a id=284></a>
-
-##### Section 2 : Organes représentatifs<a id=285></a>
-
-###### Article L714-17
-
-Dans chaque établissement public de santé, est institué un comité technique d'établissement présidé par le président du
-conseil d'administration ou, par délégation de celui-ci, par le directeur et composé de représentants du personnel relevant
-du titre IV du statut général des fonctionnaires, élus par collèges définis en fonction des catégories mentionnées à
-l'article 4 de ce titre sur des listes présentées par les organisations syndicales représentatives au sein de chaque
-établissement pour chaque catégorie de personnel.
-
-La représentativité des organisations syndicales s'apprécie d'après les critères suivants :
-
-- les effectifs ;
-
-- l'indépendance ;
-
-- les cotisations ;
-
-- l'expérience et l'ancienneté du syndicat.
-
-Tout syndicat affilié à une organisation représentative sur le plan national est considéré comme représentatif dans
-l'établissement.
-
-Lorsqu'aucune organisation syndicale ne présente de liste ou lorsque la participation est inférieure à un taux fixé par
-décret, les listes peuvent être librement établies.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Cité par_:
-
-  - Loi n°86-33 du 9 janvier 1986 - art. 23 (Ab)
-  - Décret n°95-236 du 2 mars 1995 - art. 7 (Ab)
-  - Arrêté du 3 octobre 1995 - art. 2 (V)
-  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 10 (Ab)
-  - Décret n°96-1232 du 27 décembre 1996 - art. 11 (V)
-  - Code de la santé publique - art. D714-17-1 (Ab)
-  - Code de la santé publique - art. D714-2-1 (Ab)
-  - Code de la santé publique - art. L714-19 (Ab)
-  - Code de la santé publique - art. R712-89 (M)
-  - Code de la santé publique - art. R714-17-1 (Ab)
-  - Code de la santé publique - art. R714-17-11 (Ab)
-  - Code de la santé publique - art. R714-17-24 (Ab)
-  - Code de la santé publique - art. R714-18-4 (Ab)
-  - Code de la santé publique - art. R714-2-25 (M)
-  - Code de la santé publique - art. R716-3-15 (Ab)
-  - Code de la santé publique - art. R716-3-47 (Ab)
-  - Code de la santé publique - art. R726-21 (Ab)
-
-_Créé par_:
-
-  - Loi n°91-748 du 31 juillet 1991 - art. 8 () JORF 2 août 1991
-
-**Liens**:
-
-  - TXT_SOURCE: Code de la santé publique - art. D714-17-1 (Ab)
-  - TXT_SOURCE: Code de la santé publique - art. D714-19-1 (Ab)
-  - TXT_SOURCE: Code de la santé publique - art. D714-19-2 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L6144-4 (V)
-
-
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=286></a>
-
-###### Article L714-21
-
-[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 91-297 DC du 29 juillet
-1991.]
-
-[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 91-297 DC du 29 juillet
-1991.]
-
-[Dispositions déclarées inséparables de l'article L. 724-21 (alinéas 1 et 2) de la présente loi par décision du Conseil
-constitutionnel n° 91-297 DC du 29 juillet 1991.]
-
-Peuvent exercer la fonction de chef de service ou de département ou de responsables des structures créées en application de
-l'article L. 714-25-2, les praticiens titulaires relevant d'un statut à temps plein ou, si l'activité du service ou du
-département ou de la structure ou la situation des effectifs le justifient, les praticiens titulaires relevant d'un statut à
-temps partiel.
-
-Les conditions de candidature, de nomination ou de renouvellement dans ces fonctions dont certaines peuvent être propres à la
-psychiatrie sont fixées par voie réglementaire.
-
-[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 91-297 DC du 29 juillet
-1991.]
-
-Les fonctions hospitalières exercées par les professeurs des universités-praticiens hospitaliers cessent à la fin de l'année
-universitaire au cours de laquelle ils atteignent la limite d'âge fixée pour les praticiens hospitaliers.
-
-Toutefois, les professeurs des universités-praticiens hospitaliers qui bénéficient d'une prolongation d'activité au-delà de
-l'âge de soixante-cinq ans conformément à l'article 2 de la loi n° 86-1304 du 23 décembre 1986 relative à la limite d'âge et
-aux modalités de recrutement de certains fonctionnaires civils de l'Etat peuvent demander à poursuivre, en qualité de
-consultants, des fonctions hospitalières à l'exclusion de celles de chef de service.
-
-Les candidatures et la nature des missions confiées aux consultants, dans ou en dehors de l'établissement, sont examinées par
-le conseil d'administration et la commission médicale d'établissement qui émettent un avis motivé sur l'opportunité et le
-contenu de la demande. Le statut de consultant est fixé par décret.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Cite_:
-
-  - Loi n°86-1304 du 23 décembre 1986 - art. 2 (M)
-  - Code de la santé publique L724-21, L714-25-2
-
-_Créé par_:
-
-  - Loi n°91-748 du 31 juillet 1991 - art. 8 () JORF 2 août 1991
-
-_Cité par_:
-
-  - Code de la santé publique - art. D714-21-1 (M)
-  - Code de la santé publique - art. L714-25-2 (M)
-  - Code de la santé publique - art. R714-21-19 (V)
-  - Code de la santé publique - art. R714-21-2 (V)
-  - Code de la santé publique - art. R714-21-20 (V)
-  - Code de la santé publique - art. R716-3-14 (Ab)
-  - Code de la santé publique - art. R716-3-51 (Ab)
-  - Code de la santé publique - art. R716-3-9 (Ab)
-
-
-###### Article L714-25-2
-
-Par dérogation aux dispositions des articles L. 714-20 à L. 714-25, le conseil d'administration d'un établissement public de
-santé peut décider d'arrêter librement l'organisation des soins et le fonctionnement médical de l'établissement, dans le
-respect du projet d'établissement approuvé.
-
-Cette décision est prise sur proposition de la commission médicale d'établissement siégeant en formation restreinte aux
-praticiens titulaires et adoptée à la majorité des deux tiers de cette assemblée après avis du comité technique
-d'établissement.
-
-Dans ce cas, le conseil d'administration nomme les responsables des structures médicales et médico-techniques ainsi créées
-après avis de la commission médicale d'établissement. Il prévoit, après consultation de la commission médicale
-d'établissement et du comité technique d'établissement, les modalités de participation et d'expression des personnels au
-fonctionnement de ces structures. La mise en place de celles-ci ne peut intervenir qu'à l'occasion des renouvellements des
-chefs de service en fonction à la date de promulgation de la loi n° 91-748 du 31 juillet 1991 portant réforme hospitalière
-[Dispositions déclarées inséparables de l'article L. 724-21 (alinéas 1 et 2) de la présente loi par décision du Conseil
-constitutionnel n° 91-297 DC du 29 juillet 1991.].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Cité par_:
-
-  - Décret n°70-931 du 8 octobre 1970 - art. 2 (Ab)
-  - Arrêté du 2 novembre 1994 - art. ANNEXE (V)
-  - Décret n°95-569 du 6 mai 1995 - art. 1 (V)
-  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 10 (Ab)
-  - Arrêté du 31 mars 1999 - art. 4 (V)
-  - Décret n°99-1111 du 27 décembre 1999 - art. 6 (Ab)
-  - Code de la santé publique - art. D711-9-7 (Ab)
-  - Code de la santé publique - art. D712-52 (Ab)
-  - Code de la santé publique - art. L713-11-3 (Ab)
-  - Code de la santé publique - art. L714-16 (Ab)
-  - Code de la santé publique - art. L714-21 (Ab)
-  - Code de la santé publique - art. L714-25-1 (Ab)
-  - Code de la santé publique - art. R5143-5-2 (M)
-  - Code de la santé publique - art. R5143-5-3 (T)
-  - Code de la santé publique - art. R5144-16 (Ab)
-  - Code de la santé publique - art. R711-11 (Ab)
-  - Code de la santé publique - art. R714-16-5 (M)
-  - Code de la santé publique - art. R716-3-16 (Ab)
-  - Code de la santé publique - art. R716-3-44 (Ab)
-  - Code de la santé publique - art. R716-3-7 (Ab)
-
-_Cite_:
-
-  - Loi n°91-748 1991-07-31
-  - Code de la santé publique - art. L714-20 (M)
-  - Code de la santé publique - art. L714-23 (M)
-  - Code de la santé publique - art. L714-24 (M)
-  - Code de la santé publique L714-20, L714-21, L724-22, L714-23, L714-24, L724-25
-
-_Créé par_:
-
-  - Loi n°91-748 du 31 juillet 1991 - art. 8 () JORF 2 août 1991
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L6146-8 (Ab)
-
-
-### Titre 2 : Thermo-climatisme<a id=287></a>
-
-#### Chapitre 1 : Sources d'eaux minérales<a id=288></a>
-
-##### Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent.<a id=289></a>
-
-###### Article L736
-
-Un périmètre de protection peut être assigné, par décret pris dans les formes établies à l'article précédent, à une source
-déclarée d'intérêt public.
-
-Ce périmètre peut être modifié si de nouvelles circonstances en font reconnaître la nécessité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-
-_Cité par_:
-
-  - Décret n°93-743 du 29 mars 1993 - art. 2 (M)
-  - Code de l'urbanisme - art. R*126-1, Annexe (M)
-  - Code de la santé publique - art. L743 (Ab)
-  - Code de la santé publique - art. L744 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L1322-13 (V)
-  - Code de la santé publique - art. L1322-3 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. L735 (M)
-
-_Anciens textes_:
-
-  - Loi n°1856-07-14 art. 2
-
-
-###### Article L737
-
-Aucun sondage, aucun travail souterrain ne peuvent être pratiqués dans le périmètre de protection d'une source d'eau minérale
-déclarée d'intérêt public, sans autorisation préalable.
-
-A l'égard des fouilles, tranchées pour extraction de matériaux ou tout autre objet, fondations de maisons, caves ou autres
-travaux à ciel ouvert, le décret qui fixe le périmètre de protection peut exceptionnellement imposer aux propriétaires
-l'obligation de faire, au moins un mois à l'avance [*délai*], une déclaration au préfet qui en délivre récépissé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Anciens textes_:
-
-  - Loi n°1856-07-14 art. 3
-
-_Modifié par_:
-
-  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L1322-4 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L738 (Ab)
-  - Code de la santé publique - art. L743 (Ab)
-  - Code de la santé publique - art. L744 (Ab)
-  - Code de la santé publique - art. L747 (Ab)
-  - Code de la santé publique - art. L751 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la santé publique L747 : DISPOSITIONS PENALES
-
-
-###### Article L738
-
-Les travaux [*sondages, fouilles, tranchées, fondations*] énoncés à l'article précédent et entrepris, soit en vertu d'une
-autorisation régulière, soit après une déclaration préalable, peuvent, sur la demande du propriétaire de la source, être
-interdits par le préfet, si leur résultat constaté est d'altérer ou de diminuer la source. Le propriétaire du terrain est
-préalablement entendu.
-
-L'arrêté du préfet est exécutoire par provision, sauf recours au tribunal administratif et au Conseil d'Etat par la voie
-contentieuse [*juridictions compétentes*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Anciens textes_:
-
-  - Loi n°1856-07-14 ART. 4
-
-_Modifié par_:
-
-  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L1322-5 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. L737 (M)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L743 (Ab)
-  - Code de la santé publique - art. L744 (Ab)
-  - Code de la santé publique - art. L747 (Ab)
-  - Code de la santé publique - art. L751 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la santé publique L747 : DISPOSITIONS PENALES
-
-
-###### Article L739
-
-Lorsque, à raison de sondages ou de travaux souterrains entrepris en dehors du périmètre et jugés de nature à altérer ou
-diminuer une source minérale déclarée d'intérêt public, l'extension du périmètre paraît nécessaire, le préfet [*autorité
-compétente*] peut, sur la demande du propriétaire de la source, ordonner provisoirement la suspension des travaux.
-
-Les travaux peuvent être repris si, dans le délai de six mois, il n'a pas été statué sur l'extension du périmètre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L1322-6 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L740 (Ab)
-  - Code de la santé publique - art. L743 (Ab)
-  - Code de la santé publique - art. L744 (Ab)
-  - Code de la santé publique - art. L747 (Ab)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la santé publique L747 : DISPOSITIONS PENALES
-
-
-###### Article L743
-
-L'occupation d'un terrain compris dans le périmètre de protection pour l'exécution des travaux [*de captage et d'aménagement
-de la source*] prévus par l'article L. 741 ne peut avoir lieu qu'en vertu d'un arrêté du préfet qui en fixe la durée.
-
-Lorsque l'occupation d'un terrain compris dans le périmètre prive le propriétaire de la jouissance du revenu au-delà du temps
-d'une année [*durée*] ou lorsque après les travaux le terrain n'est plus propre à l'usage auquel il était employé, le
-propriétaire dudit terrain peut exiger du propriétaire de la source l'acquisition du terrain occupé ou dénaturé. Dans ce cas,
-l'indemnité est réglée suivant les formes prescrites par les décrets des 8 août et 30 octobre 1935. Dans aucun cas,
-l'expropriation ne peut être provoquée par le propriétaire de la source.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°1935-08-08
-  - Décret n°1935-10-30
-  - Code de la santé publique - art. L741 (M)
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L1322-10 (V)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la santé publique - art. L741 (Ab)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L744 (M)
-
-
-###### Article L744
-
-Les dommages dus par suite de suspension, interdiction ou destruction de travaux [*dans le périmètre de protection*] dans les
-cas prévus aux articles L. 738, 739 et 740 ci-dessus ainsi que ceux dus à raison de travaux exécutés en vertu des articles L.
-741 et 743 sont à la charge du propriétaire de la source. L'indemnité est réglée à l'amiable ou par les tribunaux.
-
-Dans les cas prévus par les articles L. 738, 739 et 740 ci-dessus, l'indemnité due par le propriétaire de la source ne peut
-excéder le montant des pertes matérielles qu'a éprouvées le propriétaire du terrain et le prix des travaux devenus inutiles,
-augmenté de la somme nécessaire pour le rétablissement des lieux dans leur état primitif.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-_Modifié par_:
-
-  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L1322-11 (V)
-
-_Cite_:
-
-  - Code de la santé publique - art. L738 (M)
-  - Code de la santé publique - art. L739 (M)
-  - Code de la santé publique - art. L740 (M)
-  - Code de la santé publique - art. L741 (M)
-  - Code de la santé publique - art. L743 (M)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L745 (Ab)
-
-
-## Livre 8 : Institutions<a id=290></a>
-
-### Chapitre 1 : Services administratifs locaux<a id=291></a>
-
-#### Section 2 : Service communal d'hygiène et de santé.<a id=292></a>
+#### Section 2 : Service communal d'hygiène et de santé.<a id=284></a>
 
 ###### Article L772
 
@@ -43471,7 +43725,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L1422-1 (V)
 
 
-#### SECTION 3 : MODALITES D'APPLICATION.<a id=293></a>
+#### SECTION 3 : MODALITES D'APPLICATION.<a id=285></a>
 
 ###### Article L775
 
@@ -43507,9 +43761,9 @@ _Cite_:
   - Code de la santé publique - art. L772 (M)
 
 
-### CHAPITRE 2 : CONSEILS ET COMMISSIONS<a id=294></a>
+### CHAPITRE 2 : CONSEILS ET COMMISSIONS<a id=286></a>
 
-#### Section 1 : Conseils départementaux d'hygiène et commissions sanitaires<a id=295></a>
+#### Section 1 : Conseils départementaux d'hygiène et commissions sanitaires<a id=287></a>
 
 ###### Article L776
 
@@ -43549,7 +43803,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. L1416-1 (V)
 
 
-#### Section 3 : Conseil permanent d'hygiène sociale.<a id=296></a>
+#### Section 3 : Conseil permanent d'hygiène sociale.<a id=288></a>
 
 ###### Article L782
 
@@ -43582,11 +43836,11 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-## Livre IX : Personnel<a id=297></a>
+## Livre IX : Personnel<a id=289></a>
 
-### Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social<a id=298></a>
+### Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social<a id=290></a>
 
-#### Chapitre II : Dispositions organiques<a id=299></a>
+#### Chapitre II : Dispositions organiques<a id=291></a>
 
 ###### Article L803
 
@@ -44055,7 +44309,7 @@ _Abrogé par_:
   - Décret n°98-674 du 30 juillet 1998 - art. 12 (V) JORF 6 août 1998
 
 
-#### Chapitre V : Notation et avancement.<a id=300></a>
+#### Chapitre V : Notation et avancement.<a id=292></a>
 
 ###### Article L818
 
@@ -44296,9 +44550,9 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 2° JORF 22 juin 2000
 
 
-#### Chapitre VII : Positions.<a id=301></a>
+#### Chapitre VII : Positions.<a id=293></a>
 
-##### Section 1 : Activités, congés.<a id=302></a>
+##### Section 1 : Activités, congés.<a id=294></a>
 
 ###### Article L850
 
@@ -44355,7 +44609,7 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-#### Chapitre X : Dispositions diverses et transitoires.<a id=303></a>
+#### Chapitre X : Dispositions diverses et transitoires.<a id=295></a>
 
 ###### Article L895
 
@@ -44387,7 +44641,7 @@ _Abrogé par_:
   - Loi n°96-452 du 28 mai 1996 - art. 22 () JORF 29 mai 1996
 
 
-#### Dispositions finales.<a id=304></a>
+#### Dispositions finales.<a id=296></a>
 
 ###### Article L897
 
@@ -44640,13 +44894,13 @@ _Abrogé par_:
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-# Partie réglementaire ancienne<a id=305></a>
+# Partie réglementaire ancienne<a id=297></a>
 
-## Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales<a id=306></a>
+## Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales<a id=298></a>
 
-### Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale<a id=307></a>
+### Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale<a id=299></a>
 
-#### Chapitre 2 : Organisation et agrément.<a id=308></a>
+#### Chapitre 2 : Organisation et agrément.<a id=300></a>
 
 ###### Article R2009
 
@@ -44738,7 +44992,7 @@ _Cite_:
   - Code de la santé publique - art. R2010 (Ab)
 
 
-#### Chapitre 1 : Constitution<a id=309></a>
+#### Chapitre 1 : Constitution<a id=301></a>
 
 ###### Article R2001
 
@@ -45088,7 +45342,7 @@ _Cite_:
   - Code de la santé publique - art. R2001 (Ab)
 
 
-#### Chapitre 3 : Financement et fonctionnement.<a id=310></a>
+#### Chapitre 3 : Financement et fonctionnement.<a id=302></a>
 
 ###### Article R2012
 
@@ -45350,7 +45604,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1123-23 (M)
 
 
-### Titre 3 : Informations communiquées par l'investigateur au comité consultatif de protection des personnes dans la recherche biomédicale.<a id=311></a>
+### Titre 3 : Informations communiquées par l'investigateur au comité consultatif de protection des personnes dans la recherche biomédicale.<a id=303></a>
 
 ###### Article R2029
 
@@ -45503,7 +45757,7 @@ _Cite_:
   - Code de la santé publique - art. R2030 (Ab)
 
 
-### Titre 2 : Autorisation des lieux de recherches biomédicales sans bénéfice individuel direct<a id=312></a>
+### Titre 2 : Autorisation des lieux de recherches biomédicales sans bénéfice individuel direct<a id=304></a>
 
 ###### Article R2021
 
@@ -45785,7 +46039,7 @@ _Cite_:
   - Code de la santé publique - art. R2027 (M)
 
 
-### Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct.<a id=313></a>
+### Titre 6 : Fichier national des personnes qui se prêtent à des recherches biomédicales sans bénéfice individuel direct.<a id=305></a>
 
 ###### Article R2039
 
@@ -46064,7 +46318,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R1124-8 (Ab)
 
 
-### Titre 5 : Dispositions financières.<a id=314></a>
+### Titre 5 : Dispositions financières.<a id=306></a>
 
 ###### Article R2038
 
@@ -46109,7 +46363,7 @@ _Cité par_:
   - Code de la santé publique - art. R5124 (Ab)
 
 
-### Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention.<a id=315></a>
+### Titre 4 : Informations communiquées par le promoteur au ministre chargé de la santé dans sa lettre d'intention.<a id=307></a>
 
 ###### Article R2032
 
@@ -46359,7 +46613,7 @@ _Cite_:
   - Code de la santé publique - art. R2036 (M)
 
 
-### Titre 7 : Assurance des promoteurs de recherches biomédicales<a id=316></a>
+### Titre 7 : Assurance des promoteurs de recherches biomédicales<a id=308></a>
 
 ###### Article R2047
 
@@ -46605,15 +46859,15 @@ _Cite_:
   - Code de la santé publique - art. R2047 (M)
 
 
-## Livre 5 : Pharmacie<a id=317></a>
+## Livre 5 : Pharmacie<a id=309></a>
 
-### Titre 1 : Dispositions générales<a id=318></a>
+### Titre 1 : Dispositions générales<a id=310></a>
 
-#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=319></a>
+#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien<a id=311></a>
 
-##### Section 1 : Pharmacopée et formulaire<a id=320></a>
+##### Section 1 : Pharmacopée et formulaire<a id=312></a>
 
-##### Paragraphe 1 : Pharmacopée<a id=321></a>
+##### Paragraphe 1 : Pharmacopée<a id=313></a>
 
 ###### Article R5001
 
@@ -46893,7 +47147,7 @@ _Modifié par_:
   - Décret n°85-1297 1985-12-03 art. 3 JORF 5 décembre 1985
 
 
-##### Paragraphe 2 : Formulaire<a id=322></a>
+##### Paragraphe 2 : Formulaire<a id=314></a>
 
 ###### Article R5006
 
@@ -46958,7 +47212,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5112-5 (V)
 
 
-##### Section 3 : Pharmaciens assistants<a id=323></a>
+##### Section 3 : Pharmaciens assistants<a id=315></a>
 
 ###### Article R5008
 
@@ -47100,7 +47354,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-38 (V)
 
 
-##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.<a id=324></a>
+##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.<a id=316></a>
 
 ###### Article R*5013
 
@@ -47174,9 +47428,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4221-12 (T)
 
 
-#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=325></a>
+#### Chapitre 2 : De l'Ordre national des pharmaciens<a id=317></a>
 
-##### Section 1 : Organisation<a id=326></a>
+##### Section 1 : Organisation<a id=318></a>
 
 ###### Article R5014
 
@@ -47206,9 +47460,9 @@ _Abrogé par_:
   - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 
-##### Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens<a id=327></a>
+##### Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens<a id=319></a>
 
-##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux<a id=328></a>
+##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux<a id=320></a>
 
 ###### Article R*5017
 
@@ -47524,7 +47778,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4234-1 (V)
 
 
-##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.<a id=329></a>
+##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.<a id=321></a>
 
 ###### Article R*5029
 
@@ -47842,7 +48096,7 @@ _Codifié par_:
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
-##### Paragraphe 3 : Dispositions communes.<a id=330></a>
+##### Paragraphe 3 : Dispositions communes.<a id=322></a>
 
 ###### Article R*5042
 
@@ -47890,7 +48144,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4234-28 (T)
 
 
-##### Section 2 : Déontologie pharmaceutique<a id=331></a>
+##### Section 2 : Déontologie pharmaceutique<a id=323></a>
 
 ###### Article R*5015-1
 
@@ -47926,9 +48180,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-1 (V)
 
 
-##### Paragraphe 1 : Devoirs généraux des pharmaciens<a id=332></a>
+##### Paragraphe 1 : Devoirs généraux des pharmaciens<a id=324></a>
 
-##### 1) Dispositions générales.<a id=333></a>
+##### 1) Dispositions générales.<a id=325></a>
 
 ###### Article R*5015-2
 
@@ -47972,7 +48226,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-3 (V)
 
 
-##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.<a id=334></a>
+##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.<a id=326></a>
 
 ###### Article R*5015-4
 
@@ -48118,7 +48372,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-10 (V)
 
 
-##### 3) De la responsabilité et de l'indépendance des pharmaciens.<a id=335></a>
+##### 3) De la responsabilité et de l'indépendance des pharmaciens.<a id=327></a>
 
 ###### Article R*5015-11
 
@@ -48383,7 +48637,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-22 (V)
 
 
-##### 4) De la tenue des établissements pharmaceutiques.<a id=336></a>
+##### 4) De la tenue des établissements pharmaceutiques.<a id=328></a>
 
 ###### Article R*5015-23
 
@@ -48448,9 +48702,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-25 (V)
 
 
-##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle<a id=337></a>
+##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle<a id=329></a>
 
-##### 1) De la publicité.<a id=338></a>
+##### 1) De la publicité.<a id=330></a>
 
 ###### Article R*5015-26
 
@@ -48553,7 +48807,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-29 (V)
 
 
-##### 2) De la concurrence déloyale.<a id=339></a>
+##### 2) De la concurrence déloyale.<a id=331></a>
 
 ###### Article R*5015-30
 
@@ -48642,7 +48896,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-33 (V)
 
 
-##### 3) Prohibition de certaines conventions ou ententes<a id=340></a>
+##### 3) Prohibition de certaines conventions ou ententes<a id=332></a>
 
 ###### Article R*5015-34
 
@@ -48775,7 +49029,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-38 (V)
 
 
-##### Paragraphe 3 : Relations avec des agents de l'administration.<a id=341></a>
+##### Paragraphe 3 : Relations avec des agents de l'administration.<a id=333></a>
 
 ###### Article R*5015-39
 
@@ -48860,7 +49114,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-42 (V)
 
 
-##### Paragraphe 4 : Des règles à observer dans les relations avec le public.<a id=342></a>
+##### Paragraphe 4 : Des règles à observer dans les relations avec le public.<a id=334></a>
 
 ###### Article R*5015-43
 
@@ -48967,9 +49221,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-47 (V)
 
 
-##### Paragraphe 5 : Relations avec les membres des professions médicales<a id=343></a>
+##### Paragraphe 5 : Relations avec les membres des professions médicales<a id=335></a>
 
-##### 1) Relations avec les membres des professions non pharmaceutiques.<a id=344></a>
+##### 1) Relations avec les membres des professions non pharmaceutiques.<a id=336></a>
 
 ###### Article R*5015-48
 
@@ -49102,7 +49356,7 @@ _Cité par_:
   - Code de la santé publique - art. R5053-3 (Ab)
 
 
-##### 2) Relations des pharmaciens avec leurs collaborateurs.<a id=345></a>
+##### 2) Relations des pharmaciens avec leurs collaborateurs.<a id=337></a>
 
 ###### Article R*5015-53
 
@@ -49165,7 +49419,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-55 (V)
 
 
-##### 3) Devoirs des maîtres de stage.<a id=346></a>
+##### 3) Devoirs des maîtres de stage.<a id=338></a>
 
 ###### Article R*5015-56
 
@@ -49239,7 +49493,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-59 (V)
 
 
-##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.<a id=347></a>
+##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.<a id=339></a>
 
 ###### Article R*5015-59
 
@@ -49268,7 +49522,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-60 (V)
 
 
-##### 5) Devoirs de confraternité.<a id=348></a>
+##### 5) Devoirs de confraternité.<a id=340></a>
 
 ###### Article R*5015-60
 
@@ -49378,7 +49632,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4235-64 (V)
 
 
-##### Section 1 bis : Composition du dossier d'inscription au tableau<a id=349></a>
+##### Section 1 bis : Composition du dossier d'inscription au tableau<a id=341></a>
 
 ###### Article R5014-1
 
@@ -49527,9 +49781,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4222-3 (V)
 
 
-#### Chapitre 4 : Réglementation de la publicité<a id=350></a>
+#### Chapitre 4 : Réglementation de la publicité<a id=342></a>
 
-##### Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551.<a id=351></a>
+##### Section 2 : Dispositions concernant la publicité ou la propagande auprès du public relative aux médicaments, produits et objets mentionnés à l'article L. 551.<a id=343></a>
 
 ###### Article R5047
 
@@ -49859,7 +50113,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5134-11 (V)
 
 
-##### Section 1 : Dispositions générales.<a id=352></a>
+##### Section 1 : Dispositions générales.<a id=344></a>
 
 ###### Article R5045
 
@@ -50060,7 +50314,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-5 (V)
 
 
-##### Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement<a id=353></a>
+##### Section 6 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement<a id=345></a>
 
 ###### Article R5055
 
@@ -50273,7 +50527,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-24 (Ab)
 
 
-##### Section 4 : Publicité en faveur des établissements pharmaceutiques.<a id=354></a>
+##### Section 4 : Publicité en faveur des établissements pharmaceutiques.<a id=346></a>
 
 ###### Article R5053
 
@@ -50298,7 +50552,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-65 (V)
 
 
-##### Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments<a id=355></a>
+##### Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments<a id=347></a>
 
 ###### Article R5054
 
@@ -50504,7 +50758,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-47 (Ab)
 
 
-##### Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art.<a id=356></a>
+##### Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art.<a id=348></a>
 
 ###### Article R5052
 
@@ -50645,9 +50899,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5122-22 (V)
 
 
-#### Chapitre 5 : De l'inspection de la pharmacie<a id=357></a>
+#### Chapitre 5 : De l'inspection de la pharmacie<a id=349></a>
 
-##### Section 1 : Fonctions des inspecteurs de la pharmacie.<a id=358></a>
+##### Section 1 : Fonctions des inspecteurs de la pharmacie.<a id=350></a>
 
 ###### Article R5056
 
@@ -50779,9 +51033,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-3 (V)
 
 
-##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques<a id=359></a>
+##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques<a id=351></a>
 
-##### Paragraphe 1 : Généralités<a id=360></a>
+##### Paragraphe 1 : Généralités<a id=352></a>
 
 ###### Article R5060
 
@@ -50805,7 +51059,7 @@ _Cite_:
   - Loi n°1905-08-01
 
 
-##### Paragraphe 2 : Prélèvements d'échantillons<a id=361></a>
+##### Paragraphe 2 : Prélèvements d'échantillons<a id=353></a>
 
 ###### Article R5061
 
@@ -51088,7 +51342,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-18 (V)
 
 
-##### Paragraphe 4 : Saisies<a id=362></a>
+##### Paragraphe 4 : Saisies<a id=354></a>
 
 ###### Article R5076
 
@@ -51143,7 +51397,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-19 (V)
 
 
-##### Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives.<a id=363></a>
+##### Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives.<a id=355></a>
 
 ###### Article R5071
 
@@ -51239,7 +51493,7 @@ _Cite_:
   - Code de la santé publique - art. R5071 (M)
 
 
-##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire<a id=364></a>
+##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire<a id=356></a>
 
 ###### Article R5079
 
@@ -51424,7 +51678,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-27 (V)
 
 
-##### Paragraphe 6 : Dispositions diverses<a id=365></a>
+##### Paragraphe 6 : Dispositions diverses<a id=357></a>
 
 ###### Article R5087
 
@@ -51478,13 +51732,13 @@ _Cite_:
   - Code de la santé publique - art. R5073 (M)
 
 
-### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=366></a>
+### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie<a id=358></a>
 
-#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine<a id=367></a>
+#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine<a id=359></a>
 
-##### Section 1 : Des officines de pharmacie<a id=368></a>
+##### Section 1 : Des officines de pharmacie<a id=360></a>
 
-##### Paragraphe 3 : Délivrance des médicaments<a id=369></a>
+##### Paragraphe 3 : Délivrance des médicaments<a id=361></a>
 
 ###### Article R5092
 
@@ -51540,7 +51794,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-46 (V)
 
 
-##### Paragraphe 5 : Médicaments spécialisés de l'officine<a id=370></a>
+##### Paragraphe 5 : Médicaments spécialisés de l'officine<a id=362></a>
 
 ###### Article R5097
 
@@ -51615,7 +51869,7 @@ _Modifié par_:
   - Décret n°60-326 1960-04-05 art. 2 JORF 7 avril 1960
 
 
-##### Paragraphe 4 : Remèdes secrets<a id=371></a>
+##### Paragraphe 4 : Remèdes secrets<a id=363></a>
 
 ###### Article R5094
 
@@ -51722,7 +51976,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-59 (V)
 
 
-##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes<a id=372></a>
+##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes<a id=364></a>
 
 ###### Article R5091
 
@@ -52020,7 +52274,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-25 (V)
 
 
-##### Paragraphe 1 : Exploitation des officines<a id=373></a>
+##### Paragraphe 1 : Exploitation des officines<a id=365></a>
 
 ###### Article R5090
 
@@ -52058,7 +52312,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-13 (V)
 
 
-##### Paragraphe 6 : Produits officinaux divisés<a id=374></a>
+##### Paragraphe 6 : Produits officinaux divisés<a id=366></a>
 
 ###### Article R5098-1
 
@@ -52128,9 +52382,9 @@ _Créé par_:
   - Décret n°62-509 1962-04-13 art. 1 JORF 19 avril 1962
 
 
-##### Section 2 : Exercice personnel de la profession<a id=375></a>
+##### Section 2 : Exercice personnel de la profession<a id=367></a>
 
-##### Paragraphe 1 : Assistance par des pharmaciens<a id=376></a>
+##### Paragraphe 1 : Assistance par des pharmaciens<a id=368></a>
 
 ###### Article R5099
 
@@ -52154,7 +52408,7 @@ _Cite_:
   - Code de la santé publique L579, R5008 à R5011
 
 
-##### Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis<a id=377></a>
+##### Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis<a id=369></a>
 
 ###### Article R5100
 
@@ -52365,11 +52619,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5125-43 (V)
 
 
-#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=378></a>
+#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques<a id=370></a>
 
-##### Section 1 : Des établissements de préparation et de vente en gros<a id=379></a>
+##### Section 1 : Des établissements de préparation et de vente en gros<a id=371></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=380></a>
+##### Paragraphe 1 : Dispositions générales.<a id=372></a>
 
 ###### Article R5105
 
@@ -52777,7 +53031,7 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=381></a>
+##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=373></a>
 
 ###### Article R5113
 
@@ -52918,7 +53172,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-37 (V)
 
 
-##### Paragraphe 4 : Dispositions d'exécution.<a id=382></a>
+##### Paragraphe 4 : Dispositions d'exécution.<a id=374></a>
 
 ###### Article R5116
 
@@ -52947,9 +53201,9 @@ _Modifié par_:
   - Décret n°60-326 1960-04-05 ART. 4 JORF 7 avril 1960
 
 
-##### Paragraphe 3 : Fonctionnement des établissements<a id=383></a>
+##### Paragraphe 3 : Fonctionnement des établissements<a id=375></a>
 
-##### 1° Exercice personnel de la profession.<a id=384></a>
+##### 1° Exercice personnel de la profession.<a id=376></a>
 
 ###### Article R5114-1
 
@@ -53189,7 +53443,7 @@ _Créé par_:
   - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
-##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=385></a>
+##### 2° Autres obligations relatives au fonctionnement des établissements.<a id=377></a>
 
 ###### Article R5115-1
 
@@ -53517,9 +53771,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-54 (V)
 
 
-##### Section 2 : Spécialités pharmaceutiques<a id=386></a>
+##### Section 2 : Spécialités pharmaceutiques<a id=378></a>
 
-##### Paragraphe 1 : Expérimentation des médicaments.<a id=387></a>
+##### Paragraphe 1 : Expérimentation des médicaments.<a id=379></a>
 
 ###### Article R5117
 
@@ -54086,7 +54340,7 @@ _Cite_:
   - Code de la santé publique - art. R5122 (M)
 
 
-##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=388></a>
+##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=380></a>
 
 ###### Article R5128
 
@@ -55194,7 +55448,7 @@ _Cite_:
   - Code de la santé publique R5060 à R5089
 
 
-##### PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES.<a id=389></a>
+##### PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES.<a id=381></a>
 
 ###### Article R5143
 
@@ -55348,9 +55602,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5121-202 (V)
 
 
-#### CHAPITRE 3 : PHARMACIE VETERINAIRE<a id=390></a>
+#### CHAPITRE 3 : PHARMACIE VETERINAIRE<a id=382></a>
 
-##### DISPOSITIONS GENERALES.<a id=391></a>
+##### DISPOSITIONS GENERALES.<a id=383></a>
 
 ###### Article R5145
 
@@ -55402,7 +55656,7 @@ _Cité par_:
   - Code de la santé publique - art. R5163 (M)
 
 
-##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.<a id=392></a>
+##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.<a id=384></a>
 
 ###### Article R5146
 
@@ -55426,7 +55680,7 @@ _Abrogé par_:
   - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
 
 
-##### Paragraphe 1 : Autorisation administrative.<a id=393></a>
+##### Paragraphe 1 : Autorisation administrative.<a id=385></a>
 
 ###### Article R5146-1
 
@@ -55539,7 +55793,7 @@ _Cite_:
   - Code de la santé publique - art. L616 (M)
 
 
-##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.<a id=394></a>
+##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.<a id=386></a>
 
 ###### Article R5146-6
 
@@ -55685,7 +55939,7 @@ _Cité par_:
   - Code de la santé publique - art. R5146-17 bis (Ab)
 
 
-##### Paragraphe 3 : Fonctionnement des établissements<a id=395></a>
+##### Paragraphe 3 : Fonctionnement des établissements<a id=387></a>
 
 ###### Article R5146-10
 
@@ -56064,9 +56318,9 @@ _Cité par_:
   - Arrêté du 5 mai 1997 - art. 1 (Ab)
 
 
-##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=396></a>
+##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=388></a>
 
-##### Paragraphe 1 : Expérimentation des médicaments vétérinaires.<a id=397></a>
+##### Paragraphe 1 : Expérimentation des médicaments vétérinaires.<a id=389></a>
 
 ###### Article R5146-18
 
@@ -56376,7 +56630,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-18 (M)
 
 
-##### Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché<a id=398></a>
+##### Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché<a id=390></a>
 
 ###### Article R5146-26
 
@@ -56723,7 +56977,7 @@ _Nouveaux textes_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5146-28 (M)
 
 
-##### Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché.<a id=399></a>
+##### Paragraphe 3 : Décisions accordant, renouvelant, suspendant ou supprimant une autorisation de mise sur le marché.<a id=391></a>
 
 ###### Article R5146-33
 
@@ -57362,7 +57616,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-38 (M)
 
 
-##### Paragraphe 4 : Prélèvements d'échantillons.<a id=400></a>
+##### Paragraphe 4 : Prélèvements d'échantillons.<a id=392></a>
 
 ###### Article R5146-40
 
@@ -57421,7 +57675,7 @@ _Cite_:
   - Code de la santé publique - art. R5146-29 (M)
 
 
-##### Section 3 : Réglementation de la publicité.<a id=401></a>
+##### Section 3 : Réglementation de la publicité.<a id=393></a>
 
 ###### Article R5146-42
 
@@ -57682,7 +57936,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
 
 
-##### SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES.<a id=402></a>
+##### SECTION 4 : PRESENTATION ET DENOMINATION DES MEDICAMENTS VETERINAIRES.<a id=394></a>
 
 ###### Article R5146-49
 
@@ -57849,7 +58103,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
 
 
-##### SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS.<a id=403></a>
+##### SECTION 5 : DISPOSITIONS PARTICULIERES A CERTAINS PRODUITS.<a id=395></a>
 
 ###### Article R5146-51
 
@@ -58226,7 +58480,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5141-123 (M)
 
 
-##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.<a id=404></a>
+##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.<a id=396></a>
 
 ###### Article R5146-56
 
@@ -58259,7 +58513,7 @@ _Nouveaux textes_:
   - Code de la santé publique R5143-5
 
 
-##### SECTION 7 : SANCTIONS.<a id=405></a>
+##### SECTION 7 : SANCTIONS.<a id=397></a>
 
 ###### Article R5146-57
 
@@ -58308,9 +58562,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5442-5 (V)
 
 
-#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=406></a>
+#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale<a id=398></a>
 
-##### Section 3 : Dispositions communes.<a id=407></a>
+##### Section 3 : Dispositions communes.<a id=399></a>
 
 ###### Article R5147
 
@@ -58466,9 +58720,9 @@ _Créé par_:
   - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
 
 
-#### Chapitre 2 bis : Pharmacovigilance<a id=408></a>
+#### Chapitre 2 bis : Pharmacovigilance<a id=400></a>
 
-##### Section 1 : Organisation de la pharmacovigilance.<a id=409></a>
+##### Section 1 : Organisation de la pharmacovigilance.<a id=401></a>
 
 ###### Article R5144-1
 
@@ -58724,7 +58978,7 @@ _Cite_:
   - Code de la santé publique - art. R5144-8 (M)
 
 
-##### Section 2 : Déclarations obligatoires.<a id=410></a>
+##### Section 2 : Déclarations obligatoires.<a id=402></a>
 
 ###### Article R5144-8
 
@@ -58819,11 +59073,11 @@ _Cite_:
   - Code de la santé publique - art. R5144-9 (M)
 
 
-### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=411></a>
+### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS<a id=403></a>
 
-#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=412></a>
+#### CHAPITRE 1 : SUBSTANCES VENENEUSES<a id=404></a>
 
-##### SECTION 1 : GENERALITES.<a id=413></a>
+##### SECTION 1 : GENERALITES.<a id=405></a>
 
 ###### Article R5149
 
@@ -58876,9 +59130,9 @@ _Cite_:
   - Code de la santé publique - art. R5152 (M)
 
 
-##### Section 2 : Substances dangereuses, stupéfiantes ou psychotropes<a id=414></a>
+##### Section 2 : Substances dangereuses, stupéfiantes ou psychotropes<a id=406></a>
 
-##### 1 : Dispositions communes.<a id=415></a>
+##### 1 : Dispositions communes.<a id=407></a>
 
 ###### Article R5150
 
@@ -58953,7 +59207,7 @@ _Cite_:
   - Code de la santé publique - art. R5182 (M)
 
 
-##### 2 : Substances dangereuses.<a id=416></a>
+##### 2 : Substances dangereuses.<a id=408></a>
 
 ###### Article R5152
 
@@ -59910,7 +60164,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
-##### 3 : Substances stupéfiantes.<a id=417></a>
+##### 3 : Substances stupéfiantes.<a id=409></a>
 
 ###### Article R5171
 
@@ -60498,7 +60752,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
-##### 4 : Substances psychotropes.<a id=418></a>
+##### 4 : Substances psychotropes.<a id=410></a>
 
 ###### Article R5183
 
@@ -60805,9 +61059,9 @@ _Cite_:
   - Code de la santé publique - art. R5182 (M)
 
 
-##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact<a id=419></a>
+##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact<a id=411></a>
 
-##### 1) Dispositions communes.<a id=420></a>
+##### 1) Dispositions communes.<a id=412></a>
 
 ###### Article R5190
 
@@ -61564,7 +61818,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5132-42 (V)
 
 
-##### 3) Régime particulier des stupéfiants.<a id=421></a>
+##### 3) Régime particulier des stupéfiants.<a id=413></a>
 
 ###### Article R5209
 
@@ -62087,7 +62341,7 @@ _Cite_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-##### 2) Régime particulier des listes 1 et 2.<a id=422></a>
+##### 2) Régime particulier des listes 1 et 2.<a id=414></a>
 
 ###### Article R5204
 
@@ -62323,7 +62577,7 @@ _Cité par_:
   - Code de la santé publique - art. R5209 (M)
 
 
-##### 4) Régime particulier des psychotropes.<a id=423></a>
+##### 4) Régime particulier des psychotropes.<a id=415></a>
 
 ###### Article R5219
 
@@ -62357,7 +62611,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=424></a>
+#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=416></a>
 
 ###### Article R5220
 
@@ -62469,7 +62723,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
 
-#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=425></a>
+#### Chapitre 2 : Radio-éléments artificiels *radioactivité*<a id=417></a>
 
 ###### Article R5230
 
@@ -63354,7 +63608,7 @@ _Cite_:
   - Code de la santé publique - art. R5235 (M)
 
 
-#### Chapitre 4 : Médicaments antivénériens.<a id=426></a>
+#### Chapitre 4 : Médicaments antivénériens.<a id=418></a>
 
 ###### Article R5239
 
@@ -63440,7 +63694,7 @@ _Cite_:
   - Code de la santé publique L643, R5060 à R5089
 
 
-#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=427></a>
+#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=419></a>
 
 ###### Article R5242
 
@@ -63501,7 +63755,7 @@ _Cite_:
   - Code de la santé publique - art. L645 (Ab)
 
 
-#### Chapitre 7 : Biberons à tube et tétines.<a id=428></a>
+#### Chapitre 7 : Biberons à tube et tétines.<a id=420></a>
 
 ###### Article R5262
 
@@ -63662,7 +63916,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=429></a>
+#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=421></a>
 
 ###### Article R5266-1
 
@@ -64187,9 +64441,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5136-18 (V)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=430></a>
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=422></a>
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=431></a>
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=423></a>
 
 ###### Article R5267
 
@@ -64244,7 +64498,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=432></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=424></a>
 
 ###### Article R5269
 
@@ -64337,7 +64591,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 5 : Homologation de certains produits et appareils.<a id=433></a>
+#### Chapitre 5 : Homologation de certains produits et appareils.<a id=425></a>
 
 ###### Article R5274
 
@@ -64795,9 +65049,9 @@ _Cite_:
   - Code de la santé publique - art. R5274 (Ab)
 
 
-#### Chapitre 4 : Visa des spécialités anciennes<a id=434></a>
+#### Chapitre 4 : Visa des spécialités anciennes<a id=426></a>
 
-##### Section 1 : Spécialités pharmaceutiques.<a id=435></a>
+##### Section 1 : Spécialités pharmaceutiques.<a id=427></a>
 
 ###### Article R5272
 
@@ -64838,7 +65092,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-33 (V)
 
 
-##### Section 2 : Produits d'origine microbienne.<a id=436></a>
+##### Section 2 : Produits d'origine microbienne.<a id=428></a>
 
 ###### Article R5273
 
@@ -64861,5 +65115,2871 @@ _Cite_:
 
   - Code de la santé publique - art. L601 (M)
   - Loi n°1953-08-06
+
+
+## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires<a id=429></a>
+
+### Titre 1 : Etablissements de santé<a id=430></a>
+
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=431></a>
+
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=432></a>
+
+##### Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire.<a id=433></a>
+
+###### Article R712-1
+
+La carte sanitaire instituée par l'article L. 712-1 détermine par zone sanitaire :
+
+1° L'importance des moyens d'hospitalisation ou structures de soins de toute nature, avec ou sans hébergement, exprimés
+notamment en lits ou places, correspondant aux installations et activités de soins mentionnées aux I et III de l'article R.
+712-2 ;
+
+2° L'importance des équipements matériels lourds mentionnés au II de l'article R. 712-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Décret n°2005-434 du 6 mai 2005 - art. 10 (V)
+  - Code de la santé publique - art. R724-1 (Ab)
+  - Code de la santé publique - art. R724-2 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-1 (M)
+  - Code de la santé publique - art. R712-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6121-1 (V)
+
+
+###### Article R712-2
+
+La carte sanitaire comporte :
+
+I. -    Les installations, y compris les structures de soins alternatives à l'hospitalisation, correspondant aux disciplines
+ou groupes de disciplines suivantes :
+
+1. Médecine ;
+
+2. Chirurgie ;
+
+3. Obstétrique ;
+
+4. Psychiatrie ;
+
+5. Soins de suite ou de réadaptation ;
+
+6. Soins de longue durée.
+
+II. - Les équipements matériels lourds définis à l'article L. 712-19 énumérés ci-après :
+
+1. Appareil de circulation sanguine extra-corporelle ;
+
+2. Caisson hyperbare ;
+
+3. Appareil d'hémodialyse ;
+
+4. Appareil destiné à la séparation in vivo des éléments figurés du sang ;
+
+5. Appareil accélérateur de particules et appareil contenant des sources scellées de radioéléments d'activité minimale
+supérieure à 500 curies, et émettant un rayonnement d'énergie supérieur à 500 KeV ;
+
+6. Cyclotron à utilisation médicale ;
+
+7. Appareils de diagnostic suivants, utilisant l'émission de radioéléments artificiels : caméra à scintillation, tomographe à
+émissions, caméra à positrons ;
+
+8. Scanographe à utilisation médicale ;
+
+9. Appareil de sériographie à cadence rapide et appareil d'angiographie numérisée ;
+
+10. Appareil d'imagerie ou de spectrométrie par résonance magnétique nucléaire à utilisation clinique ;
+
+11. Compteur de la radioactivité totale du corps humain ;
+
+12. Appareil de destruction transpariétale des calculs ;
+
+13. Réseau informatisé de transmission et d'archivage de l'imagerie médicale.
+
+Sont considérés comme équipements matériels lourds au sens de l'article L. 712-19 les éléments dont l'adjonction ou la
+juxtaposition conduit à réaliser l'un des appareillages mentionnés ci-dessus.
+
+III. - Les activités de soins définies à l'article L. 712-2 (2°, b) énumérées ci-après :
+
+1. Transplantations d'organes et greffes de moelle osseuse ;    2. Traitement des grands brûlés ;
+
+3. Chirurgie cardiaque ;
+
+4. Neurochirurgie ;
+
+5. Accueil et traitement des urgences ;
+
+6. Réanimation ;
+
+7. Utilisation diagnostique et thérapeutique de radioéléments en sources non scellées ;
+
+8. Traitement des affections cancéreuses par rayonnements ionisants de haute énergie ;
+
+9. Néonatologie et réanimation néonatale ;
+
+10. Traitement de l'insuffisance rénale chronique ;
+
+11. Activités cliniques de procréation médicalement assistée et diagnostic prénatal ;
+
+12. Réadaptation fonctionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 31 mars 1992 - art. 2 (Ab)
+  - Arrêté du 20 avril 1995 - art. 3 (V)
+  - Décret n°98-899 du 9 octobre 1998 - art. 4 (Ab)
+  - Décret n°99-316 du 26 avril 1999 - art. Annexe III (Ab)
+  - Décret n°2002-465 du 5 avril 2002 - art. 4 (M)
+  - Décret n°2002-1197 du 23 septembre 2002 - art. 4 (V)
+  - Arrêté du 30 avril 2003 - art. 2 (V)
+  - Décret n°2004-1289 du 26 novembre 2004 - art. 2 (Ab)
+  - Décret n°2004-1289 du 26 novembre 2004 - art. 3 (Ab)
+  - Arrêté du 31 janvier 2005 - art. 5 (Ab)
+  - Décret n°2005-434 du 6 mai 2005 - art. 10 (V)
+  - Décret n°2005-434 du 6 mai 2005 - art. 15 (V)
+  - Arrêté du 5 mars 2006 - art. 5 (Ab)
+  - Code de l'action sociale et des familles - art. R314-168 (M)
+  - Code de la santé publique - art. R710-7 (Ab)
+  - Code de la santé publique - art. R711-6-14 (Ab)
+  - Code de la santé publique - art. R711-8 (M)
+  - Code de la santé publique - art. R712-1 (M)
+  - Code de la santé publique - art. R712-100 (Ab)
+  - Code de la santé publique - art. R712-101 (Ab)
+  - Code de la santé publique - art. R712-102 (Ab)
+  - Code de la santé publique - art. R712-103 (Ab)
+  - Code de la santé publique - art. R712-104 (Ab)
+  - Code de la santé publique - art. R712-105 (Ab)
+  - Code de la santé publique - art. R712-106 (Ab)
+  - Code de la santé publique - art. R712-107 (Ab)
+  - Code de la santé publique - art. R712-3 (M)
+  - Code de la santé publique - art. R712-48 (Ab)
+  - Code de la santé publique - art. R712-51-3 (Ab)
+  - Code de la santé publique - art. R712-63 (Ab)
+  - Code de la santé publique - art. R712-64 (Ab)
+  - Code de la santé publique - art. R712-67 (Ab)
+  - Code de la santé publique - art. R712-69 (Ab)
+  - Code de la santé publique - art. R712-7 (M)
+  - Code de la santé publique - art. R712-71-1 (Ab)
+  - Code de la santé publique - art. R712-71-2 (Ab)
+  - Code de la santé publique - art. R712-71-4 (Ab)
+  - Code de la santé publique - art. R712-71-5 (Ab)
+  - Code de la santé publique - art. R712-71-7 (Ab)
+  - Code de la santé publique - art. R712-71-8 (Ab)
+  - Code de la santé publique - art. R712-71-9 (Ab)
+  - Code de la santé publique - art. R712-73 (Ab)
+  - Code de la santé publique - art. R712-75 (Ab)
+  - Code de la santé publique - art. R712-77 (Ab)
+  - Code de la santé publique - art. R712-8 (M)
+  - Code de la santé publique - art. R712-80 (Ab)
+  - Code de la santé publique - art. R712-81 (Ab)
+  - Code de la santé publique - art. R712-85 (Ab)
+  - Code de la santé publique - art. R712-86 (Ab)
+  - Code de la santé publique - art. R712-87 (Ab)
+  - Code de la santé publique - art. R712-88 (Ab)
+  - Code de la santé publique - art. R712-89 (Ab)
+  - Code de la santé publique - art. R712-9 (M)
+  - Code de la santé publique - art. R712-94 (Ab)
+  - Code de la santé publique - art. R712-95 (Ab)
+  - Code de la santé publique - art. R712-96 (Ab)
+  - Code de la santé publique - art. R712-97 (Ab)
+  - Code de la santé publique - art. R712-98 (Ab)
+  - Code de la santé publique - art. R712-99 (Ab)
+  - Code de la santé publique - art. R714-29 (Ab)
+  - Code de la santé publique - art. R714-4-1 (Ab)
+  - Code de la santé publique - art. R716-1 (Ab)
+  - Code de la santé publique - art. R716-5 (Ab)
+  - Code de la sécurité sociale. - art. R332-4 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-19 (M)
+  - Code de la santé publique - art. L712-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6121-2 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de la santé publique - art. R712-63 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-64 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-65 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-66 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-67 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-68 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-69 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-70 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-71 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-71-1 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-71-10 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-71-2 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-71-3 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-71-4 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-71-5 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-71-6 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-71-7 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-71-8 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-71-9 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-72 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-73 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-74 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-75 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-76 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-77 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-78 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-79 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-80 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-81 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-82 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-83 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-84 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-85 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-86 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-87 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-88 (Ab)
+  - TXT_SOURCE: Code de la santé publique - art. R712-89 (Ab)
+
+
+###### Article R712-3
+
+L'établissement de la carte sanitaire est précédé d'un bilan quantitatif et qualitatif des installations, équipements et
+activités énumérés à l'article R. 712-2, existants ou autorisés dans la zone sanitaire considérée ainsi que du réseau de
+transports sanitaires d'urgence ; ce bilan tient compte également des projets d'établissements approuvés définis aux articles
+L. 714-11 et L. 715-8.
+
+Le préfet de région tient à jour l'inventaire de l'ensemble des installations, équipements et activités énumérés ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-11 (M)
+  - Code de la santé publique - art. L715-8 (M)
+  - Code de la santé publique - art. R712-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6121-3 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-11 (M)
+  - Code de la santé publique - art. R712-11-1 (Ab)
+  - Code de la santé publique - art. R712-44 (Ab)
+  - Code de la santé publique - art. R716-12 (Ab)
+  - Code de la santé publique - art. R716-8 (Ab)
+  - Code de la santé publique - art. R724-2 (Ab)
+
+
+###### Article R712-4
+
+La carte sanitaire et le schéma d'organisation sanitaire sont arrêtés par zone sanitaire, compte tenu :
+
+1° De l'importance de la population résidente et de ses perspectives d'évolution sur les cinq années suivantes, estimées à
+partir du dernier recensement général de la population authentifié par décret ;
+
+2° Des besoins de la population appréciés en fonction :
+
+a) De l'évolution des techniques médicales et des données épidémiologiques ;
+
+b) Des caractéristiques géographiques et des moyens de communication de la zone sanitaire considérée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 5 mai 1992 - art. 2 (V)
+  - Code de la santé publique - art. R712-2-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6121-4 (V)
+
+
+###### Article R712-5
+
+Selon la nature des installations, équipements ou activités de soins correspondant aux besoins de la population, les zones
+sanitaires sont constituées soit par l'ensemble du territoire, soit par une région ou un groupe de régions, soit par un
+secteur sanitaire ou un secteur psychiatrique défini à l'article L. 326, soit par un groupe de secteurs sanitaires ou de
+secteurs psychiatriques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L326 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6121-5 (V)
+
+
+###### Article R712-6
+
+Les limites des régions sanitaires sont celles des régions telles qu'elles sont définies par l'annexe I du décret n° 60-516
+du 2 juin 1960 modifié portant harmonisation des circonscriptions administratives ; la collectivité territoriale de Corse
+constitue une région sanitaire.
+
+La région est découpée en secteurs sanitaires et secteurs psychiatriques.
+
+Les limites des secteurs sanitaires et des secteurs psychiatriques sont arrêtées par le préfet de région qui constitue en
+tant que de besoin des groupes de secteurs psychiatriques et des groupes de secteurs sanitaires ; ces décisions sont prises
+après avis des préfets de départements.
+
+La population minimum du secteur sanitaire est déterminée par arrêté des ministres chargés de la santé et de la sécurité
+sociale ; toutefois, lorsqu'un département compte une population inférieure au minimum ainsi fixé, il constitue à lui seul un
+secteur sanitaire.
+
+**Nota:**
+
+[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Décret n°60-516 1960-06-02 annexe I
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 3 (Ab)
+  - Arrêté du 5 mai 1992 - art. 1 (V)
+  - Arrêté du 5 mai 1992 - art. 3 (V)
+  - Code de l'action sociale et des familles - art. R312-156 (T)
+  - Code de l'action sociale et des familles - art. R312-177 (V)
+  - Code de la santé publique - art. R724-1 (M)
+  - Code de la santé publique - art. R724-2 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté du 5 mai 1992
+  - TXT_ASSOCIE: Arrêté du 5 mai 1992 - art. 1 (V)
+  - TXT_ASSOCIE: Arrêté du 5 mai 1992 - art. 2 (V)
+  - TXT_ASSOCIE: Arrêté du 5 mai 1992 - art. 3 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-1 (V)
+
+
+###### Article R712-7
+
+La carte sanitaire est arrêtée par le préfet de région, après avis des préfets de départements et dans les conditions fixées
+au deuxième alinéa de l'article L. 712-5 :
+
+1. Par secteur sanitaire ou groupe de secteurs sanitaires :
+
+a) Pour les installations et structures correspondant aux disciplines énumérées au I de l'article R. 712-2, à l'exception de
+la psychiatrie et des soins de suite et de réadaptation ;
+
+b) Pour les activités de soins énumérées aux 5° et 6° du III de l'article R. 712-2 ;
+
+2. Par secteur psychiatrique ou groupe de secteurs psychiatriques pour les installations et structures de psychiatrie ;
+
+3. Par région :
+
+a) Pour les soins de suite et de réadaptation ;
+
+b) Pour les équipements matériels lourds à l'exception des appareils de circulation sanguine extracorporelle et des
+cyclotrons à usage médical ;
+
+c) Pour les activités de soins énumérées aux 7° à 12° du III de l'article R. 712-2.
+
+Les indices de besoins afférents aux installations, équipements et activités énumérés par le présent article sont fixés par
+le préfet de région ; lorsque des indices nationaux sont déterminés en ces matières par les ministres chargés de la santé et
+de la sécurité sociale et comportent un minimum et un maximum, ceux-ci servent de limites aux indices fixés par le préfet de
+région.
+
+**Nota:**
+
+[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 3 (Ab)
+  - Arrêté du 1 avril 1999 - art. 3 (V)
+  - Code de la santé publique - art. R712-10 (M)
+  - Code de la santé publique - art. R724-2 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté du 1 avril 1999
+  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 1 (V)
+  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 2 (V)
+  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. 3 (V)
+  - TXT_ASSOCIE: Arrêté du 1 avril 1999 - art. ANNEXE (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-5 (M)
+  - Code de la santé publique - art. R712-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-2 (V)
+
+
+###### Article R712-8
+
+La carte sanitaire est arrêtée pour l'ensemble du territoire ou pour un groupe de régions par les ministres chargés de la
+santé et de la santé et de la sécurité sociale, dans les conditions fixées au premier alinéa de l'article L. 712-5 pour :
+
+1. Les activités de soins mentionnées aux 1°, 2°, 3° et 4° du III de l'article R. 712-2 ;
+
+2. Les appareils de circulation sanguine extracorporelle et les cyclotrons à utilisation médicale.
+
+Les indices de besoins afférents aux activités de soins et équipements mentionnés par le présent article sont fixés par
+arrêté des ministres chargés de la santé et de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-5 (M)
+  - Code de la santé publique - art. R712-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-3 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-10 (M)
+  - Code de la santé publique - art. R724-2 (M)
+
+
+###### Article R712-9
+
+Le schéma d'organisation sanitaire fixe, pour les installations, équipements et activités de soins qu'il couvre, la
+répartition géographique ainsi que la nature et l'importance des moyens d'hospitalisation et des équipements mentionnés à
+l'article R. 712-2, répondant de manière optimale aux besoins de la population tels qu'ils sont définis par la carte
+sanitaire.
+
+En outre, il détermine les objectifs prioritaires dont la réalisation sera poursuivie notamment au moyen des contrats
+pluriannuels mentionnés à l'article L. 712-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Code de l'action sociale et des familles - art. R312-157 (T)
+  - Code de la santé publique - art. R712-98 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-4 (Ab)
+  - Code de la santé publique - art. R712-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-4 (V)
+
+
+###### Article R712-10
+
+Les installations, équipements et activités de soins énumérés à l'article R. 712-7 peuvent faire l'objet d'un schéma régional
+d'organisation sanitaire. Un arrêté du ministre chargé de la santé détermine les installations, équipements ou activités qui
+figurent obligatoirement sur ce schéma.
+
+Un schéma d'organisation sanitaire interrégional ou national peut être établi par le ministre chargé de la santé pour les
+activités de soins et équipements définis par l'article R. 712-8, ou pour certains d'entre eux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 31 mars 1992
+  - TXT_SOURCE: Arrêté du 31 mars 1992 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 31 mars 1992 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 31 mars 1992 - art. 3 (Ab)
+  - TXT_SOURCE: Arrêté du 26 mars 1998
+  - TXT_SOURCE: Arrêté du 26 mars 1998 - art. 1 (V)
+
+_Cité par_:
+
+  - Arrêté du 31 mars 1992 - art. 1 (Ab)
+  - Arrêté du 26 mars 1998 - art. 1 (V)
+  - Décret n°2002-1197 du 23 septembre 2002 - art. 3 (Ab)
+  - Code de la santé publique - art. R724-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-5 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R712-7 (M)
+  - Code de la santé publique - art. R712-8 (M)
+
+
+###### Article R712-11
+
+Les projets de carte sanitaire et les projets de schéma d'organisation sanitaire ainsi que leurs annexes sont préparés par
+les services de l'Etat.
+
+Le bilan mentionné à l'article R. 712-3 est communiqué pour avis au comité régional de l'organisation sanitaire et sociale.
+
+Le projet de carte sanitaire régionale et le projet de schéma d'organisation sanitaire régional, ainsi que son annexe, sont
+soumis pour avis, accompagnés des observations des services du contrôle médical des organismes d'assurance maladie,
+successivement :
+
+- aux conférences sanitaires de secteur ;
+
+- au comité régional de l'organisation sanitaire et sociale.
+
+Lorsqu'il s'agit d'un projet de carte sanitaire ou de schéma d'organisation sanitaire à caractère interrégional, seuls sont
+requis les avis des comités régionaux de l'organisation sanitaire et sociale concernés et du Comité national de
+l'organisation sanitaire et sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-6 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-11-1 (Ab)
+  - Code de la santé publique - art. R713-1-10 (M)
+  - Code de la santé publique - art. R713-9 (T)
+  - Code de la santé publique - art. R724-2 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R712-3 (M)
+
+
+###### Article R712-12
+
+Les arrêtés ministériels portant carte sanitaire ou schéma d'organisation sanitaire pris en application du premier alinéa de
+l'article L. 712-5 sont publiés au Journal officiel de la République française ; les arrêtés préfectoraux sont publiés aux
+recueils des actes administratifs de la préfecture de région et des préfectures des départements concernés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-5 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-7 (V)
+
+
+###### Article R712-13
+
+Les contrats pluriannuels mentionnés à l'article L. 712-4 sont conclus par les préfets des régions dans lesquelles sont
+situés les installations, équipements ou activités de soins inclus dans le schéma d'organisation sanitaire, après avis des
+préfets des départements concernés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Abrogé par_:
+
+  - Décret n°97-144 du 14 février 1997 - art. 1 () JORF 16 février 1997
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-4 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-10 (V)
+  - Code de la santé publique - art. R6122-8 (V)
+  - Code de la santé publique - art. R6122-9 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R724-5 (Ab)
+  - Code de la santé publique - art. R724-6 (Ab)
+
+
+##### Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale<a id=434></a>
+
+###### Article R712-14
+
+Le Comité national de l'organisation sanitaire et sociale comporte une section sanitaire et une section sociale.
+
+Il siège en formation plénière, à la demande des ministres chargés de l'action sociale, de la santé et de la sécurité sociale
+ou de l'un d'entre eux, lorsque la nature des questions inscrites à l'ordre du jour rend souhaitable leur examen par
+l'ensemble du comité national. [*fonctionnement*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-11 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R724-5 (Ab)
+  - Code de la santé publique - art. R724-6 (Ab)
+
+
+###### Article R712-15
+
+La section sanitaire du Comité national de l'organisation sanitaire et sociale est consultée par le ministre chargé de la
+santé sur :
+
+1° Les projets de carte sanitaire et de schéma d'organisation sanitaires à caractère national ou interrégional ;
+
+2° Les indices nationaux de besoins ;
+
+3° Les conditions techniques de fonctionnement prévues à l'article L. 712-9 (3°) et concernant les établissements,
+installations et activités mentionnés à l'article L. 712-8 ;
+
+4° Les demandes d'autorisation et de renouvellement d'autorisation relatives aux projets mentionnés à l'article L. 712-8,
+lorsque la décision relève de la compétence du ministre chargé de la santé ;
+
+5° Les mesures que le ministre chargé de la santé a l'intention de demander au conseil d'administration d'un établissement
+public de santé d'adopter en application de l'article L. 712-20 ;
+
+6° Lorsqu'elles relèvent de la compétence du ministre chargé de la santé et en application de l'article L. 715-2 :
+
+a) Les décisions de suspension ou de retrait d'autorisation de fonctionner ;
+
+b) Les décisions de suspension ou de retrait d'autorisation de dispenser des soins remboursables aux assurés sociaux ;
+
+7° Les projets de contrats de concession pour l'exécution du service public hospitalier prévus à l'article L. 715-10 dans le
+cas où l'approbation relève du ministre chargé de la santé ;
+
+8° Les recours hiérarchiques formés auprès du ministre en application des articles L. 712-5 et L. 712-16.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Décret n°2005-434 du 6 mai 2005 - art. 10 (V)
+  - Code de la santé publique - art. R712-17 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-16 (M)
+  - Code de la santé publique - art. L712-20 (Ab)
+  - Code de la santé publique - art. L712-5 (M)
+  - Code de la santé publique - art. L712-8 (M)
+  - Code de la santé publique - art. L712-9 (M)
+  - Code de la santé publique - art. L715-10 (M)
+  - Code de la santé publique - art. L715-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-12 (V)
+
+
+###### Article R712-16
+
+La section sociale du Comité national de l'organisation sanitaire et sociale est consultée par le ministre chargé de l'action
+sociale sur :
+
+1° Les projets de création, de transformation et d'extension importante au sens de l'article 22 du décret n° 76-838 du 25
+août 1976, d'établissements appartenant à l'une des catégories qu'énumère l'article 3 de la loi n° 75-535 du 30 juin 1975 et
+qui sont d'intérêt national au sens du décret n° 70-1222 du 23 décembre 1970 ;
+
+2° Les projets de création, de transformation et d'extension importante d'établissements destinés à héberger des personnes
+atteintes de handicaps rares et dont la liste est fixée par décret en Conseil d'Etat ;
+
+3° Les projets de création et d'extension importante, au sens de l'article 22 du décret n° 76-838 du 25 août 1976, de
+services d'intérêt national à caractère social ou médico-social intervenant dans le maintien à domicile ou l'action
+éducative, dont la liste est fixée par le décret n° 88-1200 du 28 décembre 1988 ;
+
+4° Les demandes de dérogation aux normes d'équipement et de fonctionnement mentionnées au premier alinéa de l'article 4 de la
+loi n° 75-535 du 30 juin 1975.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Décret n°70-1222 1970-12-23
+  - Loi n°75-535 du 30 juin 1975 - art. 3 (M)
+  - Loi n°75-535 du 30 juin 1975 - art. 4 (M)
+  - Décret n°76-838 du 25 août 1976 - art. 22 (Ab)
+  - Décret n°88-1200 1988-12-28
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Décret n°95-185 du 14 février 1995 - art. 2 (Ab)
+  - Décret n°95-185 du 14 février 1995 - art. 25 (Ab)
+  - Code de la santé publique - art. R724-6 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-13 (V)
+
+
+###### Article R712-17
+
+La section sanitaire du Comité national de l'organisation sanitaire et sociale peut en outre être consultée par le ou les
+ministres chargés de l'action sociale, de la santé et de la sécurité sociale sur toute question concernant l'application de
+la loi n° 91-748 du 31 juillet 1991.
+
+La section sociale du Comité national de l'organisation sanitaire et sociale peut en outre être consultée par le ministre
+chargé de l'action sociale sur toute question concernant l'application de la loi n° 75-535 du 30 juin 1975.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Loi n°75-535 1975-06-30
+  - Loi n°91-748 1991-07-31
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-14 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R724-6 (Ab)
+
+
+###### Article R712-18
+
+Le Comité national de l'organisation sanitaire et sociale est présidé soit par un conseiller d'Etat désigné par les ministres
+chargés de l'action sociale, de la santé et de la sécurité sociale sur proposition du vice-président du Conseil d'Etat, soit
+par un conseiller maître à la Cour des comptes désigné par les mêmes ministres sur proposition du premier président de la
+Cour des comptes.
+
+Le président est suppléé par un conseiller d'Etat ou par un conseiller maître à la Cour des comptes, désigné dans les mêmes
+conditions.
+
+Le mandat du président et de son suppléant est de cinq ans [*durée*] Il est renouvelable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-15 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R724-6 (Ab)
+
+
+###### Article R712-19
+
+I. - Outre le président ou son suppléant, la section sanitaire du Comité national de l'organisation sanitaire et sociale
+comprend [*composition*] :
+
+1° Un député désigné par la commission des affaires culturelles, familiales et sociales de l'Assemblée nationale ;
+
+2° Un sénateur désigné par la commission des affaires sociales du Sénat ;
+
+3° Le directeur général de la santé, vice-président, ou son représentant ;
+
+4° Le directeur des hôpitaux, vice-président, ou son représentant ;
+
+5° Le directeur de la sécurité sociale ou son représentant ;
+
+6° Trois membres de l'inspection générale des affaires sociales désignés par le chef de ladite inspection générale ;
+
+7° Le directeur du budget ou son représentant ;
+
+8° Un conseiller régional désigné par la conférence des présidents des conseils régionaux ;
+
+9° Un conseiller général désigné par le ministre chargé de la santé sur propositions des associations représentatives des
+présidents de conseil général ;
+
+10° Un maire désigné par le ministre chargé de la santé sur propositions des associations représentatives des maires ;
+
+11° Quatre représentants de la Caisse nationale d'assurance maladie des travailleurs salariés, dont le directeur et le
+médecin-conseil national ou leur représentant ;
+
+12° Un représentant de chacun des organismes suivants :
+
+a) Caisse centrale de secours mutuels agricoles ;
+
+b) Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles ;
+
+13° Quatre représentants des organisations d'hospitalisation publique les plus représentatives ;
+
+14° Trois présidents de commission médicale d'établissement public de santé, désignés par le ministre chargé de la santé sur
+proposition de leurs conférences respectives ;
+
+15° Quatre représentants des organisations d'hospitalisation privée les plus représentatives, dont au moins un au titre des
+établissements privés à but non lucratif et un médecin exerçant dans un établissement de santé privé ne participant pas au
+service public hospitalier ;
+
+16° Quatre représentants des syndicats médicaux les plus représentatifs, dont au moins deux au titre des syndicats de
+médecins hospitaliers publics ;
+
+17° Un représentant des médecins salariés exerçant dans les établissements privés participant au service public hospitalier ;
+
+18° Deux représentants des organisations syndicales les plus représentatives des personnels hospitaliers non médicaux, dont
+un au titre des personnels hospitaliers publics ;
+
+19° Un représentant des usagers des institutions et établissements de santé ;
+
+20° Trois personnalités qualifiées désignées par les ministres chargés de la santé et de la sécurité sociale, dont une sur
+proposition de la Fédération nationale de la mutualité française et un infirmier.
+
+II. - Outre le président ou son suppléant, la section sociale du Comité national de l'organisation sanitaire et sociale
+comprend :
+
+1° Le député désigné par la commission des affaires culturelles, familiales et sociales de l'Assemblée nationale et mentionné
+au I (1°) du présent article ;
+
+2° Le sénateur désigné par la commission des affaires sociales du Sénat et mentionné au I (2°) du présent article ;
+
+3° Le directeur général de la santé, vice-président, ou son représentant ;
+
+4° Le directeur de l'action sociale, vice-président, ou son représentant  ;
+
+5° Le directeur de la sécurité sociale ou son représentant ;
+
+6° Trois membres de l'inspection générale des affaires sociales désignés par le chef de ladite inspection générale ;
+
+7° Le directeur du budget ou son représentant ;
+
+8° Un conseiller régional désigné par la conférence des présidents des conseils régionaux ;
+
+9° Deux présidents ou vice-présidents de conseil général désignés par le ministre chargé de l'action sociale sur proposition
+des associations représentatives des présidents de conseil général ;
+
+10° Un maire désigné par le ministre chargé de l'action sociale sur proposition des associations représentatives des maires ;
+
+11° Quatre représentants de la Caisse nationale d'assurance maladie des travailleurs salariés, dont le directeur et le
+médecin-conseil national ou leur représentant ;
+
+12° Un représentant de chacun des organismes suivants :
+
+a) Caisse centrale de secours mutuels agricoles ;
+
+b) Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles ;
+
+c) Caisse nationale d'assurance vieillesse des travailleurs salariés ;
+
+d) Caisse nationale des allocations familiales ;
+
+13° Cinq représentants des organisations les plus représentatives des institutions sociales et médico-sociales, dont deux au
+titre des institutions publiques ;
+
+14° Deux représentants des syndicats médicaux les plus représentatifs ;
+
+15° Deux représentants des organisations syndicales les plus représentatives des personnels non médicaux des institutions
+sociales et médico-sociales, dont un au titre des personnels des institutions publiques ;
+
+16° Un représentant des usagers des institutions sociales et médico-sociales ;
+
+17° Trois personnalités qualifiées désignées par le ou les ministres chargés de l'action sociale, de la santé et de la
+sécurité sociale, dont une sur proposition de la Fédération nationale de la mutualité française et un travailleur social.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-16 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-30 (M)
+  - Code de la santé publique - art. R712-32 (M)
+  - Code de la santé publique - art. R724-6 (Ab)
+
+
+###### Article R712-20
+
+Le Comité national peut appeler à participer à ses travaux, à titre consultatif et temporaire, toute personne dont le
+concours apparaît souhaitable, notamment pour l'examen des dossiers de demandes d'autorisation des recours hiérarchiques
+formés auprès du ministre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-17 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R724-6 (Ab)
+
+
+###### Article R712-21
+
+Un arrêté du ou des ministres chargés de l'action sociale, de la santé et de la sécurité sociale détermine la liste des
+organismes, institutions, groupements ou syndicats représentés dans chaque section du Comité national de l'organisation
+sanitaire et sociale ainsi que le nombre de sièges dont ils disposent.
+
+Le ou les ministres chargés de l'action sociale, de la santé et de la sécurité sociale fixent conjointement par arrêté la
+liste nominative des membres des deux sections et de la formation plénière du Comité national de l'organisation sanitaire et
+sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-18 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-25 (Ab)
+  - Code de la santé publique - art. R724-6 (Ab)
+
+
+##### Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale<a id=435></a>
+
+###### Article R712-22
+
+Chaque comité régional de l'organisation sanitaire et sociale comporte une section sanitaire et une section sociale.
+
+Il siège en formation plénière à la demande du préfet de région, lorsque la nature des questions inscrites à l'ordre du jour
+rend souhaitable leur examen par l'ensemble du comité régional, et pour examiner le rapport mentionné au dernier alinéa de
+l'article L. 712-6.
+
+**Nota:**
+
+Nota : Décret 2004-65 2004-01-15 art. 14 : les dispositions relatives à la section sociale des comités régionaux de
+l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du code de la santé publique, sont supprimées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-6 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-19 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-25 (Ab)
+  - Code de la santé publique - art. R724-6 (Ab)
+
+
+###### Article R712-23
+
+La section sanitaire du comité régional de l'organisation sanitaire et sociale est consultée par le préfet de région sur :
+
+1° Les projets de carte sanitaire et de schéma régional d'organisation sanitaire ainsi que l'annexe dudit schéma ;
+
+2° Les demandes d'autorisation et de renouvellemement d'autorisation relatives aux projets mentionnés à l'article L. 712-8
+lorsque la décision relève de la compétence du préfet de région ;
+
+3° Les mesures que le ministre chargé de la santé a l'intention de demander au conseil d'administration d'un établissement
+public de santé d'adopter, en application de l'article L. 712-20 ;
+
+4° Lorsqu'elles relèvent de la compétence du préfet de région et en application de l'article L. 715-2 :
+
+a) Les décisions de suspension ou de retrait d'autorisation de fonctionner ;
+
+b) Les décisions de suspension ou de retrait d'autorisation de dispenser des soins remboursables aux assurés sociaux ;
+
+5° La suspension de l'autorisation de fonctionner prononcée en application de l'article L. 712-18 ;
+
+6° Les projets de contrats de concession pour l'exécution du service public hospitalier prévus à l'article L. 715-10, dans le
+cas où l'approbation relève du préfet de région, ainsi que les projets d'accords d'association au fonctionnement du service
+public hospitalier prévus à l'article L. 715-11.
+
+**Liens relatifs à cet article**
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-20 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-25 (Ab)
+  - Code de la santé publique - art. R724-6 (Ab)
+  - Décret n°2005-434 du 6 mai 2005 - art. 10 (V)
+
+_Cite_:
+
+  - Code de la santé publique annexe, L712-8, L712-20, L715-2, L712-18, L715-10, L715-11
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+
+###### Article R712-24
+
+Lorsque la section sociale du comité national n'est pas compétente, la section sociale du comité régional est consultée par
+l'autorité compétente pour prendre la décision, en application des articles 9 et 18 de la loi n° 75-535 du 30 juin 1975,
+sur :
+
+1° Les projets de création, de transformation et d'extension importante, au sens de l'article 22 du décret n° 76-838 du 25
+août 1976, d'établissements appartenant à l'une des catégories énumérées à l'article 3 de la loi n° 75-535 du 30 juin 1975 ;
+
+2° Les projets de création et d'extension importante, au sens de l'article 22 du décret n° 76-838 du 25 août 1976, de
+services à caractère social ou médico-social intervenant dans le maintien à domicile ou l'action éducative, dont la liste est
+fixée par le décret n° 88-1200 du 28 décembre 1988 ;
+
+3° Les demandes de dérogation aux normes d'équipement et de fonctionnement mentionnées au premier alinéa de l'article 4 de la
+loi n° 75-535 du 30 juin 1975 en vue de réalisations de type expérimental ;
+
+4° Les projets de décision tendant, en application de l'article 11-3 (1°) de la loi n° 75-535 du 30 juin 1975, au retrait de
+l'habilitation à recevoir des bénéficiaires de l'aide sociale ou de l'autorisation à dispenser des soins remboursables aux
+assurés sociaux pour tout ou partie d'un établissement ;
+
+5° Les projets de décision tendant, en application de l'article 14 de la loi n° 75-535 du 30 juin 1975, à la fermeture d'un
+établissement ou d'un service ouvert sans autorisation.
+
+**Nota:**
+
+Nota : Décret 2004-65 2004-01-15 art. 14 : les dispositions relatives à la section sociale des comités régionaux de
+l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du code de la santé publique, sont supprimées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Loi n°75-535 1975-06-30 art. 9, art. 18, art. 3, art. 4, art. 11-3, art. 14
+  - Loi n°75-535 du 30 juin 1975 - art. 11-3 (M)
+  - Loi n°75-535 du 30 juin 1975 - art. 14 (M)
+  - Loi n°75-535 du 30 juin 1975 - art. 3 (M)
+  - Loi n°75-535 du 30 juin 1975 - art. 4 (M)
+  - Décret n°76-838 du 25 août 1976 - art. 22 (Ab)
+  - Décret n°88-1200 1988-12-28
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Décret n°95-185 du 14 février 1995 - art. 2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-21 (V)
+
+
+###### Article R712-25
+
+Le comité régional de l'organisation sanitaire et sociale est présidé soit par un membre du corps des tribunaux
+administratifs et des cours administratives d'appel, soit par un membre du corps des conseillers des chambres régionales des
+comptes, désigné par le préfet de région.
+
+Le président issu de l'un de ces deux corps est suppléé par un membre de l'autre corps, désigné dans les mêmes conditions.
+
+Le mandat du président et de son suppléant est de cinq ans [*durée*] Il est renouvelable.
+
+**Nota:**
+
+Nota : Décret 2004-65 2004-01-15 art. 14 : les dispositions relatives à la section sociale des comités régionaux de
+l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du code de la santé publique, sont supprimées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 24 février 1994 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-22 (V)
+
+
+###### Article R712-26
+
+I. - Outre le président ou son suppléant, la section sanitaire du comité régional de l'organisation sanitaire et sociale
+comprend [*composition*] :
+
+1° Un député désigné par la commission des affaires culturelles, familiales et sociales de l'Assemblée nationale ;
+
+2° Un sénateur désigné par la commission des affaires sociales du Sénat ;
+
+3° Le directeur régional des affaires sanitaires et sociales, vice-président, et le médecin inspecteur régional de la santé
+ou leur représentant ;
+
+4° Un trésorier-payeur général de la région ;
+
+5° Deux fonctionnaires des directions départementales de l'action sanitaire et sociale de la région, désignés par le préfet
+de région ;
+
+6° Un conseiller régional désigné par le conseil régional ;
+
+7° Un conseiller général désigné par le ministre chargé de la santé sur propositions des associations représentatives au plan
+national des présidents du conseil général ;
+
+8° Un maire désigné par le ministre chargé de la santé sur propositions des associations représentatives au plan national des
+maires ;
+
+9° Quatre représentants de la caisse régionale d'assurance maladie des travailleurs salariés, dont le directeur et le
+médecin-conseil régional. Dans la région Alsace, l'un des sièges est attribué à la caisse régionale vieillesse. Dans la
+région Ile-de-France, un siège est attribué à la Caisse nationale d'assurance vieillesse des travailleurs salariés ;
+
+10° Deux représentants des régimes d'assurance maladie autres que le régime général ; ces régimes sont déterminés par le
+préfet de région en fonction du nombre de leurs ressortissants ;
+
+11° Quatre représentants des organisations d'hospitalisation publique les plus représentatives au plan régional ;
+
+12° Trois présidents de commission médicale d'établissement public de santé désignés par le préfet de région sur proposition
+de leurs conférences respectives ;
+
+13° Quatre représentants des organisations d'hospitalisation privée les plus représentatives au plan régional, dont au moins
+un au titre des établissements privés participant au service public hospitalier et un médecin exerçant dans un établissement
+de santé privé ne participant pas au service public hospitalier ;
+
+14° Quatre représentants des syndicats médicaux les plus représentatifs au plan régional, dont deux au titre des syndicats de
+médecins hospitaliers publics ;
+
+15° Un médecin exerçant dans un établissement privé participant au service public hospitalier ;
+
+16° Deux représentants des organisations syndicales des personnels non médicaux hospitaliers les plus représentatives au plan
+régional, dont un représentant des personnels hospitaliers publics ;
+
+17° Un représentant des usagers des institutions et établissements de santé ;
+
+18° Deux personnalités qualifiées désignées par le préfet de la région, dont une sur proposition de la Fédération nationale
+de la mutualité française et un infirmier.
+
+II. - Outre le président ou son suppléant, la section sociale du comité régional de l'organisation sanitaire et sociale
+comprend :
+
+1° Le député désigné par la commission des affaires culturelles, familiales et sociales de l'Assemblée nationale et mentionné
+au I (1°) du présent article ;
+
+2° Le sénateur désigné par la commission des affaires sociales du Sénat et mentionné au I (2°) du présent article ;
+
+3° Le directeur régional des affaires sanitaires et sociales, vice-président, et le médecin inspecteur régional de la santé
+ou leur représentant ;
+
+4° Un trésorier-payeur général de la région ;
+
+5° Le directeur régional de la protection judiciaire de la jeunesse et un directeur départemental de l'action sanitaire et
+sociale désigné par le préfet de région ;
+
+6° Un conseiller régional désigné par le conseil régional ;
+
+7° Deux présidents ou vice-présidents de conseil général désignés par le ministre chargé de l'action sociale sur proposition
+des associations représentatives au plan national des présidents de conseil général ;
+
+8° Un maire désigné par le ministre chargé de l'action sociale sur propositions des associations représentatives au plan
+national des maires ;
+
+9° Quatre représentants de la caisse régionale d'assurance maladie des travailleurs salariés, dont le directeur et un
+médecin-conseil régional ou leur représentant. Dans la région Alsace un des sièges est attribué à la caisse régionale
+vieillesse. Dans la région Ile-de-France, un siège est attribué à la Caisse nationale d'assurance vieillesse des travailleurs
+salariés ;
+
+10° Deux représentants des régimes d'assurance maladie autres que le régime général ; ces régimes sont déterminés par le
+préfet de région en fonction du nombre de leurs ressortissants ;
+
+11° Cinq représentants des organisations les plus représentatives, au plan régional, des institutions sociales et médico-
+sociales, dont deux au titre des institutions publiques ;
+
+12° Deux représentants des syndicats médicaux les plus représentatifs dans la région ;
+
+13° Deux représentants des organisations syndicales les plus représentatives, au plan régional, des personnels non médicaux
+des institutions sociales et médico-sociales, dont un au titre des personnels des institutions publiques ;
+
+14° Un représentant des usagers des institutions sociales et médico-sociales ;
+
+15° Quatre personnalités qualifiées désignées par le préfet de région, dont une sur proposition de la Fédération nationale de
+la mutualité française et un travailleur social.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 24 février 1994 - art. 1 (V)
+  - Code de la santé publique - art. R712-27 (M)
+  - Code de la santé publique - art. R712-29 (M)
+  - Code de la santé publique - art. R712-30 (M)
+  - Code de la santé publique - art. R712-32 (M)
+  - Code de la santé publique - art. R724-9 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-23 (V)
+
+
+###### Article R712-27
+
+Dans chaque région d'outre-mer, les deux sections du comité régional de l'organisation sanitaire et sociale sont composées
+conformément aux dispositions de l'article R. 712-26, à l'exclusion des membres prévus aux I (3°, 5°, 9°, 10°) et II (3°, 5°,
+9°, 10°) de cet article, et auxquels sont substitués :
+
+a) Le directeur départemental des affaires sanitaires et sociales, vice-président, et le médecin inspecteur régional de la
+santé pour la Guadeloupe, la Martinique, la Guyane et la Réunion, ou leur représentant ;
+
+b) Trois fonctionnaires des services extérieurs de l'Etat désignés par le préfet de la région, dont le directeur régional de
+la sécurité sociale d'Antilles-Guyane pour les régions de Guadeloupe, de Martinique et de Guyane, et le directeur
+départemental de la sécurité sociale pour la Réunion, ou leur représentant ;
+
+c) Trois représentants de la caisse générale de sécurité sociale, dont le directeur et le médecin-conseil régional ou leur
+représentant ;
+
+d) Deux représentants des régimes autres que ceux représentés par la caisse générale, désignés par le préfet de région en
+fonction du nombre de ressortissants de chacun de ces régimes.
+
+**Nota:**
+
+*Nota : Loi d'orientation 92-125 du 6 février 1992 art. 3 : Dans tous les textes législatifs et réglementaires, la référence
+à "services extérieurs" est remplacée par la référence à "services déconcentrés".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-24 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R712-26 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-29 (M)
+  - Code de la santé publique - art. R724-9 (Ab)
+
+
+###### Article R712-28
+
+Le comité régional peut appeler toute personne dont le concours apparaît souhaitable à participer à ses travaux à titre
+consultatif et temporaire.
+
+**Nota:**
+
+Nota : Décret 2004-65 2004-01-15 art. 14 : les dispositions relatives à la section sociale des comités régionaux de
+l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du code de la santé publique, sont supprimées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Décret n°2005-434 du 6 mai 2005 - art. 10 (V)
+  - Décret n°2005-434 du 6 mai 2005 - art. 15 (V)
+  - Code de la santé publique - art. R712-32 (Ab)
+  - Code de la santé publique - art. R712-5 (Ab)
+  - Code de la santé publique - art. R712-63 (Ab)
+  - Code de la santé publique - art. R712-94 (Ab)
+  - Code de la santé publique - art. R740-4 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-25 (V)
+  - Code de la santé publique - art. R6122-26 (V)
+
+
+###### Article R712-29
+
+Un arrêté du préfet de région détermine, d'une part, la liste des organismes, institutions, groupements ou syndicats
+représentés à chaque section du comité régional de l'organisation sanitaire et sociale et, d'autre part, le nombre de sièges
+dont ils disposent par application des dispositions des articles R. 712-26 et R. 712-27.
+
+Le préfet de région fixe par arrêté la liste nominative des membres des deux sections et de la formation plénière du comité
+régional de l'organisation sanitaire et sociale.
+
+**Nota:**
+
+Nota : Décret 2004-65 2004-01-15 art. 14 : les dispositions relatives à la section sociale des comités régionaux de
+l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du code de la santé publique, sont supprimées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-27 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R712-26 (M)
+  - Code de la santé publique - art. R712-27 (M)
+
+
+##### Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale<a id=436></a>
+
+###### Article R712-30
+
+Un suppléant de chaque membre du Comité national et des comités régionaux de l'organisation sanitaire et sociale est désigné
+dans les mêmes conditions que le titulaire.
+
+Le mandat des membres titulaires et suppléants est de cinq ans. Il est renouvelable.
+
+La qualité de membre titulaire ou suppléant des comités se perd lorsque les personnes intéressées cessent d'exercer le mandat
+ou les fonctions au titre desquels elles ont été élues ou désignées. Lorsqu'un membre cesse d'exercer ses fonctions avant
+l'expiration de son mandat, il est pourvu dans le délai d'un mois à son remplacement ; dans ce cas, le mandat du nouveau
+membre prend fin à la date à laquelle aurait cessé celui du membre qu'il a remplacé.
+
+En cas de suspension ou de dissolution du conseil d'administration d'un organisme de sécurité sociale, le mandat est continué
+jusqu'au jour de la nomination des membres proposés par le nouveau conseil.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-28 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-31 (Ab)
+
+
+###### Article R712-31
+
+Le Comité national de l'organisation sanitaire et sociale se réunit, en section ou en formation plénière, sur convocation du
+ou des ministres chargés de l'action sociale, de la santé et de la sécurité sociale. Le secrétariat est assuré par les
+services du ou des ministres précités.
+
+Le comité régional de l'organisation sanitaire et sociale se réunit, en section ou en formation plénière, sur convocation du
+préfet de région. Le secrétariat est assuré par les services de la direction régionale des affaires sanitaires et sociales
+ou, dans les régions d'outre-mer, par les services de la direction départementale des affaires sanitaires et sociales
+[*fonctionnement*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-29 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-32 (Ab)
+  - Code de la santé publique - art. R724-11 (Ab)
+
+
+###### Article R712-32
+
+L'ordre du jour est fixé par le ou les ministres chargés de l'action sociale, de la santé et de la sécurité sociale en ce qui
+concerne le Comité national de l'organisation sanitaire et sociale, et par le préfet de région en ce qui concerne le comité
+régional.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-30 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-19 (M)
+  - Code de la santé publique - art. R712-26 (M)
+  - Code de la santé publique - art. R712-33 (Ab)
+  - Code de la santé publique - art. R724-11 (Ab)
+
+
+###### Article R712-33
+
+Le Comité national et les comités régionaux de l'organisation sanitaire et sociale ne peuvent délibérer que si au moins la
+moitié des membres de la section ou de la formation convoquée sont présents ; le quorum est apprécié en début de séance.
+
+Toutefois, quand le quorum n'est pas atteint après une convocation régulièrement faite, la section ou la formation, quel que
+soit le nombre des membres présents, délibère valablement sur les points inscrits à l'ordre du jour de la première réunion,
+lors d'une seconde réunion qui doit avoir lieu dans un délai de cinq à quinze jours.
+
+Les avis des comités sont émis à la majorité des voix des membres présents. En cas de partage égal des voix, celle du
+président est prépondérante.
+
+Les membres suppléants ne siègent qu'en cas d'absence ou d'empêchement des membres titulaires.
+
+Les membres ayant voix délibérative ne peuvent siéger dans les affaires concernant des établissements avec lesquels ils
+collaborent et, plus généralement, dans les affaires auxquelles ils sont intéressés à un titre quelconque.
+
+Les membres des comités sont soumis à l'obligation de discrétion professionnelle à l'égard de tous les faits et documents
+dont ils ont connaissance en cette qualité ainsi que des délibérations des comités.
+
+Les membres des comités exercent leur mandat à titre gratuit.
+
+**Nota:**
+
+Nota : Décret 2004-65 2004-01-15 art. 14 : les dispositions relatives à la section sociale des comités régionaux de
+l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du code de la santé publique, sont supprimées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-31 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R724-11 (Ab)
+
+
+###### Article R712-34
+
+Les questions soumises obligatoirement à l'avis du Comité national de l'organisation sanitaire et sociale ou des comités
+régionaux font l'objet de rapports présentés par des agents de l'Etat, de la fonction publique territoriale ou de la fonction
+publique hospitalière, ou par des praticiens-conseils chargés du contrôle médical des organismes d'assurance maladie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-32 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-26 (Ab)
+  - Code de la santé publique - art. R712-31 (Ab)
+
+
+###### Article R712-35
+
+Le Comité national et les comités régionaux de l'organisation sanitaire et sociale se prononcent sur dossier.
+
+Les promoteurs de projets sont entendus sur leur demande par le rapporteur du dossier. Ils peuvent également être entendus
+par la section compétente si le président le juge utile.
+
+Lorsque la nature du dossier le justifie, à la demande du promoteur ou de sa propre initiative, le président du comité peut
+décider de l'audition de toute personne qualifiée dans le domaine auquel correspond le projet présenté.
+
+**Nota:**
+
+Nota : Décret 2004-65 2004-01-15 art. 14 : les dispositions relatives à la section sociale des comités régionaux de
+l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du code de la santé publique, sont supprimées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-33 (V)
+
+
+###### Article R712-36
+
+Le Comité national et les comités régionaux de l'organisation sanitaire et sociale établissent leur règlement intérieur. Pour
+le comité national, il est approuvé par le ou les ministres chargés de l'action sociale, de la santé et de la sécurité
+sociale. Pour les comités régionaux, il est approuvé par le préfet de région.
+
+**Nota:**
+
+Nota : Décret 2004-65 2004-01-15 art. 14 : les dispositions relatives à la section sociale des comités régionaux de
+l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du code de la santé publique, sont supprimées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-34 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-37 (Ab)
+  - Code de la santé publique - art. R712-41 (Ab)
+  - Code de la santé publique - art. R724-11 (Ab)
+
+
+##### Section 2 : Autorisations<a id=437></a>
+
+###### Article R712-37
+
+Sauf dans les cas prévus par le décret pris en application du deuxième alinéa de l'article L. 712-16, l'autorisation
+mentionnée à l'article L. 712-8 est accordée ou renouvelée par le préfet de région.
+
+**Nota:**
+
+---[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article ddu code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-16 (M)
+  - Code de la santé publique - art. L712-8 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-35 (V)
+
+
+###### Article R712-38
+
+Les demandes d'autorisation et de renouvellement d'autorisation sont adressées au préfet de région ou au ministre chargé de
+la santé sous couvert du préfet du département d'implantation ou de mise en oeuvre de l'installation, de l'établissement ou
+de l'activité envisagés, sous pli recommandé avec demande d'avis de réception, par la personne morale ou physique responsable
+de l'exécution du projet.
+
+**Nota:**
+
+---[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Décret n°2002-465 du 5 avril 2002 - art. 4 (M)
+  - Code de la santé publique - art. R712-39 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-36 (V)
+
+
+###### Article R712-39
+
+I. - Les demandes mentionnées à l'article R. 712-38 ne peuvent être reçues que durant des périodes et selon des calendriers
+déterminés, respectivement, par arrêtés du ministre chargé de la santé ou des préfets de région, publiés dans le premier cas
+au Journal Officiel de la République française et, dans le second cas, au Recueil des actes administratifs, d'une part, de la
+préfecture de région et, d'autre part, de la préfecture du ou des départements intéressés.
+
+II. - Ces périodes peuvent varier en fonction de la nature des opérations. Leur durée doit être au moins égale à deux mois,
+leur nombre ne peut être inférieur à deux ni supérieur à trois au cours d'une même année. Elles font courir, à compter de la
+date de leur clôture, le délai de six mois prévu au troisième alinéa de l'article L. 712-16, sous réserve de ce qui est dit
+au dernier alinéa du II de l'article R. 712-40.
+
+**Nota:**
+
+---[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté du 7 janvier 1993
+  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 1 (V)
+  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. Annexe (V)
+
+_Cité par_:
+
+  - Arrêté du 7 janvier 1993 - art. 1 (V)
+  - Décret n°95-559 du 6 mai 1995 - art. 2 (Ab)
+  - Décret n°95-560 du 6 mai 1995 - art. 6 (Ab)
+  - Décret n°95-647 du 9 mai 1995 - art. 3 (Ab)
+  - Décret n°97-615 du 30 mai 1997 - art. 9 (Ab)
+  - Décret n°2002-465 du 5 avril 2002 - art. 4 (M)
+  - Code de la santé publique - art. R712-39-1 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-16 (M)
+  - Code de la santé publique - art. R712-38 (M)
+  - Code de la santé publique - art. R712-40 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-38 (V)
+
+
+###### Article R712-40
+
+Les demandes d'autorisation et de renouvellement d'autorisation ne peuvent, après transmission du préfet du département, être
+examinées par le préfet de région ou le ministre chargé de la santé que si elles sont accompagnées d'un dossier justificatif
+complet.
+
+I. - Ce dossier, dont la composition est arrêtée par les ministres chargés de la santé et de la sécurité sociale, doit
+notamment comporter les éléments d'appréciation ci-après :
+
+A. - Un dossier administratif :
+
+1° Permettant de connaître l'identité et le statut juridique du demandeur ;
+
+2° présentant l'opération envisagée, notamment au regard de la carte sanitaire et du schéma d'organisation sanitaire ;
+
+3° Comportant un engagement du demandeur sur les points suivants :
+
+a) Volume d'activité ou dépenses à la charge de l'assurance maladie ;
+
+b) Maintien des caractéristiques du projet après l'autorisation ;
+
+c) Précisant les conditions de mise en oeuvre de l'évaluation périodique prévue à l'article L. 712-12-1 et de communication
+de ses résultats ;
+
+B. - Un dossier relatif aux personnels, faisant apparaître les engagements du demandeur en ce qui concerne les effectifs et
+la qualification des personnels, notamment médicaux, nécessaires à la mise en oeuvre du projet ;
+
+C. - Un dossier technique et financier comportant une présentation générale de l'établissement, les modalités de financement
+du projet et une présentation du compte ou budget prévisionnel d'exploitation.
+
+II. - Le dossier est réputé complet si, dans le délai d'un mois à compter de sa réception, le préfet de département n'a pas
+fait connaître au demandeur, par lettre recommandée avec demande d'avis de réception, la liste des pièces manquantes ou
+incomplètes.
+
+Dans le cas où le dossier était incomplet et n'a pas été complété à la date de clôture de la période de réception concernée,
+le délai de six mois mentionné au troisième alinéa de l'article L. 712-16 ne court pas. L'examen de la demande est reporté à
+la période suivante, sous réserve que le dossier ait été complété.
+
+**Nota:**
+
+---[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 11 février 1993
+  - TXT_SOURCE: Arrêté du 11 février 1993 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 11 février 1993 - art. 2 (V)
+
+_Cité par_:
+
+  - Arrêté du 11 février 1993 - art. 1 (V)
+  - Décret n°95-560 du 6 mai 1995 - art. 6 (Ab)
+  - Arrêté du 2 juin 1995 - art. 1 (Ab)
+  - Arrêté du 4 février 2000 - art. 1 (V)
+  - Arrêté du 25 septembre 2003 - art. 6 (V)
+  - Code de la santé publique - art. D712-2 (M)
+  - Code de la santé publique - art. D712-32 (Ab)
+  - Code de la santé publique - art. D712-37 (Ab)
+  - Code de la santé publique - art. D712-9 (Ab)
+  - Code de la santé publique - art. R1244-2 (M)
+  - Code de la santé publique - art. R162-16-8 (Ab)
+  - Code de la santé publique - art. R184-1-2 (Ab)
+  - Code de la santé publique - art. R2131-8 (M)
+  - Code de la santé publique - art. R2142-2 (M)
+  - Code de la santé publique - art. R673-5-2 (Ab)
+  - Code de la santé publique - art. R712-36-1 (Ab)
+  - Code de la santé publique - art. R712-39 (M)
+  - Code de la santé publique - art. R712-89 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-12-1 (MMN)
+  - Code de la santé publique - art. L712-16 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-38 (V)
+
+
+###### Article R712-41
+
+Les décisions d'autorisation ou de rejet explicites que prennent, après avis du Comité national ou du comité régional de
+l'organisation sanitaire et sociale et dans les conditions fixées à l'article L. 712-16, le ministre chargé de la santé ou le
+préfet de région, doivent être motivées. Elles sont notifiées par lettre recommandée avec avis de réception au demandeur de
+l'autorisation.
+
+Le délai de trois ans prévu à l'article L. 712-17 court à compter de la notification de la décision ou de l'expiration du
+délai de six mois mentionné au troisième alinéa de l'article L. 712-16.
+
+**Nota:**
+
+---[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-16 (M)
+  - Code de la santé publique - art. L712-17 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-39 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-43 (M)
+
+
+###### Article R712-42
+
+I. - Une décision de refus d'autorisation ne peut être prise que pour l'un ou plusieurs des motifs suivants :
+
+1° Lorsque les besoins de la population définis par la carte sanitaire sont satisfaits ;
+
+2° Lorsque le projet n'est pas compatible avec les objectifs du schéma d'organisation sanitaire ;
+
+3° Lorsque le projet n'est pas conforme aux conditions techniques de fonctionnement mentionnées au 3° du premier alinéa de
+l'article L. 712-9 ;
+
+4° Lorsque le demandeur n'accepte pas de souscrire aux conditions ou engagements mentionnés aux articles L. 712-12-1 et L.
+712-13 ;
+
+5° Lorsqu'il a été constaté un début d'exécution des travaux avant l'octroi de l'autorisation.
+
+II. - Une décision de refus de renouvellement d'autorisation ne peut être prise que pour l'un ou plusieurs des motifs
+suivants :
+
+1° Lorsque l'opération faisant l'objet de la demande de renouvellement ne satisfait pas aux conditions techniques de
+fonctionnement ;
+
+2° Lorsque les conditions et engagements mentionnés aux articles L. 712-12-1 et L. 712-13 n'ont pas été respectés ;
+
+3° Lorsque les résultats de l'évaluation périodique prévue à l'article L. 712-12-1 ne sont pas jugés satisfaisants ;
+
+4° Lorsque le demandeur du renouvellement n'accepte pas de souscrire aux conditions et engagements mentionnés à l'article L.
+712-12-1.
+
+**Nota:**
+
+---[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-12-1 (MMN)
+  - Code de la santé publique - art. L712-13 (M)
+  - Code de la santé publique - art. L712-9 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-40 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-29 (Ab)
+  - Code de la santé publique - art. R712-43 (Ab)
+  - Code de la santé publique - art. R712-45 (M)
+  - Code de la santé publique - art. R712-50 (Ab)
+  - Code de la santé publique - art. R724-13 (Ab)
+
+
+###### Article R712-43
+
+I. - Outre la notification prévue à l'article R. 712-41, toute décision expresse d'autorisation ou de rejet fait l'objet
+d'une publication [*publicité, information*] :
+
+1° Au Journal officiel de la République française pour les décisions relevant du ministre chargé de la santé ;
+
+2° Au bulletin des actes administratifs de la préfecture de la région et de celle du ou des départements concernés pour les
+décisions du préfet de région.
+
+II. - Mention de l'intervention des autorisations réputées acquises en application du troisième alinéa de l'article L. 712-16
+et de l'article R. 712-44, et notamment de la date à laquelle elles sont intervenues, doit également être faite dans le
+journal et les recueils mentionnés aux 1° et 2° du I ci-dessus.
+
+**Nota:**
+
+---[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-16 (M)
+  - Code de la santé publique - art. R712-41 (M)
+  - Code de la santé publique - art. R712-44 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-41 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R710-17-7 (Ab)
+  - Code de la santé publique - art. R724-13 (Ab)
+
+
+###### Article R712-44
+
+Le recours hiérarchique prévu au premier alinéa de l'article L. 712-16 contre les décisions du préfet de région doit être
+formé dans un délai de deux mois à partir de la notification de la décision au demandeur. A l'égard des tiers, ce délai court
+à compter de la publication de la décision ou de la mention de l'intervention de l'autorisation tacite au recueil des actes
+administratifs de la préfecture du département.
+
+Lorsqu'un tel recours a été formé contre une décision du préfet de région refusant une autorisation, cette autorisation est
+réputée acquise à l'expiration d'un délai de six mois à partir de la réception du recours par le ministre chargé de la santé,
+si aucune décision de sens contraire n'est intervenue dans ce délai.
+
+Le recours hiérarchique contre une décision d'autorisation prise par le préfet de région est notifié sans délai au
+bénéficiaire de l'autorisation par lettre recommandée avec demande d'avis de réception. La décision du ministre sur ce
+recours doit être motivée. Elle est notifiée par lettre recommandée avec demande d'avis de réception à l'auteur du recours
+hiérarchique et au bénéficiaire de l'autorisation.
+
+**Nota:**
+
+---[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-16 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-42 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-41 (M)
+  - Code de la santé publique - art. R712-43 (M)
+  - Code de la santé publique - art. R712-46 (Ab)
+  - Code de la santé publique - art. R724-13 (Ab)
+
+
+###### Article R712-45
+
+Dans le cas de cession d'autorisation, y compris lorsque cette cession résulte d'un regroupement, le cessionnaire adresse,
+selon le cas, au ministre chargé de la santé ou au préfet de région une demande de confirmation de l'autorisation assortie
+d'un dossier dont la composition est fixée par arrêté du ministre chargé de la santé.
+
+Le ministre ou le préfet de région statue sur cette demande suivant les modalités prévues pour une demande d'autorisation. Il
+ne peut refuser la confirmation de l'autorisation que si le dossier présenté par le cessionnaire fait apparaître des
+modifications qui seraient de nature à justifier un refus d'autorisation en application du I (1°, 2° et 3°) de l'article R.
+712-42 ou qui seraient incompatibles avec le respect des conditions et engagements auxquels avait été subordonnée
+l'autorisation cédée.
+
+**Nota:**
+
+---[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-43 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R712-42 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R713-2-21 (Ab)
+  - Code de la santé publique - art. R724-14 (Ab)
+
+
+###### Article R712-46
+
+Les décisions de suspension et de retrait de l'autorisation de fonctionner ou de dispenser des soins remboursables aux
+assurés sociaux, prévues aux articles L. 712-18 et L. 715-2, ainsi que les mesures prises par le ministre chargé de la santé
+en application du troisième alinéa de l'article L. 712-20 doivent être motivées.
+
+**Nota:**
+
+---[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-18 (M)
+  - Code de la santé publique - art. L712-20 (Ab)
+  - Code de la santé publique - art. L715-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6122-44 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R724-14 (Ab)
+
+
+###### Article R712-47
+
+Lorsqu'une décision du préfet de région prononçant la suspension ou le retrait de l'autorisation de fonctionnement, en
+application de l'article L. 712-18 ou de l'article L. 715-2, fait l'objet du recours hiérarchique prévu au premier alinéa de
+l'article L. 712-16, la suspension ou le retrait doit être considéré comme confirmé par le ministre à l'expiration du délai
+de six mois courant de la réception du recours si aucune décision n'est intervenue dans ce délai.
+
+**Nota:**
+
+---[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
+entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
+sociale.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de validation)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-16 (M)
+  - Code de la santé publique - art. L715-2 (Ab)
+
+
+# Partie réglementaire ancienne - Décrets simples<a id=438></a>
+
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=439></a>
+
+### Titre Ier : Etablissements de santé<a id=440></a>
+
+#### Chapitre II : L'organisation et l'équipement sanitaires<a id=441></a>
+
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=442></a>
+
+##### Sous-section 1 : Du collège national d'experts<a id=443></a>
+
+###### Article D712-2
+
+A la demande du ou des ministres chargés de la santé et de la sécurité sociale ou du président du Comité national de
+l'organisation sanitaire et sociale, le collège peut notamment être appelé à donner son avis technique sur [*attributions*] :
+
+1° Les éléments médicaux et médico-techniques des schémas d'organisation sanitaire nationaux et interrégionaux ainsi que des
+schémas régionaux ayant fait l'objet du recours hiérarchique prévu par le dernier alinéa de l'article L. 712-5 du présent
+code ;
+
+2° Les méthodes et les résultats de l'évaluation médicale des établissements, équipements, structures et activités de soins
+pour lesquels l'autorisation mentionnée à l'article L. 712-8 du présent code relève de la compétence du ministre chargé de la
+santé en application du deuxième alinéa de l'article L. 712-16 ;
+
+3° Toute question relative à l'évaluation médicale et aux systèmes d'information développés par les établissements de santé
+publics et privés en application des articles L. 710-3, L. 710-4 et L. 710-5 du présent code.
+
+Pour exercer les missions mentionnées aux 2° et 3° ci-dessus, le collège peut faire appel à l'Agence nationale pour le
+développement de l'évaluation médicale en application de l'article L. 710-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6121-7 (V)
+  - Code de la santé publique - art. D6121-8 (V)
+  - Code de la santé publique - art. D6121-9 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L710-3 (M)
+  - Code de la santé publique - art. L710-4 (M)
+  - Code de la santé publique - art. L710-5 (M)
+  - Code de la santé publique - art. L710-6 (Ab)
+  - Code de la santé publique - art. L712-16 (M)
+  - Code de la santé publique - art. L712-5 (M)
+  - Code de la santé publique - art. L712-8 (M)
+
+
+###### Article D712-4
+
+Le collège national d'experts est composé de quinze membres permanents, dont le président, nommés [*mode de désignation*] par
+le ministre chargé de la santé en raison de leur compétence particulière en matière d'évaluation médicale et de
+l'organisation des soins ou de santé publique.
+
+Il comprend :
+
+1° Un médecin inspecteur de santé publique ;
+
+2° Un médecin-conseil nommé sur proposition conjointe des trois médecins-conseils nationaux appartenant respectivement à la
+Caisse nationale d'assurance maladie des travailleurs salariés, à la Caisse nationale d'assurance maladie maternité des
+travailleurs non salariés des professions non agricoles et aux caisses centrales de secours mutuels agricoles ;
+
+3° Un représentant de l'Institut national de la santé et de la recherche médicale ;
+
+4° Un inspecteur général de l'Institut national de la statistique et des études économiques ;
+
+5° Le directeur de l'Agence nationale pour le développement de l'évaluation médicale ;
+
+6° Un représentant de la Fédération nationale des observatoires régionaux de santé ;
+
+7° Deux praticiens hospitaliers, dont un exerçant dans un centre hospitalier universitaire ;
+
+8° Un médecin exerçant dans un établissement de santé privé ;
+
+9° Un membre du corps des personnels de direction exerçant dans un établissement public de santé ;
+
+10° Un infirmier général exerçant dans un établissement public de santé ;
+
+11° Un ingénieur biomédical hospitalier, nommé après avis du Centre national de l'équipement hospitalier ;
+
+12° Trois personnalités qualifiées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=444></a>
+
+###### Article D712-7
+
+La commission régionale de l'évaluation médicale des établissements mentionnée à l'article L. 712-6-1 du présent code
+constitue une instance de conseil technique et d'expertise, placée auprès de chaque comité régional de l'organisation
+sanitaire et sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-6-1 (Ab)
+
+
+###### Article D712-10
+
+Pour l'exercice de ses attributions la commission régionale peut avoir accès aux informations mentionnées à l'article D.
+712-3 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. D712-3 (M)
+
+
+###### Article D712-12
+
+A l'exception du médecin inspecteur régional de santé publique, les membres de la commission régionale sont nommés pour une
+période de trois ans, renouvelable [*mode de désignation, durée*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+
+###### Article D712-13
+
+La commission peut faire participer à ses travaux, à titre consultatif et temporaire, des personnes qualifiées dans les
+diverses disciplines médicales et activités de soins.
+
+Elle remet chaque année au préfet de région un rapport d'activité.
+
+Son secrétariat est assuré par les services de la direction régionale des affaires sanitaires et sociales
+[*fonctionnement*] .
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+
+##### Section 2 : Autorisations<a id=445></a>
+
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=446></a>
+
+###### Article D712-15
+
+En application du deuxième alinéa de l'article L. 712-16 du présent code, l'autorisation prévue à l'article L. 712-8 dudit
+code est donnée ou renouvelée par le ministre chargé de la santé [*autorité compétente*] :
+
+I. - Pour ceux des équipements matériels lourds définis à l'article L. 712-19 qui sont énumérés ci-après :
+
+1° Appareil de circulation sanguine extra-corporelle ;
+
+2° Appareil accélérateur de particules et appareil contenant des sources scellées de radioéléments d'activité minimale
+supérieure à 500 curies, et émettant un rayonnement d'énergie supérieur à 500 KeV ;
+
+3° Cyclotron à utilisation médicale ;
+
+4° Appareils de diagnostic suivants, utilisant l'émission de radioéléments artificiels : caméra à scintillation, tomographe à
+émissions, caméra à positrons ;
+
+5° Appareil d'imagerie ou de spectrométrie par résonance magnétique nucléaire à utilisation clinique.
+
+II. - Pour celles des activités de soins définies à l'article L. 712-2 (2°, b) qui sont énumérées ci-après :
+
+1° Transplantations d'organes et greffes de moëlle osseuse ;
+
+2° Traitement des grands brûlés ;
+
+3° Chirurgie cardiaque ;
+
+4° Neurochirurgie ;
+
+5° Utilisation diagnostique et thérapeutique de radioéléments en sources non scellées ;
+
+6° Traitement des affections cancéreuses par rayonnements ionisants de haute énergie ;
+
+7° Activités cliniques de procréation médicalement assistée et diagnostic prénatal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 7 janvier 1993 - art. 1 (V)
+  - Décret n°2005-840 du 20 juillet 2005 - art. 7 (V)
+  - Code de la santé publique - art. D712-16 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-16 (M)
+  - Code de la santé publique - art. L712-19 (M)
+  - Code de la santé publique - art. L712-2 (M)
+
+
+###### Article D712-16
+
+Lorsqu'un projet concernant l'un des équipements ou l'une des activités de soins énumérés à l'article D. 712-15 ci-dessus
+constitue l'un des éléments d'une opération plus large, les autres autorisations nécessaires à la réalisation de cette
+opération sont également données ou renouvelées par le ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Décret n°2005-840 du 20 juillet 2005 - art. 7 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. D712-15 (M)
+
+
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=447></a>
+
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=448></a>
+
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=449></a>
+
+##### Sous-section 1 : Du collège national d'experts<a id=450></a>
+
+###### Article D712-1
+
+Le collège national d'experts mentionné à l'article L. 712-6 du présent code constitue une instance de conseil technique et
+d'expertise, placée auprès du Comité national de l'organisation sanitaire et sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6121-6 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-6 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de la santé publique - art. L712-6 (M)
+
+
+###### Article D712-3
+
+Pour l'exercice de ses attributions, le collège peut avoir accès aux informations qui sont transmises à l'autorité
+administrative en vertu de l'article L. 712-7 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6121-10 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. D712-10 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-7 (Ab)
+
+
+###### Article D712-5
+
+A l'exception du directeur de l'Agence nationale pour le développement de l'évaluation médicale, les membres du collège
+national d'experts sont nommés pour une période de trois ans, [*mode de désignation, durée*] renouvelable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+
+###### Article D712-6
+
+Le collège peut faire participer à ses travaux, à titre consultatif et temporaire, des personnes qualifiées dans les diverses
+disciplines médicales et activités de soins.
+
+Il remet chaque année au ministre chargé de la santé un rapport d'activité [*fonctionnement*].
+
+Son secrétariat est assuré conjointement par la direction générale de la santé et la direction des hôpitaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=451></a>
+
+###### Article D712-8
+
+A la demande du préfet de région ou du président du comité régional de l'organisation sanitaire et sociale, la commission
+peut notamment être appelée à donner son avis technique sur :
+
+1° Les éléments médicaux et médico-techniques des schémas régionaux mentionnés aux deuxième et troisième alinéas de l'article
+L. 712-5 du présent code ;
+
+2° Les méthodes et les résultats de l'évaluation médicale des établissements, équipements, structures ou activités de soins
+pour lesquels l'autorisation mentionnée à l'article L. 712-8 du présent code relève de la compétence du préfet de région ;
+
+3° Toute question relative à l'évaluation médicale et aux systèmes d'information développés par les établissements de santé
+publics et privés de la région en application des articles L. 710-3, L. 710-4 et L. 710-5 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 1 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 10 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 11 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 12 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 2 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 3 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 4 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 5 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 6 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 7 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 8 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 9 (V)
+
+_Cité par_:
+
+  - Arrêté du 8 janvier 1999 - art. 3 (V)
+  - Code de la santé publique - art. D712-9 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L710-3 (M)
+  - Code de la santé publique - art. L710-4 (M)
+  - Code de la santé publique - art. L710-5 (M)
+  - Code de la santé publique - art. L712-5 (M)
+  - Code de la santé publique - art. L712-8 (M)
+
+
+###### Article D712-9
+
+Les établissements de santé publics ou privés de la région peuvent demander à la commission régionale l'évaluation de leur
+projet médical, ainsi que la communication des avis prévus aux 2° et 3° de l'article D. 712-8 ci-dessus.
+
+Pour exercer les missions mentionnées aux 2° et 3° de l'article D. 712-8, la commission régionale peut faire appel à l'Agence
+nationale pour le développement de l'évaluation médicale en application de l'article L. 710-6 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 1 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 10 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 11 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 12 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 2 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 3 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 4 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 5 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 6 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 7 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 8 (V)
+  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 9 (V)
+
+_Cité par_:
+
+  - Arrêté du 8 janvier 1999 - art. 3 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. D712-8 (M)
+  - Code de la santé publique - art. L710-6 (Ab)
+
+
+###### Article D712-11
+
+La commission régionale de l'évaluation médicale des établissements est composée de onze membres permanents, dont le
+président, nommés [*mode de désignation*] par le préfet de région en raison de leur compétence particulière en matière
+d'évaluation médicale et de l'organisation des soins ou de santé publique.
+
+Elle comprend :
+
+1° Le médecin inspecteur régional de santé publique ou son représentant ;
+
+2° Un médecin-conseil nommé sur proposition conjointe des médecins-conseils régionaux appartenant respectivement à la caisse
+régionale d'assurance maladie des travailleurs salariés, à la caisse mutuelle régionale d'assurance maladie et maternité des
+travailleurs non salariés des professions non agricoles et aux caisses locales de secours mutuels agricoles ;
+
+3° Un médecin de santé publique exerçant à l'observatoire régional de la santé ;
+
+4° Deux praticiens hospitaliers, dont un exerçant en centre hospitalier universitaire ;
+
+5° Un médecin exerçant dans un établissement de santé privé ;
+
+6° Un membre du corps des personnels de direction exerçant dans un établissement public de santé ;
+
+7° Un infirmier général exerçant dans un établissement public de santé ;
+
+8° Un ingénieur biomédical hospitalier nommé après avis du centre national de l'équipement hospitalier ;
+
+9° Deux personnalités qualifiées nommées après avis du directeur de l'Agence nationale pour le développement de l'évaluation
+médicale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 24 février 1994 - art. 1 (V)
+
+
+#### Section 2 : Autorisations<a id=452></a>
+
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=453></a>
+
+###### Article D712-14
+
+La visite mentionnée au deuxième alinéa de l'article L. 712-12 du présent code doit être faite dans le délai d'un mois après
+que le titulaire de l'autorisation ait averti le préfet du département qu'il est en mesure de mettre en service ses
+installations. Elle est effectuée, avant mise en service des installations, par un médecin inspecteur de santé publique ou
+tout autre représentant qualifié du ministère de la santé, accompagné d'un médecin-conseil de l'un des régimes d'assurance
+maladie. Il est rendu compte des constatations faites au ministre chargé de la santé ou au préfet de la région qui fait
+connaître, le cas échéant, à l'intéressé les transformations à réaliser.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 3 octobre 1995 - art. 8 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6122-37 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-12 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Code de la santé publique - art. L712-12 (M)
 
 
