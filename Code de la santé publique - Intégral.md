@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1959-07-07
+Version Consolidée au 1960-03-30
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -166,9 +166,9 @@ Version Consolidée au 1959-07-07
           - [SECTION 2 : CONSEILS DE L'ORDRE DES MEDECINS (art. L407 à L411)](#163)
             - [PARAGRAPHE 3 : CONSEIL NATIONAL *DE L'ORDRE DES MEDECINS*. (art. L407 à L411)](#164)
           - [SECTION 3 : INSCRIPTION AUX TABLEAUX DEPARTEMENTAUX DE L'ORDRE. (art. L412)](#165)
-      - [Titre 2 : Profession d'infirmier ou d'infirmière (art. L473 à L485)](#166)
+      - [Titre 2 : Profession d'infirmier ou d'infirmière (art. L473 à L486)](#166)
         - [Chapitre 1 : Conditions auxquelles est subordonné l'exercice de la profession (art. L473 à L477)](#167)
-        - [Chapitre 2 : Règles d'exercice de la profession et dispositions pénales. (art. L478 à L485)](#168)
+        - [Chapitre 2 : Règles d'exercice de la profession et dispositions pénales. (art. L478 à L486)](#168)
       - [Titre 3 : Professions de masseur-kinésithérapeute et de pédicure (art. L488 à L503)](#169)
         - [Chapitre 1 : Masseur-kinésithérapeute (art. L488 à L491)](#170)
         - [Chapitre 2 : Pédicure-podologue. (art. L495)](#171)
@@ -17239,6 +17239,56 @@ _Anciens textes_:
 _Abrogé par_:
 
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L486
+
+Les dispositions des articles L. 473 à L. 485 du Code de la santé publique sont applicables aux départements d'outre-mer à
+dater du 30 mars 1960 sans préjudice des dispositions particulières édictées pour le département de Saint-Pierre-et-Miquelon
+par l'ordonnance n° 77-1102 du 26 septembre 1977 portant extension et adaptation à ce département de diverses dispositions
+relatives aux affaires sociales.
+
+Par dérogation aux dispositions de l'alinéa 1er ci-dessus, sont autorisées à exercer définitivement la profession d'infirmier
+ou d'infirmière les personnes qui, au 30 mars 1960, justifiaient de l'exercice continu de la profession depuis trois ans au
+moins dans l'un des départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion et ont subi avec succès
+les épreuves d'un examen de compétence dont les modalités sont fixées par arrêté du ministre de la santé publique et de la
+population ainsi que les personnes remplissant les conditions prévues à l'article 2 (alinéa 1er) de la loi n° 71-1112 du 31
+décembre 1971.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°60-278 1960-03-25 : A ABROGE ET REMPLACE L'ARTICLE L486
+
+_Modifié par_:
+
+  - Loi n°71-1112 du 31 décembre 1971 - art. 1 () JORF 1ER janvier 1972
+  - Loi n°80-527 1980-07-12 ART. 10 JORF 13 juillet 1980
+
+_Cité par_:
+
+  - Loi n°71-1112 du 31 décembre 1971 - art. 2 (Ab)
+  - Arrêté du 13 septembre 1988 - art. 28 (Ab)
+  - Arrêté du 30 mars 1992 - art. 28 (V)
+
+_Cite_:
+
+  - Ordonnance 77-1102 1977-09-26
+  - Code de la santé publique L473 A L485
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L4311-9 (Ab)
 
 
 ### Titre 3 : Professions de masseur-kinésithérapeute et de pédicure<a id=169></a>
