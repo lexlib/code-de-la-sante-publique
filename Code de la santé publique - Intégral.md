@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-12-27
+Version Consolidée au 1992-12-30
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -539,38 +539,42 @@ Version Consolidée au 1992-12-27
           - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#536)
           - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#537)
         - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-39)](#538)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-1)](#539)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#539)
             - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#540)
             - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#541)
             - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#542)
-          - [Section 2 : Autorisations (art. D712-15 à D712-16)](#543)
-            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#544)
-          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-39)](#545)
-            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#546)
-              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#547)
-              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#548)
-        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#549)
-          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-4)](#550)
-            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#551)
-            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#552)
-          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#553)
-            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#554)
-            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#555)
-          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#556)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#557)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-38)](#558)
-      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#559)
-        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#560)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-38)](#561)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#562)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#563)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#564)
-        - [Section 2 : Autorisations (art. D712-14)](#565)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#566)
-        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#567)
-          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#568)
-            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#569)
-            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#570)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#543)
+          - [Section 2 : Autorisations (art. D712-15 à D712-16)](#544)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#545)
+          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-39)](#546)
+            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#547)
+              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#548)
+              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#549)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. D712-13-2)](#550)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-13-2)](#551)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2)](#552)
+        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#553)
+          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-4)](#554)
+            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#555)
+            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#556)
+          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#557)
+            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#558)
+            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#559)
+          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#560)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#561)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-38)](#562)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#563)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#564)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-38)](#565)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#566)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#567)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#568)
+        - [Section 2 : Autorisations (art. D712-14)](#569)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#570)
+        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#571)
+          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#572)
+            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#573)
+            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#574)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -83258,9 +83262,136 @@ _Cite_:
   - Code de la santé publique - art. L712-4 (Ab)
 
 
-##### Section 2 : Autorisations<a id=543></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=543></a>
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=544></a>
+###### Article D712-13-3
+
+Lorsqu'un établissement de santé concerné par un regroupement a conclu un contrat pluriannuel dans les conditions prévues à
+l'article L. 712-4, les réductions de capacités peuvent être inférieures à celles calculées selon les dispositions de
+l'article D. 712-13-2. Elles doivent alors demeurer au moins égales à la moitié des réductions calculées en application de
+cet article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°98-286 du 16 avril 1998 - art. 1 (Ab) JORF 18 avril 1998
+
+_Cite_:
+
+  - Code de la santé publique - art. D712-13-2 (M)
+  - Code de la santé publique - art. L712-4 (Ab)
+
+
+###### Article D712-13-4
+
+Lorsque la reconversion de lits et de places est autorisée, en application de l'article L. 712-11, à l'intérieur d'une zone
+sanitaire dont les moyens sont excédentaires dans la discipline ou le groupe de disciplines en cause, la réduction de
+capacité prévue par l'article L. 712-11 est opérée dans les conditions suivantes :
+
+1° Pour chaque discipline ou groupe de disciplines concerné, le nombre de lits ou places excédentaires dans la zone sanitaire
+est obtenu en comparant les capacités autorisées avec les besoins de la population déterminés par la carte sanitaire ;
+
+2° Le taux d'excédent de la zone sanitaire pour la discipline ou le groupe de disciplines concerné est obtenu en divisant le
+nombre des lits ou places excédentaires par le nombre des lits ou places autorisés ;
+
+3° Pour chaque discipline ou groupe de disciplines, la capacité susceptible d'être autorisée dans le cadre de l'opération de
+reconversion est obtenue en diminuant la capacité initiale autorisée d'un nombre de lits ou places égal au produit de ladite
+capacité initiale par le taux d'excédent ;
+
+4° Toutefois, le nombre total des lits et places supprimés ne peut être supérieur à un plafond fixé à 25 p. 100 du nombre
+total des lits et places faisant l'objet de la reconversion. Lorsque la somme (R) des réductions propres à chaque discipline,
+calculée en application des 1°, 2° et 3° ci-dessus dépasse le nombre P résultant de l'application du plafond, le nombre total
+des lits ou places à supprimer est ramené à ce nombre P. A cet effet, la réduction propre à chaque discipline est multipliée
+par un coefficient égal à :
+
+PR
+
+Lorsque le regroupement et la reconversion sont simultanés, les réductions de capacités prévues pour chacune de ces
+opérations ne se cumulent pas. Seule la réduction la plus importante est retenue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
+
+_Cité par_:
+
+  - Code de la santé publique - art. D712-13-5 (Ab)
+  - Code de la santé publique - art. R712-67 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-11 (M)
+
+
+###### Article D712-13-5
+
+Lorsqu'un établissement de santé concerné par une reconversion a conclu un contrat pluriannuel dans les conditions prévues à
+l'article L. 712-4, les réductions de capacités peuvent être inférieures à celles calculées selon les dispositions de
+l'article D. 712-13-4. Elles doivent alors demeurer au moins égales à la moitié des réductions calculées en application de
+cet article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
+
+_Abrogé par_:
+
+  - Décret n°98-286 du 16 avril 1998 - art. 1 (Ab) JORF 18 avril 1998
+
+_Cite_:
+
+  - Code de la santé publique - art. D712-13-4 (M)
+  - Code de la santé publique - art. L712-4 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R712-67 (M)
+
+
+###### Article D712-13-6
+
+Un arrêté du ministre chargé de la santé fixe la composition du dossier justificatif qui doit accompagner les demandes
+d'autorisation de regroupement et de reconversion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
+
+
+##### Section 2 : Autorisations<a id=544></a>
+
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=545></a>
 
 ###### Article D712-15
 
@@ -83347,11 +83478,11 @@ _Cite_:
   - Code de la santé publique - art. D712-15 (M)
 
 
-##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=545></a>
+##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=546></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=546></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=547></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=547></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=548></a>
 
 ###### Article D712-30
 
@@ -83490,7 +83621,7 @@ _Cite_:
   - Code de la santé publique - art. D712-30 (M)
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=548></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=549></a>
 
 ###### Article D712-35
 
@@ -83576,11 +83707,62 @@ _Cité par_:
   - Code de la santé publique - art. D712-37 (Ab)
 
 
-#### Chapitre IV : Les établissements publics de santé<a id=549></a>
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=550></a>
 
-##### Section 1 : Organisation administrative et financière<a id=550></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=551></a>
 
-##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=551></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=552></a>
+
+###### Article D712-13-2
+
+Lorsque le regroupement de lits et de places est autorisé, en application de l'article L. 712-11, à l'intérieur d'une zone
+sanitaire dont les moyens sont excédentaires dans la discipline ou le groupe de disciplines en cause, la réduction de
+capacité prévue à l'article L. 712-11 est opérée dans les conditions suivantes :
+
+1° Pour chaque discipline ou groupe de disciplines concerné, le nombre de lits et places excédentaires dans la zone sanitaire
+est obtenu en comparant les capacités autorisées avec les besoins de la population déterminés par la carte sanitaire ;
+
+2° Le taux d'excédent de la zone sanitaire pour la discipline ou le groupe de disciplines concerné est obtenu en divisant le
+nombre des lits ou places excédentaires par le nombre des lits ou places autorisés ;
+
+3° Pour chaque discipline ou groupe de disciplines, la capacité susceptible d'être autorisée dans le cadre de l'opération du
+regroupement est obtenue en diminuant la capacité initiale autorisée d'un nombre de lits ou places égal au produit de ladite
+capacité initiale par le taux d'excédent ;
+
+4° Toutefois, le nombre total des lits et places supprimés ne peut être supérieur à un plafond fixé à 25 p. 100 du nombre
+total des lits et places des établissements, services ou unités faisant l'objet du regroupement, en excluant de ce calcul le
+plus important d'entre eux. Lorsque la somme (R) des réductions propres à chaque discipline, calculée en application des 1°,
+2° et 3° ci-dessus, dépasse le nombre (P) résultant de l'application du plafond, le nombre total des lits ou places à
+supprimer est ramené à ce nombre P. A cet effet, la réduction propre à chaque discipline est multipliée par un coefficient
+égal à :
+
+PR
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
+
+_Cité par_:
+
+  - Code de la santé publique - art. D712-13-3 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-11 (M)
+
+
+#### Chapitre IV : Les établissements publics de santé<a id=553></a>
+
+##### Section 1 : Organisation administrative et financière<a id=554></a>
+
+##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=555></a>
 
 ###### Article D714-2-1
 
@@ -83717,7 +83899,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (M)
 
 
-##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=552></a>
+##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=556></a>
 
 ###### Article D714-12-1
 
@@ -83817,9 +83999,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6143-36 (V)
 
 
-##### Section 2 : organes représentatifs<a id=553></a>
+##### Section 2 : organes représentatifs<a id=557></a>
 
-##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=554></a>
+##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=558></a>
 
 ###### Article D714-17-1
 
@@ -83850,7 +84032,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=555></a>
+##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=559></a>
 
 ###### Article D714-19-1
 
@@ -83907,7 +84089,7 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Section 2 : Organisation des soins et fonctionnement médical<a id=556></a>
+##### Section 2 : Organisation des soins et fonctionnement médical<a id=560></a>
 
 ###### Article D714-21-1
 
@@ -83953,7 +84135,7 @@ _Cité par_:
   - Code de la santé publique - art. D714-21-2 (M)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=557></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=561></a>
 
 ###### Article D714-21-2
 
@@ -84016,11 +84198,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6151-1 (V)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=558></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=562></a>
 
-### Chapitre Ier : Missions et obligations des établissements de santé<a id=559></a>
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=563></a>
 
-#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=560></a>
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=564></a>
 
 ###### Article D711-16-1
 
@@ -84155,11 +84337,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-47 (T)
 
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=561></a>
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=565></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=562></a>
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=566></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=563></a>
+##### Sous-section 1 : Du collège national d'experts<a id=567></a>
 
 ###### Article D712-1
 
@@ -84257,7 +84439,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=564></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=568></a>
 
 ###### Article D712-8
 
@@ -84404,9 +84586,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=565></a>
+#### Section 2 : Autorisations<a id=569></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=566></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=570></a>
 
 ###### Article D712-14
 
@@ -84445,11 +84627,11 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L712-12 (M)
 
 
-#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=567></a>
+#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=571></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=568></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=572></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=569></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=573></a>
 
 ###### Article D712-31
 
@@ -84556,7 +84738,7 @@ _Cite_:
   - Code de la santé publique D712-30, D712-32, D712-33, R710-2-1 à R710-2-10
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=570></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=574></a>
 
 ###### Article D712-36
 
