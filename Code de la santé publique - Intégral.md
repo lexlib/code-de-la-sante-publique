@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-07-21
+Version Consolidée au 1994-07-22
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-11)](#2)
@@ -580,58 +580,60 @@ Version Consolidée au 1994-07-21
             - [Sous-section 3 : Etablissements publics nationaux (art. R716-3-57 à R716-3-65)](#577)
           - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#578)
           - [Section 5 : Dispositions diverses (art. R716-9-1)](#579)
-  - [Partie réglementaire ancienne - Décrets simples (art. D711-6-1 à D712-38)](#580)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#581)
-      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#582)
-        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#583)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#584)
-          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#585)
-          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#586)
-        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-39)](#587)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#588)
-            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#589)
-            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#590)
-            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#591)
-            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#592)
-          - [Section 2 : Autorisations (art. D712-16)](#593)
-            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#594)
-          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-39)](#595)
-            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#596)
-              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#597)
-              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#598)
-        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. D712-13-2)](#599)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-13-2)](#600)
-            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2)](#601)
-        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#602)
-          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#603)
-            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#604)
-            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#605)
-            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#606)
-            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#607)
-          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#608)
-            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#609)
-            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#610)
-          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#611)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#612)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-38)](#613)
-      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#614)
-        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#615)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-38)](#616)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#617)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#618)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#619)
-        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#620)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#621)
-          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#622)
-        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#623)
-          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#624)
-            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#625)
-            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#626)
-  - [Annexes (art. Annexe II aux articles R668-1-1 à R668-21)](#627)
-    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. Annexe II aux articles R668-1-1 à R668-21)](#628)
-      - [Titre 2 : Du sang humain (art. Annexe II aux articles R668-1-1 à R668-21)](#629)
-        - [Chapitre 3 : Des établissements de transfusion sanguine (art. Annexe II aux articles R668-1-1 à R668-21)](#630)
-          - [Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public. (art. Annexe II aux articles R668-1-1 à R668-21)](#631)
+  - [Partie réglementaire ancienne - Décrets simples (art. D666-3-1 à D712-38)](#580)
+    - [Livre VI : Utilisation thérapeutique de produits d'origine humaine (art. D666-3-1 à D666-3-5)](#581)
+      - [Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés (art. D666-3-1 à D666-3-5)](#582)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#583)
+      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#584)
+        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#585)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#586)
+          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#587)
+          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#588)
+        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-39)](#589)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#590)
+            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#591)
+            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#592)
+            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#593)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#594)
+          - [Section 2 : Autorisations (art. D712-16)](#595)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#596)
+          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-39)](#597)
+            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#598)
+              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#599)
+              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#600)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. D712-13-2)](#601)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-13-2)](#602)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2)](#603)
+        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#604)
+          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#605)
+            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#606)
+            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#607)
+            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#608)
+            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#609)
+          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#610)
+            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#611)
+            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#612)
+          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#613)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#614)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-38)](#615)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#616)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#617)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-38)](#618)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#619)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#620)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#621)
+        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#622)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#623)
+          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#624)
+        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#625)
+          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#626)
+            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#627)
+            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#628)
+  - [Annexes (art. Annexe II aux articles R668-1-1 à R668-21)](#629)
+    - [Livre 6 : Don et utilisation des éléments et produits du corps humain (art. Annexe II aux articles R668-1-1 à R668-21)](#630)
+      - [Titre 2 : Du sang humain (art. Annexe II aux articles R668-1-1 à R668-21)](#631)
+        - [Chapitre 3 : Des établissements de transfusion sanguine (art. Annexe II aux articles R668-1-1 à R668-21)](#632)
+          - [Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public. (art. Annexe II aux articles R668-1-1 à R668-21)](#633)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -97697,13 +97699,130 @@ _Nouveaux textes_:
 
 # Partie réglementaire ancienne - Décrets simples<a id=580></a>
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=581></a>
+## Livre VI : Utilisation thérapeutique de produits d'origine humaine<a id=581></a>
 
-### Titre Ier : Etablissements de santé<a id=582></a>
+### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés<a id=582></a>
 
-#### Chapitre Ier : Missions et obligations des établissements de santé<a id=583></a>
+###### Article D666-3-1
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=584></a>
+Le don de sang ou de composants du sang ne peut donner lieu à aucune rémunération, directe ou indirecte [*gratuit*].
+
+Sont notamment prohibés à ce titre, outre tout paiement en espèces, toute remise de bons d'achat, coupons de réduction et
+autres documents permettant d'obtenir un avantage consenti par un tiers, ainsi que tout don d'objet de valeur, toute
+prestation ou tout octroi d'avantages.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D1221-1 (V)
+
+
+###### Article D666-3-2
+
+La rémunération versée par l'employeur au donneur, au titre de l'exercice de son activité professionnelle, peut être
+maintenue pendant la durée consacrée au don sans constituer un paiement au sens de l'article L. 671-3, pour autant que la
+durée de l'absence n'excède pas le temps nécessaire au déplacement entre lieu de travail et lieu de prélèvement et, le cas
+échéant, au retour, ainsi qu'à l'entretien et aux examens médicaux, aux opérations de prélèvement et à la période de repos et
+de collation jugée médicalement nécessaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+
+_Cite_:
+
+  - Code de la santé publique - art. L671-3 (T)
+
+
+###### Article D666-3-3
+
+Sont également autorisées la remise au donneur des marques de reconnaissance prévues par la réglementation en vigueur ainsi
+que l'offre d'une collation consécutive au don.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D1221-3 (V)
+
+
+###### Article D666-3-4
+
+Est autorisé le remboursement aux donneurs de sang, par les établissements de transfusion sanguine, des frais de transports
+exposés lors du don, à l'exclusion de tout remboursement forfaitaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D1221-4 (M)
+
+
+###### Article D666-3-5
+
+L'Agence française du sang, instituée par l'article L. 667-4, est chargée de veiller au respect des dispositions qui
+précèdent en vertu des missions et des compétences qu'elle tient des articles L. 667-5 et L. 667-9.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+
+_Cite_:
+
+  - Code de la santé publique - art. L667-4 (M)
+  - Code de la santé publique - art. L667-5 (M)
+  - Code de la santé publique - art. L667-9 (M)
+
+
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=583></a>
+
+### Titre Ier : Etablissements de santé<a id=584></a>
+
+#### Chapitre Ier : Missions et obligations des établissements de santé<a id=585></a>
+
+##### Section 2 : Dispositions propres au service public hospitalier<a id=586></a>
 
 ###### Article D711-6-1
 
@@ -97796,7 +97915,7 @@ _Cite_:
   - Code de la santé publique - art. L711-6 (M)
 
 
-##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=585></a>
+##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=587></a>
 
 ###### Article D711-9-1
 
@@ -98102,7 +98221,7 @@ _Cite_:
   - Code de la santé publique R711-9-1
 
 
-##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=586></a>
+##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=588></a>
 
 ###### Article D711-16-3
 
@@ -98189,11 +98308,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-50 (T)
 
 
-#### Chapitre II : L'organisation et l'équipement sanitaires<a id=587></a>
+#### Chapitre II : L'organisation et l'équipement sanitaires<a id=589></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=588></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=590></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=589></a>
+##### Sous-section 1 : Du collège national d'experts<a id=591></a>
 
 ###### Article D712-2
 
@@ -98288,7 +98407,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=590></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=592></a>
 
 ###### Article D712-7
 
@@ -98372,7 +98491,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=591></a>
+##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=593></a>
 
 ###### Article D712-13-1
 
@@ -98429,7 +98548,7 @@ _Cite_:
   - Code de la santé publique - art. L712-4 (Ab)
 
 
-##### Sous-section 4 : Regroupements et reconversions<a id=592></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=594></a>
 
 ###### Article D712-13-3
 
@@ -98556,9 +98675,9 @@ _Créé par_:
   - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
 
 
-##### Section 2 : Autorisations<a id=593></a>
+##### Section 2 : Autorisations<a id=595></a>
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=594></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=596></a>
 
 ###### Article D712-16
 
@@ -98586,11 +98705,11 @@ _Cite_:
   - Code de la santé publique - art. D712-15 (M)
 
 
-##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=595></a>
+##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=597></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=596></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=598></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=597></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=599></a>
 
 ###### Article D712-30
 
@@ -98729,7 +98848,7 @@ _Cite_:
   - Code de la santé publique - art. D712-30 (M)
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=598></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=600></a>
 
 ###### Article D712-35
 
@@ -98815,11 +98934,11 @@ _Cité par_:
   - Code de la santé publique - art. D712-37 (Ab)
 
 
-#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=599></a>
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=601></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=600></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=602></a>
 
-##### Sous-section 4 : Regroupements et reconversions<a id=601></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=603></a>
 
 ###### Article D712-13-2
 
@@ -98866,11 +98985,11 @@ _Cite_:
   - Code de la santé publique - art. L712-11 (M)
 
 
-#### Chapitre IV : Les établissements publics de santé<a id=602></a>
+#### Chapitre IV : Les établissements publics de santé<a id=604></a>
 
-##### Section 1 : Organisation administrative et financière<a id=603></a>
+##### Section 1 : Organisation administrative et financière<a id=605></a>
 
-##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=604></a>
+##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=606></a>
 
 ###### Article D714-2-1
 
@@ -99007,7 +99126,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (M)
 
 
-##### Sous-section 4 : Composition des groupes fonctionnels<a id=605></a>
+##### Sous-section 4 : Composition des groupes fonctionnels<a id=607></a>
 
 ###### Article D714-7-1
 
@@ -99063,7 +99182,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6145-6 (Ab)
 
 
-##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=606></a>
+##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=608></a>
 
 ###### Article D714-12-1
 
@@ -99163,7 +99282,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6143-36 (V)
 
 
-##### Sous-section 5 : Virements de crédits<a id=607></a>
+##### Sous-section 5 : Virements de crédits<a id=609></a>
 
 ###### Article D714-12-5
 
@@ -99206,9 +99325,9 @@ _Cite_:
   - Code de la santé publique R714-3-38, R714-3-11 à R714-3-13, R714-3-27
 
 
-##### Section 2 : organes représentatifs<a id=608></a>
+##### Section 2 : organes représentatifs<a id=610></a>
 
-##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=609></a>
+##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=611></a>
 
 ###### Article D714-17-1
 
@@ -99239,7 +99358,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=610></a>
+##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=612></a>
 
 ###### Article D714-19-1
 
@@ -99296,7 +99415,7 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Section 2 : Organisation des soins et fonctionnement médical<a id=611></a>
+##### Section 2 : Organisation des soins et fonctionnement médical<a id=613></a>
 
 ###### Article D714-21-1
 
@@ -99342,7 +99461,7 @@ _Cité par_:
   - Code de la santé publique - art. D714-21-2 (M)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=612></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=614></a>
 
 ###### Article D714-21-2
 
@@ -99405,11 +99524,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6151-1 (V)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=613></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=615></a>
 
-### Chapitre Ier : Missions et obligations des établissements de santé<a id=614></a>
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=616></a>
 
-#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=615></a>
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=617></a>
 
 ###### Article D711-16-1
 
@@ -99544,11 +99663,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-47 (T)
 
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=616></a>
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=618></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=617></a>
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=619></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=618></a>
+##### Sous-section 1 : Du collège national d'experts<a id=620></a>
 
 ###### Article D712-1
 
@@ -99646,7 +99765,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=619></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=621></a>
 
 ###### Article D712-8
 
@@ -99793,9 +99912,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=620></a>
+#### Section 2 : Autorisations<a id=622></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=621></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=623></a>
 
 ###### Article D712-14
 
@@ -99834,7 +99953,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L712-12 (M)
 
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=622></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=624></a>
 
 ###### Article D712-15
 
@@ -99895,11 +100014,11 @@ _Cite_:
   - Code de la santé publique - art. L712-2 (M)
 
 
-#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=623></a>
+#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=625></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=624></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=626></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=625></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=627></a>
 
 ###### Article D712-31
 
@@ -100006,7 +100125,7 @@ _Cite_:
   - Code de la santé publique D712-30, D712-32, D712-33, R710-2-1 à R710-2-10
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=626></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=628></a>
 
 ###### Article D712-36
 
@@ -100123,15 +100242,15 @@ _Cité par_:
   - Code de la santé publique - art. D712-39 (Ab)
 
 
-# Annexes<a id=627></a>
+# Annexes<a id=629></a>
 
-## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=628></a>
+## Livre 6 : Don et utilisation des éléments et produits du corps humain<a id=630></a>
 
-### Titre 2 : Du sang humain<a id=629></a>
+### Titre 2 : Du sang humain<a id=631></a>
 
-#### Chapitre 3 : Des établissements de transfusion sanguine<a id=630></a>
+#### Chapitre 3 : Des établissements de transfusion sanguine<a id=632></a>
 
-##### Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public.<a id=631></a>
+##### Convention type des établissements de transfusion sanguine constitués sous la forme de groupement d'intérêt public.<a id=633></a>
 
 ###### Article Annexe II aux articles R668-1-1 à R668-21
 
