@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1972-11-30
+Version Consolidée au 1973-01-18
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -42745,6 +42745,37 @@ _Cité par_:
 
   - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
   - TXT_ASSOCIE: Code de la santé publique R5202-1 : DEROGATION A LA PERIODE DE SEPT JOURS
+
+
+###### Article R5202-1
+
+Par dérogation aux dispositions du premier alinéa de l'article précédent, des substances et des médicaments soumis au régime
+du tableau B, désignés par arrêté du ministre de la santé publique, peuvent être prescrits pour une période supérieure à sept
+jours, mais qui n'excède pas soixante jours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°73-68 1973-01-09 ART. 1 JORF 18 janvier
+
+_Modifié par_:
+
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+_Cite_:
+
+  - Code de la santé publique - art. R5202 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+  - SPEC_APPLI: DISPOSITIONS APPLICABLES A SAINT-PIERRE-ET-MIQUELON ET AUX    ILES WALLIS ET FUTUNA
 
 
 ###### Article R5203
