@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-01-07
+Version Consolidée au 1992-03-05
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -438,22 +438,27 @@ Version Consolidée au 1992-01-07
             - [Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale (art. R712-22 à R712-29)](#435)
             - [Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale (art. R712-30 à R712-36)](#436)
           - [Section 2 : Autorisations (art. R712-37 à R712-47)](#437)
-  - [Partie réglementaire ancienne - Décrets simples (art. D712-2 à D712-14)](#438)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D712-2 à D712-16)](#439)
-      - [Titre Ier : Etablissements de santé (art. D712-2 à D712-16)](#440)
-        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-16)](#441)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13)](#442)
-            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#443)
-            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#444)
-          - [Section 2 : Autorisations (art. D712-15 à D712-16)](#445)
-            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#446)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D712-1 à D712-14)](#447)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-14)](#448)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#449)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#450)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#451)
-        - [Section 2 : Autorisations (art. D712-14)](#452)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#453)
+  - [Partie réglementaire ancienne - Décrets simples (art. D711-6-1 à D712-14)](#438)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D712-16)](#439)
+      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D712-16)](#440)
+        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#441)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#442)
+          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#443)
+        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-16)](#444)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13)](#445)
+            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#446)
+            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#447)
+          - [Section 2 : Autorisations (art. D712-15 à D712-16)](#448)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#449)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-14)](#450)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#451)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#452)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-14)](#453)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#454)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#455)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#456)
+        - [Section 2 : Autorisations (art. D712-14)](#457)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#458)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -67478,11 +67483,193 @@ _Cite_:
 
 ### Titre Ier : Etablissements de santé<a id=440></a>
 
-#### Chapitre II : L'organisation et l'équipement sanitaires<a id=441></a>
+#### Chapitre Ier : Missions et obligations des établissements de santé<a id=441></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=442></a>
+##### Section 2 : Dispositions propres au service public hospitalier<a id=442></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=443></a>
+###### Article D711-6-1
+
+La liste des centres hospitaliers dénommés centres hospitaliers régionaux en application de l'article L. 711-6 est fixée
+comme suit :
+
+- centre hospitalier régional d'Amiens ;
+
+- centre hospitalier régional d'Angers ;
+
+- centre hospitalier régional de Besançon ;
+
+- centre hospitalier régional de Bordeaux ;
+
+- centre hospitalier régional de Brest ;
+
+- centre hospitalier régional de Caen ;
+
+- centre hospitalier régional de Clermont-Ferrand ;
+
+- centre hospitalier régional de Dijon ;
+
+- centre hospitalier régional de Fort-de-France ;
+
+- centre hospitalier régional de Grenoble ;
+
+- centre hospitalier régional de Lille ;
+
+- centre hospitalier régional de Limoges ;
+
+- hospices civils de Lyon ;
+
+- assistance publique de Marseille ;
+
+- centre hospitalier régional de Metz-Thionville ;
+
+- centre hospitalier régional de Montpellier ;
+
+- centre hospitalier régional de Nancy ;
+
+- centre hospitalier régional de Nantes ;
+
+- centre hospitalier régional de Nice ;
+
+- centre hospitalier régional de Nîmes ;
+
+- centre hospitalier régional d'Orléans ;
+
+- assistance publique - hôpitaux de Paris ;
+
+- centre hospitalier régional de Pointe-à-Pitre ;
+
+- centre hospitalier régional de Poitiers ;
+
+- centre hospitalier régional de Reims ;
+
+- centre hospitalier régional de Rennes ;
+
+- centre hospitalier régional de Rouen ;
+
+- centre hospitalier régional de Saint-Etienne ;
+
+- centre hospitalier régional de Strasbourg ;
+
+- centre hospitalier régional de Toulouse ;
+
+- centre hospitalier régional de Tours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-205 du 3 mars 1992 - art. 2 () JORF 5 mars 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6141-15 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. D712-103 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L711-6 (M)
+
+
+##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=443></a>
+
+###### Article D711-16-3
+
+Le président du Haut Comité hospitalo-universitaire, choisi parmi les conseillers d'Etat, est désigné par arrêté conjoint des
+ministres respectivement chargés des universités et de la santé pour une durée de quatre ans non renouvelable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-206 du 3 mars 1992 - art. 1 () JORF 5 mars 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6142-44 (T)
+
+
+###### Article D711-16-7
+
+Les travaux du Haut Comité hospitalo-universitaire font l'objet d'un rapport adressé aux ministres respectivement chargés des
+universités et de la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-206 du 3 mars 1992 - art. 1 () JORF 5 mars 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6142-48 (T)
+
+
+###### Article D711-16-8
+
+Les fonctions de président et de membre du Haut Comité hospitalo-universitaire sont gratuites [*rémunération*]. Leurs frais
+de déplacement ainsi que ceux des experts appelés en consultation sont remboursés dans les conditions prévues par la
+réglementation en vigueur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-206 du 3 mars 1992 - art. 1 () JORF 5 mars 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6142-49 (T)
+
+
+###### Article D711-16-9
+
+Le secrétariat du Haut Comité hospitalo-universitaire est assuré alternativement tous les deux ans par les services du
+ministère chargé des universités et du ministère chargé de la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-206 du 3 mars 1992 - art. 1 () JORF 5 mars 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6142-50 (T)
+
+
+#### Chapitre II : L'organisation et l'équipement sanitaires<a id=444></a>
+
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=445></a>
+
+##### Sous-section 1 : Du collège national d'experts<a id=446></a>
 
 ###### Article D712-2
 
@@ -67577,7 +67764,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=444></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=447></a>
 
 ###### Article D712-7
 
@@ -67661,9 +67848,9 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Section 2 : Autorisations<a id=445></a>
+##### Section 2 : Autorisations<a id=448></a>
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=446></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=449></a>
 
 ###### Article D712-15
 
@@ -67750,13 +67937,150 @@ _Cite_:
   - Code de la santé publique - art. D712-15 (M)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=447></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=450></a>
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=448></a>
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=451></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=449></a>
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=452></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=450></a>
+###### Article D711-16-1
+
+Le Haut Comité hospitalo-universitaire mentionné à l'article L. 711-16 peut être consulté sur toute question intéressant les
+missions hospitalo-universitaires des centres hospitaliers et universitaires, et notamment dans le domaine de l'évaluation de
+la qualité de la formation médicale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-206 du 3 mars 1992 - art. 1 () JORF 5 mars 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6142-42 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. L711-16 (M)
+
+
+###### Article D711-16-2
+
+Le Haut Comité hospitalo-universitaire est saisi conjointement par les ministres respectivement chargés des universités et de
+la santé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-206 du 3 mars 1992 - art. 1 () JORF 5 mars 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6142-43 (T)
+
+
+###### Article D711-16-4
+
+Le Haut Comité hospitalo-universitaire comprend, outre son président, seize membres :
+
+1° Trois directeurs d'unité de formation et de recherche de médecine désignés par la conférence des doyens des facultés de
+médecine et des présidents d'université médecins ;
+
+2° Deux présidents de commissions médicales d'établissement de centres hospitaliers universitaires désignés par la conférence
+des présidents de commissions médicales d'établissement des centres hospitaliers universitaires ;
+
+3° Un président de commission médicale d'établissement de centre hospitalier désigné par la conférence des présidents de
+commissions médicales d'établissement des centres hospitaliers ;
+
+4° Deux directeurs généraux de centres hospitaliers universitaires désignés par la conférence des directeurs généraux de
+centres hospitaliers universitaires ;
+
+5° Un directeur de centre hospitalier désigné par la conférence des directeurs de centres hospitaliers ;
+
+6° Deux professeurs des universités - praticiens hospitaliers, dont un directeur d'unité de formation et de recherche de
+médecine et un maître de conférences des universités - praticien hospitalier, désignés par le ministre chargé des
+universités ;
+
+7° Deux professeurs des universités - praticiens hospitaliers et un praticien hospitalier à temps plein affecté dans un
+centre hospitalier universitaire, désignés par le ministre chargé de la santé ;
+
+8° Un directeur de recherche désigné par le ministre chargé de la recherche après avis du directeur général de l'Institut
+national de la santé et de la recherche médicale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-206 du 3 mars 1992 - art. 1 () JORF 5 mars 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6142-45 (T)
+
+
+###### Article D711-16-5
+
+Le mandat de chacun des membres du Haut Comité hospitalo-universitaire est de deux ans [*durée*]. Il est renouvelable une
+fois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-206 du 3 mars 1992 - art. 1 () JORF 5 mars 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6142-46 (T)
+
+
+###### Article D711-16-6
+
+Le Haut Comité hospitalo-universitaire peut entendre toute personne qualifiée appelée par son président à fournir un avis ou
+une expertise relatifs à toute question sur laquelle il est consulté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-206 du 3 mars 1992 - art. 1 () JORF 5 mars 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. D6142-47 (T)
+
+
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=453></a>
+
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=454></a>
+
+##### Sous-section 1 : Du collège national d'experts<a id=455></a>
 
 ###### Article D712-1
 
@@ -67854,7 +68178,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=451></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=456></a>
 
 ###### Article D712-8
 
@@ -68001,9 +68325,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=452></a>
+#### Section 2 : Autorisations<a id=457></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=453></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=458></a>
 
 ###### Article D712-14
 
