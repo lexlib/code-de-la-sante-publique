@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1978-10-06
+Version Consolidée au 1979-11-15
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -416,7 +416,7 @@ Version Consolidée au 1978-10-06
           - [SECTION 7 : SANCTIONS. (art. R5146-57)](#413)
         - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale (art. R5147 à R5148 bis)](#414)
           - [Section 3 : Dispositions communes. (art. R5147 à R5148 bis)](#415)
-      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266)](#416)
+      - [TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS (art. R5149 à R5266-15)](#416)
         - [CHAPITRE 1 : SUBSTANCES VENENEUSES (art. R5149 à R5229)](#417)
           - [SECTION 1 : GENERALITES. (art. R5149)](#418)
           - [SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE (art. R5152)](#419)
@@ -449,12 +449,13 @@ Version Consolidée au 1978-10-06
         - [Chapitre 6 : Thermomètres médicaux. (art. R5243 à R5261)](#446)
         - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#447)
         - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#448)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#449)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#450)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#451)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#452)
-          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#453)
-          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#454)
+        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-15)](#449)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#450)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#451)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#452)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#453)
+          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#454)
+          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#455)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -54089,9 +54090,508 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=449></a>
+#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=449></a>
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=450></a>
+###### Article R5266-1
+
+Les dispositions du présent chapitre sont applicables aux produits dénommés insecticides et acaricides lorsqu'ils ne sont pas
+considérés comme des médicaments par application de l'article L. 511 du présent code, ainsi qu'aux produits destinés à
+l'entretien ou à l'application des lentilles oculaires de contact.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Code de la santé publique - art. L511 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-1 (V)
+
+
+###### Article R5266-2
+
+La demande tendant à obtenir l'autorisation [*de mise sur le marché*] prévue à l'article L. 658-11 doit être adressée au
+ministre chargé de la santé [*autorité compétente*]. Elle mentionne :
+
+a) Le nom et l'adresse du demandeur et, lorsque celui-ci ne fabrique pas le produit, le nom et l'adresse du fabricant ;
+
+b) La dénomination du produit sans préjudice de l'application de la législation relative aux marques de fabrique, de commerce
+et de service, cette dénomination doit être choisie de façon à éviter toute confusion avec d'autres produits et ne pas
+induire en erreur sur la qualité ou les propriétés du produit ;
+
+c) La composition intégrale du produit par unité de poids ou de volume, énoncée en termes usuels à l'exclusion des formules
+chimiques brutes, avec recours à la dénomination commune internationale des composants, chaque fois que celle-ci a été
+recommandée par l'Organisation mondiale de la santé ou à défaut à la dénomination commune française telle qu'elle figure à la
+pharmacopée ;
+
+d) La forme pharmaceutique ;
+
+e) Les effets proposés, les contre-indications et les effets indésirables éventuels ;
+
+f) Le mode d'emploi et les précautions d'emploi ;
+
+g) La durée de conservation proposée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Code de la santé publique - art. L658-11 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-3 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5266-10 (Ab)
+  - Code de la santé publique - art. R5266-14 (Ab)
+  - Code de la santé publique - art. R5266-3 (Ab)
+
+
+###### Article R5266-3
+
+A la demande [*d'autorisation de mise sur le marché*] prévue à l'article R. 5266-2 doit être joint un dossier comprenant
+[*documents obligatoires*] :
+
+a) La description du mode et des conditions de fabrication du produit, y compris notamment la formule complète de préparation
+et toutes précisions utiles concernant la nature du récipient ;
+
+b) La description des techniques de contrôle des matières premières et du produit prêt à l'emploi, ainsi que, si nécessaire,
+celle des techniques de contrôle en cours de fabrication et l'indication des résultats obtenus par application de ces
+techniques ;
+
+c) Le compte rendu des essais analytiques et toxicologiques ainsi que le compte rendu des essais cliniques prouvant
+l'efficacité et l'innocuité du produit dans les indications proposées et dans les conditions normales d'emploi ;
+
+d) Un échantillon du modèle-vente du produit ou une maquette du conditionnement, celle-ci pouvant être réduite au projet
+d'étiquetage ;
+
+e) Le cas échéant l'autorisation de vente déjà obtenue dans un autre pays.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-4 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5266-2 (M)
+
+
+###### Article R5266-4
+
+Les comptes rendus des essais analytiques comprennent [*mentions obligatoires*] :
+
+a) Le protocole détaillé de la technique de contrôle utilisée par le fabricant ;
+
+b) Les résultats obtenus et les limites extrêmes d'acceptation ;
+
+c) L'interprétation de ces résultats ;
+
+d) La description des essais de stabilité ayant permis de déterminer la durée proposée de conservation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-5 (V)
+
+
+###### Article R5266-5
+
+Les comptes rendus des essais toxicologiques indiquent les méthodes utilisées et comportent une évaluation de la toxicité du
+produit sur l'animal [*mentions obligatoires*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-6 (V)
+
+
+###### Article R5266-6
+
+Les comptes rendus des essais cliniques prouvant l'efficacité et l'innocuité comprennent le relevé de chaque observation et
+les conclusions relatives :
+
+a) Aux effets proposés ;
+
+b) A l'innocuité et à la tolérance du produit dans les conditions normales d'emploi ;
+
+c) Aux contre-indications et aux effets indésirables ;
+
+d) Aux précautions d'emploi [*mentions obligatoires*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-7 (V)
+
+
+###### Article R5266-7
+
+Le ministre se prononce dans un délai de cent vingt jours à compter de la date de présentation du dossier complet. A titre
+exceptionnel, ce délai peut être prorogé une fois de quatre-vingt-dix jours.
+
+Avant de prendre sa décision, le ministre peut ordonner toute mesure d'instruction qu'il juge nécessaire.
+
+Lorsque le ministre prescrit au demandeur de compléter son dossier, les délais prévus ci-dessus sont suspendus jusqu'à ce que
+les informations complémentaires requises aient été fournies.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-8 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5266-12 (Ab)
+
+
+###### Article R5266-8
+
+Le ministre chargé de la santé refuse l'autorisation :
+
+a) Si les renseignements fournis à l'appui de la demande ne satisfont pas aux prescriptions du présent chapitre ;
+
+b) Si le produit est nocif dans les conditions normales d'emploi ;
+
+c) Si l'efficacité du produit fait défaut ou est insuffisamment justifiée par le demandeur ;
+
+d) Si le produit n'a pas la composition qualitative et quantitative déclarée ;
+
+e) Si les moyens à mettre en oeuvre pour appliquer la méthode de fabrication et les procédés de contrôle ne sont pas de
+nature à garantir la qualité du produit au stade de la fabrication en série.
+
+La demande d'autorisation ne peut être rejetée qu'après que le demandeur a été invité à fournir ses justifications [*droit de
+défense*].
+
+La décision de rejet doit être motivée et elle doit mentionner les voies et délais de recours qui lui sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-9 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5266-12 (Ab)
+
+
+###### Article R5266-9
+
+L'autorisation est renouvelable sur demande du titulaire, présentée au plus tard quatre-vingts jours [*délai*] avant la date
+d'expiration.
+
+Elle n'est renouvelée que si son titulaire atteste qu'à sa connaissance aucune modification n'est intervenue dans les
+éléments fournis à l'appui de la demande d'autorisation du produit.
+
+L'autorisation n'est pas renouvelée si l'efficacité fait défaut. Si aucune décision n'est notifiée ou si aucune demande de
+justification complémentaire n'est adressée au demandeur dans un délai de quatre-vingts jours suivant la réception de sa
+demande, l'autorisation est considérée comme renouvelée [*tacitement*] à l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cité par_:
+
+  - Décret n°93-1322 du 20 décembre 1993 - art. 1 (Ab)
+  - Décret n°96-653 du 16 juillet 1996 - art. 1 (Ab)
+  - Décret n°2004-651 du 2 juillet 2004 - art. 1 (Ab)
+  - Code de la santé publique - art. R5266-12 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-10 (V)
+
+
+###### Article R5266-10
+
+Tout changement de titulaire de l'autorisation est subordonné à une autorisation du ministre chargé de la santé
+[*condition*].
+
+La demande comporte les mentions prévues à l'article R. 5266-2 et elle est accompagnée d'un dossier comprenant :
+
+a) Une copie, certifiée conforme par le titulaire, de l'autorisation ;
+
+b) L'accord dudit titulaire sur le transfert de l'autorisation ;
+
+c) La désignation des lieux de fabrication, de contrôle et de conditionnement ;
+
+d) L'engagement du demandeur de se soumettre à l'ensemble des conditions auxquelles a été subordonnée l'autorisation et,
+notamment, de respecter les méthodes de fabrication et de contrôle ;
+
+e) Les comptes rendus des contrôles, effectués par le demandeur dans le respect desdites méthodes.
+
+Dans le cas de fusion ou d'apport partiel d'actifs, les sociétés intéressées peuvent déposer une demande de transfert des
+autorisations avant que la fusion ou l'apport ne soit définitivement réalisé. Elles fournissent à l'appui de leur demande le
+protocole d'accord de principe concernant la fusion ou l'apport. Le transfert est accordé sous la condition suspensive de la
+réalisation définitive qui doit être notifiée au ministre chargé de la santé.
+
+En cas de silence de l'administration, le transfert est réputé être autorisé [*tacitement*] à l'expiration d'un délai de deux
+mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-11 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5266-12 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5266-2 (M)
+
+
+###### Article R5266-11
+
+Le ministre chargé de la santé peut, par décision motivée indiquant les voies et délais de recours, suspendre pour une
+période ne pouvant pas excéder un an [*durée*] ou retirer une autorisation. La décision de retrait ne peut intervenir
+qu'après que le titulaire de l'autorisation a été invité à fournir ses explications.
+
+Ces décisions interviennent lorsqu'il apparaît que le produit est nocif dans les conditions normales d'emploi ou que
+l'efficacité fait défaut ou que le produit n'a pas la composition qualitative ou quantitative déclarée.
+
+L'autorisation est également suspendue ou retirée lorsqu'il apparaît que les renseignements fournis à l'occasion de la
+demande d'autorisation sont erronés, que les conditions prévues au présent chapitre ne sont pas ou ne sont plus remplies ou
+que les contrôles n'ont pas été effectués.
+
+La décision de suspension ou de retrait fait l'objet de toutes mesures de publicité que le ministre juge nécessaire
+d'ordonner.
+
+Lorsque l'autorisation est suspendue ou retirée, le titulaire  doit prendre toutes dispositions utiles notamment auprès des
+détenteurs de stocks, pour faire cesser la distribution du produit. Si ces dispositions n'interviennent pas dans des délais
+compatibles avec l'intérêt de la santé publique, le ministre prend toutes mesures appropriées.
+
+Indépendamment des décisions de suspension ou de retrait d'autorisation, et pour les motifs qui justifient de telles
+décisions, le ministre chargé de la santé peut interdire la délivrance d'un produit en limitant, le cas échéant, cette
+interdiction aux seuls lots de fabrication faisant l'objet d'une contestation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-12 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5266-12 (Ab)
+
+
+###### Article R5266-12
+
+Les décisions prévues aux articles R. 5266-7 à R. 5266-11 [*refus, renouvellement ou modification de l'autorisation de mise
+sur le marché*], à l'exclusion des mesures de suspension, sont prises par le ministre chargé de la santé [*autorité
+compétente*], après avis de la commission prévue à l'article R. 5141 du code de la santé publique ou d'un groupe de travail
+constitué au sein de cette commission.
+
+Elles ne peuvent faire l'objet d'un recours contentieux qu'après l'exercice d'un recours gracieux qui lui-même doit être
+soumis pour avis à la commission ci-dessus mentionnée.
+
+Les décisions prévues aux articles R. 5266-7 à R. 5266-11 sont publiées par extrait au Journal officiel de la République
+française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-13 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5141 (M)
+  - Code de la santé publique - art. R5266-10 (M)
+  - Code de la santé publique - art. R5266-11 (M)
+  - Code de la santé publique - art. R5266-7 (M)
+  - Code de la santé publique - art. R5266-8 (M)
+  - Code de la santé publique - art. R5266-9 (M)
+
+
+###### Article R5266-13
+
+Le ministre chargé de la santé fait procéder, par les inspecteurs de la pharmacie, à des prélèvements de produits mentionnés
+à l'article L. 658-11 pour s'assurer de leur conformité à la formule déclarée.
+
+Les échantillons prélevés, destinés au laboratoire national de la santé, sont rassemblés dans des sachets munis d'une
+étiquette précisant le nom et le numéro du lot de fabrication du produit, la date du prélèvement, son motif et le nom de
+l'inspecteur qui l'a effectué.
+
+Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat [*sans frais*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Code de la santé publique - art. L658-11 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-14 (V)
+
+
+###### Article R5266-14
+
+Sans préjudice des mentions exigées par d'autres dispositions législatives et réglementaires, l'étiquetage des produits
+mentionnés à l'article L. 658-11 doit porter les indications suivantes en caractères suffisamment lisibles [*mentions
+obligatoires*] :
+
+a) La dénomination du produit prévue au b de l'article R. 5266-2 ; lorsque cette dénomination est un nom de fantaisie et que
+le produit ne comporte qu'un principe actif, la dénomination commune internationale recommandée par l'Organisation mondiale
+de la santé ou à défaut la dénomination commune française telle qu'elle figure à la pharmacopée, en caractères très apparents
+immédiatement au-dessous du nom de fantaisie ;
+
+b) La forme pharmaceutique, cette indication pouvant ne figurer que sur l'emballage extérieur ;
+
+c) La composition qualitative et quantitative en principes actifs ou en pourcentage selon la forme du produit ; les
+dénominations communes internationales recommandées par l'Organisation mondiale de la santé doivent être employées chaque
+fois qu'elles existent ou à défaut les dénominations communes françaises telles qu'elles figurent à la pharmacopée ;
+
+d) Le mode d'utilisation ;
+
+e) La date limite d'utilisation, accompagnée, chaque fois que nécessaire, d'une mention précisant que cette date n'est
+valable que pour les produits dont le conditionnement n'a pas été ouvert et qui sont conservés dans des conditions
+convenables ;
+
+f) Le nom et l'adresse du titulaire de l'autorisation et, lorsque celui-ci ne fabrique pas le produit, le nom et l'adresse du
+fabricant ;
+
+g) Le numéro d'identification administrative du produit ;
+
+h) Le numéro du lot de fabrication ;
+
+i) La contenance du récipient, cette mention pouvant ne figurer que sur l'emballage extérieur ;
+
+j) Les conditions particulières de conservation.
+
+Les mentions complémentaires précisées ci-après devront obligatoirement figurer sur une notice jointe au conditionnement du
+produit si elles ne sont pas portées sur l'étiquetage :
+
+- toutes indications relatives à l'utilisation du produit telles que durée du traitement, lorsqu'elle doit être limitée, mode
+d'emploi ;
+
+- sauf décision contraire des autorités compétentes les effets, contre-indications, effets indésirables et précautions
+particulières d'emploi déterminées lors de l'autorisation ou à la suite de l'expérience acquise.
+
+Des arrêtés du ministre chargé de la santé détermineront, s'il y a lieu, les conditions particulières d'application du
+présent article, en ce qui concerne notamment les signes distinctifs à faire figurer sur le conditionnement ou l'étiquette du
+produit lorsqu'il est nécessaire de signaler à l'attention des utilisateurs des précautions d'emploi à respecter.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Code de la santé publique - art. L658-11 (M)
+  - Code de la santé publique - art. R5266-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-15 (V)
+  - Code de la santé publique - art. R5136-16 (V)
+
+
+###### Article R5266-15
+
+A titre exceptionnel, le ministre chargé de la santé [*autorité compétente*] peut, sur demande motivée, autoriser la
+présentation sous un seul conditionnement [*nombre*] de plusieurs produits ayant obtenu chacun l'autorisation prévue à
+l'article L. 658-11.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cite_:
+
+  - Code de la santé publique - art. L658-11 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5136-17 (V)
+
+
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=450></a>
+
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=451></a>
 
 ###### Article R5267
 
@@ -54146,7 +54646,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=451></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=452></a>
 
 ###### Article R5269
 
@@ -54239,9 +54739,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 4 : Visa des spécialités anciennes<a id=452></a>
+#### Chapitre 4 : Visa des spécialités anciennes<a id=453></a>
 
-##### Section 1 : Spécialités pharmaceutiques.<a id=453></a>
+##### Section 1 : Spécialités pharmaceutiques.<a id=454></a>
 
 ###### Article R5272
 
@@ -54282,7 +54782,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-33 (V)
 
 
-##### Section 2 : Produits d'origine microbienne.<a id=454></a>
+##### Section 2 : Produits d'origine microbienne.<a id=455></a>
 
 ###### Article R5273
 
