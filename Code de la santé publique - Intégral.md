@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1995-02-07
+Version Consolidée au 1995-02-11
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-21)](#2)
@@ -94696,8 +94696,8 @@ est déterminé comme suit :
 
 1° Représentants des établissements publics de santé :
 
-a) Lorsque l'établissement compte au plus deux cents lits et places : les deux membres de droit mentionnés au troisième
-alinéa de l'article L. 713-3 ;
+a) Lorsque l'établissement compte au plus deux cents lits et places : le directeur de l'établissement et le président de la
+commission médicale d'établissement, membres de droit.
 
 b) Lorsque l'établissement compte plus de deux cents lits et places : en sus des deux représentants prévus au a ci-dessus, un
 représentant supplémentaire, désigné par le conseil d'administration, par tranche de deux cents lits ou places
@@ -94725,9 +94725,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-517 du 5 juin 1992 - art. 1 () JORF 14 juin 1992
+  - Décret n°95-137 du 6 février 1995 - art. 1 () JORF 11 février 1995
 
 _Cite_:
 
@@ -94743,6 +94743,52 @@ _Cité par_:
 
   - Code de la santé publique - art. R713-1-3 (M)
   - Code de la santé publique - art. R713-2 (T)
+
+
+###### Article R713-1-1
+
+I. - Pour l'application du troisième alinéa de l'article L. 713-3, le maire de la commune sur le territoire de laquelle sont
+implantés un ou plusieurs établissements publics de santé, ou l'un ou plusieurs des établissements composant ceux-ci, siège
+comme membre de droit à la conférence sanitaire du secteur dont relève cette commune ou la partie de cette commune sur
+laquelle sont implantés un ou plusieurs des établissements publics de santé ou l'un ou plusieurs des établissements composant
+ceux-ci. Le maire n'a qu'une voix dans les délibérations de la conférence quel que soit le nombre d'établissements publics de
+santé implantés en tout ou partie sur le territoire de la commune.
+
+II. - Le maire peut se faire représenter à la conférence sanitaire du secteur ou de chacun des secteurs dont il est membre de
+droit par un membre du conseil municipal désigné par celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°95-137 du 6 février 1995 - art. 2 () JORF 11 février 1995
+
+_Transféré par_:
+
+  - Décret n°97-240 du 17 mars 1997 - art. 2 (Ab) JORF du 18 mars 1997
+
+_Cite_:
+
+  - Code de la santé publique - art. L713-3 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6131-1 (V)
+  - Code de la santé publique - art. R713-1-2 (Ab)
+  - Code de la santé publique - art. R713-1-2 (M)
+
+_Anciens textes_:
+
+  - Code de la santé publique - art. R713-1 (T)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R713-1-2 (Ab)
 
 
 ###### Article R713-1-7
@@ -94961,6 +95007,9 @@ S'il n'existe qu'un seul établissement de santé dans le secteur sanitaire, il 
 établissement doit être consulté, aux lieu et place de la conférence, lors de l'élaboration et de la révision de la carte
 sanitaire et du schéma régional d'organisation sanitaire.
 
+Dans le cas où cet établissement est un établissement public de santé, le maire de la commune sur le territoire de laquelle
+est implanté ledit établissement ou l'un des établissements le composant est également consulté.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -94968,13 +95017,18 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-517 du 5 juin 1992 - art. 1 () JORF 14 juin 1992
+  - Décret n°95-137 du 6 février 1995 - art. 3 () JORF 11 février 1995
+
+_Transféré par_:
+
+  - Décret n°97-240 du 17 mars 1997 - art. 2 (Ab) JORF du 18 mars 1997
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R713-1-5 (Ab)
+  - Code de la santé publique - art. R713-1-5 (M)
 
 
 ###### Article R713-5
