@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-07-16
+Version Consolidée au 1992-08-08
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -297,7 +297,7 @@ Version Consolidée au 1992-07-16
           - [Section 1 : Activités, congés. (art. L850 à L859)](#294)
         - [Chapitre X : Dispositions diverses et transitoires. (art. L895)](#295)
         - [Dispositions finales. (art. L897)](#296)
-  - [Partie réglementaire ancienne (art. R2009 à R714-28-4)](#297)
+  - [Partie réglementaire ancienne (art. R2009 à R716-9-1)](#297)
     - [Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales (art. R2009 à R2053)](#298)
       - [Titre 1 : Comités consultatifs de protection des personnes dans la recherche biomédicale (art. R2009 à R2020)](#299)
         - [Chapitre 2 : Organisation et agrément. (art. R2009 à R2011)](#300)
@@ -429,8 +429,8 @@ Version Consolidée au 1992-07-16
         - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#426)
           - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#427)
           - [Section 2 : Produits d'origine microbienne. (art. R5273)](#428)
-    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R710-2-1 à R714-28-4)](#429)
-      - [Titre 1 : Etablissements de santé (art. R710-2-1 à R714-28-4)](#430)
+    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R710-2-1 à R716-9-1)](#429)
+      - [Titre 1 : Etablissements de santé (art. R710-2-1 à R716-9-1)](#430)
         - [Chapitre 1 A : Principes fondamentaux (art. R710-2-1 à R710-2-10)](#431)
           - [Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés (art. R710-2-1 à R710-2-10)](#432)
         - [Chapitre 1 : Missions et obligations des établissements de santé (art. R711-6-1 à R711-6-3)](#433)
@@ -445,54 +445,68 @@ Version Consolidée au 1992-07-16
         - [Chapitre 3 : Les actions de coopération (art. R713-1 à R713-15)](#442)
           - [Section 1 : Les conférences sanitaires de secteur (art. R713-1 à R713-15)](#443)
         - [Chapitre 4 : Les établissements publics de santé (art. R714-1-1 à R714-28-4)](#444)
-          - [Section 1 : Organisation administrative et financière (art. R714-1-1 à R714-2-24)](#445)
+          - [Section 1 : Organisation administrative et financière (art. R714-1-1 à R714-3-53)](#445)
             - [Sous-section 1 : Création, transformation et suppression des établissements publics de sante (art. R714-1-1 à R714-1-3)](#446)
             - [Sous-section 2 : Composition et fonctionnement du conseil d'administration (art. R714-2-1 à R714-2-24)](#447)
-          - [Section 2 : Organes représentatifs (art. R714-16-1 à R714-18-15)](#448)
-            - [Sous-section 1 : Commissions médicales d'établissement (art. R714-16-1 à R714-16-34)](#449)
-              - [Paragraphe 1 : Composition de commissions médicales d'établissement (art. R714-16-1 à R714-16-13)](#450)
-                - [I : Centres hospitaliers autres que les centres hospitaliers universitaires (art. R714-16-1 à R714-16-5)](#451)
-                - [II : Centres hospitaliers universitaires (art. R714-16-6 à R714-16-10)](#452)
-                - [III : Hôpitaux locaux (art. R714-16-11)](#453)
-                - [IV : Syndicats interhospitaliers (art. R714-16-12 à R714-16-13)](#454)
-              - [Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement (art. R714-16-14 à R714-16-28)](#455)
-              - [Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux (art. R714-16-29 à R714-16-34)](#456)
-            - [Sous-section 2 : Comités techniques d'établissement (art. R714-17-1 à R714-18-15)](#457)
-              - [Paragraphe 1 : Composition des comités techniques d'établissement (art. R714-17-1 à R714-17-24)](#458)
-              - [Paragraphe 2 : Attributions des comités techniques d'établissement (art. R714-18-1)](#459)
-              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement (art. R714-18-2 à R714-18-14)](#460)
-              - [Paragraphe 3 : Dispositions diverses (art. R714-18-15)](#461)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. R714-22-1 à R714-26-11)](#462)
-            - [Sous-section 1 : Conseil de service ou de département (art. R714-22-1 à R714-22-11)](#463)
-            - [Sous-section 2 : Service de soins infirmiers (art. R714-26-1 à R714-26-11)](#464)
-          - [Section 4 : Les personnels des établissements publics de santé (art. R714-28-1 à R714-28-4)](#465)
-  - [Partie réglementaire ancienne - Décrets simples (art. D711-6-1 à D712-14)](#466)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-19-2)](#467)
-      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-19-2)](#468)
-        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#469)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#470)
-          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#471)
-        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-16)](#472)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13)](#473)
-            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#474)
-            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#475)
-          - [Section 2 : Autorisations (art. D712-15 à D712-16)](#476)
-            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#477)
-        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-19-2)](#478)
-          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-2-3)](#479)
-            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#480)
-          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#481)
-            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#482)
-            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#483)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-14)](#484)
-      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#485)
-        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#486)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-14)](#487)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#488)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#489)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#490)
-        - [Section 2 : Autorisations (art. D712-14)](#491)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#492)
+            - [Sous-section 3 : Budget et comptabilité des établissements publics de santé (art. R714-3-1 à R714-3-53)](#448)
+              - [Paragraphe 1 : Dispositions générales (art. R714-3-1 à R714-3-6)](#449)
+              - [Paragraphe 2 : Présentation et vote du budget (art. R714-3-7 à R714-3-18)](#450)
+              - [Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale (art. R714-3-19 à R714-3-26)](#451)
+              - [Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget (art. R714-3-27 à R714-3-40)](#452)
+              - [Paragraphe 5 : Du directeur, ordonnateur du budget (art. R714-3-41 à R714-3-45)](#453)
+              - [Paragraphe 6 : Clôture de l'exercice et affectation des résultats (art. R714-3-46 à R714-3-50)](#454)
+              - [Paragraphe 7 : Du comptable (art. R714-3-51 à R714-3-53)](#455)
+          - [Section 2 : Organes représentatifs (art. R714-16-1 à R714-18-15)](#456)
+            - [Sous-section 1 : Commissions médicales d'établissement (art. R714-16-1 à R714-16-34)](#457)
+              - [Paragraphe 1 : Composition de commissions médicales d'établissement (art. R714-16-1 à R714-16-13)](#458)
+                - [I : Centres hospitaliers autres que les centres hospitaliers universitaires (art. R714-16-1 à R714-16-5)](#459)
+                - [II : Centres hospitaliers universitaires (art. R714-16-6 à R714-16-10)](#460)
+                - [III : Hôpitaux locaux (art. R714-16-11)](#461)
+                - [IV : Syndicats interhospitaliers (art. R714-16-12 à R714-16-13)](#462)
+              - [Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement (art. R714-16-14 à R714-16-28)](#463)
+              - [Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux (art. R714-16-29 à R714-16-34)](#464)
+            - [Sous-section 2 : Comités techniques d'établissement (art. R714-17-1 à R714-18-15)](#465)
+              - [Paragraphe 1 : Composition des comités techniques d'établissement (art. R714-17-1 à R714-17-24)](#466)
+              - [Paragraphe 2 : Attributions des comités techniques d'établissement (art. R714-18-1)](#467)
+              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement (art. R714-18-2 à R714-18-14)](#468)
+              - [Paragraphe 3 : Dispositions diverses (art. R714-18-15)](#469)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. R714-22-1 à R714-26-11)](#470)
+            - [Sous-section 1 : Conseil de service ou de département (art. R714-22-1 à R714-22-11)](#471)
+            - [Sous-section 2 : Service de soins infirmiers (art. R714-26-1 à R714-26-11)](#472)
+          - [Section 4 : Les personnels des établissements publics de santé (art. R714-28-1 à R714-28-4)](#473)
+        - [Chapitre 5 : Les établissements de santé privés (art. R715-7-1 à R715-7-6)](#474)
+          - [Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement (art. R715-7-1 à R715-7-6)](#475)
+            - [Sous-section 2 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier (art. R715-7-1 à R715-7-6)](#476)
+        - [Chapitre 6 : Expérimentation et dispositions diverses (art. R716-5-1 à R716-9-1)](#477)
+          - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#478)
+          - [Section 5 : Dispositions diverses (art. R716-9-1)](#479)
+  - [Partie réglementaire ancienne - Décrets simples (art. D711-6-1 à D712-14)](#480)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-19-2)](#481)
+      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-19-2)](#482)
+        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#483)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#484)
+          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#485)
+        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-16)](#486)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13)](#487)
+            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#488)
+            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#489)
+          - [Section 2 : Autorisations (art. D712-15 à D712-16)](#490)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15 à D712-16)](#491)
+        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-19-2)](#492)
+          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-2-3)](#493)
+            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#494)
+          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#495)
+            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#496)
+            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#497)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-14)](#498)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#499)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#500)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-14)](#501)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#502)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#503)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#504)
+        - [Section 2 : Autorisations (art. D712-14)](#505)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#506)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -69770,13 +69784,2294 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6143-20 (V)
 
 
-##### Section 2 : Organes représentatifs<a id=448></a>
+##### Sous-section 3 : Budget et comptabilité des établissements publics de santé<a id=448></a>
 
-##### Sous-section 1 : Commissions médicales d'établissement<a id=449></a>
+##### Paragraphe 1 : Dispositions générales<a id=449></a>
 
-##### Paragraphe 1 : Composition de commissions médicales d'établissement<a id=450></a>
+###### Article R714-3-1
 
-##### I : Centres hospitaliers autres que les centres hospitaliers universitaires<a id=451></a>
+Les établissements publics de santé sont soumis au régime budgétaire, financier et comptable défini par les dispositions du
+décret n° 62-1587 du 29 décembre 1962 et les dispositions suivantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Décret n°62-1587 1962-12-29
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-1 (M)
+  - Code de la santé publique - art. R6145-1 (V)
+
+
+###### Article R714-3-2
+
+L'exercice budgétaire et comptable couvre la période du 1er janvier au 31 décembre d'une même année, sauf dans le cas d'une
+première mise en exploitation d'un nouvel établissement ou d'une cessation définitive d'activité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-2 (M)
+  - Code de la santé publique - art. R6145-2 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-38 (Ab)
+  - Code de la santé publique - art. R715-7-1 (M)
+
+
+###### Article R714-3-3
+
+La Nomenclature budgétaire et comptable est établie par référence au plan comptable général.
+
+Elle comporte quatre niveaux :
+
+1° Les classes de comptes ;
+
+2° Les comptes principaux ;
+
+3° Les comptes divisionnaires ;
+
+4° Les comptes élémentaires.
+
+La liste des comptes obligatoirement ouverts dans le budget et la comptabilité des établissements est fixée par arrêté
+conjoint des ministres chargés du budget, de la santé et de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-3 (M)
+  - Code de la santé publique - art. R6145-3 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R715-7-1 (M)
+
+
+###### Article R714-3-4
+
+La comptabilité des établissements publics de santé a pour objet la description et le contrôle des opérations ainsi que
+l'information des autorités chargées de la gestion ou du contrôle de ces établissements.
+
+Elle est organisée en vue de permettre :
+
+a) La connaissance et le contrôle des opérations budgétaires et des opérations de trésorerie ;
+
+b) L'appréciation de la situation du patrimoine ;
+
+c) La connaissance des opérations faites avec les tiers ;
+
+d) La détermination des résultats ;
+
+e) Le calcul des coûts des services rendus, notamment en fonction des pathologies et du mode de prise en charge des
+patients ;
+
+f) L'intégration des opérations dans la comptabilité économique nationale et dans les comptes et statistiques élaborés pour
+les besoins de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-4 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R715-7-1 (M)
+
+
+###### Article R714-3-5
+
+Avant de procéder au vote du budget, le conseil d'administration examine, avant le 30 juin de chaque année, le rapport
+d'orientation prévu à l'article L. 714-6, complété par les avis de la commission médicale et du comité technique
+d'établissement.
+
+Le rapport d'orientation ainsi que la délibération du conseil d'administration sont transmis, dans un délai de huit jours, à
+l'autorité administrative mentionnée à l'article R. 714-3-27, à la direction régionale des affaires sanitaires et sociales, à
+la caisse chargée du versement de la dotation globale ainsi qu'à la caisse régionale d'assurance maladie qui les tient à la
+disposition des autres organismes responsables de la gestion des régimes d'assurance maladie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-6 (M)
+  - Code de la santé publique - art. R714-3-27 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R715-7-1 (M)
+
+
+###### Article R714-3-6
+
+Le rapport d'orientation est établi par le directeur de l'établissement.
+
+Il présente les objectifs et prévisions d'activité de l'établissement pour l'année à venir, tels qu'ils résultent de la mise
+en oeuvre du projet d'établissement et, éventuellement, des contrats d'objectifs mentionnés respectivement aux articles L.
+714-11 et L. 712-4, ainsi que l'estimation des moyens nécessaires à leur réalisation.
+
+Les informations relatives à l'activité de l'établissement, qui s'appuient notamment sur les systèmes d'information prévus à
+l'article L. 710-5, sont présentées selon des modalités fixées par arrêté des ministres chargés de la santé et de la sécurité
+sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L710-5 (M)
+  - Code de la santé publique - art. L712-4 (Ab)
+  - Code de la santé publique - art. L714-11 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R715-7-1 (M)
+
+
+##### Paragraphe 2 : Présentation et vote du budget<a id=450></a>
+
+###### Article R714-3-7
+
+Le budget de l'établissement public de santé est l'acte par lequel sont prévues et autorisées ses recettes et ses dépenses
+annuelles. Il détermine les dotations nécessaires à l'établissement pour remplir les missions qui lui sont imparties, dans le
+respect du projet d'établissement, en fonction notamment des objectifs et des prévisions d'activité présentés dans le rapport
+d'orientation prévu par l'article L. 714-6.
+
+Le modèle des documents de présentation des budgets est fixé par arrêté des ministres chargés du budget, de la santé et de la
+sécurité sociale.
+
+Les autorisations de dépenses et les prévisions de recettes sont votées par le conseil d'administration sur proposition du
+directeur selon les modalités définies aux articles R. 714-3-11 à R. 714-3-13 et dans le respect des conditions d'équilibre
+réel définies à l'article R. 714-3-8.
+
+Les décisions modificatives qui ont une incidence sur le montant de chacun des groupes fonctionnels mentionnés à l'article L.
+714-7 et précédemment approuvés sont votées dans les mêmes conditions.
+
+Celles qui n'ont aucune incidence sur le montant de chacun des groupes fonctionnels précédemment approuvés sont votées par
+comptes dans les conditions prévues au deuxième alinéa de l'article R. 714-3-15.
+
+Toute dépense nouvelle résultant d'une délibération du conseil d'administration exécutoire de plein droit ne peut être
+engagée que dans la mesure où elle n'a pas pour effet de modifier le montant d'un ou plusieurs des groupes fonctionnels du
+dernier budget rendu exécutoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-6 (M)
+  - Code de la santé publique - art. L714-7 (M)
+  - Code de la santé publique - art. R714-3-11 (Ab)
+  - Code de la santé publique - art. R714-3-12 (M)
+  - Code de la santé publique - art. R714-3-13 (M)
+  - Code de la santé publique - art. R714-3-15 (M)
+  - Code de la santé publique - art. R714-3-8 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-10 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-33 (Ab)
+  - Code de la santé publique - art. R714-3-37 (Ab)
+  - Code de la santé publique - art. R715-7-1 (Ab)
+
+
+###### Article R714-3-8
+
+Pour être voté en équilibre réel, le budget doit remplir les trois conditions suivantes :
+
+1. La section d'investissement et chacune des sections d'exploitation, présentées selon les modalités prévues aux articles R.
+714-3-11 à R. 714-3-13, doivent être votées en équilibre, sous réserve des opérations relatives à la régularisation des
+procédures de mise en recouvrement des produits hospitaliers qui font l'objet d'une présentation spécifique dans des
+conditions fixées par arrêté des ministres chargés de la santé et du budget ;
+
+2. Les recettes et dépenses doivent être évaluées de façon sincère ;
+
+3. Le remboursement de la dette en capital ne doit pas être couvert par le produit des emprunts, sauf dans le cas de
+renégociation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+**Liens**:
+
+  - TXT_ASSOCIE: Arrêté du 3 mars 1994
+  - TXT_ASSOCIE: Arrêté du 3 mars 1994 - art. 1 (V)
+  - TXT_ASSOCIE: Arrêté du 3 mars 1994 - art. 2 (V)
+  - TXT_ASSOCIE: Arrêté du 3 mars 1994 - art. 3 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-11 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-11 (Ab)
+  - Code de la santé publique - art. R714-3-12 (M)
+  - Code de la santé publique - art. R714-3-13 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-30 (Ab)
+  - Code de la santé publique - art. R714-3-7 (Ab)
+  - Code de la santé publique - art. R715-7-1 (Ab)
+
+
+###### Article R714-3-9
+
+Les activités assurées par les établissements publics de santé sont retracées dans le cadre d'un budget unique, intitulé
+budget général, à l'exception des opérations d'exploitation concernant les activités ou services suivants qui sont, pour
+chacun d'eux, obligatoirement retracées dans un budget annexe :
+
+a) Exploitation de la dotation non affectée aux services hospitaliers ;
+
+b) Les unités de soins de longue durée mentionnées au 2° de l'article L. 711-2 ;
+
+c) Les établissements de transfusion sanguine régis par le décret n° 54-65 du 16 janvier 1954 ;
+
+d) Chacune des activités relevant de la loi n° 75-535 du 30 juin 1975 ;
+
+e) Les activités de lutte contre l'alcoolisme visées à l'article L. 355-1 ;
+
+f) Les structures pour toxicomanes mentionnées à l'article L. 711-8.
+
+Aucun de ces budgets annexes ne peut recevoir de subvention d'équilibre du budget général.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de la santé publique annexe, L711-2, L355-1, L711-8
+  - Décret n°54-65 1954-01-16
+  - Loi n°75-535 1975-06-30
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°99-316 du 26 avril 1999 - art. 30 (Ab)
+  - Décret n°99-317 du 26 avril 1999 - art. 40 (Ab)
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 24 (Ab)
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 29 (Ab)
+  - Décret n°2003-1010 du 22 octobre 2003 - art. 75 (Ab)
+  - Décret n°2005-723 du 29 juin 2005 - art. 2 (V)
+  - Code de l'action sociale et des familles - art. R314-188 (M)
+  - Code de l'action sociale et des familles - art. R314-192 (M)
+  - Code de l'action sociale et des familles - art. R314-75 (M)
+  - Code de la santé publique - art. R714-3-13 (Ab)
+  - Code de la santé publique - art. R714-3-50 (Ab)
+  - Code de la santé publique - art. R714-3-50-1 (Ab)
+  - Code de la santé publique - art. R714-3-60 (Ab)
+  - Code de la santé publique - art. R714-3-63 (Ab)
+  - Code de la santé publique - art. R716-3-36 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-12 (V)
+
+
+###### Article R714-3-10
+
+Le budget général des établissements publics de santé est présenté en deux sections :
+
+a) Dans la première section sont prévues et autorisées les opérations d'investissement se rapportant à l'ensemble des
+activités de l'établissement ;
+
+b) Dans la seconde section sont prévues et autorisées les opérations d'exploitation, à l'exclusion de celles qui sont
+retracées dans un budget annexe.
+
+Toutefois, ne constituent pas une charge d'exploitation les honoraires des médecins exerçant dans les hôpitaux locaux et dans
+les cliniques ouvertes, ni les honoraires perçus par les praticiens hospitaliers à temps plein au titre de leur activité
+libérale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-13 (V)
+  - Code de la santé publique - art. R6145-31 (T)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-60 (Ab)
+  - Code de la santé publique - art. R715-7-1 (M)
+  - Code de la santé publique - art. R715-7-5 (Ab)
+
+
+###### Article R714-3-11
+
+La section d'investissement du budget général est présentée conformément aux groupes fonctionnels suivants :
+
+1° En dépenses :
+
+- groupe 1 : remboursement de la dette ;
+
+- groupe 2 : immobilisations ;
+
+- groupe 3 : reprise sur provisions ;
+
+- groupe 4 : autres dépenses.
+
+2° En recettes :
+
+- groupe 1 : emprunts ;
+
+- groupe 2 : amortissements ;
+
+- groupe 3 : provisions ;
+
+- groupe 4 : autres recettes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-14 (M)
+  - Code de la santé publique - art. R6145-14 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-14 (Ab)
+  - Code de la santé publique - art. R714-3-34 (Ab)
+  - Code de la santé publique - art. R714-3-7 (M)
+  - Code de la santé publique - art. R714-3-8 (M)
+  - Code de la santé publique - art. R715-7-1 (M)
+
+
+###### Article R714-3-12
+
+La section d'exploitation du budget général est présentée conformément aux groupes fonctionnels suivants :
+
+1° En dépenses :
+
+- groupe 1 : charges d'exploitation relatives au personnel ;
+
+- groupe 2 : charges d'exploitation à caractère médical ;
+
+- groupe 3 : charges d'exploitation à caractère hôtelier et général ;
+
+- groupe 4 : amortissements, provisions, charges financières et exceptionnelles.
+
+2° En recettes :
+
+- groupe 1 : dotation globale de financement ou forfait global de soins ;
+
+- groupe 2 : produits de l'activité hospitalière ;
+
+- groupe 3 : autres produits ;
+
+- groupe 4 : transfert de charges.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°2004-1539 du 30 décembre 2004 - art. 6 (V)
+  - Décret n°2005-30 du 14 janvier 2005 - art. 11 (V)
+  - Décret n°2005-30 du 14 janvier 2005 - art. 12 (V)
+  - Code de la santé publique - art. R711-20 (Ab)
+  - Code de la santé publique - art. R714-3-14 (Ab)
+  - Code de la santé publique - art. R714-3-48 (Ab)
+  - Code de la santé publique - art. R714-3-49 (Ab)
+  - Code de la santé publique - art. R714-3-7 (M)
+  - Code de la santé publique - art. R714-3-8 (Ab)
+  - Code de la santé publique - art. R715-7-1 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-15 (Ab)
+
+
+###### Article R714-3-13
+
+Les budgets annexes cités à l'article R. 714-3-9 sont présentés conformément aux groupes fonctionnels suivants :
+
+1° Pour la dotation non affectée :
+
+a) En dépenses :
+
+- groupe 1 : charges d'exploitation relatives au personnel ;
+
+- groupe 2 : autres charges d'exploitation.
+
+b) En recettes :
+
+- groupe 1 : produits de la dotation non affectée ;
+
+- groupe 2 : reprise sur amortissements et provisions, transfert de charges.
+
+2° Pour les unités de soins de longue durée et chacune des activités relevant de la loi n° 75-535 du 30 juin 1975 :
+
+a) En dépenses, selon une présentation identique à celle du budget général.
+
+b) En recettes :
+
+- groupe 1 : forfait global de soins ;
+
+- groupe 2 : forfaits journaliers de soins ;
+
+- groupe 3 : produits de l'hébergement ;
+
+- groupe 4 : autres produits.
+
+3° Pour les établissements de transfusion sanguine :
+
+a) En dépenses :
+
+- groupe 1 : charges d'exploitation relatives au personnel ;
+
+- groupe 2 : charges d'exploitation à caractère médical ;
+
+- groupe 3 : autres charges.
+
+b) En recettes :
+
+- groupe 1 : produits du sang et dérivés ;
+
+- groupe 2 : produits de l'activité de laboratoire ;
+
+- groupe 3 : autres produits.
+
+4° Pour les structures pour toxicomanes et les activités de lutte contre l'alcoolisme :
+
+a) En dépenses, selon une présentation identique à celle des établissements de transfusion sanguine.
+
+b) En recettes :
+
+- groupe 1 : subvention de l'Etat ;
+
+- groupe 2 : autres produits.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Loi n°75-535 1975-06-30
+  - Code de la santé publique - art. R714-3-9 (M)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°2005-723 du 29 juin 2005 - art. 2 (V)
+  - Code de la santé publique - art. R714-3-14 (Ab)
+  - Code de la santé publique - art. R714-3-7 (M)
+  - Code de la santé publique - art. R714-3-8 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-16 (T)
+
+
+###### Article R714-3-14
+
+Pour la section d'investissement du budget général définie à l'article R. 714-3-11, les propositions de dépenses et les
+prévisions de recettes présentées au vote du conseil d'administration font apparaître distinctement les dotations applicables
+aux opérations en cours et celles applicables aux opérations nouvelles.
+
+Les propositions de dépenses et les prévisions de recettes relatives à la réalisation, sur l'exercice concerné, des
+opérations inscrites dans les programmes d'investissement mentionnés au 2° de l'article L. 714-4 sont retracées dans ce
+cadre.
+
+Pour la section d'exploitation du budget général et les budgets annexes définis aux articles R. 714-3-12 et R. 714-3-13, les
+propositions de dépenses et les prévisions de recettes présentées au vote du conseil d'administration font apparaître
+distinctement :
+
+1° Le montant des dépenses et des recettes jugées indispensables pour poursuivre l'exécution des missions dans les conditions
+approuvées l'année précédente ;
+
+2° Les mesures nouvelles portant majoration ou minoration des dotations de dépenses et des prévisions de recettes telles que
+définies au 1°.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-4 (M)
+  - Code de la santé publique - art. R714-3-11 (Ab)
+  - Code de la santé publique - art. R714-3-12 (M)
+  - Code de la santé publique - art. R714-3-13 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-17 (T)
+  - Code de la santé publique - art. R6145-18 (T)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R715-7-1 (Ab)
+  - Code de la santé publique - art. R726-9 (Ab)
+
+
+###### Article R714-3-15
+
+La ventilation des dépenses et des recettes approuvées entre les comptes de chaque groupe fonctionnel est soumise à la
+délibération du conseil d'administration dans un délai de quinze jours suivant la réception de la notification de la décision
+prise par l'autorité administrative mentionnée à l'article R. 714-3-27.
+
+Elle s'effectue selon les comptes définis dans la nomenclature fixée par le décret prévu au premier alinéa de l'article L.
+714-7.
+
+Ces comptes déterminent le niveau du contrôle de la disponibilité des crédits exercé par le comptable.
+
+La délibération est exécutoire à compter de la date de sa transmission à l'autorité administrative. S'agissant des décisions
+modificatives, cette transmission intervient au plus tard le 31 janvier suivant l'exercice auquel elles se rapportent.
+
+**Nota:**
+
+[*Nota : Décret 92-776 du 31 juillet 1992 art. 10 II : les dates limites mentionnées à l'article R714-3-15, dernier alinéa
+seront applicables ou prises en compte suivant les modalités et le calendrier fixés par arrêté des ministres chargés du
+budget et de la santé.*]
+
+[*Nota - Arrêté du 11 août 1994 art. 1 : date d'entrée en vigueur.*]
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1994-08-11 art. 1
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+  - Décret n°92-776 du 31 juillet 1992 - art. 10 (Ab) JORF 8 août 1992
+
+_Cité par_:
+
+  - Arrêté du 26 mars 1993 - art. 5 (Ab)
+  - Décret n°2005-30 du 14 janvier 2005 - art. 14 (V)
+  - Code de la santé publique - art. R714-3-42 (Ab)
+  - Code de la santé publique - art. R714-3-7 (M)
+  - Code de la santé publique - art. R715-7-1 (Ab)
+  - Code de la santé publique - art. R716-3-8 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-7 (M)
+  - Code de la santé publique - art. R714-3-27 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-19 (T)
+
+
+###### Article R714-3-16
+
+Sont annexés au projet de budget soumis au conseil d'administration les documents suivants :
+
+1. Le rapport du directeur de l'établissement justifiant les propositions de dépenses et les prévisions de recettes ;
+
+2. L'avis de la commission médicale d'établissement ;
+
+3. L'avis du comité technique d'établissement ;
+
+4. Le tableau des emplois permanents visé à l'article L. 714-4 ;
+
+5. Un état de répartition des charges par catégorie tarifaire conformément aux articles R. 714-3-19, R. 714-3-20 et R.
+714-3-22, accompagné des propositions de tarifs de prestations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-4 (M)
+  - Code de la santé publique - art. R714-3-19 (M)
+  - Code de la santé publique - art. R714-3-20 (M)
+  - Code de la santé publique - art. R714-3-22 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-20 (T)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-28 (Ab)
+  - Code de la santé publique - art. R714-3-29 (Ab)
+  - Code de la santé publique - art. R715-7-1 (M)
+  - Code de la santé publique - art. R716-5-5 (Ab)
+
+
+###### Article R714-3-17
+
+Le tableau des emplois permanents fait apparaître, pour le budget général et chacun des budgets annexes, le nombre par grade
+ou qualification des emplois dont la rémunération est prévue au budget.
+
+Le modèle du tableau des emplois permanents est fixé par arrêté des ministres chargés de la santé, de la sécurité sociale et
+du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-21 (T)
+
+
+###### Article R714-3-18
+
+Des budgets de programme annuels ou pluriannuels définissant des objectifs quantifiés peuvent être établis par le conseil
+d'administration au titre d'actions particulières. Ils retracent l'ensemble des dépenses et des recettes d'exploitation et
+d'investissement représentatives des moyens à mettre en oeuvre pour la réalisation de ces objectifs et des produits attendus.
+
+Les budgets de programme peuvent être établis pour la mise en oeuvre des contrats pluriannuels conclus dans le cadre des
+dispositions de l'article L. 712-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°97-1248 1997-12-29 art. 1 9° JORF 30 décembre 1997
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-4 (Ab)
+
+
+##### Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale<a id=451></a>
+
+###### Article R714-3-19
+
+Les tarifs de prestations institués à l'article L. 174-3 du code de la sécurité sociale sont établis pour :
+
+a) L'hospitalisation complète en régime commun, au moins pour chacune des catégories suivantes :
+
+- services spécialisés ou non ;
+
+- services de spécialités coûteuses ;
+
+- services de spécialités très coûteuses ;
+
+- services de suite et de réadaptation ;
+
+- unités de soins de longue durée pour ce qui concerne les soins ;
+
+b) Les modes de prise en charge alternatifs à l'hospitalisation, au moins pour chacune des catégories suivantes :
+
+- l'hospitalisation à temps partiel ;
+
+- la chirurgie ambulatoire ;
+
+- l'hospitalisation à domicile ;
+
+c) Les interventions du service mobile de secours et de soins d'urgence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-22 (T)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-16 (Ab)
+  - Code de la santé publique - art. R714-3-20 (Ab)
+  - Code de la santé publique - art. R715-7-5 (Ab)
+  - Code de la santé publique - art. R715-7-6 (Ab)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L174-3 (M)
+
+
+###### Article R714-3-20
+
+Sans préjudice des dispositions prévues aux articles R. 714-3-21, R. 714-3-37 et R. 714-3-49, les tarifs de prestations
+mentionnés aux a et b de l'article R. 714-3-19, à l'exception de ceux relatifs aux unités de soins de longue durée, sont
+obtenus, pour chaque catégorie tarifaire, en divisant le prix de revient prévisionnel par le nombre de journées
+d'hospitalisation prévues, après déduction des produits ne résultant pas de la facturation des tarifs de prestations.
+
+Le prix de revient prévisionnel est égal à la totalité des dépenses d'exploitation comprenant :
+
+a) Les charges directes ;
+
+b) Les charges des consommations d'actes, de biens et de services médicaux sur la base de leur prix d'achat ou, à défaut, de
+leur prix de revient ;
+
+c) Les autres charges de la section d'exploitation du budget général qui ne sont pas couvertes par des ressources propres,
+réparties entre les catégories tarifaires proportionnellement au nombre de journées prévues dans chaque catégorie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-23 (T)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-16 (Ab)
+  - Code de la santé publique - art. R714-3-22 (Ab)
+  - Code de la sécurité sociale. - art. R174-32 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-19 (M)
+  - Code de la santé publique - art. R714-3-21 (M)
+  - Code de la santé publique - art. R714-3-37 (M)
+  - Code de la santé publique - art. R714-3-49 (M)
+
+
+###### Article R714-3-21
+
+En application de l'article L. 716-2, des tarifs de prestations relatifs aux spécialités très coûteuses peuvent être fixés
+par arrêtés des ministres chargés de la santé et de la sécurité sociale, sur la base des coûts par pathologies déterminés
+dans un échantillon d'établissement représentatifs. Ces tarifs s'appliquent aux établissements après accord du conseil
+d'administration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 24 mars 1993
+  - TXT_SOURCE: Arrêté du 24 mars 1993 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 24 mars 1993 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 18 août 1994
+  - TXT_SOURCE: Arrêté du 18 août 1994 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 18 août 1994 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 18 août 1994 - art. 3 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L716-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-24 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-20 (Ab)
+
+
+###### Article R714-3-22
+
+Les tarifs de prestations relatifs aux interventions du service mobile de secours et de soins d'urgence, lorsque celui-ci est
+appelé pour prodiguer des soins d'urgence, sont fixés dans les conditions suivantes :
+
+1° Pour les déplacements terrestres, les sorties sont tarifées par période de trente minutes d'intervention de l'équipe
+médicale auprès du patient. Chaque période de trente minutes entamée est décomptée en totalité.
+
+2° Pour les déplacements aériens, les sorties sont tarifées par minute d'intervention de l'équipe médicale auprès du patient.
+
+Les tarifs sont calculés selon les modalités définies à l'article R. 714-3-20 sur la base du nombre d'unités d'oeuvre
+définies à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-25 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-16 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-20 (M)
+
+
+###### Article R714-3-23
+
+La participation du service mobile de secours et de soins d'urgence à la couverture médicale des grands rassemblements, au
+sens de l'article 5 du décret n° 87-1005 du 16 décembre 1987, fait l'objet d'une facturation spécifique dans le cadre d'une
+convention passée entre l'établissement public de santé et les parties prenantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Décret n°87-1005 du 16 décembre 1987 - art. 5 (Ab)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-26 (T)
+
+
+###### Article R714-3-24
+
+Le tarif de prestations afférent à l'hospitalisation des personnes hospitalisées admises sur leur demande en régime
+particulier, tel qu'il est défini par l'article 10 du décret n° 74-27 du 14 janvier 1974, est égal au tarif de prestations
+fixé pour les malades du régime commun majoré au plus de 50 p. 100 du tarif moyen calculé toutes disciplines confondues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Décret n°74-27 du 14 janvier 1974 - art. 10 (Ab)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-27 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-38 (Ab)
+
+
+###### Article R714-3-25
+
+Les tarifs de prestations ne sont pas applicables aux journées pour lesquelles les personnes hospitalisées ont obtenu une
+permission de sortie accordée au titre de l'article 54 du décret n° 74-27 du 14 janvier 1974.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Décret n°74-27 du 14 janvier 1974 - art. 54 (Ab)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-28 (T)
+
+
+###### Article R714-3-26
+
+La dotation globale mentionnée à l'article L. 174-1 du code de la sécurité sociale représente la part des dépenses
+obligatoirement prises en charge par les régimes d'assurance maladie.
+
+Elle est égale à la somme des éléments suivants :
+
+1° La différence entre, d'une part, la totalité des charges d'exploitation inscrites au budget général, à l'exclusion de
+celles relatives aux annulations de titres de recettes sur exercices antérieurs pour changement de débiteur, et, d'autre
+part, la totalité des recettes d'exploitation autres que la dotation globale ;
+
+2° Le montant des forfaits annuels de soins fixés dans les conditions respectivement prévues à la sous-section 3 de la
+section 1 du chapitre V du décret n° 58-1202 du 11 décembre 1958, au titre III du décret n° 61-09 du 3 janvier 1961 ainsi
+qu'à la section 4 du chapitre VI du présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Décret n°58-1202 1958-12-11
+  - Code de la sécurité sociale. - art. L174-1 (M)
+  - Décret n°61-09 1961-01-03
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°2005-30 du 14 janvier 2005 - art. 11 (V)
+  - Décret n°2005-30 du 14 janvier 2005 - art. 9 (Ab)
+  - Code de la santé publique - art. R714-3-28 (Ab)
+  - Code de la sécurité sociale. - art. R174-1-7 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-30 (T)
+
+
+##### Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget<a id=452></a>
+
+###### Article R714-3-27
+
+Sous réserve des dispositions prises en application de l'article L. 716-3, le contrôle de l'Etat prévu par l'article L. 714-1
+est exercé par le préfet du département d'implantation de l'établissement sur rapport du directeur départemental des affaires
+sanitaires et sociales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Code de la santé publique - art. D714-12-5 (P)
+  - Code de la santé publique - art. R714-3-15 (M)
+  - Code de la santé publique - art. R714-3-28 (Ab)
+  - Code de la santé publique - art. R714-3-29 (Ab)
+  - Code de la santé publique - art. R714-3-30 (Ab)
+  - Code de la santé publique - art. R714-3-31 (Ab)
+  - Code de la santé publique - art. R714-3-33 (Ab)
+  - Code de la santé publique - art. R714-3-36 (Ab)
+  - Code de la santé publique - art. R714-3-40 (Ab)
+  - Code de la santé publique - art. R714-3-43 (Ab)
+  - Code de la santé publique - art. R714-3-46 (Ab)
+  - Code de la santé publique - art. R714-3-49 (Ab)
+  - Code de la santé publique - art. R714-3-5 (Ab)
+  - Code de la santé publique - art. R714-3-7 (Ab)
+  - Code de la santé publique - art. R715-13-2 (Ab)
+  - Code de la santé publique - art. R715-7-5 (Ab)
+  - Code de la santé publique - art. R716-5-3 (Ab)
+  - Code de la santé publique - art. R716-5-6 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-1 (M)
+  - Code de la santé publique - art. L716-3 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-32 (T)
+
+
+###### Article R714-3-28
+
+Le budget ainsi que les propositions de tarifs de prestations et de dotation globale sont transmis, en vue de leur
+approbation, au plus tard le 15 octobre de l'année précédant l'exercice auquel ils se rapportent, [*délai*] d'une part, à
+l'autorité administrative mentionnée à l'article R. 714-3-27 et, d'autre part, à la caisse chargée du versement de la
+dotation globale ainsi qu'à la caisse régionale d'assurance maladie, qui les tient à la disposition des autres organismes
+responsables de la gestion des régimes d'assurance maladie.
+
+Il est accompagné des documents mentionnés à l'article R. 714-3-16.
+
+Les décisions modificatives qui ont pour objet de modifier le montant de chacun des groupes fonctionnels précédemment
+approuvé sont transmises, en vue de leur approbation, à l'autorité administrative mentionnée à l'article R. 714-3-27, sans
+préjudice des dispositions prévues au dernier alinéa de l'article R. 714-3-31.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°2005-421 du 4 mai 2005 - art. 3 (V)
+  - Code de la santé publique - art. R714-3-30 (Ab)
+  - Code de la santé publique - art. R714-3-31 (Ab)
+  - Code de la santé publique - art. R714-3-61 (Ab)
+  - Code de la santé publique - art. R716-5-5 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-33 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-16 (M)
+  - Code de la santé publique - art. R714-3-27 (M)
+
+
+###### Article R714-3-29
+
+L'autorité administrative mentionnée à l'article R. 714-3-27 peut se faire communiquer par l'établissement toute information
+nécessaire à l'exercice du contrôle de l'Etat, et notamment les documents suivants :
+
+1. L'inventaire des équipements et des matériels ;
+
+2. L'état des propriétés foncières et immobilières ;
+
+3. Le tableau relatif à l'activité, aux moyens et aux consommations par centre de responsabilité mentionné à l'article R.
+714-3-45 ;
+
+4. Le tableau de synthèse des coûts par activité mentionné à l'article R. 714-3-43 ;
+
+5. Les résultats trimestriels de la comptabilité des dépenses engagées et les tableaux trimestriels des effectifs rémunérés
+mentionnés à l'article R. 714-3-42.
+
+L'établissement tient les documents ci-dessus énumérés à la disposition des organismes responsables de la gestion des régimes
+d'assurance maladie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-34 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-27 (M)
+  - Code de la santé publique - art. R714-3-42 (Ab)
+  - Code de la santé publique - art. R714-3-43 (M)
+  - Code de la santé publique - art. R714-3-45 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-30 (Ab)
+  - Code de la santé publique - art. R715-7-1 (M)
+
+
+###### Article R714-3-30
+
+Les documents mentionnés aux articles R. 714-3-28 et R. 714-3-29 sont tenus à la disposition des directeurs régionaux des
+affaires sanitaires et sociales, du directeur régional de la sécurité sociale des Antilles-Guyane et du directeur
+départemental de la sécurité sociale de la Réunion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°2005-30 du 14 janvier 2005 - art. 9 (V)
+  - Code de la santé publique - art. R715-7-1 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-35 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-28 (M)
+  - Code de la santé publique - art. R714-3-29 (M)
+
+
+###### Article R714-3-31
+
+La caisse régionale d'assurance maladie est chargée de recueillir, au sein d'une commission d'examen des budgets hospitaliers
+qu'elle préside et réunit, l'avis de chacun des organismes responsables de la gestion des régimes d'assurance maladie sur le
+budget de l'établissement, ainsi que les observations formulées par les services du contrôle médical. Ces organismes peuvent
+déléguer à la caisse régionale d'assurance maladie leur compétence pour exprimer cet avis.
+
+Les représentants des régimes sont désignés par les conseils d'administration des organismes dont ils relèvent. Ils peuvent
+être désignés parmi les membres du personnel de direction et du contrôle médical.
+
+Le directeur de l'établissement, préalablement informé de la date d'examen du budget et des observations déjà formulées par
+écrit, est entendu par la commission, à sa demande ou à celle de la commission.
+
+Il est accompagné du président de la commission médicale et assisté de personnes de son choix.
+
+L'autorité administrative mentionnée à l'article R. 714-3-27, le directeur régional des affaires sanitaires et sociales, le
+directeur régional de la sécurité sociale des Antilles-Guyane et le directeur départemental de la sécurité sociale de la
+Réunion peuvent assister aux réunions de la commission.
+
+L'avis de la commission, accompagné des observations du service du contrôle médical, est adressé à l'établissement concerné
+ainsi qu'à l'autorité administrative mentionnée à l'article R. 714-3-27, dans un délai de trente jours à compter de la
+réception par la caisse régionale d'assurance maladie de la délibération du conseil d'administration de l'établissement
+public de santé et des douments budgétaires transmis selon les modalités définies à l'article R. 714-3-28.
+
+La commission donne également un avis sur les décisions modificatives prises en application de l'article R. 714-3-37.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°97-1248 1997-12-29 art. 1 12° JORF 30 décembre 1997
+
+_Cité par_:
+
+  - Décret n°2005-421 du 4 mai 2005 - art. 3 (V)
+  - Code de la santé publique - art. R714-3-33 (Ab)
+  - Code de la santé publique - art. R716-3-34 (Ab)
+  - Code de la santé publique - art. R716-5-6 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-36 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-27 (M)
+  - Code de la santé publique - art. R714-3-28 (M)
+  - Code de la santé publique - art. R714-3-37 (M)
+
+
+###### Article R714-3-32
+
+Dans les départements d'outre-mer, la caisse générale de sécurité sociale remplit toutes les missions confiées, en
+application des chapitres IV, V et VI du présent titre, à la caisse régionale d'assurance maladie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°97-1248 1997-12-29 art. 1 12° JORF 30 décembre 1997
+
+_Cité par_:
+
+  - Code de la santé publique - art. R715-7-1 (M)
+
+
+###### Article R714-3-33
+
+Le budget est approuvé par l'autorité administrative mentionnée à l'article R. 714-3-27, dans les conditions prévues à
+l'article L. 714-7, avant le 1er janvier de l'année à laquelle il se rapporte. L'autorité administrative fixe corrélativement
+les tarifs de prestations, et arrête le montant de la dotation globale avant le 1er janvier de l'année à laquelle ils se
+rapportent.
+
+Les décisions, modificatives mentionnées au quatrième alinéa de l'article R. 714-3-7 sont approuvées dans les mêmes
+conditions et délais, sans préjudice des dispositions prévues au dernier alinéa de l'article R. 714-3-31.
+
+Les décisions modificatives qui n'ont aucune incidence sur le montant de chacun des groupes fonctionnels précédemment
+approuvé sont exécutoires à compter de la date de leur transmission à l'autorité administrative, sans préjudice de
+l'application des dispositions de l'article L. 714-8.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°2005-421 du 4 mai 2005 - art. 3 (V)
+  - Code de la santé publique - art. R714-3-37 (Ab)
+  - Code de la santé publique - art. R715-7-1 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-7 (M)
+  - Code de la santé publique - art. L714-8 (M)
+  - Code de la santé publique - art. R714-3-27 (M)
+  - Code de la santé publique - art. R714-3-31 (Ab)
+  - Code de la santé publique - art. R714-3-7 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-37 (T)
+
+
+###### Article R714-3-34
+
+Dans le cas où le budget ne peut être rendu exécutoire au 1er janvier de l'année au cours de laquelle il s'exécute, et sans
+préjudice des dispositions des articles L. 714-8 et L. 714-9, l'ordonnateur est autorisé, jusqu'à ce qu'il devienne
+exécutoire, à engager, liquider et ordonnancer les dépenses dans les conditions suivantes :
+
+1° Pour ce qui concerne la section d'investissement :
+
+a) Les dépenses afférentes au remboursement en capital des annuités de la dette venant à échéance ;
+
+b) Sur autorisation du conseil d'administration, les dépenses d'investissement, dans la limite du quart des crédits ouverts,
+au titre de cette section, dans le cadre du dernier budget rendu exécutoire, non compris les crédits afférents aux dépenses
+mentionnées au a ci-dessus.
+
+2° Pour ce qui concerne la section d'exploitation, les dépenses dans la limite des autorisations de dépenses de ladite
+section du dernier budget rendu exécutoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-8 (M)
+  - Code de la santé publique - art. L714-9 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-38 (T)
+
+
+###### Article R714-3-35
+
+Dans le cas où les tarifs de prestations et le montant de la dotation globale n'ont pas été arrêtés avant le 1er janvier de
+l'exercice en cause, et jusqu'à l'intervention de la décision fixant le montant de cette dotation et de ces tarifs :
+
+1° La caisse chargée du versement de la dotation globale règle des acomptes mensuels égaux aux douzièmes de la dotation
+globale de l'année précédente ;
+
+2° Les recettes relatives à la facturation des tarifs de prestations sont liquidées et perçues dans les conditions en vigueur
+au cours de l'exercice précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°2005-30 du 14 janvier 2005 - art. 13 (Ab)
+  - Décret n°2005-30 du 14 janvier 2005 - art. 9 (V)
+  - Code de la santé publique - art. R715-7-1 (M)
+  - Code de la sécurité sociale. - art. R174-1-9 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-39 (T)
+
+
+###### Article R714-3-36
+
+L'arrêté fixant les tarifs de prestations et le montant de la dotation globale, accompagné du budget approuvé, est notifié
+par l'autorité administrative mentionnée à l'article R. 714-3-27 à l'établissement ainsi qu'à la caisse régionale d'assurance
+maladie et à la caisse chargée du versement de la dotation globale.
+
+En outre, cet arrêté est inséré au recueil des actes administratifs de la préfecture du département.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°95-236 du 2 mars 1995 - art. 24 (Ab)
+  - Code de la santé publique - art. R715-7-1 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-27 (M)
+
+
+###### Article R714-3-37
+
+Les décisions modificatives mentionnées à l'article R. 714-3-7 peuvent entraîner une révision des tarifs de prestations et du
+montant de la dotation globale dans les cas suivants :
+
+1° A l'occasion d'une modification importante et imprévisible des conditions économiques, appréciée par rapport à celles
+ayant servi de base au niveau national, au calcul du taux d'évolution des dépenses hospitalières fixé dans les conditions
+prévues par l'article L. 714-7 ;
+
+2° A l'occasion d'une modification importante de l'activité médicale, appréciée et évaluée selon des critères médicaux et
+économiques au moyen notamment du système d'information médicalisée de l'établissement et compatible avec les objectifs du
+schéma d'organisation sanitaire prévu à l'article L. 712-3.
+
+Les dépenses autorisées sur les comptes de charges, dont la liste est fixée par arrêté des ministres chargés du budget, de la
+santé et de la sécurité sociale, font, alors, l'objet d'une majoration ou d'une minoration.
+
+Lorsqu'il n'a pas été possible de procéder en temps utile à la révision des tarifs de prestations qu'imposait la décision
+modificative, la charge indûment supportée par la dotation globale est prise en compte pour le calcul des tarifs de
+prestations et la fixation du montant de la dotation globale de l'exercice suivant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 10 (Ab)
+  - Code de la santé publique - art. R714-3-20 (M)
+  - Code de la santé publique - art. R714-3-31 (Ab)
+  - Code de la santé publique - art. R715-7-1 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L712-3 (M)
+  - Code de la santé publique - art. L714-7 (M)
+  - Code de la santé publique - art. R714-3-7 (M)
+
+
+###### Article R714-3-38
+
+Par dérogation aux dispositions de l'article R. 714-3-2, et sans préjudice des dispositions de l'article R. 714-3-39, au
+début de chaque année, l'ordonnateur dispose d'un délai d'un mois pour procéder, d'une part, pour ce qui concerne la section
+d'exploitation, à l'émission des titres de recettes et des mandats correspondant aux droits acquis et aux services faits au
+cours de l'année précédente et, d'autre part, aux opérations d'ordre budgétaire et non budgétaire dont il a l'initiative.
+
+Le comptable procède dans le même délai à la comptabilisation de ces opérations.
+
+**Nota:**
+
+[*Nota : Décret 92-776 du 31 juillet 1992 art. 10 II : les dispositions de l'article R714-3-38 seront applicables ou prises
+en compte suivant les modalités et le calendrier fixés par arrêté des ministres chargés du budget et de la santé.*]
+
+[*Nota - Arrêté du 11 août 1994 art. 1 : date d'entrée en vigueur.*]
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1994-08-11 art. 1
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 10 (Ab)
+  - Arrêté du 11 août 1994 - art. 1 (V)
+  - Code de la santé publique - art. D714-12-5 (P)
+  - Code de la santé publique - art. R716-3-37 (M)
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-40 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-2 (Ab)
+  - Code de la santé publique - art. R714-3-39 (Ab)
+
+
+###### Article R714-3-39
+
+Les dépenses de la section d'investissement régulièrement engagées mais non mandatées à la clôture de l'exercice sont
+notifiées par l'ordonnateur au comptable avec les justifications nécessaires et font l'objet de la procédure de report visée
+au dernier alinéa du présent article.
+
+Les dépenses de la section d'exploitation régulièrement engagées mais non mandatées à la clôture de l'exercice sont notifiées
+par l'ordonnateur au comptable avec les justifications nécessaires et rattachées au résultat dudit exercice selon la
+procédure de rattachement visée au dernier alinéa du présent article.
+
+Les crédits budgétaires de la section d'investissement non engagés peuvent être reportés selon les modalités visées au
+dernier alinéa du présent article.
+
+Les crédits budgétaires de la section d'exploitation non engagés ne peuvent être reportés au budget de l'exercice suivant.
+
+Les modalités de report ou de rattachement sont précisées par arrêté conjoint des ministres chargés du budget, de la santé et
+de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°2003-1010 du 22 octobre 2003 - art. 72 (Ab)
+  - Code de l'action sociale et des familles - art. R314-72 (M)
+  - Code de la santé publique - art. R714-3-38 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-41 (T)
+
+
+###### Article R714-3-40
+
+Sans préjudice de l'exercice de ses pouvoirs généraux de contrôle, l'autorité administrative mentionnée à l'article R.
+714-3-27 peut, à son initiative, ou à la demande du conseil d'administration ou du directeur de l'établissement, ou à la
+demande de la direction régionale des affaires sanitaires et sociales, de la caisse régionale d'assurance maladie ou de la
+caisse chargée du versement de la dotation globale, soumettre le fonctionnement et la gestion d'un établissement public de
+santé en difficulté à l'examen d'une mission d'enquête.
+
+Cette mission est composée du trésorier-payeur général du département, du directeur régional et du directeur départemental
+des affaires sanitaires et sociales, du directeur départemental de la concurrence, de la consommation et de la répression des
+fraudes, du directeur de la caisse régionale d'assurance maladie et du directeur de la caisse chargée du versement de la
+dotation globale ou de leurs représentants. La composition de la mission d'enquête peut être réduite, en fonction de son
+objet, à l'initiative de l'autorité administrative.
+
+La mission d'enquête procède à l'audition de toute personne qu'elle juge utile d'entendre, et notamment du président de la
+commission médicale et du représentant du contrôle médical compétent pour l'établissement considéré.
+
+L'autorité administrative communique les conclusions de la mission d'enquête au président du conseil d'administration, au
+directeur et au comptable de l'établissement ; elle propose les mesures de nature à remédier aux difficultés de
+fonctionnement ou de gestion constatées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-42 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-27 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R715-7-1 (M)
+  - Code de la santé publique - art. R716-3-43 (Ab)
+
+
+##### Paragraphe 5 : Du directeur, ordonnateur du budget<a id=453></a>
+
+###### Article R714-3-41
+
+Le directeur est l'ordonnateur du budget de l'établissement public de santé. Ses opérations font l'objet d'une comptabilité
+administrative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-7 (T)
+
+
+###### Article R714-3-42
+
+L'ordonnateur tient une comptabilité des dépenses engagées pour chacun des comptes prévus à l'article R. 714-3-15.
+
+Au dernier jour de chaque trimestre civil, l'ordonnateur établit un tableau des effectifs rémunérés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-8 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-15 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-29 (M)
+  - Code de la santé publique - art. R715-7-1 (M)
+
+
+###### Article R714-3-43
+
+Pour les besoins de la gestion financière, l'ordonnateur tient une comptabilité analytique qui couvre la totalité des
+activités et des moyens de l'établissement, selon une nomenclature fixée par arrêté des ministres chargés de la santé et de
+la sécurité sociale.
+
+A la clôture de l'exercice, les résultats de la comptabilité analytique sont retracés dans un tableau de synthèse des coûts
+par activités, présenté en valeurs financières et unités d'oeuvre, selon des modalités arrêtées par les ministres chargés de
+la santé et de la sécurité sociale.
+
+La synthèse des coûts par activité médicale tient notamment compte des informations sur les pathologies et leur mode de
+traitement, produites par le département d'information médicale suivant des modalités et un calendrier fixés par arrêté des
+ministres chargés de la santé et de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-9 (T)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-29 (M)
+  - Code de la santé publique - art. R714-3-46 (Ab)
+  - Code de la santé publique - art. R714-3-48 (Ab)
+  - Code de la santé publique - art. R715-7-1 (M)
+
+
+###### Article R714-3-44
+
+Dans le respect des dispositions du code des marchés publics et sans préjudice des délégations de signature consenties par
+application de l'article L. 714-12, le directeur est seul compétent pour passer les marchés de travaux, fournitures ou
+services pour le compte de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2002-1368 du 19 novembre 2002 - art. 5 () JORF 21 novembre 2002
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-12 (M)
+
+
+###### Article R714-3-45
+
+Pour les besoins de la gestion interne, et notamment pour permettre aux responsables de structures et services de suivre la
+gestion des moyens budgétaires ainsi qu'il est prévu à l'article L. 714-13, le directeur érige en centres de responsabilité,
+d'une part, les structures médicales, pharmaceutiques et odontologiques telles qu'organisées conformément à l'article L.
+714-20, et, d'autre part, les services administratifs et logistiques.
+
+L'ensemble des centres de responsabilité couvre la totalité des activités et des moyens de l'établissement.
+
+Pour chaque centre de responsabilité, le directeur établit, en concertation avec le responsable de centre, un tableau
+comportant les éléments relatifs :
+
+a) A l'activité du centre ;
+
+b) Aux moyens qui y sont mis en oeuvre directement, à l'exclusion des moyens qui lui sont fournis par d'autres centres d'un
+même établissement ;
+
+c) Aux consommations d'actes, de biens et de services à caractère médical, le cas échéant.
+
+Les informations relatives aux moyens sont présentées en valeur financière et en unités d'oeuvre représentatives.
+
+La somme des moyens mis en oeuvre directement dans les centres de responsabilité, exprimés en valeur financière, est égale à
+la somme des charges d'exploitation inscrites au budget.
+
+Lors de la préparation du budget, le directeur établit le tableau prévisionnel des activités et moyens par centre de
+responsabilité et le soumet à l'avis du responsable du centre.
+
+En cours d'année et selon une périodicité au moins trimestrielle, un tableau retrace les activités, les charges et
+consommations de chaque centre de responsabilité. Il est accompagné d'une analyse des écarts par rapport aux prévisions
+initiales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°97-1248 1997-12-29 art. 1 20° JORF 30 décembre 1997
+
+_Cite_:
+
+  - Code de la santé publique - art. L714-13 (Ab)
+  - Code de la santé publique - art. L714-20 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-29 (M)
+
+
+##### Paragraphe 6 : Clôture de l'exercice et affectation des résultats<a id=454></a>
+
+###### Article R714-3-46
+
+A la clôture de l'exercice, le directeur établit le compte administratif retraçant ses opérations de dépenses et recettes et
+comportant le rappel des autorisations de dépenses allouées et des prévisions de recettes admises au dernier budget rendu
+exécutoire.
+
+Le compte administratif fait notamment apparaître le résultat comptable de chaque section du budget général et de la section
+d'exploitation de chacun des budgets annexes, ainsi que le montant des résultats à affecter selon les dispositions prévues
+aux articles R. 714-3-47, R. 714-3-49 et R. 714-3-50.
+
+Il est accompagné d'une annexe définie, par arrêté des ministres chargés du budget et de la santé, par référence au plan
+comptable général, et complété des documents suivants :
+
+1° Le rapport du directeur retraçant et expliquant l'évolution de l'activité, des dépenses et des recettes ;
+
+2° Un état des dépenses régulièrement engagées dans la limite des crédits autorisés et qui n'ont pas fait l'objet d'un
+mandatement à la clôture de l'exercice ;
+
+3° Le tableau de synthèse des coûts par activités prévu à l'article R. 714-3-43.
+
+Le comptable établit le compte de gestion ainsi qu'un rapport rendant compte, dans le cadre de ses compétences, de l'ensemble
+des éléments de sa gestion, et notamment de la situation patrimoniale et financière de l'établissement.
+
+Ces documents sont transmis à l'ordonnateur au plus tard le 1er juin de l'exercice suivant celui auquel ils se rapportent.
+
+Le conseil d'administration arrête les comptes de l'établissement au plus tard le 30 juin de l'année suivant l'exercice
+auquel ils se rapportent, après avoir délibéré sur le compte administratif présenté par l'ordonnateur et le compte de gestion
+établi par le comptable de l'établissement. Il délibère également sur l'affectation des résultats de chaque section du budget
+général et des budgets annexes.
+
+Le compte administratif et ses documents annexes, ainsi que le bilan et le compte de résultat se rapportant à l'exercice clos
+sont transmis, dans un délai de huit jours, à l'autorité administrative mentionnée à l'article R. 714-3-27 et à la caisse
+régionale d'assurance maladie, qui les tient à la disposition des autres organismes responsables de la gestion des régimes
+d'assurance maladie.
+
+Aucune décision modificative au titre de l'exercice en cours ne peut être prise avant cette transmission, sauf accord exprès
+de l'autorité administrative.
+
+**Nota:**
+
+[*Nota : Décret 92-776 du 31 juillet 1992 art. 10 II : les dates limites mentionnées à l'article R714-3-46, cinquième alinéa
+seront applicables ou prises en compte suivant les modalités et le calendrier fixés par arrêté des ministres chargés du
+budget et de la santé.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 8 avril 1994
+  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 4 (V)
+
+_Cité par_:
+
+  - Arrêté du 8 avril 1994 - art. 1 (V)
+  - Arrêté du 8 avril 1994 - art. 3 (V)
+  - Arrêté du 8 avril 1994 - art. 4 (V)
+  - Code de la santé publique - art. R714-3-30 (Ab)
+  - Code de la santé publique - art. R714-3-63 (Ab)
+  - Code de la santé publique - art. R715-7-1 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-43 (V)
+  - Code de la santé publique - art. R6145-44 (V)
+  - Code de la santé publique - art. R6145-45 (V)
+  - Code de la santé publique - art. R6145-46 (V)
+  - Code de la santé publique - art. R6145-47 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-27 (M)
+  - Code de la santé publique - art. R714-3-43 (M)
+  - Code de la santé publique - art. R714-3-47 (Ab)
+  - Code de la santé publique - art. R714-3-49 (M)
+  - Code de la santé publique - art. R714-3-50 (M)
+  - Code de la santé publique R714-3-47, R714-3-49, R714-3-50, annexe, R714-3-43, R714-3-27
+
+
+###### Article R714-3-47
+
+Le résultat de la section d'investissement constaté à la clôture d'exercice se cumule avec le résultat de l'exercice
+précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-48 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R714-3-46 (Ab)
+  - Code de la santé publique - art. R715-7-1 (Ab)
+
+
+###### Article R714-3-48
+
+Les prestations de services que les établissements publics de santé peuvent assurer à titre subsidiaire, ainsi que le prévoit
+l'article L. 714-14, sont développées dans la limite des moyens matériels et humains indispensables à l'exécution des
+missions définies aux articles L. 711-1 et L. 711-3.
+
+Dans le cas où la tarification des prestations de services est fixée par l'établissement, les tarifs opposables aux tiers, à
+l'exception de ceux afférents aux services exploités dans l'intérêt des personnels, ne peuvent en aucun cas être inférieurs
+aux prix de revient des prestations, calculés à partir de la comptabilité analytique mise en oeuvre conformément à l'article
+R. 714-3-43.
+
+Les produits dégagés ainsi que ceux provenant de l'exploitation des brevets et licences et du placement des fonds prévu à
+l'article L. 714-15 sont comptabilisés sur les comptes constituant le groupe fonctionnel "autres produits" prévu à l'article
+R. 714-3-12.
+
+Le résultat de ces activités est dégagé, au compte administratif, à partir du résultat comptable de l'exercice corrigé de
+l'écart entre les réalisations et les prévisions de recettes du groupe 2 défini au III de l'article R. 714-3-49.
+
+En cas de résultat déficitaire, sa prise en charge par l'établissement, dans le cadre de ses moyens budgétaires, ne doit pas
+se traduire par une diminution des crédits budgétaires nécessaires à l'exécution du service public hospitalier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cite_:
+
+  - Code de la santé publique - art. L711-1 (M)
+  - Code de la santé publique - art. L711-3 (M)
+  - Code de la santé publique - art. L714-14 (M)
+  - Code de la santé publique - art. L714-15 (M)
+  - Code de la santé publique - art. R714-3-12 (M)
+  - Code de la santé publique - art. R714-3-43 (M)
+  - Code de la santé publique - art. R714-3-49 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-49 (T)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R726-9 (Ab)
+
+
+###### Article R714-3-49
+
+Sous réserve des dispositions prévues au III du présent article, les résultats de la section d'exploitation du budget général
+sont affectés selon les modalités suivantes :
+
+I. - L'excédent est affecté par délibération du conseil d'administration :
+
+a) A un compte de réserve de compensation ;
+
+b) Au financement de mesures d'investissement ou de mesures d'exploitation, ces dernières ne pouvant avoir pour effet
+d'accroître les charges de l'assurance maladie ;
+
+c) A la couverture des charges d'exploitation.
+
+Cette affectation donne lieu à une décision modificative du budget de l'exercice au cours duquel l'excédent est constaté.
+
+II. - Le déficit est couvert en priorité par reprise sur le compte de réserve de compensation et, pour le surplus éventuel,
+par une réduction à due concurrence des autorisations de dépenses du dernier budget rendu exécutoire, dans le cadre d'une
+décision modificative.
+
+Toutefois, en cas de circonstances exceptionnelles, et sur accord préalable exprès de l'autorité administrative mentionnée à
+l'article R. 714-3-27, la reprise du déficit peut être étalée sur trois exercices.
+
+III. - 1. S'il est constaté que les recettes du budget général mentionnées au groupe 2 de l'article R. 714-3-12 sont, à la
+clôture de l'exercice, supérieures aux recettes prévues au dernier budget rendu exécutoire de l'exercice concerné, l'excédent
+de recettes est affecté à la couverture des charges d'exploitation autorisées au dernier budget rendu exécutoire de
+l'exercice en cours.
+
+Les tarifs de prestations et le montant de la dotation globale sont diminués en conséquence.
+
+2. S'il est constaté que les recettes mentionnées au 1 ci-dessus sont, à la clôture de l'exercice, inférieures aux recettes
+prévues au dernier budget rendu exécutoire de l'exercice concerné, le déficit de recettes ainsi constaté est couvert par
+ajout aux charges d'exploitation autorisées au dernier budget rendu exécutoire de l'exercice en cours.
+
+Les tarifs de prestations et le montant de la dotation globale sont majorés en conséquence.
+
+Les excédents ou déficits de recettes mentionnés au III (1 et 2) ci-dessus sont corrigés de la différence existant entre le
+montant des annulations de titres de recettes pour changement de débiteur et celui des réémissions de titres de recettes sur
+exercices antérieurs relatifs aux recettes visées au III (1) ci-dessus, comptabilisés à la clôture de l'exercice.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°2005-30 du 14 janvier 2005 - art. 11 (Ab)
+  - Décret n°2005-30 du 14 janvier 2005 - art. 12 (V)
+  - Décret n°2005-30 du 14 janvier 2005 - art. 14 (V)
+  - Décret n°2007-47 du 10 janvier 2007 - art. 2 (V)
+  - Code de la santé publique - art. R714-3-20 (Ab)
+  - Code de la santé publique - art. R714-3-46 (Ab)
+  - Code de la santé publique - art. R714-3-48 (Ab)
+  - Code de la santé publique - art. R714-3-50-1 (Ab)
+  - Code de la santé publique - art. R715-7-1 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-50 (T)
+  - Code de la santé publique - art. R6145-51 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-12 (M)
+  - Code de la santé publique - art. R714-3-27 (M)
+
+
+###### Article R714-3-50
+
+Le résultat de chacun des budgets annexes mentionnés à l'article R. 714-3-9 est affecté, selon les modalités suivantes :
+
+I. - 1. L'excédent du budget annexe désigné au a dudit article susvisé est affecté, au cours de l'exercice suivant celui
+auquel il se rapporte :
+
+a) Au financement d'opérations d'investissement ;
+
+b) Au financement de mesures d'exploitation du budget général.
+
+2. L'excédent de chacun des autres budgets annexes est affecté, au cours de l'exercice suivant celui auquel il se rapporte :
+
+a) A un compte de réserve de compensation ;
+
+b) A la couverture des charges d'exploitation dudit budget ;
+
+c) Au financement d'opérations d'investissement ou de mesures d'exploitation dudit budget.
+
+II. - 1. Le déficit du budget annexe désigné au a de l'article R. 714-3-9 est couvert par ajout aux charges d'exploitation de
+l'exercice suivant celui auquel il se rapporte.
+
+2. Le déficit de chacun des autres budgets annexes est couvert en priorité par reprise sur la réserve de compensation et,
+pour le surplus éventuel, par ajout aux charges d'exploitation de l'exercice suivant celui auquel il se rapporte. Toutefois,
+pour les budgets annexes mentionnés aux b et d, cette incorporation peut être étalée sur les trois exercices suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°99-316 du 26 avril 1999 - art. 5 (Ab)
+  - Code de l'action sociale et des familles - art. R314-163 (M)
+  - Code de la santé publique - art. R714-3-46 (Ab)
+  - Code de la santé publique - art. R714-3-50-1 (Ab)
+  - Code de la santé publique - art. R716-5-3 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-52 (T)
+  - Code de la santé publique - art. R6145-53 (T)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-9 (M)
+
+
+##### Paragraphe 7 : Du comptable<a id=455></a>
+
+###### Article R714-3-51
+
+Les postes comptables des établissements publics de santé relèvent des services déconcentrés du Trésor.
+
+Pour les établissements importants ou groupes d'établissements désignés par arrêté des ministres chargés du budget et de la
+santé, il peut être créé un poste comptable spécialisé.
+
+Les dépenses afférentes au fonctionnement des postes comptables hospitaliers sont à la charge du budget général de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-55 (T)
+
+
+###### Article R714-3-52
+
+Les poursuites pour le recouvrement des produits hospitaliers sont exercées selon les règles suivies en matière de
+contributions directes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-56 (Ab)
+
+
+###### Article R714-3-53
+
+En attendant l'acceptation des dons et legs, le comptable de l'établissement fait tous les actes conservatoires qui sont
+jugés nécessaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-57 (T)
+
+
+##### Section 2 : Organes représentatifs<a id=456></a>
+
+##### Sous-section 1 : Commissions médicales d'établissement<a id=457></a>
+
+##### Paragraphe 1 : Composition de commissions médicales d'établissement<a id=458></a>
+
+##### I : Centres hospitaliers autres que les centres hospitaliers universitaires<a id=459></a>
 
 ###### Article R714-16-1
 
@@ -70068,7 +72363,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-7 (V)
 
 
-##### II : Centres hospitaliers universitaires<a id=452></a>
+##### II : Centres hospitaliers universitaires<a id=460></a>
 
 ###### Article R714-16-6
 
@@ -70369,7 +72664,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-3 (M)
 
 
-##### III : Hôpitaux locaux<a id=453></a>
+##### III : Hôpitaux locaux<a id=461></a>
 
 ###### Article R714-16-11
 
@@ -70416,7 +72711,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-14 (V)
 
 
-##### IV : Syndicats interhospitaliers<a id=454></a>
+##### IV : Syndicats interhospitaliers<a id=462></a>
 
 ###### Article R714-16-12
 
@@ -70535,7 +72830,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-12 (M)
 
 
-##### Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement<a id=455></a>
+##### Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement<a id=463></a>
 
 ###### Article R714-16-14
 
@@ -71246,7 +73541,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-24 (M)
 
 
-##### Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux<a id=456></a>
+##### Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux<a id=464></a>
 
 ###### Article R714-16-29
 
@@ -71509,9 +73804,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-39 (V)
 
 
-##### Sous-section 2 : Comités techniques d'établissement<a id=457></a>
+##### Sous-section 2 : Comités techniques d'établissement<a id=465></a>
 
-##### Paragraphe 1 : Composition des comités techniques d'établissement<a id=458></a>
+##### Paragraphe 1 : Composition des comités techniques d'établissement<a id=466></a>
 
 ###### Article R714-17-1
 
@@ -72565,7 +74860,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-67 (V)
 
 
-##### Paragraphe 2 : Attributions des comités techniques d'établissement<a id=459></a>
+##### Paragraphe 2 : Attributions des comités techniques d'établissement<a id=467></a>
 
 ###### Article R714-18-1
 
@@ -72602,7 +74897,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-40 (V)
 
 
-##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement<a id=460></a>
+##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement<a id=468></a>
 
 ###### Article R714-18-2
 
@@ -73072,7 +75367,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-80 (V)
 
 
-##### Paragraphe 3 : Dispositions diverses<a id=461></a>
+##### Paragraphe 3 : Dispositions diverses<a id=469></a>
 
 ###### Article R714-18-15
 
@@ -73105,9 +75400,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-41 (V)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=462></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=470></a>
 
-##### Sous-section 1 : Conseil de service ou de département<a id=463></a>
+##### Sous-section 1 : Conseil de service ou de département<a id=471></a>
 
 ###### Article R714-22-1
 
@@ -73436,7 +75731,7 @@ _Créé par_:
   - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
 
 
-##### Sous-section 2 : Service de soins infirmiers<a id=464></a>
+##### Sous-section 2 : Service de soins infirmiers<a id=472></a>
 
 ###### Article R714-26-1
 
@@ -73733,7 +76028,7 @@ _Créé par_:
   - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
 
 
-##### Section 4 : Les personnels des établissements publics de santé<a id=465></a>
+##### Section 4 : Les personnels des établissements publics de santé<a id=473></a>
 
 ###### Article R714-28-1
 
@@ -73881,15 +76176,602 @@ _Cité par_:
   - Code de la santé publique - art. R714-28-1 (Ab)
 
 
-# Partie réglementaire ancienne - Décrets simples<a id=466></a>
+#### Chapitre 5 : Les établissements de santé privés<a id=474></a>
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=467></a>
+##### Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement<a id=475></a>
 
-### Titre Ier : Etablissements de santé<a id=468></a>
+##### Sous-section 2 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier<a id=476></a>
 
-#### Chapitre Ier : Missions et obligations des établissements de santé<a id=469></a>
+###### Article R715-7-1
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=470></a>
+Sont applicables aux établissements privés de santé participant au service public hospitalier, sans préjudice des règles
+d'organisation et de fonctionnement de droit privé qui leur sont spécifiques, les dispositions des articles R. 714-3-2 à R.
+714-3-6, R. 714-3-7, à l'exception du cinquième alinéa, R. 714-3-8, R. 714-3-10 à R. 714-3-12, R. 714-3-14, R. 714-3-15, à
+l'exception du troisième alinéa, R. 714-3-16, à l'exception du document mentionné au 3°, R. 714-3-17 à R. 714-3-28, R.
+714-3-29, à l'exception des documents mentionnés aux 2° et 3°, R. 714-3-30 à R. 714-3-32, R. 714-3-33, à l'exception du
+dernier alinéa, R. 714-3-35 à R. 714-3-37, R. 714-3-40, R. 714-3-42, R. 714-3-43, les trois derniers alinéas de l'article R.
+714-3-46, l'article R. 714-3-47 et l'article R. 714-3-49.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 2 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°99-317 du 26 avril 1999 - art. 43 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6161-9 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-10 (M)
+  - Code de la santé publique - art. R714-3-11 (Ab)
+  - Code de la santé publique - art. R714-3-12 (M)
+  - Code de la santé publique - art. R714-3-14 (M)
+  - Code de la santé publique - art. R714-3-15 (M)
+  - Code de la santé publique - art. R714-3-16 (M)
+  - Code de la santé publique - art. R714-3-2 (Ab)
+  - Code de la santé publique - art. R714-3-29 (M)
+  - Code de la santé publique - art. R714-3-3 (Ab)
+  - Code de la santé publique - art. R714-3-30 (M)
+  - Code de la santé publique - art. R714-3-32 (Ab)
+  - Code de la santé publique - art. R714-3-33 (M)
+  - Code de la santé publique - art. R714-3-35 (M)
+  - Code de la santé publique - art. R714-3-36 (M)
+  - Code de la santé publique - art. R714-3-37 (M)
+  - Code de la santé publique - art. R714-3-4 (Ab)
+  - Code de la santé publique - art. R714-3-40 (M)
+  - Code de la santé publique - art. R714-3-42 (Ab)
+  - Code de la santé publique - art. R714-3-43 (M)
+  - Code de la santé publique - art. R714-3-46 (M)
+  - Code de la santé publique - art. R714-3-47 (Ab)
+  - Code de la santé publique - art. R714-3-49 (M)
+  - Code de la santé publique - art. R714-3-5 (M)
+  - Code de la santé publique - art. R714-3-6 (M)
+  - Code de la santé publique - art. R714-3-7 (M)
+  - Code de la santé publique - art. R714-3-8 (M)
+  - Code de la santé publique R714-3-2, R714-3-3, R714-3-4, R714-3-5, R714-3-6, R714-3-7, R714-3-7, R714-3-8, R714-3-10, R714-3-11, R714-3-12, R714-3-14, R714-3-15, R714-3-16, R714-3-17 à R714-3-28, R714-3-29, R714-3-30, R714-3-32, R714-3-33, R714-3-35,
+
+
+###### Article R715-7-2
+
+Lorsque, pour la première année de participation au service public hospitalier, les décisions portant approbation du budget
+ou fixation des tarifs journaliers de prestations et du montant de la dotation globale sont prises postérieurement au 1er
+janvier dudit exercice, les dispositions suivantes sont applicables jusqu'à l'intervention des décisions précitées :
+
+1° La caisse chargée du versement de la dotation globale verse des acomptes mensuels sur la base d'un quinzième de l'ensemble
+des dépenses autorisées au dernier budget rendu exécutoire, financées par les prix de journée ;
+
+2° Les autres recettes sont mises en recouvrement dans les conditions de l'exercice précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 2 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6161-10 (V)
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. R174-1-9 (Ab)
+
+
+###### Article R715-7-3
+
+Les déficits et excédents des deux exercices précédant l'admission à l'exécution du service public hospitalier sont repris
+respectivement au cours de la première et de la deuxième année de financement par dotation globale, au titre des charges et
+des produits de la section d'exploitation du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 2 () JORF 8 août 1992
+
+
+###### Article R715-7-4
+
+Lorsque l'activité d'hospitalisation et de soins de l'établissement ne constitue pas l'activité exclusive de l'organisme
+gestionnaire, il est tenu pour l'activité participant au service public hospitalier une comptabilité distincte, rattachée par
+un compte de liaison à la comptabilité principale de l'organisme gestionnaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 2 () JORF 8 août 1992
+
+_Cité par_:
+
+  - Décret n°99-317 du 26 avril 1999 - art. 43 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6161-11 (V)
+
+
+###### Article R715-7-5
+
+Pour la fixation des tarifs de prestations et du montant de la dotation globale définis aux articles R. 714-3-19 à R.
+714-3-26, l'autorité administrative mentionnée à l'article R. 714-3-27 ne tient compte que des rémunérations des personnels
+telles qu'elles résultent des dispositions de la convention collective ou de l'accord d'établissement ayant reçu l'agrément
+prévu par l'article 16 de la loi n° 75-535 du 30 juin 1975.
+
+Lorsque l'établissement n'applique pas de convention collective ou d'accord d'établissement agréés, les rémunérations de ces
+personnels ne sont prises en compte que dans la limite de celles applicables aux catégories similaires des personnels des
+établissements publics de santé possédant les mêmes qualifications et la même ancienneté, sous réserve des dispositions
+réglementaires spécifiques applicables à certaines catégories de personnel médical des établissements de santé privés.
+
+Les loyers ne sont pris en compte que dans la limite de la valeur locative réelle des immeubles pris à bail.
+
+L'autorité administrative tient compte des prestations fournies par le siège social, lorsque celui-ci est distinct de
+l'établissement, sous réserve qu'elles correspondent à une prestation ou à un service pour lequel le siège social se
+substitue totalement ou partiellement à l'établissement.
+
+Lorsqu'il y a une cessation définitive d'activité, totale ou partielle, l'autorité administrative peut tenir compte du
+paiement des indemnités et charges annexes résultant du licenciement du personnel, sous réserve qu'il soit satisfait aux
+conditions visées aux 1° à 3° du premier alinéa de l'article R. 715-7-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cite_:
+
+  - Loi n°75-535 du 30 juin 1975 - art. 16 (M)
+  - Code de la santé publique - art. R714-3-27 (M)
+  - Code de la santé publique - art. R715-7-6 (M)
+  - Code de la santé publique R714-3-19 à R714-3-26, R714-3-27, R715-7-6
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 2 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6161-12 (V)
+
+
+###### Article R715-7-6
+
+Les frais financiers, les dotations aux comptes d'amortissements et aux comptes de provisions ainsi que, le cas échéant, les
+dotations annuelles au fonds de roulement et les annuités des emprunts contractés en vue de la constitution de ce fonds ne
+peuvent être pris en compte parmi les éléments servant au calcul de la dotation globale et des tarifs de prestations que dans
+les cas suivants :
+
+1° Si l'organisme gestionnaire est une fondation, une mutuelle ou une union de mutuelles, une association reconnue d'utilité
+publique, une congrégation ou s'il s'agit d'un établissement visé aux articles L. 312 à L. 314 ;
+
+2° S'il s'agit d'une association déclarée, à la condition que ses statuts prévoient, en cas de cessation d'activité,
+l'attribution à un établissement public ou privé poursuivant un but similaire de l'ensemble du patrimoine affecté à
+l'établissement ; l'autorité administrative a qualité pour approuver ou provoquer la désignation de l'attributaire ou pour
+procéder elle-même, le cas échéant, à cette désignation ;
+
+3° Si, à défaut des dispositions statutaires ci-dessus, l'organisme gestionnaire s'engage, en cas de cessation d'activité, à
+verser à un organisme public ou privé poursuivant un but similaire, le fonds de roulement et les provisions non employées
+ainsi qu'une somme correspondant à la plus-value immobilière résultant de dépenses inscrites au budget ; le service des
+domaines procède à l'évaluation de cette plus-value ; en cas de transformation ou de modification importante dans le
+fonctionnement de l'établissement, l'autorité administrative apprécie s'il y a lieu d'imposer le versement ci-dessus et dans
+quelle mesure.
+
+En outre, sans préjudice des dispositions ci-dessus, seuls les amortissements relatifs aux immobilisations affectées à
+l'activité hospitalière sont pris en compte pour la fixation du budget, des tarifs de prestations et de la dotation globale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 2 () JORF 8 août 1992
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6161-13 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R715-7-5 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique L312 à L314
+
+
+#### Chapitre 6 : Expérimentation et dispositions diverses<a id=477></a>
+
+##### Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif<a id=478></a>
+
+###### Article R716-5-1
+
+Dans les unités et centres de soins de longue durée mentionnés à l'article L. 716-5, la tarification comporte deux éléments :
+
+1° Un tarif journalier de soins ;
+
+2° Un tarif journalier d'hébergement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code de la santé publique - art. L716-5 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R716-5-5 (Ab)
+
+
+###### Article R716-5-2
+
+Le tarif journalier de soins est calculé, dans la limite du plafond mentionné à l'article R. 716-5-4, à partir des dépenses
+prévisionnelles de soins, qui comprennent :
+
+1° Les charges relatives à l'emploi des personnels assurant les soins et affectés à l'unité ou au centre de soins de longue
+durée ;
+
+2° Les charges relatives aux prescriptions médicales et au petit matériel médical ;
+
+3° L'amortissement du matériel médical et des équipements concourant aux soins ainsi que les frais financiers et les
+dotations aux provisions pour risques et charges d'exploitation qui y sont associés.
+
+Le tarif journalier de soins est obtenu en divisant le montant de ces dépenses par le nombre prévisionnel de journées.
+
+Le forfait annuel global de soins visé à l'article R. 716-5-9 est obtenu en retranchant du montant des dépenses
+prévisionnelles de soins retenues pour la détermination du tarif journalier de soins le produit de ce tarif multiplié par le
+nombre prévisionnel des journées non prises en charge par un régime d'assurance maladie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code de la santé publique - art. R716-5-4 (Ab)
+  - Code de la santé publique - art. R716-5-9 (Ab)
+
+
+###### Article R716-5-3
+
+Le tarif journalier d'hébergement est obtenu en divisant par le nombre prévisionnel de journées la différence entre le prix
+de revient prévisionnel et les recettes attendues au titre du tarif journalier de soins et du forfait annuel global de soins.
+
+Le prix de revient prévisionnel est égal à la totalité des dépenses prévisionnelles d'exploitation approuvées par l'autorité
+administrative mentionnée à l'article R. 714-3-27 diminuée des recettes prévisionnelles autres que celles provenant de la
+tarification des prestations de soins et d'hébergement et corrigée des résultats d'exploitation incorporés dans les
+conditions prévues à l'article R. 714-3-50.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-27 (M)
+  - Code de la santé publique - art. R714-3-50 (M)
+
+
+###### Article R716-5-4
+
+Le plafond du tarif journalier de soins, mentionné par le deuxième alinéa de l'article L. 716-5, est déterminé chaque année
+soit en valeur absolue, soit par limitation du pourcentage de hausse, par une décision conjointe des ministres chargés de la
+santé, de la sécurité sociale et du budget.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code de la santé publique - art. L716-5 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R716-5-2 (Ab)
+
+
+###### Article R716-5-5
+
+Indépendamment de la transmission prévue à l'article R. 714-3-28, les prévisions de dépenses et de recettes concernant
+l'unité ou le centre de soins de longue durée et les propositions de tarifs mentionnés à l'article R. 716-5-1 sont transmises
+au président du conseil général au plus tard le 15 octobre de l'année précédant l'exercice auquel elles se rapportent,
+accompagnées du rapport d'orientation, des documents mentionnés à l'article R. 714-3-16 et d'un état sur la décomposition
+analytique des charges.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-16 (M)
+  - Code de la santé publique - art. R714-3-28 (M)
+  - Code de la santé publique - art. R716-5-1 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R716-5-6 (Ab)
+
+
+###### Article R716-5-6
+
+Les organismes responsables de la gestion des régimes d'assurance maladie font connaître leur avis sur les prévisions et
+propositions mentionnées à l'article R. 716-5-5 dans les conditions prévues à l'article R. 714-3-31.
+
+Le président du conseil général fait connaître son avis sur ces prévisions et propositions à l'autorité administrative
+mentionnée à l'article R. 714-3-27 avant le 15 novembre de l'année précédant l'exercice auquel elles se rapportent [*délai*].
+Il transmet un double de cet avis à l'établissement, qui peut faire connaître ses observations à l'autorité administrative et
+au président du conseil général dans les quinze jours de cette transmission.
+
+Après avoir recueilli l'avis du président du conseil général et, le cas échéant, les observations de l'établissement,
+l'autorité administrative arrête le budget et fixe le tarif journalier de soins et le forfait annuel global de soins.
+
+Les tarifs et le forfait annuel global de soins sont fixés avant le 1er janvier de l'année à laquelle ils se rapportent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
+
+_Cite_:
+
+  - Code de la santé publique - art. R714-3-27 (M)
+  - Code de la santé publique - art. R714-3-31 (Ab)
+  - Code de la santé publique - art. R716-5-5 (Ab)
+
+
+###### Article R716-5-7
+
+Dans le cas où le tarif journalier d'hébergement n'a pas été fixé avant le 1er janvier de l'exercice auquel il se rapporte,
+le tarif antérieur s'applique jusqu'à l'intervention du nouveau tarif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
+
+
+###### Article R716-5-8
+
+Le président du conseil général arrête le tarif d'hébergement et le notifie à l'établissement et au préfet, qui en assure la
+publication.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
+
+
+###### Article R716-5-9
+
+Les dépenses de soins dispensés aux personnes prises en charge par un régime d'assurance maladie sont couvertes par un
+forfait annuel global de soins.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
+
+_Cité par_:
+
+  - Code de la santé publique - art. R716-5-2 (Ab)
+
+
+###### Article R716-5-10
+
+A la clôture de l'exercice, il est procédé au calcul du produit des tarifs journaliers de soins. Si ce produit est supérieur
+à la prévision qui en a été faite, la différence vient en déduction du forfait annuel global de soins de l'année suivante ;
+s'il est inférieur à cette prévision, la différence est ajoutée à ce forfait.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
+
+
+###### Article R716-5-11
+
+Les établissements privés à but non lucratif ne participant pas à l'exécution du service public et habilités à recevoir des
+bénéficiaires de l'aide sociale sont soumis, pour ce qui concerne leur activité de soins de longue durée, aux dispositions de
+la présente sous-section, à l'exception de celles relatives au forfait annuel global de soins et sans préjudice des
+dispositions budgétaires et comptables qui leur sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+
+##### Section 5 : Dispositions diverses<a id=479></a>
+
+###### Article R716-9-1
+
+Dans le cas où les frais de séjour des malades ne sont pas susceptibles d'être pris en charge soit par les services de l'aide
+médicale, soit par un organisme d'assurance maladie, soit par le ministère chargé des anciens combattants et victimes de
+guerre ou par tout autre organisme public, les intéressés ou, à défaut, leur famille ou un tiers responsable souscrivent un
+engagement d'acquitter les frais de toute nature afférents au régime choisi. Ils sont tenus, sauf dans les cas d'urgence, de
+verser au moment de leur entrée dans l'établissement une provision renouvelable calculée sur la base de la durée estimée du
+séjour. En cas de sortie avant l'expiration du délai prévu, la fraction dépassant le nombre de jours de présence est
+restituée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Cité par_:
+
+  - Décret n°54-883 du 2 septembre 1954 - art. 44-3 (V)
+
+_Créé par_:
+
+  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+
+_Abrogé par_:
+
+  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R6145-5 (T)
+
+
+# Partie réglementaire ancienne - Décrets simples<a id=480></a>
+
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=481></a>
+
+### Titre Ier : Etablissements de santé<a id=482></a>
+
+#### Chapitre Ier : Missions et obligations des établissements de santé<a id=483></a>
+
+##### Section 2 : Dispositions propres au service public hospitalier<a id=484></a>
 
 ###### Article D711-6-1
 
@@ -73982,7 +76864,7 @@ _Cite_:
   - Code de la santé publique - art. L711-6 (M)
 
 
-##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=471></a>
+##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=485></a>
 
 ###### Article D711-16-3
 
@@ -74069,11 +76951,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-50 (T)
 
 
-#### Chapitre II : L'organisation et l'équipement sanitaires<a id=472></a>
+#### Chapitre II : L'organisation et l'équipement sanitaires<a id=486></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=473></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=487></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=474></a>
+##### Sous-section 1 : Du collège national d'experts<a id=488></a>
 
 ###### Article D712-2
 
@@ -74168,7 +77050,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=475></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=489></a>
 
 ###### Article D712-7
 
@@ -74252,9 +77134,9 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Section 2 : Autorisations<a id=476></a>
+##### Section 2 : Autorisations<a id=490></a>
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=477></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=491></a>
 
 ###### Article D712-15
 
@@ -74341,11 +77223,11 @@ _Cite_:
   - Code de la santé publique - art. D712-15 (M)
 
 
-#### Chapitre IV : Les établissements publics de santé<a id=478></a>
+#### Chapitre IV : Les établissements publics de santé<a id=492></a>
 
-##### Section 1 : Organisation administrative et financière<a id=479></a>
+##### Section 1 : Organisation administrative et financière<a id=493></a>
 
-##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=480></a>
+##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=494></a>
 
 ###### Article D714-2-1
 
@@ -74482,9 +77364,9 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (M)
 
 
-##### Section 2 : organes représentatifs<a id=481></a>
+##### Section 2 : organes représentatifs<a id=495></a>
 
-##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=482></a>
+##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=496></a>
 
 ###### Article D714-17-1
 
@@ -74515,7 +77397,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=483></a>
+##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=497></a>
 
 ###### Article D714-19-1
 
@@ -74572,11 +77454,11 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=484></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=498></a>
 
-### Chapitre Ier : Missions et obligations des établissements de santé<a id=485></a>
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=499></a>
 
-#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=486></a>
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=500></a>
 
 ###### Article D711-16-1
 
@@ -74711,11 +77593,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-47 (T)
 
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=487></a>
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=501></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=488></a>
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=502></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=489></a>
+##### Sous-section 1 : Du collège national d'experts<a id=503></a>
 
 ###### Article D712-1
 
@@ -74813,7 +77695,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=490></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=504></a>
 
 ###### Article D712-8
 
@@ -74960,9 +77842,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=491></a>
+#### Section 2 : Autorisations<a id=505></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=492></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=506></a>
 
 ###### Article D712-14
 
