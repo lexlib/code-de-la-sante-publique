@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-07-10
+Version Consolidée au 1994-07-21
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-11)](#2)
@@ -74879,7 +74879,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-982 du 5 août 1993 - art. 10 () JORF 7 août 1993
+  - Décret n°94-604 du 19 juillet 1994 - art. 22 (Ab) JORF 21 juillet 1994
 
 _Cite_:
 
@@ -74985,7 +74985,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-982 du 5 août 1993 - art. 10 () JORF 7 août 1993
+  - Décret n°94-604 du 19 juillet 1994 - art. 22 (Ab) JORF 21 juillet 1994
 
 _Cite_:
 
@@ -75656,15 +75656,19 @@ _Cité par_:
 
 La perte ou le vol de radio-éléments artificiels, notamment de sources radioactives, ainsi que les faits susceptibles
 d'engendrer une dissémination radioactive doivent être immédiatement déclarés au commissaire de la République du département.
-Ils doivent être signalés au service central de protection contre les rayonnements ionisants.
+Ils doivent être signalés à l'Office de protection contre les rayonnements ionisants.
 
 Le commissaire de la République tient informé le secrétaire permanent de la commission interministérielle.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-80 1986-01-13 art. 6 JORF 18 janvier 1986
+  - Décret n°94-604 du 19 juillet 1994 - art. 22 (Ab) JORF 21 juillet 1994
+
+_Abrogé par_:
+
+  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
 
 _Cité par_:
 
