@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1986-03-07
+Version Consolidée au 1986-08-22
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -285,7 +285,7 @@ Version Consolidée au 1986-03-07
           - [SECTION 3 : DISPOSITIONS DIVERSES. (art. L761-11)](#282)
     - [Livre 8 : Institutions (art. L772 à L782)](#283)
       - [Chapitre 1 : Services administratifs locaux (art. L772 à L775)](#284)
-        - [SECTION 2 : BUREAU MUNICIPAL D'HYGIENE. (art. L772)](#285)
+        - [Section 2 : Service communal d'hygiène et de santé. (art. L772)](#285)
         - [SECTION 3 : MODALITES D'APPLICATION. (art. L775)](#286)
       - [CHAPITRE 2 : CONSEILS ET COMMISSIONS (art. L776 à L782)](#287)
         - [Section 1 : Conseils départementaux d'hygiène et commissions sanitaires (art. L776)](#288)
@@ -35708,24 +35708,29 @@ _Cite_:
 
 ### Chapitre 1 : Services administratifs locaux<a id=284></a>
 
-#### SECTION 2 : BUREAU MUNICIPAL D'HYGIENE.<a id=285></a>
+#### Section 2 : Service communal d'hygiène et de santé.<a id=285></a>
 
 ###### Article L772
 
-Les services municipaux de désinfection et les bureaux municipaux d'hygiène relèvent de la compétence des communes ou, le cas
-échéant, des groupements de communes, qui en assurent l'organisation et le financement, sous l'autorité du maire ou, le cas
-échéant, du président de l'établissement public de coopération intercommunal [*charge*].
+Les services municipaux de désinfection et les services communaux d'hygiène et de santé relèvent de la compétence des
+communes ou, le cas échéant, des groupements de communes, qui en assurent l'organisation et le financement, sous l'autorité
+du maire ou, le cas échéant, du président de l'établissement public de coopération intercommunal [*charge*].
 
-Les bureaux municipaux d'hygiène sont chargés, sous l'autorité du maire, de l'application des dispositions relatives à la
-protection générale de la santé publique énumérées, notamment, au titre Ier du livre Ier du présent code et relevant des
-autorités municipales.
+Les services communaux d'hygiène et de santé sont chargés, sous l'autorité du maire, de l'application des dispositions
+relatives à la protection générale de la santé publique énumérées, notamment, au titre Ier du livre Ier du présent code et
+relevant des autorités municipales.
 
-Jusqu'au 31 décembre 1986, les bureaux municipaux d'hygiène qui, à la date d'entrée en vigueur de la section 4 du titre II de
-la loi n° 83-663 du 22 juillet 1983, exercent effectivement des attributions en matière de vaccination ou de désinfection
-ainsi qu'en matière de contrôle administratif et technique des règles d'hygiène continuent d'exercer ces attributions par
-dérogation aux articles 38 et 49 de ladite loi. A ce titre, les communes dont relèvent ces bureaux municipaux d'hygiène
+Les services communaux d'hygiène et de santé qui,  à la date d'entrée en vigueur de la section 4 du titre II de la loi n°
+83-663 du 22 juillet 1983, exercent effectivement des attributions en matière de vaccination ou de désinfection ainsi qu'en
+matière de contrôle administratif et technique des règles d'hygiène continuent d'exercer ces attributions par dérogation aux
+articles 38 et 49 de ladite loi. A ce titre, les communes dont relèvent ces services communaux d'hygiène et de santé
 reçoivent la dotation générale de décentralisation correspondante dans les conditions prévues par l'article 94 de la loi n°
 83-8 du 7 janvier 1983, relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 54 : les deux premiers alinéas du présent article du code de la santé
+publique, en vigueur au 7 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -35746,7 +35751,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-29 du 9 janvier 1986 - art. 12 () JORF 10 janvier 1986
+  - Loi n°86-972 du 19 août 1986 - art. 3 () JORF 22 aôut 1986
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 _Nouveaux textes_:
 
