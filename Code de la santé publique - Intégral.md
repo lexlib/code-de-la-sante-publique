@@ -1,12 +1,12 @@
 # Code de la santé publique  
-Version Consolidée au 1962-07-24
+Version Consolidée au 1964-07-02
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
       - [TITRE 1 : MESURES SANITAIRES GENERALES (art. L1 à L51)](#3)
         - [CHAPITRE 1 : REGLEMENTS SANITAIRES. (art. L1 à L4)](#4)
         - [Chapitre 2 : Lutte contre les épidémies (art. L5 à L18)](#5)
-          - [Section 1 : Vaccination contre certaines maladies transmissibles. (art. L5 à L10)](#6)
+          - [Section 1 : Vaccination contre certaines maladies transmissibles. (art. L5 à L10-1)](#6)
           - [Section 2 : Autres mesures destinées à prévenir la propagation de certaines maladies transmissibles (art. L11 à L16)](#7)
             - [Paragraphe 1 : Déclaration à l'autorité sanitaire. (art. L11 à L13)](#8)
             - [Paragraphe 2 : Mesures de désinfection. (art. L14 à L16)](#9)
@@ -974,6 +974,53 @@ _Anciens textes_:
   - Loi n°1940-11-24 ART. 1
 
 
+###### Article L7-1
+
+La vaccination antipoliomyélitique est obligatoire, sauf contre-indication médicale reconnue, à l'âge et dans les conditions
+déterminées par décret en Conseil d'Etat, pris après avis de l'académie nationale de médecine et du conseil supérieur
+d'hygiène publique de France. Les personnes qui ont le droit de garde ou la tutelle des mineurs sont tenues personnellement
+de l'exécution de cette obligation [*responsabilité*].
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°64-643 1964-07-01 art. 1 JORF 2 juillet 1964
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°65-213 1965-03-19
+  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 ART. 2 : DISPOSITIONS PENALES
+  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+_Cité par_:
+
+  - Décret n°65-213 du 19 mars 1965 - art. 1 (Ab)
+  - Décret n°65-213 du 19 mars 1965 - art. 5 (Ab)
+  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L3111-3 (M)
+  - Code de la santé publique - art. L3111-3 (V)
+  - Code de la santé publique - art. R3116-2 (V)
+  - Code de la santé publique - art. R3116-8 (V)
+
+
 ###### Article L8
 
 Le ministre de la Santé publique et de la Population [*autorité compétente*] peut instituer par arrêté l'obligation de la
@@ -1199,6 +1246,56 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L3111-4 (V)
+
+
+###### Article L10-1
+
+Sans préjudice des actions qui pourraient être exercées conformément au droit commun, la réparation de tout dommage imputable
+directement à une vaccination obligatoire pratiquée dans les conditions visées au présent code, est supportée par l'Etat
+[*charge financière*].
+
+Jusqu'à concurrence de l'indemnité qu'il a payée, l'Etat est, s'il y a lieu, subrogé dans les droits et actions de la victime
+contre les responsables du dommage.
+
+**Nota:**
+
+[*Nota : Loi 85-10 du 3 janvier 1985 art. 90 : Dispositions applicables à la réparation des dommages imputables directement
+aux vaccinations obligatoires pratiquées dans les conditions prévues audit article entre la date d'entrée en vigueur de la
+loi n° 643 du 1er juillet 1964 et celle de la loi n° 401 du 26 mai 1975.*]    [*Nota - Ordonnance 90-570 du 25 juin 1990 art.
+1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cité par_:
+
+  - Décret n°65-213 du 19 mars 1965 - art. 6 (Ab)
+  - Loi n°85-10 du 3 janvier 1985 - art. 90 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L3111-9 (M)
+
+_Créé par_:
+
+  - Loi n°64-643 1964-07-01 art. 3 JORF 2 juillet 1964
+
+_Modifié par_:
+
+  - Loi n°75-401 1975-05-26 art. 1 JORF 27 mai 1975
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-10 1985-01-03 art. 90
+  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 ##### Section 2 : Autres mesures destinées à prévenir la propagation de certaines maladies transmissibles<a id=7></a>
