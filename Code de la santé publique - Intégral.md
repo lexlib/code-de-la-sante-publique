@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1971-01-03
+Version Consolidée au 1971-05-15
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -394,7 +394,7 @@ Version Consolidée au 1971-01-03
             - [PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE. (art. R5222 à R5226)](#391)
           - [SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS (art. R5228 à R5229)](#392)
             - [INSPECTION. (art. R5228 à R5229)](#393)
-        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5229-1 à R5229-4)](#394)
+        - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5229-2 à R5229-4)](#394)
         - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#395)
         - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#396)
         - [Chapitre 6 : Thermomètres médicaux. (art. R5243 à R5261)](#397)
@@ -43047,18 +43047,6 @@ _Abrogé par_:
 
 
 #### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.<a id=394></a>
-
-###### Article R5229-1
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
 
 ###### Article R5229-2
 
