@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-12-24
+Version Consolidée au 1995-01-11
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-21)](#2)
@@ -98313,11 +98313,13 @@ _Nouveaux textes_:
 ###### Article R714-16-18
 
 a) La commission médicale des centres hospitaliers élit son président et son vice-président parmi les praticiens hospitaliers
-mentionnés aux 1° et 2° de l'article R. 714-16-1 ;
+mentionnés aux 1° et 2° de l'article R. 714-16-1 ainsi que, le cas échéant, parmi les personnels médicaux hospitalo-
+universitaires siégeant au sein desdites catégories en vertu de l'article R. 714-16-3 ;
 
 b) La commission médicale des centres hospitaliers universitaires élit son président parmi les professeurs des universités -
 praticiens hospitaliers siégeant à la commission médicale d'établissement, et son vice-président parmi les praticiens
-hospitaliers mentionnés aux 1° à 6° de l'article R. 714-16-6 ;
+hospitaliers mentionnés aux 1° à 6° de l'article R. 714-16-6. Toutefois, la commission médicale des établissements visés à
+l'article R. 714-16-10 élit son président et son vice-président dans les conditions prévues au a du présent article ;
 
 c) La commission médicale d'établissement des hôpitaux locaux et celle des syndicats interhospitaliers élisent un président
 et un vice-président parmi leurs membres respectifs.
@@ -98339,9 +98341,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-443 du 15 mai 1992 - art. 1 () JORF 20 mai 1992
+  - Décret n°95-23 du 10 janvier 1995 - art. 1 () JORF 11 janvier 1995
 
 _Nouveaux textes_:
 
@@ -98350,6 +98352,8 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de la santé publique - art. R714-16-1 (M)
+  - Code de la santé publique - art. R714-16-10 (M)
+  - Code de la santé publique - art. R714-16-3 (M)
   - Code de la santé publique - art. R714-16-6 (M)
 
 
