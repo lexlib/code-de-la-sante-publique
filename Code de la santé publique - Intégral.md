@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1967-06-06
+Version Consolidée au 1967-08-22
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -189,7 +189,7 @@ Version Consolidée au 1967-06-06
         - [Chapitre 3 : Prohibition de certaines conventions entre pharmaciens et membres de certaines professions (art. L549)](#186)
         - [CHAPITRE 4 : REGLEMENTATION DE LA PUBLICITE. (art. L551)](#187)
         - [Chapitre 5 : De l'inspection de la pharmacie (art. L557 à L567)](#188)
-      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. L568 à L625)](#189)
+      - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. L568 à L625 Bis)](#189)
         - [Chapitre 1 : Conditions de l'exercice de la pharmacie d'officine (art. L568 à L595)](#190)
           - [Section 1 : Des officines de pharmacie (art. L568 à L578)](#191)
           - [Section 2 : Exercice personnel de la profession (art. L579 à L580)](#192)
@@ -199,9 +199,9 @@ Version Consolidée au 1967-06-06
         - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. L596 à L604)](#196)
           - [Section 1 : Des établissements de préparation et de vente en gros (art. L596 à L600)](#197)
           - [Section 2 : Des médicaments spécialisés (art. L601 à L604)](#198)
-        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurité sociale (art. L618 à L625)](#199)
+        - [Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurité sociale (art. L618 à L625 Bis)](#199)
           - [Section 1 : Agrément pour les collectivités publiques. (art. L618 à L622)](#200)
-          - [Section 3 : Dispositions communes. (art. L625)](#201)
+          - [Section 3 : Dispositions communes. (art. L625 à L625 Bis)](#201)
       - [Titre 3 : Restrictions au commerce de certaines substances ou de certains objets (art. L627 à L657)](#202)
         - [Chapitre 1 : Substances vénéneuses. (art. L627 à L630)](#203)
         - [Chapitre 2 : Radio-éléments artificiels (art. L631 à L640)](#204)
@@ -20740,6 +20740,43 @@ _Cite_:
   - Code de la santé publique L570 AL. 1, L575 AL. 1
 
 
+###### Article L577 Bis
+
+Par dérogation aux articles L. 570, L. 571, L. 572 et L. 575 du présent code, toute ouverture, acquisition par une société
+mutualiste ou une union de sociétés mutualistes, d'une pharmacie existante et tout transfert d'un lieu dans un autre d'une
+pharmacie, créée ou acquise par une telle société ou union sont subordonnés à une décision du ministre des Affaires sociales
+[*autorité compétente*] qui après avis du conseil supérieur de la pharmacie et du conseil supérieur de la mutualité,
+autorise, le cas échéant, le préfet à délivrer la licence et peut imposer des conditions particulières de fonctionnement
+[*autorisation administrative*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Ordonnance 67-707 1967-08-21 art. 1 JORF 22 août 1967
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°68-698 1968-07-31 : RATIFIE L'ORDONNANCE 707 DU 21 AOUT 1967
+  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+_Cite_:
+
+  - Code de la santé publique - art. L570 (M)
+  - Code de la santé publique - art. L571 (M)
+  - Code de la santé publique - art. L572 (M)
+  - Code de la santé publique - art. L575 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L577 (Ab)
+
+
 ###### Article L578
 
 Sauf cas de nécessité urgente, l'activité des pharmacies [*appartenant à un organisme public ou privé de soins*] prévue à
@@ -22415,6 +22452,37 @@ _Cite_:
 
   - Code de la santé publique - art. L601 (M)
   - Code de la santé publique L593 AL. 1, L601
+
+
+###### Article L625 Bis
+
+Afin d'éviter le gaspillage des médicaments et sans porter atteinte à la liberté des prescriptions médicales, des modalités
+particulières peuvent être fixées par décret pour la délivrance des médicaments aux bénéficiaires d'un régime d'assurance
+maladie et aux bénéficiaires de l'aide sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Ordonnance 67-707 1967-08-21 art. 3 JORF 22 août 1967
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°68-698 1968-07-31 : RATIFIE L'ORDONNANCE 707 DU 21 AOUT 1967
+  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L5123-7 (V)
 
 
 ### Titre 3 : Restrictions au commerce de certaines substances ou de certains objets<a id=202></a>
