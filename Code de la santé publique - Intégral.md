@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1985-01-04
+Version Consolidée au 1985-01-26
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -35355,7 +35355,7 @@ Les bureaux municipaux d'hygiène sont chargés, sous l'autorité du maire, de l
 protection générale de la santé publique énumérées, notamment, au titre Ier du livre Ier du présent code et relevant des
 autorités municipales.
 
-Jusqu'au 31 décembre 1984, les bureaux municipaux d'hygiène qui, à la date d'entrée en vigueur de la section 4 du titre II de
+Jusqu'au 31 décembre 1985, les bureaux municipaux d'hygiène qui, à la date d'entrée en vigueur de la section 4 du titre II de
 la loi n° 83-663 du 22 juillet 1983, exercent effectivement des attributions en matière de vaccination ou de désinfection
 ainsi qu'en matière de contrôle administratif et technique des règles d'hygiène continuent d'exercer ces attributions par
 dérogation aux articles 38 et 49 de ladite loi. A ce titre, les communes dont relèvent ces bureaux municipaux d'hygiène
@@ -35364,20 +35364,10 @@ reçoivent la dotation générale de décentralisation correspondante dans les c
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
 _Cite_:
 
-  - Loi n°83-8 1983-01-07 ART. 94
-  - Loi n°83-663 1983-07-22 ART. 38, ART. 49
-
-_Modifié par_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 41 () JORF 23 JUILLET 1983
-  - Loi n°83-1186 du 29 décembre 1983 - art. 25 () JORF 31 DECEMBRE 1983
+  - Loi n°83-8 1983-01-07 art. 94
+  - Loi n°83-663 1983-07-22 art. 38, art. 49
 
 _Cité par_:
 
@@ -35389,13 +35379,13 @@ _Cité par_:
   - Code de la santé publique - art. L775 (Ab)
   - Code de la santé publique - art. R32-5 (Ab)
 
+_Modifié par_:
+
+  - Loi n°85-97 du 25 janvier 1985 - art. 22 () JORF 26 janvier 1985
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L1422-1 (V)
-
-_Anciens textes_:
-
-  - Loi n°1902-02-15 ART. 19
 
 
 #### SECTION 3 : MODALITES D'APPLICATION.<a id=288></a>
