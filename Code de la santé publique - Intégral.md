@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1975-07-13
+Version Consolidée au 1975-12-27
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -204,11 +204,11 @@ Version Consolidée au 1975-07-13
           - [Section 1 : Des officines de pharmacie (art. L568 à L578)](#201)
           - [Section 2 : Exercice personnel de la profession (art. L579 à L580)](#202)
           - [Section 3 : Des préparateurs en pharmacie (art. L581 à L588)](#203)
-          - [Section 4 : Règles générales de la pharmacie d'officine (art. L589 à L593)](#204)
+          - [Section 4 : Règles générales de la pharmacie d'officine (art. L588-1 à L593)](#204)
           - [Section 5 : Délivrance des médicaments par les médecins (art. L594 à L595)](#205)
-        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. L596 à L602)](#206)
+        - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. L596 à L603)](#206)
           - [Section 1 : Des établissements de préparation et de vente en gros (art. L596 à L600)](#207)
-          - [Section 2 : Des médicaments spécialisés (art. L601 à L602)](#208)
+          - [Section 2 : Des médicaments spécialisés (art. L601 à L603)](#208)
         - [Chapitre 3 : Pharmacie vétérinaire (art. L606 à L617-27)](#209)
           - [Section 1 : Définitions (art. L606 à L609)](#210)
           - [Section 2 : Préparation extemporanée et vente au détail (art. L610 à L614)](#211)
@@ -23923,6 +23923,45 @@ _Anciens textes_:
 
 ##### Section 4 : Règles générales de la pharmacie d'officine<a id=204></a>
 
+###### Article L588-1
+
+L'organisation des services de garde et d'urgence des officines est réglée à l'échelon départemental par les organisations
+représentatives de la profession [*attribution*].
+
+A défaut d'accord, les préfets [*autorités compétentes*] règlent par arrêté pris après avis du conseil régional de l'ordre
+des pharmaciens, des syndicats professionnels et du pharmacien inspecteur régional de la santé, les services de garde et
+d'urgence des officines compte tenu, le cas échéant, des particularités locales.
+
+Dans tous les cas, les collectivités locales sont informées de la mise en place de ces services.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 47.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°75-1226 1975-12-26 art. 3 JORF 27 décembre 1975
+
+_Cité par_:
+
+  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 47 (Ab)
+  - Code de la santé publique - art. R5015-49 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L5125-22 (V)
+  - Code de la santé publique - art. L5424-17 (VT)
+  - Code de la santé publique - art. L5511-7 (M)
+
+
 ###### Article L589
 
 Il est interdit aux pharmaciens ou à leurs préposés de solliciter des commandes auprès du public [*démarchage*].
@@ -24730,6 +24769,56 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L5121-16 (M)
+
+
+###### Article L603
+
+Tout médicament préparé à l'avance en vue de l'exportation [*à l'étranger*] et présenté sous une forme utilisable sans
+transformation, notamment sous forme de spécialité pharmaceutique, doit être autorisé au préalable par le ministre de la
+santé [*autorité compétente*].
+
+Cette autorisation n'est accordée qu'à la condition que le fabricant fournisse les justifications de qualité et de contrôle
+exigées pour les médicaments mis sur le marché en France.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°68-1 1968-01-02 art. 72 ET art. 73 : AVAIT ABROGE L'ARTICLE L603 AVEC EFFET AU 1er janvier 1969
+  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+_Cité par_:
+
+  - Loi n°68-1 du 2 janvier 1968 - art. 72 (Ab)
+  - Décret n°94-511 du 20 juin 1994 - art. 2 (Ab)
+  - Code de la santé publique - art. L567-4 (M)
+  - Code de la santé publique - art. L603-1 (Ab)
+  - Code de la santé publique - art. L605 (Ab)
+  - Code de la santé publique - art. R5142-16 (Ab)
+  - Code de la santé publique - art. R5142-17 (Ab)
+  - Code de la santé publique - art. R5142-18 (Ab)
+  - Code de la santé publique - art. R5234 (Ab)
+  - Code de la santé publique - art. R5234-3 (Ab)
+
+_Créé par_:
+
+  - Loi n°75-1226 1975-12-26 art. 5 JORF 27 décembre 1975
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L5121-20 (M)
+  - Code de la santé publique - art. L5124-11 (V)
+  - Code de la santé publique - art. L5423-4 (V)
 
 
 #### Chapitre 3 : Pharmacie vétérinaire<a id=209></a>
