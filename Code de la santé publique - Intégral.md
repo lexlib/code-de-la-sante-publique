@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-03-30
+Version Consolidée au 1993-08-07
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145-4)](#2)
@@ -330,7 +330,7 @@ Version Consolidée au 1993-03-30
     - [Livre 3 : Lutte contre les fléaux sociaux (art. R355-28-1 à R355-28-13)](#327)
       - [Titre 8 : Lutte contre le tabagisme (art. R355-28-1 à R355-28-13)](#328)
         - [Chapitre 1 : Interdiction de fumer dans les lieux affectés à un usage collectif. (art. R355-28-1 à R355-28-13)](#329)
-    - [Livre 5 : Pharmacie (art. R5001 à R5273)](#330)
+    - [Livre 5 : Pharmacie (art. R5001 à R5272)](#330)
       - [Titre 1 : Dispositions générales (art. R5001 à R5089)](#331)
         - [Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien (art. R5001 à R5013 bis)](#332)
           - [Section 1 : Pharmacopée et formulaire (art. R5001 à R5006-1)](#333)
@@ -370,13 +370,13 @@ Version Consolidée au 1993-03-30
           - [Section 4 : Publicité en faveur des établissements pharmaceutiques. (art. R5053)](#367)
           - [Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments (art. R5054 à R5054-3)](#368)
           - [Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art. (art. R5052 à R5052-3)](#369)
-        - [Chapitre 5 : De l'inspection de la pharmacie (art. R5056 à R5089)](#370)
-          - [Section 1 : Fonctions des inspecteurs de la pharmacie. (art. R5056 à R5059)](#371)
-          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5060 à R5089)](#372)
-            - [Paragraphe 1 : Généralités (art. R5060)](#373)
-            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#374)
-            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#375)
-            - [Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives. (art. R5071 à R5075)](#376)
+        - [Chapitre 5 : De l'inspection (art. R5056 à R5089)](#370)
+          - [Section 1 : Contrôle exercé par les inspecteurs de pharmacie et les inspecteurs de l'Agence du médicament (art. R5056 à R5059)](#371)
+          - [Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques (art. R5061 à R5089)](#372)
+            - [Paragraphe 2 : Prélèvements d'échantillons (art. R5061 à R5070)](#373)
+            - [Paragraphe 1 : Généralités (art. R5060)](#374)
+            - [Paragraphe 3 : Analyse des échantillons prélevés et suites administratives (art. R5071 à R5075)](#375)
+            - [Paragraphe 4 : Saisies (art. R5076 à R5078)](#376)
             - [Paragraphe 5 : Fonctionnement de l'expertise contradictoire (art. R5079 à R5086)](#377)
             - [Paragraphe 6 : Dispositions diverses (art. R5087 à R5089)](#378)
       - [Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie (art. R5092 à R5144-11)](#379)
@@ -447,169 +447,167 @@ Version Consolidée au 1993-03-30
             - [4) Régime particulier des psychotropes. (art. R5219 à R5219-1)](#444)
         - [Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses. (art. R5220 à R5222)](#445)
         - [Chapitre 2 : Radio-éléments artificiels *radioactivité* (art. R5230 à R5238)](#446)
-        - [Chapitre 4 : Médicaments antivénériens. (art. R5239 à R5241)](#447)
-        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#448)
-        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#449)
-        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-16)](#450)
-      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5273)](#451)
-        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#452)
-        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#453)
-        - [Chapitre 5 : Homologation de certains produits et appareils. (art. R5274 à R5287)](#454)
-        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272 à R5273)](#455)
-          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#456)
-          - [Section 2 : Produits d'origine microbienne. (art. R5273)](#457)
-    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R710-2-1 à R716-9-1)](#458)
-      - [Titre 1 : Etablissements de santé (art. R710-2-1 à R716-9-1)](#459)
-        - [Chapitre 1 A : Principes fondamentaux (art. R710-2-1 à R710-2-10)](#460)
-          - [Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés (art. R710-2-1 à R710-2-10)](#461)
-        - [Chapitre 1 : Missions et obligations des établissements de santé (art. R711-6-1 à R711-15)](#462)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. R711-6-1 à R711-6-21)](#463)
-            - [Sous-section 1 : Catégories d'établissements publics de santé (art. R711-6-1 à R711-6-3)](#464)
-            - [Sous-section 2 : Fonctionnement médical des hôpitaux locaux (art. R711-6-4 à R711-6-21)](#465)
-          - [Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé (art. R711-7 à R711-15)](#466)
-        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. R712-1 à R712-59)](#467)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. R712-1 à R712-36)](#468)
-            - [Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire. (art. R712-1 à R712-13)](#469)
-            - [Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale (art. R712-14 à R712-21)](#470)
-            - [Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale (art. R712-22 à R712-29)](#471)
-            - [Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale (art. R712-30 à R712-36)](#472)
-          - [Section 2 : Autorisations (art. R712-37 à R712-51)](#473)
-          - [Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie (art. R712-52 à R712-59)](#474)
-        - [Chapitre 3 : Les actions de coopération (art. R713-1 à R713-15)](#475)
-          - [Section 1 : Les conférences sanitaires de secteur (art. R713-1 à R713-15)](#476)
-        - [Chapitre 4 : Les établissements publics de santé (art. R714-1-1 à R714-28-4)](#477)
-          - [Section 1 : Organisation administrative et financière (art. R714-1-1 à R714-4-5)](#478)
-            - [Sous-section 1 : Création, transformation et suppression des établissements publics de sante (art. R714-1-1 à R714-1-3)](#479)
-            - [Sous-section 2 : Composition et fonctionnement du conseil d'administration (art. R714-2-1 à R714-2-24)](#480)
-            - [Sous-section 3 : Budget et comptabilité des établissements publics de santé (art. R714-3-1 à R714-3-53)](#481)
-              - [Paragraphe 1 : Dispositions générales (art. R714-3-1 à R714-3-6)](#482)
-              - [Paragraphe 2 : Présentation et vote du budget (art. R714-3-7 à R714-3-18)](#483)
-              - [Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale (art. R714-3-19 à R714-3-26)](#484)
-              - [Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget (art. R714-3-27 à R714-3-40)](#485)
-              - [Paragraphe 5 : Du directeur, ordonnateur du budget (art. R714-3-41 à R714-3-45)](#486)
-              - [Paragraphe 6 : Clôture de l'exercice et affectation des résultats (art. R714-3-46 à R714-3-50)](#487)
-              - [Paragraphe 7 : Du comptable (art. R714-3-51 à R714-3-53)](#488)
-            - [Sous-section 4 : Programmes d'investissement (art. R714-4-1 à R714-4-5)](#489)
-          - [Section 2 : Organes représentatifs (art. R714-16-1 à R714-18-15)](#490)
-            - [Sous-section 1 : Commissions médicales d'établissement (art. R714-16-1 à R714-16-34)](#491)
-              - [Paragraphe 1 : Composition de commissions médicales d'établissement (art. R714-16-1 à R714-16-13)](#492)
-                - [I : Centres hospitaliers autres que les centres hospitaliers universitaires (art. R714-16-1 à R714-16-5)](#493)
-                - [II : Centres hospitaliers universitaires (art. R714-16-6 à R714-16-10)](#494)
-                - [III : Hôpitaux locaux (art. R714-16-11)](#495)
-                - [IV : Syndicats interhospitaliers (art. R714-16-12 à R714-16-13)](#496)
-              - [Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement (art. R714-16-14 à R714-16-28)](#497)
-              - [Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux (art. R714-16-29 à R714-16-34)](#498)
-            - [Sous-section 2 : Comités techniques d'établissement (art. R714-17-1 à R714-18-15)](#499)
-              - [Paragraphe 1 : Composition des comités techniques d'établissement (art. R714-17-1 à R714-17-24)](#500)
-              - [Paragraphe 2 : Attributions des comités techniques d'établissement (art. R714-18-1)](#501)
-              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement (art. R714-18-2 à R714-18-14)](#502)
-              - [Paragraphe 3 : Dispositions diverses (art. R714-18-15)](#503)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. R714-21-1 à R714-26-11)](#504)
-            - [Sous-section 1 : Des chefs de service ou de département (art. R714-21-1 à R714-21-25)](#505)
-              - [Paragraphe 1 : Dispositions générales (art. R714-21-1 à R714-21-2)](#506)
-              - [Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires (art. R714-21-3 à R714-21-5)](#507)
-              - [Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires (art. R714-21-6)](#508)
-              - [Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958 (art. R714-21-7 à R714-21-19)](#509)
-                - [I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein (art. R714-21-8 à R714-21-11)](#510)
-                - [II. - Nomination aux fonctions de chef de service ou de département à temps partiel (art. R714-21-12 à R714-21-13)](#511)
-                - [III (art. R714-21-14 à R714-21-17)](#512)
-                  - [- Dispositions propres aux fonctions de chef de service ou de département de psychiatrie (art. R714-21-14 à R714-21-17)](#513)
-                - [IV (art. R714-21-18)](#514)
-                  - [- Dispositions particulières aux pharmacies hospitalières (art. R714-21-18)](#515)
-                - [V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre (art. R714-21-19)](#516)
-              - [Paragraphe 5 : Dispositions communes (art. R714-21-20 à R714-21-25)](#517)
-            - [Sous-section 2 : Conseil de service ou de département (art. R714-22-1 à R714-22-11)](#518)
-            - [Sous-section 3 : Des responsables d'unité fonctionnelle (art. R714-24-1 à R714-24-2)](#519)
-            - [Sous-section 4 : Service de soins infirmiers (art. R714-26-1 à R714-26-11)](#520)
-          - [Section 4 : Les personnels des établissements publics de santé (art. R714-28-1 à R714-28-4)](#521)
-        - [Chapitre 5 : Les établissements de santé privés (art. R715-7-1 à R715-11-4)](#522)
-          - [Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement (art. R715-7-1 à R715-11-4)](#523)
-            - [Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier (art. R715-7-1 à R715-7-6)](#524)
-            - [Sous-section 4 : De la concession du service public hospitalier (art. R715-10-1 à R715-10-14)](#525)
-              - [Paragraphe 1 : Objet, contenu et durée du contrat de concession (art. R715-10-1 à R715-10-3)](#526)
-              - [Paragraphe 2 : Procédure (art. R715-10-4 à R715-10-9)](#527)
-              - [Paragraphe 3 : Renouvellement et prorogation du contrat de concession (art. R715-10-10)](#528)
-              - [Paragraphe 4 : Contrôle (art. R715-10-11 à R715-10-12)](#529)
-              - [Paragraphe 5 : Mesures diverses (art. R715-10-13 à R715-10-14)](#530)
-            - [Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier (art. R715-11-1 à R715-11-4)](#531)
-              - [Paragraphe 1 : Nature et objet de l'accord d'association (art. R715-11-1 à R715-11-3)](#532)
-              - [Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association (art. R715-11-4)](#533)
-        - [Chapitre 6 : Expérimentation et dispositions diverses (art. R716-3-1 à R716-9-1)](#534)
-          - [Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux (art. R716-3-1 à R716-3-65)](#535)
-            - [Sous-section 1 : Assistance publique - hôpitaux de Paris (art. R716-3-1 à R716-3-38)](#536)
-              - [Paragraphe 1 : Conseil d'administration (art. R716-3-2 à R716-3-9)](#537)
-              - [Paragraphe 2 : Le directeur général et le secrétaire général (art. R716-3-10 à R716-3-12)](#538)
-              - [Paragraphe 3 : Les instances représentatives centrales (art. R716-3-13 à R716-3-18)](#539)
-                - [A. - Commission médicale d'établissement (art. R716-3-13 à R716-3-14)](#540)
-                - [B. - Comité technique central d'établissement (art. R716-3-15 à R716-3-17)](#541)
-                - [C : Commission centrale du service de soins infirmiers (art. R716-3-18)](#542)
-              - [Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général (art. R716-3-19 à R716-3-30)](#543)
-                - [A. - Budget (art. R716-3-19)](#544)
-                - [B. - Direction (art. R716-3-20)](#545)
-                - [C. - Instances représentatives locales (art. R716-3-21 à R716-3-30)](#546)
-                  - [Commission de surveillance (art. R716-3-22 à R716-3-25)](#547)
-                  - [Comité consultatif médical (art. R716-3-26)](#548)
-                  - [Comité technique local d'établissement (art. R716-3-27 à R716-3-29)](#549)
-                  - [Commission locale du service de soins infirmiers (art. R716-3-30)](#550)
-              - [Paragraphe 5 : Contrôle financier (art. R716-3-31)](#551)
-              - [Paragraphe 6 : Marchés (art. R716-3-32)](#552)
-              - [Paragraphe 7 : Contrôle de l'Etat (art. R716-3-33 à R716-3-35)](#553)
-              - [Paragraphe 8 : Dispositions diverses (art. R716-3-36 à R716-3-38)](#554)
-            - [Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille (art. R716-3-39 à R716-3-56)](#555)
-              - [Paragraphe 1 : Conseil d'administration (art. R716-3-40 à R716-3-44)](#556)
-              - [Paragraphe 2 : Directeur général et secrétaire général (art. R716-3-45)](#557)
-              - [Paragraphe 3 : Instances représentatives centrales (art. R716-3-46 à R716-3-49)](#558)
-              - [Paragraphe 4 : Instances représentatives locales (art. R716-3-50 à R716-3-56)](#559)
-            - [Sous-section 3 : Etablissements publics nationaux (art. R716-3-57 à R716-3-65)](#560)
-          - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#561)
-          - [Section 5 : Dispositions diverses (art. R716-9-1)](#562)
-  - [Partie réglementaire ancienne - Décrets simples (art. D711-6-1 à D712-38)](#563)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#564)
-      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#565)
-        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#566)
-          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#567)
-          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#568)
-          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#569)
-        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-39)](#570)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#571)
-            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#572)
-            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#573)
-            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#574)
-            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#575)
-          - [Section 2 : Autorisations (art. D712-16)](#576)
-            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#577)
-          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-39)](#578)
-            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#579)
-              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#580)
-              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#581)
-        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. D712-13-2)](#582)
-          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-13-2)](#583)
-            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2)](#584)
-        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#585)
-          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#586)
-            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#587)
-            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#588)
-            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#589)
-            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#590)
-          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#591)
-            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#592)
-            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#593)
-          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#594)
-          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#595)
-    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-38)](#596)
-      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#597)
-        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#598)
-      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-38)](#599)
-        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#600)
-          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#601)
-          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#602)
-        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#603)
-          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#604)
-          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#605)
-        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#606)
-          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#607)
-            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#608)
-            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#609)
+        - [Chapitre 5 : Anticonceptionnels et abortifs. (art. R5242)](#447)
+        - [Chapitre 7 : Biberons à tube et tétines. (art. R5262 à R5266)](#448)
+        - [Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact. (art. R5266-1 à R5266-16)](#449)
+      - [Titre 4 : Dispositions diverses et dispositions transitoires (art. R5267 à R5272)](#450)
+        - [Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion. (art. R5267 à R5268)](#451)
+        - [Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie. (art. R5269 à R5271)](#452)
+        - [Chapitre 5 : Homologation de certains produits et appareils. (art. R5274 à R5287)](#453)
+        - [Chapitre 4 : Visa des spécialités anciennes (art. R5272)](#454)
+          - [Section 1 : Spécialités pharmaceutiques. (art. R5272)](#455)
+    - [Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires (art. R710-2-1 à R716-9-1)](#456)
+      - [Titre 1 : Etablissements de santé (art. R710-2-1 à R716-9-1)](#457)
+        - [Chapitre 1 A : Principes fondamentaux (art. R710-2-1 à R710-2-10)](#458)
+          - [Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés (art. R710-2-1 à R710-2-10)](#459)
+        - [Chapitre 1 : Missions et obligations des établissements de santé (art. R711-6-1 à R711-15)](#460)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. R711-6-1 à R711-6-21)](#461)
+            - [Sous-section 1 : Catégories d'établissements publics de santé (art. R711-6-1 à R711-6-3)](#462)
+            - [Sous-section 2 : Fonctionnement médical des hôpitaux locaux (art. R711-6-4 à R711-6-21)](#463)
+          - [Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé (art. R711-7 à R711-15)](#464)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. R712-1 à R712-59)](#465)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. R712-1 à R712-36)](#466)
+            - [Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire. (art. R712-1 à R712-13)](#467)
+            - [Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale (art. R712-14 à R712-21)](#468)
+            - [Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale (art. R712-22 à R712-29)](#469)
+            - [Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale (art. R712-30 à R712-36)](#470)
+          - [Section 2 : Autorisations (art. R712-37 à R712-51)](#471)
+          - [Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie (art. R712-52 à R712-59)](#472)
+        - [Chapitre 3 : Les actions de coopération (art. R713-1 à R713-15)](#473)
+          - [Section 1 : Les conférences sanitaires de secteur (art. R713-1 à R713-15)](#474)
+        - [Chapitre 4 : Les établissements publics de santé (art. R714-1-1 à R714-28-4)](#475)
+          - [Section 1 : Organisation administrative et financière (art. R714-1-1 à R714-4-5)](#476)
+            - [Sous-section 1 : Création, transformation et suppression des établissements publics de sante (art. R714-1-1 à R714-1-3)](#477)
+            - [Sous-section 2 : Composition et fonctionnement du conseil d'administration (art. R714-2-1 à R714-2-24)](#478)
+            - [Sous-section 3 : Budget et comptabilité des établissements publics de santé (art. R714-3-1 à R714-3-53)](#479)
+              - [Paragraphe 1 : Dispositions générales (art. R714-3-1 à R714-3-6)](#480)
+              - [Paragraphe 2 : Présentation et vote du budget (art. R714-3-7 à R714-3-18)](#481)
+              - [Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale (art. R714-3-19 à R714-3-26)](#482)
+              - [Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget (art. R714-3-27 à R714-3-40)](#483)
+              - [Paragraphe 5 : Du directeur, ordonnateur du budget (art. R714-3-41 à R714-3-45)](#484)
+              - [Paragraphe 6 : Clôture de l'exercice et affectation des résultats (art. R714-3-46 à R714-3-50)](#485)
+              - [Paragraphe 7 : Du comptable (art. R714-3-51 à R714-3-53)](#486)
+            - [Sous-section 4 : Programmes d'investissement (art. R714-4-1 à R714-4-5)](#487)
+          - [Section 2 : Organes représentatifs (art. R714-16-1 à R714-18-15)](#488)
+            - [Sous-section 1 : Commissions médicales d'établissement (art. R714-16-1 à R714-16-34)](#489)
+              - [Paragraphe 1 : Composition de commissions médicales d'établissement (art. R714-16-1 à R714-16-13)](#490)
+                - [I : Centres hospitaliers autres que les centres hospitaliers universitaires (art. R714-16-1 à R714-16-5)](#491)
+                - [II : Centres hospitaliers universitaires (art. R714-16-6 à R714-16-10)](#492)
+                - [III : Hôpitaux locaux (art. R714-16-11)](#493)
+                - [IV : Syndicats interhospitaliers (art. R714-16-12 à R714-16-13)](#494)
+              - [Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement (art. R714-16-14 à R714-16-28)](#495)
+              - [Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux (art. R714-16-29 à R714-16-34)](#496)
+            - [Sous-section 2 : Comités techniques d'établissement (art. R714-17-1 à R714-18-15)](#497)
+              - [Paragraphe 1 : Composition des comités techniques d'établissement (art. R714-17-1 à R714-17-24)](#498)
+              - [Paragraphe 2 : Attributions des comités techniques d'établissement (art. R714-18-1)](#499)
+              - [Paragraphe 3 : Fonctionnement des comités techniques d'établissement (art. R714-18-2 à R714-18-14)](#500)
+              - [Paragraphe 3 : Dispositions diverses (art. R714-18-15)](#501)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. R714-21-1 à R714-26-11)](#502)
+            - [Sous-section 1 : Des chefs de service ou de département (art. R714-21-1 à R714-21-25)](#503)
+              - [Paragraphe 1 : Dispositions générales (art. R714-21-1 à R714-21-2)](#504)
+              - [Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires (art. R714-21-3 à R714-21-5)](#505)
+              - [Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires (art. R714-21-6)](#506)
+              - [Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958 (art. R714-21-7 à R714-21-19)](#507)
+                - [I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein (art. R714-21-8 à R714-21-11)](#508)
+                - [II. - Nomination aux fonctions de chef de service ou de département à temps partiel (art. R714-21-12 à R714-21-13)](#509)
+                - [III (art. R714-21-14 à R714-21-17)](#510)
+                  - [- Dispositions propres aux fonctions de chef de service ou de département de psychiatrie (art. R714-21-14 à R714-21-17)](#511)
+                - [IV (art. R714-21-18)](#512)
+                  - [- Dispositions particulières aux pharmacies hospitalières (art. R714-21-18)](#513)
+                - [V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre (art. R714-21-19)](#514)
+              - [Paragraphe 5 : Dispositions communes (art. R714-21-20 à R714-21-25)](#515)
+            - [Sous-section 2 : Conseil de service ou de département (art. R714-22-1 à R714-22-11)](#516)
+            - [Sous-section 3 : Des responsables d'unité fonctionnelle (art. R714-24-1 à R714-24-2)](#517)
+            - [Sous-section 4 : Service de soins infirmiers (art. R714-26-1 à R714-26-11)](#518)
+          - [Section 4 : Les personnels des établissements publics de santé (art. R714-28-1 à R714-28-4)](#519)
+        - [Chapitre 5 : Les établissements de santé privés (art. R715-7-1 à R715-11-4)](#520)
+          - [Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement (art. R715-7-1 à R715-11-4)](#521)
+            - [Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier (art. R715-7-1 à R715-7-6)](#522)
+            - [Sous-section 4 : De la concession du service public hospitalier (art. R715-10-1 à R715-10-14)](#523)
+              - [Paragraphe 1 : Objet, contenu et durée du contrat de concession (art. R715-10-1 à R715-10-3)](#524)
+              - [Paragraphe 2 : Procédure (art. R715-10-4 à R715-10-9)](#525)
+              - [Paragraphe 3 : Renouvellement et prorogation du contrat de concession (art. R715-10-10)](#526)
+              - [Paragraphe 4 : Contrôle (art. R715-10-11 à R715-10-12)](#527)
+              - [Paragraphe 5 : Mesures diverses (art. R715-10-13 à R715-10-14)](#528)
+            - [Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier (art. R715-11-1 à R715-11-4)](#529)
+              - [Paragraphe 1 : Nature et objet de l'accord d'association (art. R715-11-1 à R715-11-3)](#530)
+              - [Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association (art. R715-11-4)](#531)
+        - [Chapitre 6 : Expérimentation et dispositions diverses (art. R716-3-1 à R716-9-1)](#532)
+          - [Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux (art. R716-3-1 à R716-3-65)](#533)
+            - [Sous-section 1 : Assistance publique - hôpitaux de Paris (art. R716-3-1 à R716-3-38)](#534)
+              - [Paragraphe 1 : Conseil d'administration (art. R716-3-2 à R716-3-9)](#535)
+              - [Paragraphe 2 : Le directeur général et le secrétaire général (art. R716-3-10 à R716-3-12)](#536)
+              - [Paragraphe 3 : Les instances représentatives centrales (art. R716-3-13 à R716-3-18)](#537)
+                - [A. - Commission médicale d'établissement (art. R716-3-13 à R716-3-14)](#538)
+                - [B. - Comité technique central d'établissement (art. R716-3-15 à R716-3-17)](#539)
+                - [C : Commission centrale du service de soins infirmiers (art. R716-3-18)](#540)
+              - [Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général (art. R716-3-19 à R716-3-30)](#541)
+                - [A. - Budget (art. R716-3-19)](#542)
+                - [B. - Direction (art. R716-3-20)](#543)
+                - [C. - Instances représentatives locales (art. R716-3-21 à R716-3-30)](#544)
+                  - [Commission de surveillance (art. R716-3-22 à R716-3-25)](#545)
+                  - [Comité consultatif médical (art. R716-3-26)](#546)
+                  - [Comité technique local d'établissement (art. R716-3-27 à R716-3-29)](#547)
+                  - [Commission locale du service de soins infirmiers (art. R716-3-30)](#548)
+              - [Paragraphe 5 : Contrôle financier (art. R716-3-31)](#549)
+              - [Paragraphe 6 : Marchés (art. R716-3-32)](#550)
+              - [Paragraphe 7 : Contrôle de l'Etat (art. R716-3-33 à R716-3-35)](#551)
+              - [Paragraphe 8 : Dispositions diverses (art. R716-3-36 à R716-3-38)](#552)
+            - [Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille (art. R716-3-39 à R716-3-56)](#553)
+              - [Paragraphe 1 : Conseil d'administration (art. R716-3-40 à R716-3-44)](#554)
+              - [Paragraphe 2 : Directeur général et secrétaire général (art. R716-3-45)](#555)
+              - [Paragraphe 3 : Instances représentatives centrales (art. R716-3-46 à R716-3-49)](#556)
+              - [Paragraphe 4 : Instances représentatives locales (art. R716-3-50 à R716-3-56)](#557)
+            - [Sous-section 3 : Etablissements publics nationaux (art. R716-3-57 à R716-3-65)](#558)
+          - [Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif (art. R716-5-1 à R716-5-11)](#559)
+          - [Section 5 : Dispositions diverses (art. R716-9-1)](#560)
+  - [Partie réglementaire ancienne - Décrets simples (art. D711-6-1 à D712-38)](#561)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires (art. D711-6-1 à D714-21-3)](#562)
+      - [Titre Ier : Etablissements de santé (art. D711-6-1 à D714-21-3)](#563)
+        - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-6-1 à D711-16-9)](#564)
+          - [Section 2 : Dispositions propres au service public hospitalier (art. D711-6-1)](#565)
+          - [Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons (art. D711-9-1 à D711-9-11)](#566)
+          - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-3 à D711-16-9)](#567)
+        - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-2 à D712-39)](#568)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-2 à D712-13-6)](#569)
+            - [Sous-section 1 : Du collège national d'experts (art. D712-2 à D712-4)](#570)
+            - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-7 à D712-13)](#571)
+            - [Sous-section 3 : Des structures de soins alternatives à l'hospitalisation (art. D712-13-1)](#572)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-3 à D712-13-6)](#573)
+          - [Section 2 : Autorisations (art. D712-16)](#574)
+            - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-16)](#575)
+          - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-30 à D712-39)](#576)
+            - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-30 à D712-39)](#577)
+              - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-30 à D712-33)](#578)
+              - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-35 à D712-39)](#579)
+        - [Chapitre 2 : L'organisation et l'équipement sanitaires (art. D712-13-2)](#580)
+          - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-13-2)](#581)
+            - [Sous-section 4 : Regroupements et reconversions (art. D712-13-2)](#582)
+        - [Chapitre IV : Les établissements publics de santé (art. D714-2-1 à D714-21-3)](#583)
+          - [Section 1 : Organisation administrative et financière (art. D714-2-1 à D714-12-5)](#584)
+            - [Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration (art. D714-2-1 à D714-2-3)](#585)
+            - [Sous-section 4 : Composition des groupes fonctionnels (art. D714-7-1)](#586)
+            - [Sous-section 3 : Modalités de délégation de signature des directeurs (art. D714-12-1 à D714-12-4)](#587)
+            - [Sous-section 5 : Virements de crédits (art. D714-12-5)](#588)
+          - [Section 2 : organes représentatifs (art. D714-17-1 à D714-19-2)](#589)
+            - [Sous-section 1 : Elections aux comités techniques d'établissement (art. D714-17-1)](#590)
+            - [Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement (art. D714-19-1 à D714-19-2)](#591)
+          - [Section 2 : Organisation des soins et fonctionnement médical (art. D714-21-1)](#592)
+          - [Section 3 : Organisation des soins et fonctionnement médical (art. D714-21-2 à D714-21-3)](#593)
+    - [Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé (art. D711-16-1 à D712-38)](#594)
+      - [Chapitre Ier : Missions et obligations des établissements de santé (art. D711-16-1 à D711-16-6)](#595)
+        - [Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique (art. D711-16-1 à D711-16-6)](#596)
+      - [Chapitre II : L'organisation et l'équipement sanitaires (art. D712-1 à D712-38)](#597)
+        - [Section 1 : Carte sanitaire et schéma d'organisation sanitaire (art. D712-1 à D712-11)](#598)
+          - [Sous-section 1 : Du collège national d'experts (art. D712-1 à D712-6)](#599)
+          - [Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements (art. D712-8 à D712-11)](#600)
+        - [Section 2 : Autorisations (art. D712-14 à D712-15)](#601)
+          - [Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12 (art. D712-14)](#602)
+          - [Sous-section 2 : De la compétence du ministre en matière d'autorisation (art. D712-15)](#603)
+        - [Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins (art. D712-31 à D712-38)](#604)
+          - [Sous-section 1 : Des structures de soins alternatives à l'hospitalisation (art. D712-31 à D712-38)](#605)
+            - [Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire (art. D712-31 à D712-34)](#606)
+            - [Paragraphe 2 : Des structures dites d'hospitalisation à domicile (art. D712-36 à D712-38)](#607)
 # Partie législative ancienne<a id=1></a>
 
 ## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE<a id=2></a>
@@ -51998,18 +51996,18 @@ _Nouveaux textes_:
 
 ###### Article R5002
 
-La commission nationale de la Pharmacopée est chargée de préparer, sous l'autorité du ministre chargé de la santé publique,
-la rédaction de la Pharmacopée.
+La commission nationale de la Pharmacopée est chargée de préparer, sous l'autorité du ministre chargé de la santé, la
+rédaction de la Pharmacopée.
 
-Cette commission se compose de trente-sept membres :
+Cette commission se compose de trente-six membres :
 
 1° Dix membres de droit :
 
-- le directeur de la pharmacie et du médicament au ministère chargé de santé publique ou son représentant ;
+- le directeur général de la santé au ministère chargé de santé publique ou son représentant ;
 
 - le directeur de l'Institut national de la santé et de la recherche médicale ou son représentant ;
 
-- le directeur général du Laboratoire national de la santé ou son représentant ;
+- le directeur général de l'Agence du médicament ou son représentant ;
 
 - le directeur de la recherche au ministère de l'éducation nationale ou son représentant ;
 
@@ -52027,14 +52025,11 @@ médicinales ou son représentant ;
 
 - le président du syndicat national de l'industrie pharmaceutique ou son représentant.
 
-2° Vingt-sept membres nommés par le ministre chargé de la santé pour une durée de trois ans :
+2° Vingt-six membres nommés par le ministre chargé de la santé pour une durée de trois ans et choisis en raison de leur
+compétence scientifique ou technique. Six au moins de ces membres sont choisis sur proposition du ministre chargé des
+universités.
 
-- un membre de la mission scientifique de la direction de la pharmacie et du médicament au ministère chargé de la santé ;
-
-- vingt-six personnalités choisies en raison de leur compétence scientifique ou technique, dont six au moins sur proposition
-du ministre chargé des universités.
-
-Vingt-sept suppléants sont désignés dans les mêmes conditions que les titulaires. Ils remplacent ces derniers soit en cas
+Vingt-six suppléants sont désignés dans les mêmes conditions que les titulaires. Ils remplacent ces derniers soit en cas
 d'empêchement, soit s'il se produit une vacance en cours de mandat.
 
 Le président et le vice-président sont désignés par le ministre chargé de la santé parmi les membres de la commission.
@@ -52042,10 +52037,6 @@ Le président et le vice-président sont désignés par le ministre chargé de l
 En cas d'absence du président et du vice-président, le ministre chargé de la santé nomme un président de séance.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°85-1276 1985-12-03 art. 1 JORF 5 décembre 1985
 
 _Cité par_:
 
@@ -52055,6 +52046,10 @@ _Cité par_:
   - Code de la santé publique - art. R5002-1 (Ab)
   - Code de la santé publique - art. R5006 (M)
   - Code de la santé publique - art. R5089-15 (Ab)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 1 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -52094,15 +52089,15 @@ _Nouveaux textes_:
 ###### Article R5002-2
 
 La commission peut faire appel à des rapporteurs et à des experts extérieurs à la commission et qu'elle choisit sur une liste
-établie par arrêté du ministre chargé de la santé.
+établie par le directeur général de l'Agence du médicament.
 
 Elle peut constituer des sous-commissions et des groupes de travail pour la préparation de ses délibérations.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°85-1276 1985-12-03 art. 2 JORF 5 décembre 1985
+  - Décret n°93-982 du 5 août 1993 - art. 1 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -52111,13 +52106,13 @@ _Nouveaux textes_:
 
 ###### Article R5002-3
 
-Le secrétariat de la commission est assuré par la direction de la pharmacie et du médicament.
+Le secrétariat de la commission est assuré par l'Agence du médicament.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°85-1276 1985-12-03 art. 2 JORF 5 décembre 1985
+  - Décret n°93-982 du 5 août 1993 - art. 1 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -52134,8 +52129,8 @@ avis de la commission nationale, par arrêtés du ministre chargé de la santé 
 suppléments peuvent en outre être préparés, publiés et rendus obligatoires dans les mêmes conditions que les éditions qu'ils
 complètent.
 
-L'organisme ou le service chargé de l'édition est désigné par arrêté du ministre chargé de la santé publique ; les conditions
-d'édition et de cession sont soumises à l'agrément préalable du ministre.
+L'Agence du médicament est chargée de l'édition de la Pharmacopée et de celle du formulaire national mentionné à l'article R.
+5006.
 
 **Liens relatifs à cet article**
 
@@ -52146,8 +52141,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
-  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
+  - Décret n°93-982 du 5 août 1993 - art. 1 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -52164,8 +52158,9 @@ _Nouveaux textes_:
 ###### Article R5004
 
 En cas de difficultés dans la fabrication ou l'importation de produits définis à la Pharmacopée, le ministre chargé de la
-santé publique peut, par arrêté pris après avis de la commission nationale, apporter à titre provisoire des dérogations aux
-formules et aux caractéristiques imposées par la Pharmacopée.
+santé publique peut, par arrêté pris sur proposition du directeur général de l'Agence du médicament et après avis de la
+commission nationale, apporter à titre provisoire des dérogations aux formules et aux caractéristiques imposées par la
+Pharmacopée.
 
 **Liens relatifs à cet article**
 
@@ -52176,8 +52171,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
-  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
+  - Décret n°93-982 du 5 août 1993 - art. 1 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°99-144 du 4 mars 1999 - art. 2 () JORF 5 mars 1999
 
 _Cité par_:
 
@@ -52226,8 +52224,8 @@ _Modifié par_:
 
 ###### Article R5006
 
-La Pharmacopée est complétée par un formulaire national préparé, sous l'autorité du ministre chargé de la santé publique, par
-la commission nationale, dans les mêmes conditions que la Pharmacopée.
+La Pharmacopée est complétée par un formulaire national préparé par la commission nationale, dans les mêmes conditions que la
+Pharmacopée.
 
 L'une des sous-commissions prévues à l'article R. 5002 est plus spécialement chargée de l'élaboration du formulaire national.
 
@@ -52240,8 +52238,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
-  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
+  - Décret n°93-982 du 5 août 1993 - art. 1 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -52401,8 +52398,8 @@ _Nouveaux textes_:
 
 ###### Article R5012
 
-Le pharmacien responsable défini à l'article L. 596 est tenu de déclarer, à la fin de chaque année, au pharmacien inspecteur
-régional de la santé et au conseil central de la section D de l'Ordre des pharmaciens :
+Le pharmacien responsable défini à l'article L. 596 est tenu de déclarer, à la fin de chaque année, à l'autorité chargée de
+l'inspection de son établissement et au conseil central de la section D de l'Ordre des pharmaciens :
 
 1° Le nombre d'employés ou d'ouvriers affectés dans leurs établissements à la fabrication ou au conditionnement ;
 
@@ -52417,7 +52414,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°69-13 1969-01-02 art. 2 JORF 8 janvier 1969
+  - Décret n°93-982 du 5 août 1993 - art. 1 () JORF 7 août 1993
 
 _Cite_:
 
@@ -52606,13 +52603,14 @@ _Nouveaux textes_:
 
 ###### Article R*5020
 
-La comparution en chambre de discipline est obligatoire si elle est demandée expressément par le ministre de la santé
-publique et de la population ou le procureur de la République. Dans tous les autres cas, le président du conseil intéressé
-saisit son conseil de l'affaire.
+La comparution en chambre de discipline est obligatoire si elle est demandée expressément par le ministre chargé de la santé,
+le directeur général de l'Agence du médicament pour les pharmaciens des établissements relevant de son contrôle ou le
+procureur de la République. Dans tous les autres cas, le président du conseil intéressé saisit son conseil de l'affaire.
 
 Si le conseil décide de ne pas traduire en chambre de discipline, cette décision est notifiée par lettre recommandée avec
-demande d'avis de réception postal au pharmacien poursuivi, au plaignant, au ministre de la santé publique et de la
-population et, en cinq exemplaires, au président du conseil national pour transmission aux présidents des conseils centraux.
+demande d'avis de réception postal au pharmacien poursuivi, au plaignant, au ministre chargé de la santé et, s'il y a lieu,
+au directeur général de l'Agence du médicament pour les pharmaciens des établissements relevant de son contrôle et, en cinq
+exemplaires, au président du conseil national pour transmission aux présidents des conseils centraux.
 
 S'il décide de traduire en chambre de discipline, cette décision est notifiée au pharmacien poursuivi et au plaignant par
 lettre recommandée avec demande d'avis de réception postal.
@@ -52623,6 +52621,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 2 () JORF 7 août 1993
 
 
 ###### Article R*5021
@@ -52779,7 +52781,8 @@ recommandée avec demande d'avis de réception postal, aux personnes suivantes :
 
 - plaignant ;
 
-- ministre de la santé publique et de la population ;
+- ministre chargé de la santé et, pour les pharmaciens des établissements relevant de son contrôle, directeur général de
+l'Agence du médicament ;
 
 - président du conseil national (en cinq exemplaires, dans ce cas).
 
@@ -52793,6 +52796,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 2 () JORF 7 août 1993
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R4234-12 (V)
@@ -52803,8 +52810,9 @@ _Nouveaux textes_:
 Si dans le délai légal qui suit la notification, le conseil national n'a pas été saisi d'un appel contre la décision, le
 président du conseil national en informe dans les quinze jours le conseil qui s'est prononcé en première instance.
 
-Ce dernier, quinze jours après en avoir été avisé, adresse la décision au préfet par l'intermédiaire du directeur
-départemental de la santé (inspection de la pharmacie) en lui demandant d'en assurer l'exécution s'il y a lieu.
+Ce dernier, quinze jours après en avoir été avisé, adresse la décision au préfet en lui demandant d'en assurer l'exécution
+s'il y a lieu. Dans le cas d'un établissement relevant du contrôle de l'Agence du médicament, le président du conseil
+national en informe celle-ci.
 
 Un arrêté préfectoral, pris sur proposition du directeur départemental de la santé après avis de l'inspecteur de la
 pharmacie, fixe la date de départ de l'exécution de la peine en cas d'interdiction d'exercice de la profession.
@@ -52818,6 +52826,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 2 () JORF 7 août 1993
 
 _Cite_:
 
@@ -52834,8 +52846,18 @@ _Cité par_:
 
 ###### Article R5016
 
-Cette plainte est adressée au président du Conseil national ou au président d'un conseil central ou régional ; si elle est
-adressée au président du Conseil national ou au président du conseil central "A", elle est transmise au conseil compétent.
+L'action disciplinaire contre un pharmacien ne peut être introduite que par une plainte formée par l'une des personnes
+suivantes : le ministre chargé de la santé, le ministre chargé de la sécurité sociale, le ministre chargé des départements
+d'outre-mer, le directeur général de l'Agence du médicament pour les pharmaciens des établissements relevant de son contrôle,
+le préfet, le directeur départemental des affaires sanitaires et sociales, le directeur régional des affaires sanitaires et
+sociales, le procureur de la République, le président du conseil national, d'un conseil central ou d'un conseil régional de
+l'ordre des pharmaciens ou un pharmacien inscrit à l'un des tableaux de l'ordre.
+
+Lorsque les faits ont été portés à la connaissance de l'auteur de la plainte par un organisme de sécurité sociale, celui-ci
+reçoit notification de la décision de la chambre de discipline et peut faire appel.
+
+Cette plainte est adressée au président du conseil national ou au président d'un conseil central ou régional ; si elle est
+adressée au président du conseil national ou au président du conseil central "A", elle est transmise au conseil compétent.
 
 **Liens relatifs à cet article**
 
@@ -52846,7 +52868,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-484 1988-04-27 art. 19 JORF 3 mai 1988
+  - Décret n°93-982 du 5 août 1993 - art. 2 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -53106,7 +53128,8 @@ lettre recommandée avec demande d'avis de réception postal, aux personnes suiv
 
 - plaignant ;
 
-- ministre de la santé publique et de la population ;
+- ministre chargé de la santé et, pour les pharmaciens des établissements relevant de son contrôle, au directeur général de
+l'Agence du médicament ;
 
 - appelant ;
 
@@ -53119,6 +53142,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 2 () JORF 7 août 1993
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R4234-25 (T)
@@ -53126,8 +53153,7 @@ _Nouveaux textes_:
 
 ###### Article R*5040
 
-Le ministre de la santé publique adresse au préfet intéressé par l'intermédiaire du directeur départemental de la santé
-(inspection de la pharmacie) une copie de la décision qui lui a été notifiée.
+Le ministre de la santé publique adresse au préfet intéressé une copie de la décision qui lui a été notifiée.
 
 Si la peine est une interdiction d'exercer, il demande au préfet par l'intermédiaire du directeur départemental de la santé,
 d'en assurer l'exécution.
@@ -53140,6 +53166,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 2 () JORF 7 août 1993
 
 _Cite_:
 
@@ -53232,9 +53262,9 @@ qu'elles seraient susceptibles d'entraîner.
 Les pharmaciens membres d'une société pharmaceutique ne sauraient considérer leur appartenance à la société comme les
 dispensant, à titre personnel, de leurs obligations.
 
-Les pharmaciens fonctionnaires qui exercent une activité pharmaceutique motivant leur inscription à l'un des tableaux de
-l'ordre restent soumis pour cette activité à la juridiction de l'ordre. Ils ne peuvent être traduits en chambre de discipline
-que sur la demande ou avec l'accord des autorités administratives dont ils relèvent.
+Les pharmaciens exerçant des missions de service public qui exercent une activité pharmaceutique motivant leur inscription à
+l'un des tableaux de l'ordre restent soumis pour cette activité à la juridiction de l'ordre. Ils ne peuvent être traduits en
+chambre de discipline que sur la demande ou avec l'accord des autorités administratives dont ils relèvent.
 
 **Liens relatifs à cet article**
 
@@ -53253,8 +53283,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°92-909 du 28 août 1992 - art. 1 () JORF 3 septembre 1992
-  - Décret n°92-909 du 28 août 1992 - art. 6 () JORF 3 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 2 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -54155,8 +54184,8 @@ _Nouveaux textes_:
 
 ###### Article R*5015-41
 
-Ils doivent donner aux inspecteurs de la pharmacie dans les établissements qu'ils dirigent toutes facilités pour qu'ils
-puissent accomplir leur mission.
+Ils doivent donner aux aux agents chargés de l'inspection dans les établissements qu'ils dirigent toutes facilités pour
+qu'ils puissent accomplir leur mission.
 
 **Liens relatifs à cet article**
 
@@ -54168,6 +54197,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 2 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -54926,10 +54959,11 @@ _Nouveaux textes_:
 Sous réserve des dispositions des articles R. 5049 et R. 5050-1, la publicité auprès du public relative à des médicaments
 dont la délivrance n'est pas obligatoirement soumise à prescription médicale, en application du titre III du livre V du
 présent code, et qui ne sont pas remboursés par les organismes de sécurité sociale, en application des articles R. 163-1 à R.
-163-12 du code de la sécurité sociale, ainsi que la publicité relative aux produits et objets mentionnés aux deuxième et
-troisième alinéas de l'article L. 551 sont soumises à une autorisation du ministre chargé de la santé dénommée visa de
-publicité et délivrée après avis de la commission chargée du contrôle de la publicité et de la diffusion de recommandations
-sur le bon usage des médicaments. Ce visa est réputé acquis au terme d'un délai d'un mois après l'avis de ladite commission.
+163-12 du code de la sécurité sociale, ainsi que la publicité relative aux produits mentionnés au deuxième alinéa de
+l'article L. 551 sont soumises à une autorisation du ministre chargé de la santé ou, dans le cas mentionné au 1° de l'article
+R. 5045-2, du directeur général de l'Agence du médicament dénommée visa de publicité et délivrée après avis de la commission
+chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments. Ce visa est
+réputé acquis au terme d'un délai d'un mois après l'avis de ladite commission.
 
 Pour les autres médicaments toute publicité auprès du public est interdite.
 
@@ -54949,11 +54983,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°91-87 du 21 janvier 1991 - art. 6 () JORF 23 janvier 1991
+  - Décret n°93-982 du 5 août 1993 - art. 3 () JORF 7 août 1993
 
 _Cite_:
 
   - Code de la santé publique - art. L551 (M)
+  - Code de la santé publique - art. R5045-2 (M)
   - Code de la santé publique - art. R5049 (M)
   - Code de la santé publique - art. R5050-1 (M)
   - Code de la sécurité sociale R163-1 à R163-12
@@ -55033,14 +55068,16 @@ _Nouveaux textes_:
 
 ###### Article R5047-4
 
-Il peut être mis fin à l'autorisation de publicité par décision motivée du ministre chargé de la santé, après avis de la
-commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments.
+Il peut être mis fin à l'autorisation de publicité par décision motivée du ministre chargé de la santé ou, dans le cas
+mentionné au 1° de l'article R. 5045-2, du directeur général de l'Agence du médicament, après avis de la commission chargée
+du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments.
 
 Le bénéficiaire du visa doit, avant que la commission ne donne son avis, être mis à même de présenter ses observations
 écrites ou d'être entendu par la commission.
 
-En cas d'urgence, le ministre chargé de la santé peut suspendre l'autorisation sans consultation préalable de la commission
-pour une durée d'un mois au plus. La commission doit être saisie dans ce délai.
+En cas d'urgence, le ministre chargé de la santé ou, dans le cas mentionné au 1° de l'article R. 5045-2, le directeur général
+de l'Agence du médicament peut suspendre l'autorisation sans consultation préalable de la commission pour une durée d'un mois
+au plus. La commission doit être saisie dans ce délai.
 
 **Liens relatifs à cet article**
 
@@ -55051,7 +55088,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-87 du 21 janvier 1991 - art. 6 () JORF 23 janvier 1991
+  - Décret n°93-982 du 5 août 1993 - art. 3 () JORF 7 août 1993
+
+_Cite_:
+
+  - Code de la santé publique - art. L551 (M)
+  - Code de la santé publique - art. R5045-2 (M)
 
 _Nouveaux textes_:
 
@@ -55101,8 +55143,8 @@ c) L'indication du prix limite de vente au public lorsqu'un tel prix est fixé e
 vigueur.
 
 Les mentions qui figurent sur les conditionnements, récipients, prospectus et notices et qui sont dispensées de visa de
-publicité doivent faire l'objet d'un dépôt auprès du ministre chargé de la santé. Toute modification apportée à ces mentions
-doit suivre la même procédure.
+publicité doivent faire l'objet d'un dépôt auprès de l'Agence du médicament. Toute modification apportée à ces mentions doit
+suivre la même procédure.
 
 **Liens relatifs à cet article**
 
@@ -55113,7 +55155,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°87-772 du 23 septembre 1987 - art. 2 () JORF 24 septembre 1987
+  - Décret n°93-982 du 5 août 1993 - art. 3 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -55312,10 +55354,13 @@ _Nouveaux textes_:
 
 ###### Article R5045-2
 
-Le contrôle de la publicité est exercé par le ministre chargé de la santé, après avis de la commission prévue à la section V
-en ce qui concerne les médicaments à usage humain, les produits et objets mentionnés à l'article L. 551 (deuxième et
-troisième alinéa) et les officines et autres établissements pharmaceutiques et après avis de la commission prévue à l'article
-R. 5055-1 en ce qui concerne les objets, appareils et méthodes mentionnés à l'article L. 552.
+Le contrôle de la publicité est exercé :
+
+1° Pour les médicaments à usage humain, par le directeur général de l'Agence du médicament après avis de la commission prévue
+à la section 5 ;
+
+2° Pour les produits mentionnés au deuxième alinéa de l'article L. 551, par le ministre chargé de la santé après avis de la
+même commission.
 
 **Liens relatifs à cet article**
 
@@ -55324,15 +55369,17 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°87-772 du 23 septembre 1987 - art. 2 () JORF 24 septembre 1987
+  - Décret n°93-982 du 5 août 1993 - art. 3 () JORF 7 août 1993
+
+**Liens**:
+
+  - PEREMPTION: Décret n°96-531 du 14 juin 1996 - art. 1 () JORF 16 juin 1996
 
 _Cite_:
 
   - Code de la santé publique - art. L551 (M)
-  - Code de la santé publique - art. L552 (M)
-  - Code de la santé publique - art. R5055-1 (M)
 
 _Cité par_:
 
@@ -55697,7 +55744,7 @@ composée de :
 
 1. Sept membres de droit :
 
-a) Le directeur de la pharmacie et du médicament ou son représentant ;
+a) Le directeur général de l'Agence du médicament  ou son représentant ;
 
 b) Le directeur général de la santé ou son représentant ;
 
@@ -55750,11 +55797,6 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Modifié par_:
-
-  - Décret n°91-87 du 21 janvier 1991 - art. 2 () JORF 23 janvier 1991
-  - Décret n°91-87 du 21 janvier 1991 - art. 3 () JORF 23 janvier 1991
-
 _Cité par_:
 
   - Arrêté du 7 août 1991 - art. 1 (V)
@@ -55768,6 +55810,14 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D162-2-4 (M)
   - Code de la sécurité sociale. - art. R163-5 (M)
   - Code de la sécurité sociale. - art. R163-7 (V)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 3 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°96-531 du 14 juin 1996 - art. 2 () JORF 16 juin 1996
 
 _Cite_:
 
@@ -55783,18 +55833,18 @@ arrêté du ministre chargé de la santé. Des suppléants sont désignés en no
 En cas de vacance survenant au cours d'un mandat, le mandat du suppléant appelé à remplacer un membre titulaire ou celui du
 membre nouveau appelé à remplacer un suppléant prend fin à la même date que celui du membre remplacé.
 
-La commission peut faire appel à des experts qui siègent avec voix consultative et le ministre chargé de la santé peut lui
-demander d'en entendre.
+La commission peut faire appel à des experts qui siègent avec voix consultative et le ministre chargé de la santé ou le
+directeur général de l'Agence du médicament peut lui demander d'en entendre.
 
-L'instruction des dossiers peut être confiée à des rapporteurs extérieurs à la commission, désignés par le directeur de la
-pharmacie et du médicament, sur proposition du président de la commission.
+L'instruction des dossiers peut être confiée à des rapporteurs extérieurs à la commission, désignés par le directeur général
+de l'Agence du médicament, sur proposition du président de la commission.
 
 Ces rapporteurs peuvent être appelés à siéger à la commission avec voix consultative.
 
-Des groupes de travail peuvent être créés par le directeur de la pharmacie et du médicament, sur proposition du président,
+Des groupes de travail peuvent être créés par le directeur général de l'Agence du médicament, sur proposition du président,
 notamment en vue de préparer les avis de la commission.
 
-La commission se réunit sur convocation de son président ou du ministre de la santé.
+La commission se réunit sur convocation de son président ou du directeur général de l'Agence du médicament.
 
 Les délibérations ne sont valables que si la moitié des membres de la commission sont présents.
 
@@ -55803,7 +55853,7 @@ prépondérante.
 
 Les délibérations sont secrètes.
 
-Le secrétariat de la commission et des groupes de travail est assuré par la direction de la pharmacie et du médicament.
+Le secrétariat de la commission et des groupes de travail est assuré par l'Agence du médicament.
 
 **Liens relatifs à cet article**
 
@@ -55814,7 +55864,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-87 du 21 janvier 1991 - art. 2 () JORF 23 janvier 1991
+  - Décret n°93-982 du 5 août 1993 - art. 3 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°96-531 du 14 juin 1996 - art. 2 () JORF 16 juin 1996
 
 
 ###### Article R5054-2
@@ -55822,12 +55876,12 @@ _Modifié par_:
 I. - La commission est consultée sur les demandes et les retraits de visas de publicité dans les conditions fixées à la
 section I.
 
-II. - Lorsque la publicité n'est pas soumise à autorisation, le ministre chargé de la santé peut, en cas d'inobservation des
-dispositions applicables, et par dérogation à l'article R. 5045-2, mettre en demeure le responsable de la mise sur le marché
-de modifier une publicité dans un délai déterminé. En cas de non-respect de cette mise en demeure, après avis de la
-commission, il peut prononcer l'interdiction de la publicité incriminée.
+II. - Lorsque la publicité n'est pas soumise à autorisation, le directeur général de l'Agence du médicament peut, en cas
+d'inobservation des dispositions applicables, et par dérogation à l'article R. 5045-2, mettre en demeure le responsable de la
+mise sur le marché de modifier une publicité dans un délai déterminé. En cas de non-respect de cette mise en demeure, après
+avis de la commission, il peut prononcer l'interdiction de la publicité incriminée.
 
-Après avis de la commission, le ministre peut :
+Après avis de la commission, le directeur général de l'Agence du médicament peut :
 
 1. Interdire une publicité ;
 
@@ -55837,12 +55891,17 @@ Après avis de la commission, le ministre peut :
 des moyens équivalents, d'un rectificatif approuvé par la commission, soit l'envoi de lettres rectificatives aux
 destinataires de la publicité et ce aux frais de l'établissement.
 
-Le ministre rend publiques les mesures d'interdiction. Ces mesures ne peuvent être prises qu'après que l'intéressé a été
-avisé et, s'il le désire, entendu par la commission.
+Le directeur général de l'Agence du médicament rend publiques les mesures d'interdiction. Ces mesures ne peuvent être prises
+qu'après que l'intéressé a été avisé et, s'il le désire, entendu par la commission.
 
-En cas d'urgence, le ministre peut suspendre, sans consultation préalable de la commission et pour une durée de trois mois au
-plus, la diffusion d'une publicité manifestement contraire aux dispositions applicables. La commission doit être saisie dans
-ce délai.
+En cas d'urgence, le directeur général de l'Agence du médicament peut suspendre, sans consultation préalable de la commission
+et pour une durée de trois mois au plus, la diffusion d'une publicité manifestement contraire aux dispositions applicables.
+La commission doit être saisie dans ce délai.
+
+Pour la publicité en faveur des produits mentionnés au deuxième alinéa de l'article L. 551, les décisions prévues au présent
+article sont prises par le ministre chargé de la santé.
+
+Les mesures d'interdiction sont publiées par extrait au Journal officiel.
 
 **Liens relatifs à cet article**
 
@@ -55853,17 +55912,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-87 du 21 janvier 1991 - art. 2 () JORF 23 janvier 1991
-  - Décret n°91-87 du 21 janvier 1991 - art. 4 () JORF 23 janvier 1991
+  - Décret n°93-982 du 5 août 1993 - art. 3 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°96-531 du 14 juin 1996 - art. 2 () JORF 16 juin 1996
 
 _Cite_:
 
+  - Code de la santé publique - art. L551 (M)
   - Code de la santé publique - art. R5045-2 (M)
 
 
 ###### Article R5054-3
 
-La commission peut, à la demande du ministre ou de sa propre initiative, formuler des avis sur :
+La commission peut, à la demande du ministre, du directeur général de l'Agence du médicament ou de sa propre initiative,
+formuler des avis sur :
 
 a) Les pratiques risquant de détourner l'usage d'un médicament des indications mentionnées dans l'autorisation de mise sur le
 marché ;
@@ -55872,8 +55936,8 @@ b) Le déroulement de campagnes publicitaires ;
 
 c) L'utilisation promotionnelle des différents médias.
 
-La commission peut également émettre, à la demande du ministre, ou de sa propre initiative, des recommandations sur le bon
-usage des médicaments.
+La commission peut également émettre, à la demande du ministre, du directeur général de l'Agence du médicament ou de sa
+propre initiative, des recommandations sur le bon usage des médicaments.
 
 Le ministre chargé de la santé peut rendre publics les avis et recommandations de la commission.
 
@@ -55886,8 +55950,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-87 du 21 janvier 1991 - art. 2 () JORF 23 janvier 1991
-  - Décret n°91-87 du 21 janvier 1991 - art. 5 () JORF 23 janvier 1991
+  - Décret n°93-982 du 5 août 1993 - art. 3 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°96-531 du 14 juin 1996 - art. 2 () JORF 16 juin 1996
 
 _Nouveaux textes_:
 
@@ -55944,7 +56011,7 @@ Elle doit faire connaître :
 7° La ou les propriétés pharmacologiques essentielles ;
 
 8° Les indications thérapeutiques et les contre-indications éventuelles, fixées par l'autorisation de mise sur le marché et
-toute autre décision ministérielle ultérieure les concernant ;
+toute autre décision ultérieure de l'autorité administrative les concernant ;
 
 9° Le mode d'emploi et la posologie ;
 
@@ -55980,7 +56047,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-87 du 21 janvier 1991 - art. 1 () JORF 23 janvier 1991
+  - Décret n°93-982 du 5 août 1993 - art. 3 () JORF 7 août 1993
 
 _Cite_:
 
@@ -56015,7 +56082,7 @@ _Nouveaux textes_:
 ###### Article R5052-3
 
 Toute publicité régie par la présente section doit faire l'objet, dès sa diffusion, d'un dépôt auprès du ministre chargé de
-la santé.
+la santé ou, pour les médicaments à usage humain, auprès du directeur général de l'Agence du médicament.
 
 Ce dépôt donne lieu au versement d'une redevance, dont le montant est fixé par décret.
 
@@ -56026,24 +56093,35 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°87-772 du 23 septembre 1987 - art. 2 () JORF 24 septembre 1987
+  - Décret n°93-982 du 5 août 1993 - art. 3 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5122-22 (V)
 
 
-#### Chapitre 5 : De l'inspection de la pharmacie<a id=370></a>
+#### Chapitre 5 : De l'inspection<a id=370></a>
 
-##### Section 1 : Fonctions des inspecteurs de la pharmacie.<a id=371></a>
+##### Section 1 : Contrôle exercé par les inspecteurs de pharmacie et les inspecteurs de l'Agence du médicament<a id=371></a>
 
 ###### Article R5056
 
-Les inspecteurs de la pharmacie procèdent au moins une fois l'an à l'inspection des officines et pharmacies visées aux
-articles L. 568 et L. 577, des établissements pharmaceutiques visés à l'article L. 596, des dépôts de médicaments détenus par
-les médecins visés à l'article L. 594, des herboristeries visées à l'article L. 659.
+Il est procédé au moins une fois par an à l'inspection :
+
+1° Par les inspecteurs de l'Agence du médicament, des établissements pharmaceutiques mentionnés à l'article L. 596 dans
+lesquels sont effectuées la fabrication, l'importation ou l'exportation de médicaments à usage humain ou des produits
+mentionnés à l'article L. 658-11, ou l'exploitation de médicaments.
+
+2° Par les inspecteurs de la pharmacie :
+
+a) Des officines et pharmacies mentionnées aux articles L. 568, L. 577, L. 595-1, L. 595-8, L. 595-9, L. 595-10 ;
+
+b) Des établissements pharmaceutiques autres que ceux qui sont mentionnés au 1° ci-dessus ;
+
+c) Des dépôts de médicaments détenus par les médecins mentionnés à l'article L. 594 et des herboristeries mentionnées à
+l'article L. 659.
 
 **Liens relatifs à cet article**
 
@@ -56052,12 +56130,22 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 1993-08-05 art. 4 I, II, III JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Cite_:
 
   - Code de la santé publique - art. L568 (M)
   - Code de la santé publique - art. L577 (Ab)
   - Code de la santé publique - art. L594 (Ab)
+  - Code de la santé publique - art. L595-1 (M)
+  - Code de la santé publique - art. L595-10 (T)
+  - Code de la santé publique - art. L595-8 (Ab)
+  - Code de la santé publique - art. L595-9 (M)
   - Code de la santé publique - art. L596 (M)
+  - Code de la santé publique - art. L658-11 (M)
   - Code de la santé publique - art. L659 (Ab)
 
 _Cité par_:
@@ -56072,12 +56160,43 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5313-5 (V)
 
 
+###### Article R5056-1
+
+Dans l'exercice des contrôles mentionnés au 5° de l'article L. 567-9, les inspecteurs de l'Agence du médicament ont accès au
+fichier prévu à l'article R. 2039.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Cite_:
+
+  - Code de la santé publique - art. L567-9 (M)
+  - Code de la santé publique - art. R2039 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5056 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5313-6 (V)
+
+
 ###### Article R5057
 
-Pour l'application de l'article L. 564, les inspecteurs de la pharmacie peuvent, concurremment avec tous officiers de police
-judiciaire, procéder aux recherches, opérer d'office des prélèvements d'échantillons et, s'il y a lieu, effectuer des saisies
-dans les établissements visés à l'article R. 5056, les dépôts de remèdes tenus par les vétérinaires et, en général, dans tous
-les lieux où sont fabriqués, entreposés et mis en vente des produits médicamenteux hygiéniques ou toxiques.
+Pour l'application de l'article L. 564, les inspecteurs de la pharmacie  et les inspecteurs de l'Agence du médicament
+peuvent, dans la limite de leurs compétences respectives, concurremment avec tous officiers de police judiciaire, procéder
+aux recherches, opérer d'office des prélèvements d'échantillons et, s'il y a lieu, effectuer des saisies dans les
+établissements visés à l'article R. 5056, les dépôts de remèdes tenus par les vétérinaires et, en général, dans tous les
+lieux où sont fabriqués, entreposés et mis en vente des produits médicamenteux hygiéniques ou toxiques.
 
 Ces prélèvements peuvent être effectués notamment dans des laboratoires et leurs dépendances, magasins, boutiques, ateliers,
 véhicules servant au commerce, lieux de fabrication contenant des produits destinés à la vente ainsi que dans les entrepôts,
@@ -56096,6 +56215,11 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 1993-08-05 art. 4 I, II, V JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Cite_:
 
   - Code de la santé publique - art. L564 (M)
@@ -56113,9 +56237,9 @@ _Nouveaux textes_:
 ###### Article R5058
 
 Les pouvoirs attribués aux inspecteurs de la pharmacie par les articles précédents s'exercent concurremment avec ceux que
-détiennent les inspecteurs de la répression des fraudes pour la recherche, dans les officines, des infractions à la loi du
-1er août 1905 sur la répression des fraudes et aux règlements en vigueur concernant tous les produits dont la vente n'est pas
-réservée aux pharmaciens.
+détiennent les inspecteurs de la répression des fraudes pour la recherche, dans les officines, des infractions aux articles
+L. 213-1 et suivants du code de la consommation et aux règlements en vigueur concernant tous les produits dont la vente n'est
+pas réservée aux pharmaciens.
 
 **Liens relatifs à cet article**
 
@@ -56124,13 +56248,17 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code de la santé publique - art. R5127-2 (V)
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
 
 _Cite_:
 
-  - Loi n°1905-08-01
+  - Code de la consommation - art. L213-1 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5127-2 (V)
 
 
 ###### Article R5059
@@ -56155,6 +56283,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Cite_:
 
   - Code de la santé publique - art. L557 (M)
@@ -56171,31 +56303,7 @@ _Nouveaux textes_:
 
 ##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques<a id=372></a>
 
-##### Paragraphe 1 : Généralités<a id=373></a>
-
-###### Article R5060
-
-Les infractions à la loi du 1er août 1905 en ce qui concerne les substances médicamenteuses et les produits hygiéniques ou
-toxiques sont recherchées et constatées conformément aux dispositions de la présente section. Ces dispositions ne font pas
-obstacle à ce que la preuve desdites infractions puisse être établie par toutes voies de droit commun.
-
-Les dispositions des articles R. 5057 et R. 5059 sont applicables à la recherche et à la constatation desdites infractions.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5057 (M)
-  - Code de la santé publique - art. R5059 (M)
-  - Loi n°1905-08-01
-
-
-##### Paragraphe 2 : Prélèvements d'échantillons<a id=374></a>
+##### Paragraphe 2 : Prélèvements d'échantillons<a id=373></a>
 
 ###### Article R5061
 
@@ -56208,6 +56316,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
 
 _Cite_:
 
@@ -56248,6 +56360,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Cité par_:
 
   - Code de la santé publique - art. R5077 (Ab)
@@ -56268,6 +56384,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -56313,6 +56433,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Cité par_:
 
   - Code de la santé publique - art. R5069 (Ab)
@@ -56343,6 +56467,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Cité par_:
 
   - Code de la santé publique - art. R5073 (M)
@@ -56367,6 +56495,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
 
 _Cite_:
 
@@ -56394,6 +56526,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Cité par_:
 
   - Code de la santé publique - art. R5061 (Ab)
@@ -56406,8 +56542,9 @@ _Nouveaux textes_:
 
 ###### Article R5068
 
-Le procès-verbal et le ou les échantillons, à l'exception de celui que l'intéressé a pu conserver en dépôt, sont envoyés sans
-délai au ministère de la santé publique (service central de la pharmacie).
+Le procès-verbal et le ou les échantillons, à l'exception de celui que l'intéressé a pu conserver en dépôt, sont envoyés, par
+les inspecteurs de la pharmacie, au ministre chargé de la santé et, par les inspecteurs de l'Agence du médicament, au
+directeur général de l'agence.
 
 **Liens relatifs à cet article**
 
@@ -56416,6 +56553,11 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 1993-08-05 art. 4 I, VI JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5127-14 (V)
@@ -56423,10 +56565,10 @@ _Nouveaux textes_:
 
 ###### Article R5069
 
-Le service central de la pharmacie qui reçoit échantillons et procès-verbaux les enregistre, inscrit le numéro d'entrée sur
-les deux parties de l'étiquette que porte chaque échantillon et transmet dans les plus courts délais un de ces échantillons
-au laboratoire compétent. Les échantillons à comparer doivent être adressés au même laboratoire. Le talon seul suit
-l'échantillon au laboratoire.
+Lorsqu'il reçoit les échantillons et les procès-verbaux, le ministre chargé de la santé ou le directeur général de l'Agence
+du médicament les enregistre, inscrit le numéro d'entrée sur les deux parties de l'étiquette que porte chaque échantillon et
+transmet dans les plus courts délais un de ces échantillons au laboratoire compétent. Les échantillons à comparer doivent
+être adressés au même laboratoire. Le talon seul suit l'échantillon au laboratoire.
 
 Le volant, préalablement détaché, est annexé au procès-verbal. Les deux autres échantillons ou, dans le cas prévu par le
 deuxième alinéa de l'article R. 5066, les trois autres sont conservés par le service administratif. Toutefois si la nature
@@ -56441,6 +56583,11 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 1993-08-05 art. 4 I, VII JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Cite_:
 
   - Code de la santé publique - art. R5063 (M)
@@ -56453,9 +56600,10 @@ _Nouveaux textes_:
 
 ###### Article R5070
 
-Dans le cas prévu à l'article R. 5067, lorsqu'en raison des circonstances qui ont provoqué le prélèvement ou de l'aspect de
-l'échantillon, le ministre de la santé publique et de la population présume une infraction, l'échantillon accompagné du
-procès-verbal de prélèvement et de toutes les pièces utiles est adressé au procureur de la République.
+Pour l'application de l'article R. 5067, lorsqu'en raison des circonstances qui ont provoqué le prélèvement ou de l'aspect de
+l'échantillon, le ministre chargé de la santé ou le directeur général de l'Agence du médicament présume une infraction,
+l'échantillon accompagné du procès-verbal de prélèvement et de toutes les pièces utiles est adressé au procureur de la
+République.
 
 **Liens relatifs à cet article**
 
@@ -56463,6 +56611,11 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 1993-08-05 art. 4 I, VIII JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
 
 _Cite_:
 
@@ -56478,7 +56631,168 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5127-18 (V)
 
 
-##### Paragraphe 4 : Saisies<a id=375></a>
+##### Paragraphe 1 : Généralités<a id=374></a>
+
+###### Article R5060
+
+Les infractions aux articles L. 213-1 et suivants du code de la consommation en ce qui concerne les substances
+médicamenteuses et les produits hygiéniques ou toxiques sont recherchées et constatées conformément aux dispositions de la
+présente section. Ces dispositions ne font pas obstacle à ce que la preuve desdites infractions puisse être établie par
+toutes voies de droit commun.
+
+Les dispositions des articles R. 5057 et R. 5059 sont applicables à la recherche et à la constatation desdites infractions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°99-144 du 4 mars 1999 - art. 4 () JORF 5 mars 1999
+
+_Cite_:
+
+  - Code de la consommation - art. L213-1 (M)
+  - Code de la santé publique - art. R5057 (M)
+  - Code de la santé publique - art. R5059 (M)
+
+
+##### Paragraphe 3 : Analyse des échantillons prélevés et suites administratives<a id=375></a>
+
+###### Article R5071
+
+L'analyse des échantillons prélevés est confiée à l'Agence du médicament ou aux laboratoires désignés à cet effet en vertu de
+décisions prises de concert par les ministres de l'agriculture et de la santé publique et de la population. Ces analyses sont
+à la fois d'ordre qualificatif et d'ordre quantitatif ; l'examen comprend des recherches organoleptiques, physiques,
+chimiques, micographiques, physiologiques ou autres, susceptibles de fournir des indications sur la pureté des produits, leur
+identité, leur composition et leur conformité au Codex.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 1993-08-05 art. 4 I, IX, X JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°99-144 du 4 mars 1999 - art. 4 () JORF 5 mars 1999
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5075 (Ab)
+
+
+###### Article R5072
+
+Le résultat de l'analyse est adressé à l'autorité administrative qui l'a demandée et les conclusions du rapport sont
+communiquées au préfet du département d'où provient l'échantillon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 1993-08-05 art. 4 I, IX, XI JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5127-16 (V)
+
+
+###### Article R5073
+
+Si le rapport ne conclut pas à une présomption d'infraction, l'intéressé en est avisé sans délai. Dans ce cas, si le
+remboursement des échantillons est demandé, il est effectué d'après leur valeur réelle au jour du prélèvement, aux frais de
+l'Etat, au moyen d'un mandat délivré par le préfet sur présentation du récépissé prévu à l'article R. 5065.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 1993-08-05 art. 4 I, IX JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°99-144 du 4 mars 1999 - art. 4 () JORF 5 mars 1999
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5089 (Ab)
+
+
+###### Article R5074
+
+Dans le cas où le rapport conclut à une présomption d'infraction, il est transmis, accompagné du procès-verbal de prélèvement
+et des échantillons au procureur de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 1993-08-05 art. 4 I, IX JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5127-17 (V)
+
+
+###### Article R5075
+
+Chaque année, les directeurs des laboratoires visés à l'article R. 5071 adressent au ministre de la santé publique un rapport
+sur le nombre des échantillons analysés et le résultat de leur analyse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 1993-08-05 art. 4 I, IX JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°99-144 du 4 mars 1999 - art. 4 () JORF 5 mars 1999
+
+_Cite_:
+
+  - Code de la santé publique - art. R5071 (M)
+
+
+##### Paragraphe 4 : Saisies<a id=376></a>
 
 ###### Article R5076
 
@@ -56492,6 +56806,14 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°99-144 du 4 mars 1999 - art. 4 () JORF 5 mars 1999
+
 
 ###### Article R5077
 
@@ -56499,8 +56821,8 @@ Les inspecteurs témoins d'un flagrant délit de falsification, de fraude ou de 
 tenus d'en faire la constatation immédiate. Un procès-verbal est dressé à cet effet et l'inspecteur verbaliseur y consigne,
 avec les mentions prévues à l'article R. 5062, toutes les circonstances de nature à établir devant l'autorité judiciaire la
 valeur des constatations faites. Ce procès-verbal est envoyé par l'inspecteur, dans les vingt-quatre heures, au procureur de
-la République. Copie dudit acte est transmise au ministre de la santé publique et de la population sous couvert de
-l'inspecteur divisionnaire de la santé.
+la République. Copie dudit acte est transmise, selon le cas, au directeur général de l'Agence du médicament ou, sous couvert
+du directeur régional des affaires sanitaires et sociales, au ministre chargé de la santé.
 
 **Liens relatifs à cet article**
 
@@ -56508,6 +56830,15 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 1993-08-05 art. 4 I, XII JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°99-144 du 4 mars 1999 - art. 4 () JORF 5 mars 1999
 
 _Cite_:
 
@@ -56528,105 +56859,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5127-19 (V)
-
-
-##### Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives.<a id=376></a>
-
-###### Article R5071
-
-L'analyse des échantillons prélevés est confiée au laboratoire du ministère de la santé publique ou aux laboratoires désignés
-à cet effet en vertu de décisions prises de concert par les ministres de l'agriculture et de la santé publique et de la
-population. Ces analyses sont à la fois d'ordre qualificatif et d'ordre quantitatif ; l'examen comprend des recherches
-organoleptiques, physiques, chimiques, micographiques, physiologiques ou autres, susceptibles de fournir des indications sur
-la pureté des produits, leur identité, leur composition et leur conformité au Codex.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5075 (Ab)
-
-
-###### Article R5072
-
-Le résultat de l'analyse est consigné dans un rapport qui est adressé au ministre de la santé publique et de la population et
-dont les conclusions sont communiquées au préfet du département d'où provient l'échantillon, à Paris et dans le ressort de la
-préfecture de police au préfet de police.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5127-16 (V)
-
-
-###### Article R5073
-
-Si le rapport ne conclut pas à une présomption d'infraction, l'intéressé en est avisé sans délai. Dans ce cas, si le
-remboursement des échantillons est demandé, il est effectué d'après leur valeur réelle au jour du prélèvement, aux frais de
-l'Etat, au moyen d'un mandat délivré par le préfet sur présentation du récépissé prévu à l'article R. 5065.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5065 (M)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5089 (Ab)
-
-
-###### Article R5074
-
-Dans le cas où le rapport conclut à une présomption d'infraction, il est transmis, accompagné du procès-verbal de prélèvement
-et des échantillons au procureur de la République.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. R5127-17 (V)
-
-
-###### Article R5075
-
-Chaque année, les directeurs des laboratoires visés à l'article R. 5071 adressent au ministre de la santé publique un rapport
-sur le nombre des échantillons analysés et le résultat de leur analyse.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cite_:
-
-  - Code de la santé publique - art. R5071 (M)
 
 
 ##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire<a id=377></a>
@@ -56644,6 +56883,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5127-20 (V)
@@ -56654,7 +56897,7 @@ _Nouveaux textes_:
 Dans le cas où la présomption d'infraction résulte de l'analyse faite au laboratoire, l'auteur présumé de la fraude ou de la
 falsification est avisé par le procureur de la République qu'il peut prendre communication du rapport du laboratoire et qu'un
 délai de trois jours francs lui est imparti pour présenter ses observations et pour faire connaître s'il réclame l'expertise
-contradictoire prévue par l'article 12 de la loi du 1er août 1905.
+contradictoire prévue par l'article L. 215-9 du code de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -56663,13 +56906,17 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code de la santé publique - art. R5127-21 (V)
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
 
 _Cite_:
 
-  - Loi n°1905-08-01 art. 12
+  - Code de la consommation - art. L215-9 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5127-21 (V)
 
 
 ###### Article R5081
@@ -56691,6 +56938,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -56721,6 +56972,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5127-23 (V)
@@ -56742,6 +56997,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5127-24 (V)
@@ -56759,6 +57018,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -56787,6 +57050,10 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
 _Cite_:
 
   - Code de la santé publique - art. R5070 (M)
@@ -56808,6 +57075,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -56831,12 +57102,20 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°99-144 du 4 mars 1999 - art. 4 () JORF 5 mars 1999
+
 
 ###### Article R5088
 
 Il n'est rien innové quant à la procédure suivie par l'administration des douanes et par l'administration des contributions
 indirectes pour la constatation et la poursuite des faits constituant à la fois une contravention fiscale et une infraction
-aux prescriptions de la loi du 1er août 1905.
+aux prescriptions des articles L. 213-1 et suivants du code de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -56845,9 +57124,17 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°99-144 du 4 mars 1999 - art. 4 () JORF 5 mars 1999
+
 _Cite_:
 
-  - Loi n°1905-08-01
+  - Code de la consommation - art. L213-1 (M)
 
 
 ###### Article R5089
@@ -56862,6 +57149,14 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°99-144 du 4 mars 1999 - art. 4 () JORF 5 mars 1999
 
 _Cite_:
 
@@ -58326,9 +58621,16 @@ _Cite_:
 Un arrêté du ministre de la santé publique et de la population fixe les formes et conditions dans lesquelles sont présentées
 et instruites les demandes d'ouverture des établissements visés à l'article L. 596 du code de la santé publique.
 
-L'autorisation prévue à l'article L. 598 du code de la santé publique est délivrée par le ministre de la santé publique et de
-la population, après avis du conseil central compétent de l'ordre des pharmaciens. Si ledit conseil n'a pas donné son avis
-dans un délai de deux mois, le ministre peut statuer.
+L'autorisation d'ouverture d'un établissement pharmaceutique prévue au premier alinéa de l'article L. 598 est délivrée, après
+avis du conseil central compétent de l'ordre des pharmaciens, par :
+
+1° Le directeur général de l'Agence du médicament pour les établissements se livrant à la fabrication, à l'importation ou à
+l'exportation des médicaments à usage humain ou des produits mentionnés à l'article L. 658-11 ou se livrant à l'exploitation
+des médicaments ;
+
+2° Le ministre chargé de la santé pour les autres établissements pharmaceutiques.
+
+Si le conseil central compétent n'a pas donné son avis dans un délai de deux mois, l'autorité compétente peut statuer.
 
 La création d'une succursale est assimilée à l'ouverture d'un établissement.
 
@@ -58339,10 +58641,15 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 6 () JORF 7 août 1993
+
 _Cite_:
 
   - Code de la santé publique - art. L596 (M)
   - Code de la santé publique - art. L598 (M)
+  - Code de la santé publique - art. L658-11 (M)
 
 _Cité par_:
 
@@ -58368,10 +58675,6 @@ _Nouveaux textes_:
 
   - Code de la santé publique - art. R5124-6 (V)
   - Code de la santé publique - art. R5124-7 (V)
-
-_Modifié par_:
-
-  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
 ###### Article R5109
@@ -58402,12 +58705,14 @@ _Nouveaux textes_:
 ###### Article R5110
 
 Toute modification concernant l'établissement, son équipement technique et la nature des spécialités ou des formes
-pharmaceutiques fabriquées est subordonnée à une autorisation préalable du ministre chargé de la santé. Un arrêté ministériel
-fixe les conditions de présentation de la demande d'autorisation.
+pharmaceutiques fabriquées est subordonnée à une autorisation préalable du ministre chargé de la santé ou du directeur
+général de l'Agence du médicament pour les établissements mentionnés au 1° de l'article R. 5108. Un arrêté ministériel fixe
+les conditions de présentation de la demande d'autorisation.
 
 La décision prise sur cette demande, et qui est motivée en cas de refus, doit intervenir dans les trente jours du dépôt de la
-demande. Dans les cas exceptionnels, ce délai peut être prorogé dans la limite de quatre-vingt-dix jours par décisions du
-ministre chargé de la santé. Cette dernière décision doit être notifiée au demandeur avant l'expiration du précédent délai.
+demande. Dans les cas exceptionnels, ce délai peut être prorogé dans la limite de quatre-vingt-dix jours selon le cas, par le
+ministre chargé de la santé ou par le directeur général de l'Agence du médicament. Cette dernière décision doit être notifiée
+au demandeur avant l'expiration du précédent délai.
 
 **Liens relatifs à cet article**
 
@@ -58418,8 +58723,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°78-988 1978-09-20 art. 5 JORF 6 octobre 1978
-  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+  - Décret n°93-982 du 5 août 1993 - art. 6 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -58430,6 +58734,10 @@ _Cité par_:
   - Code de la santé publique - art. R5129 (Ab)
   - Code de la santé publique - art. R5138 (Ab)
 
+_Cite_:
+
+  - Code de la santé publique - art. R5108 (M)
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5124-10 (V)
@@ -58439,7 +58747,7 @@ _Nouveaux textes_:
 
 Si, dans le délai de deux ans qui suit la notification de l'autorisation, l'établissement ne fonctionne pas, cette
 autorisation devient caduque. Toutefois, sur justification produite avant l'expiration dudit délai, celui-ci peut être
-prorogé par le ministre.
+prorogé selon le cas, par le ministre chargé de la santé ou par le directeur général de l'Agence du médicament.
 
 **Liens relatifs à cet article**
 
@@ -58448,13 +58756,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 6 () JORF 7 août 1993
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5124-12 (V)
-
-_Modifié par_:
-
-  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
 ###### Article R5112-1
@@ -58517,9 +58825,9 @@ _Modifié par_:
 
 ###### Article R5112-3
 
-Le retrait d'autorisation d'ouverture prévu à l'article L. 598 du code de la santé publique est prononcé par le ministre de
-la santé publique et de la population. Il ne peut intervenir qu'après que l'intéressé ait été invité à fournir toutes
-explications.
+Le retrait d'autorisation d'ouverture prévu à l'article L. 598 du code de la santé publique est prononcé, selon le cas, par
+le ministre chargé de la santé ou par le directeur général de l'Agence du médicament. Il ne peut intervenir qu'après que
+l'intéressé ait été invité à fournir toutes explications.
 
 **Liens relatifs à cet article**
 
@@ -58528,13 +58836,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 6 () JORF 7 août 1993
+
 _Cite_:
 
   - Code de la santé publique - art. L598 (M)
-
-_Créé par_:
-
-  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
 ##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.<a id=394></a>
@@ -58580,7 +58888,8 @@ _Nouveaux textes_:
 
 ###### Article R5113-1
 
-Le pharmacien inspecteur régional de la santé et le conseil central de la section B de l'ordre des pharmaciens reçoivent
+La société adresse au directeur général de l'Agence du médicament ou au pharmacien inspecteur régional de la santé, selon que
+l'établissement relève du 1° ou du 2° de l'article R. 5108, ainsi qu'au conseil central compétent de l'ordre des pharmaciens,
 copie de tout acte portant désignation du pharmacien responsable ou détermination de l'étendue de ses pouvoirs.
 
 **Liens relatifs à cet article**
@@ -58590,9 +58899,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°69-13 1969-01-02 art. 9 JORF 8 janvier 1969
+  - Décret n°93-982 du 5 août 1993 - art. 6 () JORF 7 août 1993
+
+_Cite_:
+
+  - Code de la santé publique - art. R5108 (M)
 
 _Cité par_:
 
@@ -58623,8 +58936,8 @@ Il signale aux autres dirigeants de la société les difficultés inhérentes au
 faire obstacle à l'exercice de ses attributions.
 
 Dans le cas où un désaccord portant sur l'application des règles édictées dans l'intérêt de la santé publique oppose un
-organe de gestion, d'administration, de direction ou de surveillance au pharmacien responsable, celui-ci doit en informer le
-pharmacien inspecteur régional de la santé.
+organe de gestion, d'administration, de direction ou de surveillance au pharmacien responsable, celui-ci doit en informer,
+selon le cas, le directeur général de l'Agence du médicament ou le pharmacien inspecteur régional de la santé.
 
 **Liens relatifs à cet article**
 
@@ -58633,9 +58946,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°69-13 1969-01-02 art. 9 JORF 8 janvier 1969
+  - Décret n°93-982 du 5 août 1993 - art. 6 () JORF 7 août 1993
 
 _Cite_:
 
@@ -58689,6 +59002,9 @@ contrôle des médicaments, et, en tant que de besoin, les modalités d'applicat
 Des arrêtés conjoints du garde des sceaux, ministre de la justice, du ministre de la santé publique et de la population et du
 ministre de l'industrie déterminent les modalités d'application des articles R. 5113-1 et R. 5113-2.
 
+Lorsque les établissements relèvent du contrôle de l'Agence du médicament, ces arrêtés sont pris après avis du directeur
+général de l'agence.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -58696,15 +59012,19 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 6 () JORF 7 août 1993
+
+**Liens**:
+
+  - PEREMPTION: Décret n°98-79 du 11 février 1998 - art. 7 () JORF 13 février 1998
+
 _Cite_:
 
   - Code de la santé publique - art. L596 (M)
   - Code de la santé publique - art. R5113-1 (M)
   - Code de la santé publique - art. R5113-2 (M)
-
-_Modifié par_:
-
-  - Décret n°60-326 1960-04-05 ART. 4 JORF 7 avril 1960
 
 
 ##### Paragraphe 3 : Fonctionnement des établissements<a id=396></a>
@@ -58863,8 +59183,9 @@ Quand le remplacement ne dépasse pas trois mois, l'intéressé se fait remplace
 s'engage par écrit à assurer ledit remplacement. Ce remplaçant peut être l'un des pharmaciens assistants.
 
 Si le remplacement prévu à l'alinéa précédent dépasse quinze jours, l'intéressé doit faire connaître, par lettre recommandée,
-au pharmacien inspecteur régional de la santé et au président du conseil central dont il relève les nom, adresse et qualité
-du pharmacien qui le remplace.
+au directeur général de l'Agence du médicament ou au pharmacien inspecteur régional de la santé, selon que l'établissement
+relève du 1° ou du 2° de l'article R. 5108, ainsi qu'au président du conseil central dont il relève les nom, adresse et
+qualité du pharmacien qui le remplace.
 
 Quand le remplacement dépasse trois mois, il ne peut être assuré que par un pharmacien inscrit à la section D de l'ordre des
 pharmaciens et dont le diplôme a été enregistré pour cette activité. Ce pharmacien est désigné comme à l'alinéa précédent.
@@ -58873,7 +59194,9 @@ III. - Le remplacement des pharmaciens mentionnés au 2° de l'article R. 5107 e
 
 L'organe social compétent désigne un pharmacien responsable intérimaire qui doit satisfaire aux mêmes conditions que le
 titulaire et qui est appelé à participer à la gestion ou à la direction générale de la société pendant la durée de son
-intérim. Ce pharmacien est choisi de préférence parmi les pharmaciens ou pharmaciens assistants de la société.
+intérim.
+
+Ce pharmacien est choisi de préférence parmi les pharmaciens ou pharmaciens assistants de la société.
 
 **Liens relatifs à cet article**
 
@@ -58884,27 +59207,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°69-13 1969-01-02 art. 14 JORF 8 janvier 1969
+  - Décret n°93-982 du 5 août 1993 - art. 6 () JORF 7 août 1993
 
 _Cite_:
 
   - Code de la santé publique - art. R5107 (M)
+  - Code de la santé publique - art. R5108 (M)
 
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5114-4 (P)
 
-_Anciens textes_:
-
-  - Code de la santé publique - art. R5114-6 (M)
-
 _Cité par_:
 
   - Code de la santé publique - art. R5114-6 (P)
-
-_Créé par_:
-
-  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
 ###### Article R5114-6
@@ -58967,10 +59283,10 @@ de l'emploi exclusif par ces praticiens pour leur usage professionnel :
 a) Les articles de pansement et de suture chirurgicale ;
 
 b) Les médicaments utilisés en diagnostic médical, en anesthésie, en allergologie ou d'usage dentaire dont la liste sera
-établie par arrêté du ministre de la santé publique et de la population ;
+établie par arrêté du ministre chargé de la santé sur proposition du directeur général de l'Agence du médicament ;
 
 3° A ce que ces mêmes établissements fournissent aux services ou centres procédant à des vaccinations collectives les
-produits nécessaires à ces vaccinations, sur commande écrite du médecin responsable.
+produits nécessaires à ces vaccinations, sur commande écrite du médecin responsable ;
 
 4° A ce que les mêmes établissements fournissent aux centres de planification ou d'éducation familiale sur commande écrite du
 pharmacien du centre ou du médecin autorisé par la décision d'agrément, les médicaments produits ou objets contraceptifs que
@@ -58994,9 +59310,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°80-756 du 18 septembre 1980 - art. 4 () JORF 27 septembre 1980
-  - Décret n°62-509 1962-04-13 art. 2 JORF 19 avril 1962
-  - Décret n°63-1227 1963-12-07 art. 1 JORF 13 décembre 1963
+  - Décret n°93-982 du 5 août 1993 - art. 6 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -59011,10 +59325,6 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-43 (V)
   - Code de la santé publique - art. R5124-44 (V)
   - Code de la santé publique - art. R5124-45 (V)
-
-_Créé par_:
-
-  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
 ###### Article R5115-2
@@ -59138,9 +59448,9 @@ _Créé par_:
 
 Tout pharmacien assistant doit être inscrit à l'ordre des pharmaciens et faire enregistrer son diplôme pour cette activité.
 
-En cas d'absence supérieure à deux mois, il en est donné avis par l'employeur à l'inspecteur divisionnaire de la santé
-(inspection de la pharmacie) et au conseil central de l'ordre et il est pourvu par ledit employeur au remplacement de
-l'intéressé.
+En cas d'absence supérieure à deux mois, il en est donné avis par l'employeur au directeur général de l'Agence du médicament
+ou au pharmacien inspecteur régional de la santé selon que l'établissement relève du 1° ou du 2° de l'article R. 5108, et au
+conseil central de l'ordre et il est pourvu par ledit employeur au remplacement de l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -59149,13 +59459,17 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 6 () JORF 7 août 1993
+
+_Cite_:
+
+  - Code de la santé publique - art. R5108 (M)
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5124-48 (V)
-
-_Créé par_:
-
-  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
 ###### Article R5115-6
@@ -59322,11 +59636,12 @@ _Cité par_:
 
 ###### Article R5118
 
-Le ministre chargé de la santé [*autorité compétente*] fixe par arrêté les protocoles déterminant les normes et méthodes
-applicables à l'expérimentation des médicaments.
+Un arrêté du ministre chargé de la santé fixe, sur proposition du directeur général de l'Agence du médicament, les normes et
+méthodes applicables à l'expérimentation des médicaments.
 
 Les essais doivent être réalisés en conformité avec les bonnes pratiques de laboratoire et les bonnes pratiques cliniques
-dont les principes sont fixés par arrêtés du ministre chargé de la santé.
+dont les principes sont fixés par arrêtés du ministre chargé de la santé sur proposition du directeur général de l'Agence du
+médicament.
 
 **Liens relatifs à cet article**
 
@@ -59346,7 +59661,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -59442,8 +59757,8 @@ expérimentateurs, les investigateurs et toutes personnes appelées à collabore
 en ce qui concerne notamment la nature des produits étudiés, les essais, les personnes qui s'y prêtent et les résultats
 obtenus.
 
-Ils ne peuvent, sans l'accord du promoteur, donner d'informations relatives aux essais qu'au ministre chargé de la santé et
-aux médecins et pharmaciens inspecteurs mentionnés à l'article L. 209-13.
+Ils ne peuvent, sans l'accord du promoteur, donner d'informations relatives aux essais qu'au ministre chargé de la santé, aux
+inspecteurs de la pharmacie, au directeur général et aux inspecteurs de l'Agence du médicament.
 
 Les essais ne peuvent faire l'objet d'aucun commentaire écrit ou oral sans l'accord conjoint de l'expérimentateur ou de
 l'investigateur et du promoteur.
@@ -59465,12 +59780,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cite_:
 
   - Code de la santé publique - art. L209-12 (M)
-  - Code de la santé publique - art. L209-13 (M)
 
 _Nouveaux textes_:
 
@@ -59617,7 +59931,7 @@ _Nouveaux textes_:
 
 Les médicaments ou produits soumis à l'essai et les éventuels médicaments de référence ou produits de référence ou placebos
 doivent être préparés selon les bonnes pratiques de fabrication dont les principes sont fixés par arrêté du ministre chargé
-de la santé.
+de la santé sur proposition du directeur général de l'Agence du médicament.
 
 L'étiquetage de ces médicaments ou produits comporte [*mentions obligatoires*]  :
 
@@ -59640,7 +59954,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -59850,8 +60164,8 @@ _Cite_:
 
 ###### Article R5128
 
-Toute demande d'autorisation de mise sur le marché doit être adressée au ministère chargé de la santé. Elle mentionne
-[*contenu*] :
+Toute demande d'autorisation de mise sur le marché doit être adressée au directeur général de l'Agence du médicament. Elle
+mentionne [*contenu*] :
 
 a) Le nom et l'adresse du responsable de la mise sur le marché et, lorsque celui-ci ne fabrique pas la spécialité
 pharmaceutique, le nom et l'adresse du fabricant ;
@@ -59873,7 +60187,7 @@ induire en erreur sur la qualité ou les propriétés de la spécialité.
 
 _Modifié par_:
 
-  - Décret n°85-1216 1985-10-30 art. 1 JORF 21 novembre 1985
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -59995,9 +60309,6 @@ récépissés des demandes d'autorisation si lesdites demandes n'ont pas encore 
 f) Le cas échéant, l'autorisation de mise sur le marché obtenue pour cette spécialité pharmaceutique soit dans un Etat membre
 des communautés européennes, soit dans un pays tiers, pour autant que cette autorisation y existe.
 
-g) Le cas échéant, l'indication de l'intention du demandeur de solliciter l'inscription du médicament sur la liste des
-médicaments remboursables.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -60007,7 +60318,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-295 du 8 mars 1993 - art. 2 () JORF 9 mars 1993
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -60029,31 +60340,6 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R5121-25 (V)
-
-
-###### Article R5129-1
-
-Au cas où le dossier visé à l'article R. 5129 comporterait l'intention mentionnée au g, le demandeur doit y joindre
-l'évaluation du prix de commercialisation envisagé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi DE VALIDATION)
-
-_Créé par_:
-
-  - Décret n°93-295 du 8 mars 1993 - art. 2 () JORF 9 mars 1993
-
-_Abrogé par_:
-
-  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
-
-_Cite_:
-
-  - Code de la santé publique - art. R5129 (M)
 
 
 ###### Article R5130
@@ -60158,9 +60444,9 @@ _Modifié par_:
 
 Par dérogation aux dispositions des articles R. 5128 et R. 5129 :
 
-a) Lorsque la demande porte sur une modification d'autorisation de mise sur le marché, le ministre chargé de la santé peut
-dispenser le demandeur de produire certaines des indications ou justifications exigées par les articles R. 5128 et R. 5129
-s'il apparaît que celles-ci sont manifestement sans objet ;
+a) Lorsque la demande porte sur une modification d'autorisation de mise sur le marché, le directeur général de l'Agence du
+médicament peut dispenser le demandeur de produire certaines des indications ou justifications exigées par les articles R.
+5128 et R. 5129 s'il apparaît que celles-ci sont manifestement sans objet ;
 
 b) Lorsque la demande concerne une spécialité correspondant à une préparation figurant à la Pharmacopée française ou au
 formulaire national, le demandeur peut être dispensé des expertises pharmacologiques, toxicologiques et cliniques ;
@@ -60213,7 +60499,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°88-661 1988-05-06 art. 3 JORF 8 mai 1988
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cite_:
 
@@ -60248,8 +60534,8 @@ _Créé par_:
 
 ###### Article R5134
 
-Lors de l'instruction des demandes d'autorisation de mise sur le marché, le ministre chargé de la santé publique [*autorité
-compétente*] peut prendre les mesures suivantes :
+Lors de l'instruction des demandes d'autorisation de mise sur le marché, le directeur général de l'Agence du médicament
+[*autorité compétente*] peut prendre les mesures suivantes :
 
 a) Faire procéder à toute enquête relative à la fabrication du médicament ;
 
@@ -60272,7 +60558,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-492 1988-05-02 art. 3 JORF 4 mai 1988
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -60286,21 +60572,25 @@ _Cité par_:
 
 ###### Article R5135
 
-L'autorisation de mise sur le marché est accordée par le ministre chargé de la santé [*autorité compétente*]; elle est
-accompagnée du résumé des caractéristiques du produit mentionné à l'article R. 5128, tel qu'il est approuvé par le ministre.
-Avant de prendre sa décision, le ministre peut ordonner toute mesure d'instruction qu'il juge nécessaire.
+L'autorisation de mise sur le marché est accordée par le directeur général de l'Agence du médicament. Cette autorisation est
+accompagnée du résumé des caractéristiques du produit mentionné à l'article R. 5128, tel que ce résumé est approuvé par le
+directeur général de l'agence.
 
-Le ministre se prononce dans un délai de cent vingt jours à compter de la date de présentation du dossier complet. A titre
-exceptionel, ce délai peut être prorogé une fois de quatre vingt dix jours.
+Avant de prendre sa décision, le directeur général de l'Agence du médicament peut ordonner toute mesure d'instruction qu'il
+juge nécessaire.
 
-Lorsque le ministre a recours à la faculté que lui confère l'article R. 5134 (e) [*demande de complément de dossier*], ces
-délais sont suspendus jusqu'à ce que les informations complémentaires requises aient été fournies.
+Le directeur général de l'Agence du médicament se prononce dans un délai de cent vingt jours à compter de la date de
+présentation du dossier complet. A titre exceptionel, ce délai peut être prorogé une fois de quatre vingt dix jours.
+
+Lorsque le directeur général de l'Agence du médicament a recours à la faculté que lui confère l'article R. 5134 (e) [*demande
+de complément de dossier*], ces délais sont suspendus jusqu'à ce que les informations complémentaires requises aient été
+fournies.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°85-1216 1985-10-30 art. 3 JORF 21 novembre 1985
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -60325,13 +60615,13 @@ les méthodes de contrôle prévus au b) de l'article R. 5129 en fonction des pr
 techniques, de façon que la spécialité pharmaceutique soit contrôlée suivant les méthodes scientifiques généralement
 acceptées.
 
-Il soumet ces modifications des méthodes de contrôle à l'approbation du ministre chargé de la santé.
+Il soumet ces modifications des méthodes de contrôle à l'approbation du directeur général de l'Agence du médicament.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°85-1216 1985-10-30 art. 4 JORF 21 novembre 1985
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -60350,7 +60640,8 @@ _Cite_:
 
 ###### Article R5136
 
-Le ministre chargé de la santé publique [*autorité compétente*] refuse l'autorisation de mise sur le marché [*motifs*] :
+Le directeur général de l'Agence du médicament [*autorité compétente*] refuse l'autorisation de mise sur le marché
+[*motifs*] :
 
 a) Si la documentation et les renseignements fournis à l'appui de la demande ne satisfont pas aux prescriptions de la
 présente section et, en particulier, à celles des articles R. 5128 à R. 5133 et R. 5143 ;
@@ -60375,9 +60666,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Anciens textes_:
 
@@ -60401,17 +60692,17 @@ _Cité par_:
 ###### Article R5136-1
 
 Lorsque la demande a été présentée en vue de l'extension en France d'une autorisation de mise sur le marché obtenue dans un
-autre pays membre de la Communauté économique européenne le ministre accorde l'autorisation ou fait usage de son droit
-d'opposition dans un délai de cent vingt jours à compter de la date qui lui est notifiée par le comité des spécialités
-pharmaceutiques [*point de départ*] institué par l'article 8 de la directive 75/319/C.E.E. du Conseil des communautés
-européennes.
+autre pays membre de la Communauté économique européenne le directeur général de l'Agence du médicament accorde
+l'autorisation ou fait usage de son droit d'opposition dans un délai de cent vingt jours à compter de la date qui lui est
+notifiée par le comité des spécialités pharmaceutiques [*point de départ*] institué par l'article 8 de la directive 75/319/
+C.E.E. du Conseil des communautés européennes.
 
-Si le ministre estime ne pas pouvoir accorder l'autorisation de mise sur le marché, il transmet son opposition motivée au
-comité et au responsable de la mise sur le marché de la spécialité pharmaceutique.
+Si le directeur général de l'Agence du médicament estime ne pas pouvoir accorder l'autorisation de mise sur le marché, il
+transmet son opposition motivée au comité et au responsable de la mise sur le marché de la spécialité pharmaceutique.
 
-Après réception de l'avis du comité, le ministre se prononce sur la suite à donner à cet avis dans un délai de soixante
-jours. Ce délai est de trente jours lorsque l'avis du comité est donné en application des articles R. 5140-1 et R. 5140-2. Le
-comité est informé de cette décision.
+Après réception de l'avis du comité, le directeur général de l'Agence du médicament se prononce sur la suite à donner à cet
+avis dans un délai de soixante jours. Ce délai est de trente jours lorsque l'avis du comité est donné en application des
+articles R. 5140-1 et R. 5140-2. Le comité est informé de cette décision.
 
 **Liens relatifs à cet article**
 
@@ -60423,16 +60714,17 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°88-661 1988-05-06 art. 5 JORF 8 mai 1988
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 
 ###### Article R5136-2
 
 Lorsque le titulaire d'une autorisation de mise sur le marché obtenue en France demande l'extension de cette autorisation
-dans au moins deux autres Etats membres des communautés européennes, il en informe le ministre chargé de la santé et lui
-transmet les éventuels compléments au dossier de la demande d'origine sur laquelle le ministre a statué. Il fournit, à la
-demande du ministre, tous renseignements et documents permettant d'établir l'identité des dossiers de demandes introduites
-auprès desdits Etats membres avec le dossier de la demande d'origine.
+dans au moins deux autres Etats membres des communautés européennes, il en informe le directeur général de l'Agence du
+médicament et lui transmet les éventuels compléments au dossier de la demande d'origine sur laquelle le directeur général de
+l'agence a statué. Il fournit à la demande du directeur général de l'agence tous renseignements et documents permettant
+d'établir l'identité des dossiers de demandes introduites auprès desdits Etats membres avec le dossier de la demande
+d'origine.
 
 Lorsque le titulaire d'une autorisation de mise sur le marché mentionné au premier alinéa du présent article reçoit une
 opposition de l'autorité compétente d'un autre Etat membre de la Communauté économique européenne il transmet immédiatement
@@ -60440,9 +60732,9 @@ copie de sa demande au comité mentionné à l'article R. 5136-1.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°85-1216 1985-10-30 art. 6 JORF 21 novembre 1985
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cite_:
 
@@ -60485,8 +60777,8 @@ _Anciens textes_:
 
 ###### Article R5138
 
-Tout changement du titulaire de l'autorisation de mise sur le marché est subordonné à une autorisation du ministre chargé de
-la santé [*autorité compétente*].
+Tout changement du titulaire de l'autorisation de mise sur le marché est subordonné à une autorisation du directeur général
+de l'Agence du médicament [*autorité compétente*].
 
 La demande comporte les mentions prévues à l'article R. 5128 du présent code et elle est accompagnée d'un dossier comprenant
 [*contenu*] :
@@ -60515,7 +60807,7 @@ récépissés des demandes d'autorisation si lesdites demandes n'ont pas encore 
 Dans le cas de fusion ou d'apport partiel d'actifs, les sociétés intéressées peuvent déposer une demande de transfert des
 autorisations de mise sur le marché avant que la fusion ou l'apport ne soit définitivement réalisé. Elles fournissent, à
 l'appui de leur demande, le protocole d'accord de principe concernant la fusion ou l'apport. Le transfert est accordé sous la
-condition suspensive de la réalisation définitive qui doit être notifiée au ministre chargé de la santé publique.
+condition suspensive de la réalisation définitive qui doit être notifiée au directeur général de l'Agence du médicament.
 
 En cas de silence de l'administration, le transfert est réputé être autorisé [*tacitement*] à l'expiration d'un délai de deux
 mois.
@@ -60527,13 +60819,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
-
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-
 _Modifié par_:
 
-  - Décret n°78-988 1978-09-20 ART. 13 JORF 6 octobre 1978
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cite_:
 
@@ -60552,10 +60840,10 @@ _Cité par_:
 
 ###### Article R5139
 
-Le ministre chargé de la santé [*autorité compétente*] peut, par décision motivée indiquant les voies et délais de recours,
-suspendre, pour une période ne pouvant pas excéder un an, ou retirer une autorisation de mise sur le marché. La décision de
-retrait ne peut intervenir qu'après que le titulaire de l'autorisation a été invité à fournir ses explications [*droit de
-défense*].
+Le directeur général de l'Agence du médicament [*autorité compétente*] peut, par décision motivée indiquant les voies et
+délais de recours, suspendre, pour une période ne pouvant pas excéder un an, ou retirer une autorisation de mise sur le
+marché. La décision de retrait ne peut intervenir qu'après que le titulaire de l'autorisation a été invité à fournir ses
+explications [*droit de défense*].
 
 Ces décisions interviennent lorsqu'il apparaît que la spécialité pharmaceutique est nocive dans les conditions normales
 d'emploi ou que l'effet thérapeutique fait défaut ou que la spécialité n'a pas la composition qualitative et quantitative
@@ -60566,15 +60854,18 @@ l'occasion de la demande d'autorisation de mise sur le marché sont erronés, qu
 ne sont pas ou ne sont plus remplies ou que les contrôles n'ont pas été effectués.
 
 Sans préjudice de l'application des dispositions du troisième alinéa de l'article R. 5140, la décision de suspension ou de
-retrait fait l'objet des autres mesures de publicité que le ministre juge nécessaire d'ordonner.
+retrait fait l'objet des autres mesures de publicité que le directeur général de l'Agence du médicament juge nécessaire
+d'ordonner.
 
 Lorsque l'autorisation est suspendue ou retirée, le titulaire doit prendre toutes dispositions utiles, notamment auprès des
 détenteurs de stocks, pour faire cesser la distribution de la spécialité. Si ces dispositions n'interviennent pas dans des
-délais compatibles avec l'intérêt de la santé publique, le ministre prend toutes mesures appropriées.
+délais compatibles avec l'intérêt de la santé publique, le directeur général de l'Agence du médicament prend toutes mesures
+appropriées.
 
 Indépendamment des décisions de suspension ou de retrait d'autorisation de mise sur le marché, et pour les motifs qui
-justifient de telles décisions, le ministre chargé de la santé peut interdire la délivrance d'une spécialité pharmaceutique
-en limitant, le cas échéant, cette interdiction aux seuls lots de fabrication faisant l'objet d'une contestation.
+justifient de telles décisions, le directeur général de l'Agence du médicament peut interdire la délivrance d'une spécialité
+pharmaceutique en limitant, le cas échéant, cette interdiction aux seuls lots de fabrication faisant l'objet d'une
+contestation.
 
 **Liens relatifs à cet article**
 
@@ -60583,13 +60874,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
-
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-
 _Modifié par_:
 
-  - Décret n°78-988 1978-09-20 ART. 14 JORF 6 octobre 1978
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -60637,9 +60924,9 @@ _Cite_:
 
 ###### Article R5140
 
-Les décisions mentionnées aux articles R. 5126, R. 5135, R. 5136, R. 5136-1 R. 5137 et R. 5139, à l'exclusion des mesures de
-suspension, sont prises par le ministre chargé de la santé après avis de la commission constituée à cet effet [*autorité
-compétente*].
+Les décisions mentionnées aux articles R. 5135, R. 5136, R. 5136-1 R. 5137 et R. 5139, à l'exclusion des mesures de
+suspension, sont prises par le directeur général de l'Agence du médicament après avis de la commission constituée à cet effet
+[*autorité compétente*].
 
 Elles ne peuvent faire l'objet d'un recours contentieux qu'après l'exercice d'un recours gracieux, qui lui-même doit être
 soumis pour avis à la commission ci-dessus mentionnée.
@@ -60689,7 +60976,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°90-872 du 27 septembre 1990 - art. 4 () JORF 29 septembre 1990
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -60701,15 +60988,15 @@ _Cite_:
   - Code de la santé publique - art. R5136 (M)
   - Code de la santé publique - art. R5137 (M)
   - Code de la santé publique - art. R5138 (M)
-  - Code de la santé publique R5135, R5137, R5138, R5139, R5136-1, R5136, R5126
+  - Code de la santé publique R5135, R5137, R5138, R5139, R5136-1, R5136
 
 
 ###### Article R5140-1
 
 Toute demande d'autorisation de mise sur le marché présentée pour des médicaments de haute technologie issus de certains
-procédés biotechnologiques figurant sur une liste A fixée par arrêté conjoint du ministre chargé de la santé et du ministre
-chargé de l'industrie est soumise pour avis au comité des spécialités pharmaceutiques [*autorité compétente*] mentionné à
-l'article R. 5136-1.
+procédés biotechnologiques figurant sur une liste A fixée sur proposition du directeur général de l'Agence du médicament, par
+arrêté conjoint du ministre chargé de la santé et du ministre chargé de l'industrie est soumise pour avis au comité des
+spécialités pharmaceutiques [*autorité compétente*] mentionné à l'article R. 5136-1.
 
 Toutefois, cette disposition ne s'applique pas lorsque le demandeur certifie que ni lui, ni aucune autre personne physique ou
 morale avec laquelle il est lié, n'a demandé, au cours des cinq années précédentes [*délai*], l'autorisation de mettre sur le
@@ -60731,9 +61018,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-661 1988-05-06 art. 7 JORF 8 mai 1988
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -60752,8 +61039,9 @@ _Cite_:
 ###### Article R5140-2
 
 Lorsque la demande d'autorisation de mise sur le marché concerne d'autres médicaments de haute technologie figurant sur une
-liste B fixée par arrêté conjoint du ministre chargé de la santé et du ministre chargé de l'industrie, le demandeur doit
-préciser s'il désire que sa demande soit soumise pour avis au comité des spécialités pharmaceutiques [*autorité compétente*].
+liste B fixée sur proposition du directeur général de l'Agence du médicament, par arrêté conjoint du ministre chargé de la
+santé et du ministre chargé de l'industrie, le demandeur doit préciser s'il désire que sa demande soit soumise pour avis au
+comité des spécialités pharmaceutiques [*autorité compétente*].
 
 **Liens relatifs à cet article**
 
@@ -60762,9 +61050,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-661 1988-05-06 art. 7 JORF 8 mai 1988
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -60780,12 +61068,13 @@ _Cité par_:
 
 La commission mentionnée à l'article R. 5140 comprend [*composition*]:
 
-1° Trois [*nombre*] membres de droit :
+1° Trois membres de droit :
 
-Le directeur de la pharmacie et du médicament ou son représentant    Le directeur général de l'Institut national de la santé
-et de la recherche médicale ou son représentant ;
+- le directeur général de la santé ou son représentant ;
 
-Le directeur général du Laboratoire national de la santé ou son représentant ;
+- le directeur général de l'Agence du médicament ou son représentant ;
+
+- le directeur général de l'Institut national de la santé et de la recherche médicale ou son représentant ;.
 
 2° Cinq membres représentant les commissions instituées auprès du ministre chargé de la santé et compétentes en matière de
 médicament :
@@ -60829,13 +61118,13 @@ _Cité par_:
   - Arrêté du 7 août 1991 - art. 1 (V)
   - Code de la santé publique - art. R5266-12 (Ab)
 
-_Modifié par_:
-
-  - Décret n°90-773 du 31 août 1990 - art. 1 () JORF 2 septembre 1990
-
 **Liens**:
 
   - TXT_ASSOCIE: Décret n°90-773 du 31 août 1990
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cite_:
 
@@ -60883,7 +61172,7 @@ _Cite_:
 ###### Article R5141-3
 
 La commission [*mentionnée à l'article R. 5140*] peut faire appel à des rapporteurs et des experts choisis sur une liste
-établie par arrêté du ministre chargé de la santé.
+établie par le directeur général de l'Agence du médicament.
 
 **Liens relatifs à cet article**
 
@@ -60892,9 +61181,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°78-181 1978-02-09 art. 2 JORF 22 février 1978
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Cite_:
 
@@ -60947,14 +61236,15 @@ _Cite_:
 
 ###### Article R5142
 
-En dehors des cas prévus aux articles R. 5060 à R. 5089, le ministre chargé de la santé fait procéder, par les inspecteurs de
-la pharmacie, à des prélèvements de spécialités pharmaceutiques pour s'assurer de leur conformité à la formule déclarée.
+En dehors des cas prévus aux articles R. 5060 à R. 5089, le directeur général de l'Agence du médicament fait procéder par les
+inspecteurs de l'agence à des prélèvements de spécialités pharmaceutiques pour s'assurer de leur conformité à la formule
+déclarée.
 
-Les échantillons prélevés, destinés au laboratoire national de la santé, sont rassemblés dans des sachets munis d'une
-étiquette précisant le nom et le numéro du lot de fabrication de la spécialité, la date du prélèvement, son motif et le nom
-de l'inspecteur qui l'a effectué [*mentions obligatoires*].
+Les échantillons prélevés sont rassemblés dans des sachets munis d'une étiquette précisant le nom et le numéro du lot de
+fabrication de la spécialité, la date du prélèvement, son motif et le nom de l'inspecteur qui l'a effectué [*mentions
+obligatoires*].
 
-Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat.
+Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat ou de l'Agence du médicament.
 
 **Liens relatifs à cet article**
 
@@ -60963,13 +61253,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
-
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-
 _Modifié par_:
 
-  - Décret n°78-988 1978-09-20 ART. 16 JORF 6 octobre 1978
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -61049,10 +61335,11 @@ a) La dénomination spéciale ;
 b) Le numéro du lot de fabrication et la date de péremption et, sauf dérogations accordées par le ministre chargé de la
 santé, la composition quantitative en principes actifs et la voie d'administration.
 
-5° Des arrêtés du ministre chargé de la santé détermineront, s'il y a lieu, les conditions particulières d'application du
-présent article en ce qui concerne notamment les mentions à porter sur le conditionnement des spécialités pharmaceutiques
-destinées aux établissements hospitaliers et les signes distinctifs à faire figurer sur le conditionnement ou l'étiquette des
-médicaments lorsqu'il est nécessaire de signaler à l'attention des utilisateurs des précautions d'emploi à respecter.
+5° Des arrêtés du ministre chargé de la santé détermineront, s'il y a lieu, sur proposition du directeur général de l'Agence
+du médicament, les conditions particulières d'application du présent article en ce qui concerne notamment les mentions à
+porter sur le conditionnement des spécialités pharmaceutiques destinées aux établissements hospitaliers et les signes
+distinctifs à faire figurer sur le conditionnement ou l'étiquette des médicaments lorsqu'il est nécessaire de signaler à
+l'attention des utilisateurs des précautions d'emploi à respecter.
 
 **Liens relatifs à cet article**
 
@@ -61072,7 +61359,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°87-772 du 23 septembre 1987 - art. 4 () JORF 24 septembre 1987
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 **Liens**:
 
@@ -61087,8 +61374,8 @@ _Cite_:
 
 ###### Article R5143-1
 
-A titre exceptionnel, le ministre chargé de la santé publique peut, sur demande motivée du titulaire de l'autorisation de
-mise sur le marché, l'autoriser à présenter sous un seul [*nombre*] conditionnement plusieurs spécialités ayant obtenu
+A titre exceptionnel, le directeur général de l'Agence du médicament peut, sur demande motivée du titulaire de l'autorisation
+de mise sur le marché, l'autoriser à présenter sous un seul [*nombre*] conditionnement plusieurs spécialités ayant obtenu
 chacune une autorisation de mise sur le marché.
 
 **Liens relatifs à cet article**
@@ -61098,21 +61385,26 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
-
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-
 _Modifié par_:
 
-  - Décret n°78-988 1978-09-20 ART. 2 JORF 6 octobre 1978
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+
+_Transféré par_:
+
+  - Décret n°94-19 du 5 janvier 1994 - art. 19 () JORF 9 janvier 1994
+
+_Nouveaux textes_:
+
+  - Code de la santé publique R5143-6
 
 
 ###### Article R5144
 
-Un arrêté du ministre chargé de la santé détermine, en tant que de besoin, les modalités d'application de la présente
-section. Cet arrêté précise, s'il y a lieu, les mentions à porter sur le conditionnement des spécialités pharmaceutiques
-destinées aux établissements hospitaliers et les signes distinctifs à faire figurer sur le conditionnement et l'étiquette des
-médicaments lorsqu'il est nécessaire de signaler à l'attention de l'utilisateur des précautions d'emploi à respecter.
+Un arrêté du ministre chargé de la santé détermine, en tant que de besoin après avis du directeur général de l'Agence du
+médicament, les modalités d'application de la présente section. Cet arrêté précise, s'il y a lieu, les mentions à porter sur
+le conditionnement des spécialités pharmaceutiques destinées aux établissements hospitaliers et les signes distinctifs à
+faire figurer sur le conditionnement et l'étiquette des médicaments lorsqu'il est nécessaire de signaler à l'attention de
+l'utilisateur des précautions d'emploi à respecter.
 
 **Liens relatifs à cet article**
 
@@ -61121,13 +61413,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
-
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-
 _Modifié par_:
 
-  - Décret n°76-807 1976-08-24 ART. 7 JORF 26 août 1976
+  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -64310,18 +64598,16 @@ _Nouveaux textes_:
 
 La Commission nationale de la pharmacovigilance comprend [*composition*] :
 
-1° Cinq [*nombre*] membres de droit :
+1° Quatre [*nombre*] membres de droit :
 
 Le directeur général de la santé ou son représentant ;
 
-Le directeur de la pharmacie et du médicament ou son représentant ;
+Le directeur général de l'Agence du médicament ou son représentant ;
 
 Le directeur des hôpitaux ou son représentant ;
 
 Le directeur général de l'Institut national de la santé et de la recherche médicale (I.N.S.E.R.M.) [*INSERM*] ou son
-représentant ;
-
-Le directeur du Laboratoire national de la santé ou son représentant.
+représentant.
 
 2° Vingt-sept membres nommés par le ministre chargé de la santé pour une durée de trois ans :
 
@@ -64344,14 +64630,15 @@ de la commission.
 
 En cas d'absence du président et du vice-président, le ministre chargé de la santé nomme un président de séance.
 
-La commission peut faire appel à des experts consultants choisis sur une liste établie par arrêté du ministre chargé de la
-santé.
+La commission peut faire appel à des experts consultants choisis sur une liste établie par le directeur général de l'Agence
+du médicament.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+  - Décret n°93-982 1993-08-05 art. 8 I, II JORF 7 août 1993
+  - Décret n°93-982 du 5 août 1993 - art. 8 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -64396,14 +64683,13 @@ _Cite_:
 
 ###### Article R5144-4
 
-Le secrétariat de la Commission nationale et celui du comité technique sont assurés par la direction de la pharmacie et du
-médicament.
+Le secrétariat de la Commission nationale et celui du comité technique sont assurés par l'Agence du médicament.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+  - Décret n°93-982 du 5 août 1993 - art. 8 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -64453,15 +64739,16 @@ _Cite_:
 ###### Article R5144-6
 
 La création et l'organisation des centres régionaux de pharmacovigilance ainsi que les modalités de leur représentation au
-comité technique font l'objet de conventions conclues par le ministre chargé de la santé soit avec un centre hospitalier
-régional faisant partie d'un centre hospitalier et universitaire doté d'un service de pharmacologie clinique ou de
-pharmacologie, soit avec un centre de traitement des intoxications.
+comité technique font l'objet de conventions conclues par le directeur de l'Agence du médicament soit avec un centre
+hospitalier régional faisant partie d'un centre hospitalier et universitaire doté d'un service de pharmacologie clinique ou
+de pharmacologie, soit avec un centre de traitement des intoxications. Ces conventions sont communiquées pour information au
+ministre chargé de la santé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+  - Décret n°93-982 du 5 août 1993 - art. 8 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -64488,7 +64775,8 @@ public hospitalier ;
 3° De réunir les informations de même nature qui leur sont transmises par les autres établissements d'hospitalisation, ou, à
 titre individuel, notamment par des pharmaciens et des infirmières ou infirmiers ;
 
-4° De conduire les enquêtes et travaux demandés par le ministre chargé de la santé ;
+4° De conduire les enquêtes et travaux demandés par le ministre chargé de la santé ou par le directeur général de l'Agence du
+médicament ;
 
 5° De contribuer au développement de l'information en matière de pharmacovigilance ;
 
@@ -64497,9 +64785,9 @@ et des mécanismes des effets inattendus ou toxiques des médicaments.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+  - Décret n°93-982 du 5 août 1993 - art. 8 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -64582,18 +64870,19 @@ _Cité par_:
 ###### Article R5144-11
 
 Les déclarations mentionnées aux articles R. 5144-8 et R. 5144-9 sont faites sur des imprimés dont le modèle est déterminé
-par arrêté du ministre chargé de la santé [*autorité compétente*].
+par arrêté du ministre chargé de la santé [*autorité compétente*] sur proposition du directeur général de l'Agence du
+médicament.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
 
 _Cité par_:
 
   - Arrêté du 23 novembre 1984 - art. 1 (V)
   - Arrêté du 12 avril 1990 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 8 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -65077,17 +65366,18 @@ _Nouveaux textes_:
 
 ###### Article R5089-13
 
-Le directeur général de l'agence communique sans délai aux ministres chargés de la santé, de la sécurité sociale, de
-l'industrie et de l'économie les demandes d'autorisation de mise sur le marché mentionnées à l'article R. 5128 ainsi que les
-avis de la commission prévue à l'article R. 5140.
+Le directeur général de l'Agence du médicament transmet pour information aux ministres chargés de la santé, de la sécurité
+sociale, de l'industrie et de l'économie, quinze jours avant leur notification, les décisions :
 
-La même information est communiquée aux ministres concernés lors du dépôt des demandes de modification d'autorisation de mise
-sur le marché.
+- accordant, suspendant ou retirant une autorisation de mise sur le marché ;
 
-Les décisions du directeur général de l'agence relatives aux autorisations de mise sur le marché des médicaments et à
-l'enregistrement des réactifs de laboratoire destinés aux analyses de biologie médicale sont transmises pour information aux
-ministres susmentionnés, quinze jours avant leur notification. Ce délai n'est pas opposable au directeur général en cas
-d'urgence de santé publique.
+- autorisant une nouvelle présentation commerciale ou un changement de dénomination du médicament ;
+
+- modifiant ses indications thérapeutiques ou sa posologie.
+
+Il transmet également, sur leur demande, aux ministres précités l'avis de la commission prévue à l'article R. 5140.
+
+Le délai précité n'est pas opposable au directeur général en cas d'urgence de santé publique.
 
 **Liens relatifs à cet article**
 
@@ -65096,13 +65386,16 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-295 du 8 mars 1993 - art. 1 () JORF 9 mars 1993
+  - Décret n°93-982 du 5 août 1993 - art. 5 () JORF 7 août 1993
+
+_Abrogé par_:
+
+  - Décret n°99-142 du 4 mars 1999 - art. 7 () JORF 5 mars 1999
 
 _Cite_:
 
-  - Code de la santé publique - art. R5128 (M)
   - Code de la santé publique - art. R5140 (M)
 
 
@@ -65615,16 +65908,16 @@ _Nouveaux textes_:
 
 ###### Article R5151
 
-Des arrêtés des ministres chargés de la santé, de l'industrie et de l'agriculture et selon le cas, de l'environnement et de
-la consommation, pris après avis du Conseil supérieur d'hygiène publique de France [*autorités compétentes*], peuvent
-dispenser [*dérogation*] du respect de certaines ou de toutes les dispositions de la présente section des préparations
-vénéneuses renfermant une ou plusieurs substances dangereuses à des doses ou concentrations trop faibles pour justifier
-qu'elles y soient soumises.
+Des arrêtés des ministres chargés de la santé, de l'industrie et de l'agriculture, et selon le cas, de l'environnement et de
+la consommation, pris sur proposition du directeur général de l'Agence du médicament et après avis du Conseil supérieur
+d'hygiène publique de France [*autorités compétentes*], peuvent dispenser [*dérogation*] du respect de certaines ou de toutes
+les dispositions de la présente section des préparations vénéneuses renfermant une ou plusieurs substances dangereuses à des
+doses ou concentrations trop faibles pour justifier qu'elles y soient soumises.
 
-Des arrêtés du ministre chargé de la santé, pris après avis de la commission mentionnée à l'article R. 5182, peuvent
-dispenser du respect de certaines ou de toutes les dispositions de la présente section des préparations renfermant une ou
-plusieurs substances stupéfiantes ou psychotropes à des doses ou concentrations trop faibles pour justifier qu'elles y soient
-soumises.
+Des arrêtés du ministre chargé de la santé, pris sur proposition du directeur général de l'Agence du médicament et après avis
+de la commission mentionnée à l'article R. 5182, peuvent dispenser du respect de certaines ou de toutes les dispositions de
+la présente section des préparations renfermant une ou plusieurs substances stupéfiantes ou psychotropes à des doses ou
+concentrations trop faibles pour justifier qu'elles y soient soumises.
 
 **Liens relatifs à cet article**
 
@@ -65635,7 +65928,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 1 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 **Liens**:
 
@@ -66649,26 +66942,27 @@ Sont interdits, à moins d'autorisation expresse, la production, la mise sur le 
 préparations classées comme stupéfiants par arrêté du ministre chargé de la santé et, d'une manière générale, toutes
 opérations agricoles, artisanales, commerciales et industrielles relatives à ces substances ou préparations.
 
-L'autorisation est donnée par le ministre chargé de la santé [*autorités compétentes*] et, en ce qui concerne les
-établissements de vente en gros ou de distribution en gros mentionnés aux articles L. 596 et L. 615, par le préfet de région
-après avis du pharmacien inspecteur régional de la santé.
+L'autorisation est donnée par le directeur général de l'Agence du médicament [*autorités compétentes*] et, en ce qui concerne
+les établissements de vente en gros ou de distribution en gros mentionnés aux articles L. 596 et L. 615, par le préfet de
+région après avis du pharmacien inspecteur régional de la santé.
 
 Par dérogation aux dispositions du premier alinéa, tiennent lieu d'autorisation, pour le seul usage professionnel :
 
 1° L'enregistrement à la préfecture prévu à l'article L. 574 pour les pharmaciens titulaires d'une officine et les
 pharmaciens gérants des pharmacies mutualistes ;
 
-2° L'autorisation du préfet délivrée en application de l'article L. 577 ;
+2° L'autorisation du préfet délivrée en application de l'article L. 595-1 ;
 
 3° L'inscription au Conseil supérieur de l'ordre des vétérinaires pour les docteurs vétérinaires ;
 
 4° La faculté accordée par l'article L. 610 aux chefs des services de pharmacie et toxicologie des écoles nationales
 vétérinaires.
 
-Toute modification de l'un des éléments mentionnés dans la demande rend caduque l'autorisation précédemment donnée. Le
-titulaire doit en informer le ministre et lui faire retour du document attestant l'autorisation.
-
 5° L'autorisation du préfet délivrée en application de l'article L. 594.
+
+Toute modification de l'un des éléments mentionnés dans la demande rend caduque l'autorisation précédemment donnée. Le
+titulaire doit en informer le directeur général de l'Agence du médicament et lui faire retour du document attestant
+l'autorisation.
 
 **Liens relatifs à cet article**
 
@@ -66694,13 +66988,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 8 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Cite_:
 
   - Code de la santé publique - art. L574 (Ab)
-  - Code de la santé publique - art. L577 (Ab)
   - Code de la santé publique - art. L594 (Ab)
+  - Code de la santé publique - art. L595-1 (M)
   - Code de la santé publique - art. L596 (M)
   - Code de la santé publique - art. L610 (M)
   - Code de la santé publique - art. L615 (M)
@@ -66773,7 +67067,8 @@ _Cité par_:
 
 Il est interdit d'importer ou d'exporter des stupéfiants, de les mettre en entrepôt ou de les en sortir, de les transporter
 en transit, de les constituer en magasin ou aire de dédouanement ou de les placer sous tout autre régime douanier sans
-autorisation spéciale délivrée pour chaque opération par le ministre chargé de la santé [*autorité compétente*].
+autorisation spéciale délivrée pour chaque opération par le directeur général de l'Agence du médicament [*autorité
+compétente*].
 
 L'autorisation mentionne la dénomination et la quantité du produit faisant l'objet de l'opération, la nature et la quantité
 de substance stupéfiante qu'il renferme, les nom et adresse de l'expéditeur et du destinataire, le mode de transport, le
@@ -66783,10 +67078,6 @@ Les documents attestant les autorisations délivrées en application du présent
 [*durée*] pour être présentés à toute réquisition des autorités compétentes.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 **Liens**:
 
@@ -66799,6 +67090,10 @@ _Modifié par_:
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
   - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
   - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -66877,8 +67172,8 @@ _Nouveaux textes_:
 ###### Article R5175
 
 Les substances et préparations classées comme stupéfiants sont détenues dans des armoires ou des locaux fermés à clef et ne
-contenant rien d'autre. Un arrêté du ministre chargé de la santé détermine les modalités matérielles de détention de ces
-substances et préparations.
+contenant rien d'autre. Un arrêté du ministre chargé de la santé détermine sur proposition du directeur général de l'Agence
+du médicament les modalités matérielles de détention de ces substances et préparations.
 
 Tout vol ou détournement est signalé sans délai aux autorités de police et à l'inspection régionale de la pharmacie.
 
@@ -66891,7 +67186,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 9 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -66976,7 +67271,7 @@ moment de l'opération et à la suite, sur le registre spécial prévu à l'arti
 
 4° La mention des pertes résultant de ces opérations.
 
-Décharge de ces pertes est donnée sur ce registre par les pharmaciens inspecteurs de la santé, si elles leur paraissent
+Décharge de ces pertes est donnée sur ce registre par les inspecteurs de l'Agence du médicament, si elles leur paraissent
 résulter normalement des transformations ou manipulations déclarées.
 
 Ce registre spécial doit être conservé dix ans [*durée*] à compter de la date de la dernière opération mentionnée [*point de
@@ -66995,7 +67290,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -67012,7 +67307,7 @@ _Cite_:
 
 **Liens**:
 
-  - SPEC_APPLI: Code de la santé publique R5182 : champ d'application du paragraphe 3
+  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
 
 
 ###### Article R5178
@@ -67029,8 +67324,8 @@ obtenus ;
 
 4° Les stocks en fin d'année, y compris les stocks de produits en cours de transformation.
 
-Cet état, qui couvre l'année civile écoulée, est adressé au ministre chargé de la santé [*autorité compétente*] au plus tard
-le 15 février [*date limite*].
+Cet état, qui couvre l'année civile écoulée, est adressé au plus tard le 15 février à l'Agence du médicament par les
+établissements pharmaceutiques mentionnés au 1° de l'article R. 5056 et au ministre chargé de la santé dans les autres cas.
 
 L'autorisation prévue à l'article R. 5171 peut imposer à son titulaire l'établissement et la production au cours de chaque
 année civile de plusieurs états récapitulatifs.
@@ -67042,24 +67337,24 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988 en vigueur le 1er janvier 1989
-  - Décret n°88-1232 du 28 décembre 1988 - art. 5 (Ab) JORF 31 décembre 1988 en vigueur le 1er janvier 1989
-
 _Cité par_:
 
   - Décret n°88-1232 du 28 décembre 1988 - art. 5 (Ab)
   - Arrêté du 21 décembre 1990 - art. 5 (V)
   - Code de la santé publique - art. R5209 (Ab)
 
-_Nouveaux textes_:
+_Modifié par_:
 
-  - Code de la santé publique - art. R5132-83 (V)
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Cite_:
 
+  - Code de la santé publique - art. R5056 (M)
   - Code de la santé publique - art. R5171 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5132-83 (V)
 
 **Liens**:
 
@@ -67068,14 +67363,15 @@ _Cite_:
 
 ###### Article R5179
 
-Le ministre chargé de la santé peut, par arrêté, interdire la production, la mise sur le marché, l'emploi et l'usage de
-substances figurant aux tableaux de la convention unique sur les stupéfiants de 1961 modifiée ou de la convention de 1971 sur
-les substances psychotropes, ainsi que de préparations contenant de telles substances.
+Le ministre chargé de la santé peut, par arrêté pris après avis du directeur général de l'Agence du médicament, interdire la
+production, la mise sur le marché, l'emploi et l'usage de substances figurant aux tableaux de la convention unique sur les
+stupéfiants de 1961 modifiée ou de la convention de 1971 sur les substances psychotropes, ainsi que de préparations contenant
+de telles substances.
 
 Sont interdits tous actes, commerciaux ou non, relatifs à ces produits.
 
-Des dérogations aux interdictions énoncées en vertu des alinéas précédents peuvent être accordées par le ministre chargé de
-la santé aux fins de recherche et de contrôle ainsi que de fabrication de dérivés autorisés.
+Des dérogations aux interdictions énoncées en vertu des alinéas précédents peuvent être accordées par le directeur général de
+l'Agence du médicament aux fins de recherche et de contrôle ainsi que de fabrication de dérivés autorisés.
 
 **Liens relatifs à cet article**
 
@@ -67084,16 +67380,16 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Modifié par_:
-
-  - Décret n°92-963 du 7 septembre 1992 - art. 10 () JORF 10 septembre 1992
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 10 septembre 1992
   - TXT_SOURCE: Arrêté du 10 septembre 1992 - art. 1 (V)
   - TXT_SOURCE: Arrêté du 10 mai 1996
   - SPEC_APPLI: Code de la santé publique R5182 : champ d'application du paragraphe 3
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -67111,8 +67407,8 @@ _Cité par_:
 Sont interdits la production, la mise sur le marché, l'emploi et l'usage du khat et des préparations contenant ou préparées à
 partir du khat.
 
-Des dérogations aux dispositions précédentes peuvent être accordées par le ministre chargé de la santé [*autorité
-compétente*], aux fins de recherche et de contrôle.
+Des dérogations aux dispositions précédentes peuvent être accordées par le directeur général de l'Agence du médicament
+[*autorité compétente*], aux fins de recherche et de contrôle.
 
 **Liens relatifs à cet article**
 
@@ -67123,7 +67419,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -67147,12 +67443,12 @@ cannabis, de sa plante ou de sa résine ;
 
 2° Des tétrahydrocannabinols, de leurs esters, éthers, sels ainsi que des sels des dérivés précités et de leurs préparations.
 
-Des dérogations aux dispositions énoncées ci-dessus peuvent être accordées par le ministre chargé de la santé aux fins de
-recherche et de contrôle ainsi que de fabrication de dérivés autorisés.
+Des dérogations aux dispositions énoncées ci-dessus peuvent être accordées par le directeur général de l'Agence du médicament
+aux fins de recherche et de contrôle ainsi que de fabrication de dérivés autorisés.
 
-Cependant, les ministres chargés de la santé, de l'agriculture, de l'industrie et des douanes peuvent, par arrêté conjoint,
-autoriser la culture, l'importation, l'exportation et l'utilisation industrielle et commerciale de variétés de cannabis
-dépourvues de propriétés stupéfiantes.
+Cependant, sur proposition du directeur général de l'Agence du médicament, les ministres chargés de la santé, de
+l'agriculture, de l'industrie et des douanes peuvent, par arrêté conjoint, autoriser la culture, l'importation, l'exportation
+et l'utilisation industrielle et commerciale de variétés de cannabis dépourvues de propriétés stupéfiantes.
 
 **Liens relatifs à cet article**
 
@@ -67179,7 +67475,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 11 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -67193,11 +67489,12 @@ préparations les contenant qui, bien que n'étant pas classées comme stupéfia
 donnent lieu à la formation de stupéfiants au cours de leur fabrication ou, en raison d'usages abusifs, peuvent nécessiter un
 contrôle à certains stades de leur commercialisation.
 
-Le ministre chargé de la santé [*autorité compétente*] fixe par arrêté, pour chacune de ces substances, les dispositions du
-présent paragraphe qui leur sont applicables.
+Le ministre chargé de la santé [*autorité compétente*] fixe par arrêté pris sur proposition du directeur général de l'Agence
+du médicament, pour chacune de ces substances, les dispositions du présent paragraphe qui leur sont applicables.
 
 Une commission dite des stupéfiants et des psychotropes formule un avis sur toute question que lui soumet le ministre chargé
-de la santé concernant l'application des dispositions du présent paragraphe.
+de la santé ou le directeur général de l'Agence du médicament concernant l'application des dispositions du présent
+paragraphe.
 
 **Liens relatifs à cet article**
 
@@ -67221,7 +67518,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 12 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -67238,8 +67535,9 @@ _Nouveaux textes_:
 ###### Article R5183
 
 Sont interdits, à moins d'autorisation expresse, la production, la mise sur le marché et l'emploi des substances ou
-préparations classées comme psychotropes par arrêté du ministre chargé de la santé [*autorité compétente*] et, d'une manière
-générale, toutes opérations agricoles, artisanales, commerciales et industrielles relatives à ces substances ou préparations.
+préparations classées comme psychotropes par arrêté du ministre chargé de la santé pris sur proposition du directeur général
+de l'Agence du médicament [*autorité compétente*] et, d'une manière générale, toutes opérations agricoles, artisanales,
+commerciales et industrielles relatives à ces substances ou préparations.
 
 Cette autorisation est donnée ou retirée dans les conditions prévues aux articles R. 5171 et R. 5172.
 
@@ -67252,7 +67550,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -67280,12 +67578,12 @@ _Cite_:
 
 Par dérogation aux dispositions de l'article R. 5183, tiennent lieu d'autorisation pour le seul usage professionnel :
 
-1° L'autorisation ministérielle délivrée en application des articles L. 598 ou L. 616 ;
+1° L'autorisation délivrée en application des articles L. 598 ou L. 616 ;
 
 2° L'enregistrement à la préfecture prévu à l'article L. 574 pour les pharmaciens titulaires d'une officine et les
-pharmaciens gérants des pharmacies mutualistes.
+pharmaciens gérants des pharmacies mutualistes ;
 
-3° L'autorisation préfectorale délivrée en application de l'article L. 577 ;
+3° L'autorisation préfectorale délivrée en application de l'article L. 595-3 ;
 
 4° L'inscription au Conseil supérieur de l'ordre des vétérinaires pour les docteurs vétérinaires ;
 
@@ -67294,10 +67592,11 @@ pharmaciens gérants des pharmacies mutualistes.
 6° La faculté accordée par l'article L. 610 aux chefs de services de pharmacie et toxicologie des écoles nationales
 vétérinaires ;
 
-7° L'agrément ministériel accordé en application de l'article L. 667 ;
+7° L'agrément ministériel accordé en application de l'article L. 666-10 ;
 
-8° L'autorisation administrative délivrée en application de l'article L. 757.    9° L'autorisation du préfet délivrée en
-application de l'article L. 594.
+8° L'autorisation administrative délivrée en application de l'article L. 757 ;
+
+9° L'autorisation du préfet délivrée en application de l'article L. 594.
 
 **Liens relatifs à cet article**
 
@@ -67308,18 +67607,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 13 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Cite_:
 
   - Code de la santé publique - art. L574 (Ab)
-  - Code de la santé publique - art. L577 (Ab)
   - Code de la santé publique - art. L594 (Ab)
+  - Code de la santé publique - art. L595-3 (Ab)
   - Code de la santé publique - art. L597 (M)
   - Code de la santé publique - art. L598 (M)
   - Code de la santé publique - art. L610 (M)
   - Code de la santé publique - art. L616 (M)
-  - Code de la santé publique - art. L667 (P)
+  - Code de la santé publique - art. L666-10 (M)
   - Code de la santé publique - art. L757 (M)
   - Code de la santé publique - art. R5183 (M)
 
@@ -67375,7 +67674,7 @@ _Cite_:
 
 Les personnes qui se livrent à la fabrication, à la transformation et au commerce intérieur et international des substances
 psychotropes et de leurs préparations sont tenues [*obligation*] de mentionner sur un registre ou par tout système approprié
-d'enregistrement approuvé par le ministre chargé de la santé [*autorité compétente*]:
+d'enregistrement approuvé par le directeur général de l'Agence du médicament [*autorité compétente*]:
 
 1° La nature et la quantité de substances psychotropes ou de leurs préparations employées ;
 
@@ -67394,8 +67693,9 @@ Le registre, les enregistrements ou les documents en tenant lieu sont conservés
 opération mentionnée pour être présentés à toute réquisition des autorités compétentes.
 
 Les industriels et grossistes qui se livrent à l'exportation des substances et préparations psychotropes figurant sur une
-liste fixée par arrêté du ministre chargé de la santé doivent déclarer préalablement chaque expédition à cette autorité. Un
-arrêté du même ministre détermine les modalités de cette déclaration.
+liste fixée par arrêté du ministre chargé de la santé sur proposition du directeur général de l'Agence du médicament doivent
+déclarer préalablement chaque expédition à cette autorité. Un arrêté du même ministre pris sur proposition du directeur
+général de l'Agence du médicament détermine les modalités de cette déclaration.
 
 **Liens relatifs à cet article**
 
@@ -67406,7 +67706,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -67450,8 +67750,8 @@ de substances non psychotropes ;
 
 9° Les stocks en fin d'année, y compris les stocks de produits en cours de fabrication.
 
-Cet état, qui couvre l'année civile écoulée, est adressé au ministre chargé de la santé, au plus tard le 15 février [*date
-limite*].
+Cet état, qui couvre l'année civile écoulée, est adressé au directeur général de l'Agence du médicament, au plus tard le 15
+février [*date limite*].
 
 L'autorisation prévue à l'article R. 5183 peut imposer à son titulaire l'établissement et la production au cours de chaque
 année [*périodicité*] civile de plusieurs états récapitulatifs.
@@ -67465,7 +67765,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 15 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -67505,7 +67805,8 @@ indiquant pour chaque substance psychotrope ou médicament en contenant :
 
 5° Les stocks.
 
-Cet état, qui couvre l'année civile écoulée, est adressé au ministre chargé de la santé, au plus tard le 15 février.
+Cet état, qui couvre l'année civile écoulée, est adressé au directeur général de l'Agence du médicament, au plus tard le 15
+février.
 
 L'autorisation prévue à l'article R. 5183 peut imposer à son titulaire l'établissement et la production au cours de chaque
 année civile de plusieurs états récapitulatifs.
@@ -67517,9 +67818,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 16 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -67570,8 +67871,9 @@ _Cite_:
 
 ###### Article R5189
 
-La commission prévue à l'article R. 5182 formule un avis [*attributions*] sur toute question que lui soumet le ministre
-chargé de la santé concernant l'application des dispositions du présent paragraphe.
+La commission prévue à l'article R. 5182 formule un avis [*attributions*] sur toute question que lui soumet le directeur
+général de l'Agence du médicament ou le ministre chargé de la santé concernant l'application des dispositions du présent
+paragraphe.
 
 **Liens relatifs à cet article**
 
@@ -67580,13 +67882,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
 _Cité par_:
 
   - Arrêté du 7 août 1991 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 **Liens**:
 
@@ -67608,11 +67910,11 @@ Les dispositions de la présente section s'appliquent [*champ d'application*] au
 aux produits insecticides ou acaricides, destinés à être appliqués sur l'homme et aux produits destinés à l'entretien ou à
 l'application des lentilles oculaires de contact, mentionnés à l'article L. 658-11, lorsque ces médicaments ou produits :
 
-1° Sont classés, par arrêté du ministre chargé de la santé [*autorité compétente*], sur les listes I ou II définies à
-l'article R. 5204 ou comme stupéfiant ;
+1° Sont classés, par arrêté du ministre chargé de la santé sur proposition du directeur général de l'Agence du médicament
+[*autorité compétente*], sur les listes I ou II définies à l'article R. 5204 ou comme stupéfiants ;
 
-2° Ou renferment une ou plusieurs substances ou préparations classées, par arrêté du ministre chargé de la santé, sur les
-listes I ou II ou comme stupéfiantes.
+2° Ou renferment une ou plusieurs substances ou préparations classées, par arrêté du ministre chargé de la santé sur
+proposition du directeur général de l'Agence du médicament, sur les listes I ou II ou comme stupéfiants.
 
 Les médicaments ou produits mentionnés au premier alinéa peuvent faire l'objet d'un classement autre que celui de la ou des
 substances ou préparations classées qu'ils comportent. Ils sont alors soumis au régime se rapportant au classement mentionné
@@ -67636,10 +67938,6 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Modifié par_:
-
-  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
 _Cité par_:
 
   - Arrêté du 22 février 1990 - art. 1 (V)
@@ -67655,6 +67953,10 @@ _Cité par_:
   - Code de la santé publique - art. R5204 (Ab)
   - Code de la santé publique - art. R5209 (Ab)
   - Code de la santé publique - art. R5229 (Ab)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Cite_:
 
@@ -67707,10 +68009,10 @@ Ne sont pas soumis aux dispositions de la présente section [*hors champ d'appli
 1° Les médicaments et produits mentionnés à l'article R. 5190 qui sont destinés à la médecine humaine et renferment des
 substances classées à des doses ou concentrations trop faibles pour justifier qu'ils soient soumis auxdites dispositions ;
 les formes ou voies d'administration de ces médicaments ou produits, leur composition, les doses ou concentrations maximales
-de substances qu'ils renferment sont fixées par arrêtés du ministre chargé de la santé pris après avis de l'Académie
-nationale de pharmacie et de la commission prévue à l'article R. 5140 ainsi que de la commission des stupéfiants et des
-psychotropes prévue à l'article R. 5182 lorsqu'il s'agit de médicaments ou produits stupéfiants ou psychotropes ou
-susceptibles d'être utilisés pour leur effet psychoactif.
+de substances qu'ils renferment sont fixées par arrêtés du ministre chargé de la santé sur proposition du directeur général
+de l'Agence du médicament, pris après avis de l'Académie nationale de pharmacie et de la commission prévue à l'article R.
+5140 ainsi que de la commission des stupéfiants et des psychotropes prévue à l'article R. 5182 lorsqu'il s'agit de
+médicaments ou produits stupéfiants ou psychotropes ou susceptibles d'être utilisés pour leur effet psychoactif.
 
 2° Les médicaments mentionnés à l'article R. 5190 qui sont destinés à la médecine vétérinaire et renferment des substances
 classées à des doses ou concentrations trop faibles pour justifier qu'ils soient soumis auxdites dispositions ; les formes ou
@@ -67745,7 +68047,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°90-275 du 27 mars 1990 - art. 1 () JORF 28 mars 1990
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -68630,10 +68932,10 @@ _Cite_:
 ###### Article R5213
 
 Il est interdit de prescrire des médicaments classés comme stupéfiants pour un traitement d'une durée supérieure à sept
-jours. Pour certains médicaments désignés par arrêté du ministre chargé de la santé [*autorité compétente*], cette durée peut
-être portée à soit à quatorze, soit à vingt-huit jours. Une telle ordonnance ne peut être exécutée, selon le cas, que pendant
-les sept, quatorze ou vingt-huit jours qui courent à compter de sa date d'établissement, et seulement pour la durée de la
-prescription restant à courir.
+jours. Pour certains médicaments désignés par arrêté du ministre chargé de la santé  après avis du directeur général de
+l'Agence du médicament [*autorité compétente*], cette durée peut être portée à soit à quatorze, soit à vingt-huit jours. Une
+telle ordonnance ne peut être exécutée, selon le cas, que pendant les sept, quatorze ou vingt-huit jours qui courent à
+compter de sa date d'établissement, et seulement pour la durée de la prescription restant à courir.
 
 Il est de même interdit au praticien d'établir, et au pharmacien d'exécuter, une ordonnance comportant une prescription
 desdits médicaments au cours d'une période couverte par une prescription antérieure de médicaments classés comme stupéfiants.
@@ -68661,7 +68963,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 24 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 **Liens**:
 
@@ -68930,8 +69232,9 @@ stupéfiants, sont fabriquées à partir de stupéfiants ou donnent lieu à la f
 fabrication. Il en est de même pour les médicaments ou produits qui, en raison d'usages abusifs ou détournés, peuvent
 nécessiter un contrôle à certains stades de leur commercialisation ainsi que de leur prescription.
 
-Le ministre chargé de la santé fixe par arrêté, pour les médicaments ou produits contenant ces substances ou préparations,
-les dispositions du présent paragraphe qui leur sont applicables.
+Le ministre chargé de la santé sur proposition du directeur général de l'Agence du médicament fixe par arrêté, pour les
+médicaments ou produits contenant ces substances ou préparations, les dispositions du présent paragraphe qui leur sont
+applicables.
 
 **Liens relatifs à cet article**
 
@@ -68940,9 +69243,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 25 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -68960,7 +69263,8 @@ _Cité par_:
 ###### Article R5218-2
 
 La commission des stupéfiants et des psychotropes mentionnée à l'article R. 5182 formule un avis sur toute question que lui
-soumet le ministre chargé de la santé au sujet de l'application des dispositions du présent paragraphe.
+soumet le ministre chargé de la santé ou le directeur général de l'Agence du médicament au sujet de l'application des
+dispositions du présent paragraphe.
 
 **Liens relatifs à cet article**
 
@@ -68969,9 +69273,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 25 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Cite_:
 
@@ -69172,10 +69476,10 @@ _Cite_:
 
 Une prescription de médicaments ou produits relevant des listes I et II ne peut être faite pour une durée de traitement
 supérieure à douze mois. Toutefois, pour des motifs de santé publique, pour certains médicaments ou produits, cette durée
-peut être réduite par arrêté du ministre de la santé après avis des conseils nationaux de l'ordre des médecins et de l'ordre
-des pharmaciens et de la commission prévue à l'article R. 5140, ainsi qu'après avis de la commission des stupéfiants et des
-psychotropes prévue à l'article R. 5182 lorsqu'il s'agit de substances psychotropes ou susceptibles d'être utilisées pour
-leur effet psychoactif.
+peut être réduite par arrêté du ministre de la santé après avis du directeur général de l'Agence du médicament, des conseils
+nationaux de l'ordre des médecins et de l'ordre des pharmaciens et de la commission prévue à l'article R. 5140, ainsi
+qu'après avis de la commission des stupéfiants et des psychotropes prévue à l'article R. 5182 lorsqu'il s'agit de substances
+psychotropes ou susceptibles d'être utilisées pour leur effet psychoactif.
 
 Les pharmaciens et opticiens-lunetiers ne sont autorisés à effectuer la première délivrance de ces médicaments ou produits
 que sur présentation d'une ordonnance datant de moins de trois mois.
@@ -69207,7 +69511,7 @@ Les dispensateurs sont tenus d'exécuter les renouvellements selon les modalité
 
 _Modifié par_:
 
-  - Décret n°90-275 du 27 mars 1990 - art. 2 () JORF 28 mars 1990
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -69229,13 +69533,14 @@ _Cité par_:
 
 Les conditions de prescription, de détention ou de distribution des médicaments ou produits relevant des listes I et II
 mentionnées à l'article R. 5149 peuvent, pour des motifs de santé publique, être soumises en totalité ou en partie aux
-dispositions du paragraphe 3 de la présente section par arrêté du ministre chargé de la santé.
+dispositions du paragraphe 3 de la présente section par arrêté du ministre chargé de la santé sur proposition du directeur
+général de l'Agence du médicament.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 21 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -69293,7 +69598,8 @@ _Nouveaux textes_:
 ###### Article R5219-1
 
 La commission des stupéfiants et des psychotropes mentionnée à l'article R. 5182 formule un avis sur toute question que lui
-soumet le ministre chargé de la santé au sujet de l'application des dispositions du présent paragraphe.
+soumet le ministre chargé de la santé ou le directeur général de l'Agence du médicament au sujet de l'application des
+dispositions du présent paragraphe.
 
 **Liens relatifs à cet article**
 
@@ -69302,9 +69608,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (décret de codification)
   - Loi n°58-356 1958-04-03 (loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°92-963 du 7 septembre 1992 - art. 27 () JORF 10 septembre 1992
+  - Décret n°93-982 du 5 août 1993 - art. 9 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -69453,7 +69759,9 @@ Un représentant du ministre chargé des installations classées ;
 
 Un représentant du ministre de l'intérieur ;
 
-Deux représentants du ministre chargé de la santé ;
+Un représentant du ministre chargé de la santé ;
+
+Un représentant de l'Agence du médicament ;
 
 Un représentant du ministre chargé du travail ;
 
@@ -69486,6 +69794,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 10 () JORF 7 août 1993
 
 _Cite_:
 
@@ -69538,7 +69850,9 @@ Un représentant du ministre de l'intérieur ;
 
 Un représentant du ministre chargé des installations classées ;
 
-Deux représentants du ministre chargé de la santé ;
+Un représentant du ministre chargé de la santé ;
+
+Un représentant de l'Agence du médicament ;
 
 Un représentant du commissariat à l'énergie atomique ;
 
@@ -69586,6 +69900,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 10 () JORF 7 août 1993
 
 _Cite_:
 
@@ -69644,8 +69962,9 @@ Les dispositions du présent article et celles des articles R. 5234-1 à R. 5234
 
 L'autorisation [*de détention*] sans laquelle, en vertu de l'article L. 632 du présent code, aucune personne physique ou
 morale autre que le Commissariat à l'énergie atomique ne peut préparer, importer ou exporter, sous quelque forme que ce soit,
-des radio-éléments artificiels est accordée par le ministre chargé de la santé, après avis de la première section de la
-commission interministérielle des radio-éléments artificiels prévue à l'article L. 633 [*autorité compétente*].
+des radio-éléments artificiels est accordée par le ministre chargé de la santé ou, pour les médicaments et les produits
+énumérés au premier alinéa de l'article L. 601 par le directeur général de l'Agence du médicament, après avis de la première
+section de la commission interministérielle des radio-éléments artificiels prévue à l'article L. 633 [*autorité compétente*].
 
 Sont soumises à autorisation, laquelle est accordée ainsi qu'il est dit ci-dessus :
 
@@ -69679,7 +69998,6 @@ _Cité par_:
   - Arrêté du 29 juillet 1988 - art. 2 (V)
   - Code de la santé publique - art. R5232 (Ab)
   - Code de la santé publique - art. R5234-4 (Ab)
-  - Code de la santé publique - art. R5234-5 (Ab)
   - Code de la santé publique - art. R5235 (M)
   - Code de la santé publique - art. R5237 (Ab)
   - Code de la santé publique - art. R5237-1 (Ab)
@@ -69688,7 +70006,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°86-80 1986-01-13 art. 1 JORF 18 janvier 1986
+  - Décret n°93-982 du 5 août 1993 - art. 10 () JORF 7 août 1993
 
 _Cite_:
 
@@ -69702,6 +70020,7 @@ _Cite_:
   - Code de la santé publique - art. R5234-1 (Ab)
   - Code de la santé publique - art. R5234-2 (M)
   - Code de la santé publique - art. R5234-3 (Ab)
+  - Code de la santé publique - art. R5234-5 (Ab)
   - Code de la santé publique - art. R5234-6 (Ab)
 
 
@@ -69746,20 +70065,23 @@ _Cité par_:
 
 ###### Article R5234-2
 
-Tout changement de personne compétente doit être notifié au ministre chargé de la santé et au secrétaire permanent de la
-commission interministérielle des radio-éléments artificiels au moins deux mois avant la prise de fonctions [*délai, point de
-départ*].    Toute modification concernant l'établissement, son équipement technique ou la nature des opérations qui y sont
-effectuées doit faire l'objet, au moins deux mois à l'avance, d'une déclaration auprès du ministre chargé de la santé. Le cas
-échéant, le ministre fait connaître dans ce délai s'il exige que le projet soit soumis à son autorisation.
+Tout changement de personne compétente doit être notifié au ministre chargé de la santé ou au directeur général de l'Agence
+du médicament et au secrétaire permanent de la commission interministérielle des radio-éléments artificiels au moins deux
+mois avant la prise de fonctions [*délai, point de départ*].
+
+Toute modification concernant l'établissement, son équipement technique ou la nature des opérations qui y sont effectuées
+doit faire l'objet, au moins deux mois à l'avance, d'une déclaration auprès du ministre chargé de la santé ou, selon le cas,
+auprès du directeur général de l'Agence du médicament. Le cas échéant, l'autorité compétente fait connaître dans ce délai si
+elle exige que le projet soit soumis à son autorisation.
 
 L'arrêté prévu au troisième alinéa de l'article R. 5234-1 précise les conditions de présentation et d'instruction des
 demandes.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-80 1986-01-13 art. 2 JORF 18 janvier 1986
+  - Décret n°93-982 du 5 août 1993 - art. 10 () JORF 7 août 1993
 
 _Cité par_:
 
@@ -70300,20 +70622,21 @@ _Cité par_:
 Les titulaires d'autorisations accordées en application des articles R. 5234 et R. 5235 du présent code doivent se soumettre
 au contrôle du respect des obligations qui leur sont imposées.
 
-Le président de la commission peut demander à un ministre ou au commissaire de la République concerné de faire effectuer
-certains contrôles par des agents habilités relevant de leur autorité. Il reçoit copie des procès-verbaux. Dans les
-établissements relevant du ministre chargé de la défense, les contrôles prévus au présent article sont effectués par les
-autorités désignées par ce ministre.
+Le président de la commission peut demander à un ministre, au préfet du département ou, dans le cas de médicaments ou
+produits relevant de sa compétence, au directeur général de l'Agence du médicament de faire effectuer certains contrôles par
+des agents habilités relevant de leur autorité. Il reçoit copie des procès-verbaux. Dans les établissements relevant du
+ministre chargé de la défense, les contrôles prévus au présent article sont effectués par les autorités désignées par ce
+ministre.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°86-80 1986-01-13 art. 7 JORF 18 janvier 1986
 
 _Cité par_:
 
   - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 10 () JORF 7 août 1993
 
 _Cite_:
 
@@ -70321,107 +70644,21 @@ _Cite_:
   - Code de la santé publique - art. R5235 (M)
 
 
-#### Chapitre 4 : Médicaments antivénériens.<a id=447></a>
-
-###### Article R5239
-
-Les médicaments spécifiques, utilisés dans les services publics, visés à l'article L. 643, sont ceux qui sont inscrits sur
-une liste dressée par l'académie de médecine et arrêtée par le ministre de la santé publique.
-
-Cette liste est révisée périodiquement dans les mêmes formes. Le ministre de la santé publique prend toutes mesures utiles
-pour en assurer la communication aux organisations professionnelles de médecins et de pharmaciens.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°93-982 du 5 août 1993 - art. 11 (Ab) JORF 7 août 1993
-
-_Cite_:
-
-  - Code de la santé publique - art. L643 (Ab)
-
-_Cité par_:
-
-  - Code de la santé publique - art. R5240 (Ab)
-
-
-###### Article R5240
-
-Tout fabricant de l'un des médicaments spécifiques inscrits sur la liste prévue à l'article précédent doit, pour se conformer
-aux prescriptions de l'article L. 643 [*obligations*] :
-
-1° Avoir obtenu pour le produit :
-
-a) Le visa prévu à l'article L. 601 ou l'enregistrement prévu à l'article L. 605 suivant qu'il s'agit d'une spécialité
-pharmaceutique ou d'un produit sous cachet ;
-
-b) L'inscription sur la liste prévue à l'article L. 618 ;
-
-2° Adresser une demande au ministre de la santé publique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (Loi DE VALIDATION)
-
-_Abrogé par_:
-
-  - Décret n°93-982 du 5 août 1993 - art. 11 (Ab) JORF 7 août 1993
-
-_Cite_:
-
-  - Code de la santé publique - art. L601 (M)
-  - Code de la santé publique - art. L605 (M)
-  - Code de la santé publique - art. L618 (M)
-  - Code de la santé publique - art. L643 (Ab)
-  - Code de la santé publique - art. R5239 (Ab)
-
-
-###### Article R5241
-
-Sont applicables aux médicaments spécifiques vendus au public et utilisés par les services publics dans les conditions
-prévues à l'article L. 643, les dispositions des articles R. 5060 à R. 5089 [*recherche et constatation des fraudes*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°93-982 du 5 août 1993 - art. 11 (Ab) JORF 7 août 1993
-
-_Cite_:
-
-  - Code de la santé publique - art. L643 (Ab)
-  - Code de la santé publique L643, R5060 à R5089
-
-
-#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=448></a>
+#### Chapitre 5 : Anticonceptionnels et abortifs.<a id=447></a>
 
 ###### Article R5242
 
 L'article L. 645 (alinéa 1er) s'applique aux remèdes, substances et objets suivants, qui seront délivrés dans les conditions
 prescrites par l'alinéa du même article :
 
-1° Par les pharmaciens sur prescription médicale [*compétence*] ;
+1° Par les pharmaciens sur prescription médicale [*compétence*] :
 
 a) Les préparations simples ou composées à base d'hormones oestrogènes ;
 
 b) Les préparations simples ou composées à base de sabine, de rue, de phosphore blanc, d'ergot de seigle, de posthypophyse ou
 de sels de plomb ;
 
-2° Par les pharmaciens ou les négociants en matériel médico-chirurgical et les fabricants d'appareils gynécologiques sur
+2° Par les pharmaciens ou les négociants en matériel médico-chirurgical, et les fabricants d'appareils gynécologiques sur
 prescription médicale ou demande écrite du médecin pour usage professionnel :
 
 Les sondes et les canules rigides ou non, ayant une longueur supérieure à 18 cm ;
@@ -70439,18 +70676,16 @@ Les tampons vaginaux médicamenteux ;
 3° Uniquement aux praticiens habilités à exercer la médecine, par les pharmaciens ou les négociants en matériel médico-
 chirurgical et les fabricants d'appareils gynécologiques, sur demande écrite, pour usage professionnel : les spéculums autres
 que ceux destinés à l'otorhinologie, les hystéromètres, les laminaires, les crayons et bougies utérins, les porte-coton
-utérins.
+utérins. Toutefois, les spéculums vaginaux sont délivrés aux sages-femmes sur demande écrite.
 
 Les demandes écrites et les ordonnances concernant les remèdes, substances et objets visés au 1° b, 2° et 3° du présent
 article devront être conservées pendant trois années [*durée*] par les pharmaciens et les négociants qui les auront
-exécutées, et tenues à la disposition des pharmaciens inspecteurs de la santé.
-
-Toutefois, les spéculums vaginaux sont délivrés aux sages-femmes sur demande écrite.
+exécutées, et tenues à la disposition des inspecteurs de la pharmacie.
 
 **Nota:**
 
-Nota - Décret 90-740 du 14 août 1990, article 4 : le présent décret est applicable à la collectivité territoriale de Mayotte
-et article 7 : spécificités d'application à la collectivité territoriale de Mayotte*.
+[*Nota - Décret 90-740 du 14 août 1990, article 4 : le présent décret est applicable à la collectivité territoriale de
+Mayotte et article 7 : spécificités d'application à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -70463,12 +70698,16 @@ _Cité par_:
 
   - Décret n°90-740 du 14 août 1990 - art. 4 (V)
 
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 12 () JORF 7 août 1993
+
 _Cite_:
 
   - Code de la santé publique - art. L645 (Ab)
 
 
-#### Chapitre 7 : Biberons à tube et tétines.<a id=449></a>
+#### Chapitre 7 : Biberons à tube et tétines.<a id=448></a>
 
 ###### Article R5262
 
@@ -70629,7 +70868,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
 
 
-#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=450></a>
+#### Chapitre 9 : Insecticides, acaricides et produits destinés à l'entretien ou à l'application des lentilles de contact.<a id=449></a>
 
 ###### Article R5266-1
 
@@ -70656,7 +70895,7 @@ _Nouveaux textes_:
 ###### Article R5266-2
 
 La demande tendant à obtenir l'autorisation [*de mise sur le marché*] prévue à l'article L. 658-11 doit être adressée au
-ministre chargé de la santé [*autorité compétente*]. Elle mentionne :
+directeur général de l'Agence du médicament [*autorité compétente*]. Elle mentionne :
 
 a) Le nom et l'adresse du demandeur et, lorsque celui-ci ne fabrique pas le produit, le nom et l'adresse du fabricant ;
 
@@ -70683,6 +70922,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 13 () JORF 7 août 1993
 
 _Cite_:
 
@@ -70803,13 +71046,14 @@ _Nouveaux textes_:
 
 ###### Article R5266-7
 
-Le ministre se prononce dans un délai de cent vingt jours à compter de la date de présentation du dossier complet. A titre
-exceptionnel, ce délai peut être prorogé une fois de quatre-vingt-dix jours.
+Le directeur général de l'Agence du médicament se prononce dans un délai de cent vingt jours à compter de la date de
+présentation du dossier complet. A titre exceptionnel, ce délai peut être prorogé une fois de quatre-vingt-dix jours.
 
-Avant de prendre sa décision, le ministre peut ordonner toute mesure d'instruction qu'il juge nécessaire.
+Avant de prendre sa décision, le directeur général de l'Agence du médicament peut ordonner toute mesure d'instruction qu'il
+juge nécessaire.
 
-Lorsque le ministre prescrit au demandeur de compléter son dossier, les délais prévus ci-dessus sont suspendus jusqu'à ce que
-les informations complémentaires requises aient été fournies.
+Lorsque le directeur général de l'Agence du médicament prescrit au demandeur de compléter son dossier, les délais prévus ci-
+dessus sont suspendus jusqu'à ce que les informations complémentaires requises aient été fournies.
 
 **Liens relatifs à cet article**
 
@@ -70817,6 +71061,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 13 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -70829,18 +71077,11 @@ _Cité par_:
 
 ###### Article R5266-8
 
-Le ministre chargé de la santé refuse l'autorisation :
+Le directeur général de l'Agence du médicament refuse l'autorisation :
 
 a) Si les renseignements fournis à l'appui de la demande ne satisfont pas aux prescriptions du présent chapitre ;
 
-b) Si le produit est nocif dans les conditions normales d'emploi ;
-
-c) Si l'efficacité du produit fait défaut ou est insuffisamment justifiée par le demandeur ;
-
-d) Si le produit n'a pas la composition qualitative et quantitative déclarée ;
-
-e) Si les moyens à mettre en oeuvre pour appliquer la méthode de fabrication et les procédés de contrôle ne sont pas de
-nature à garantir la qualité du produit au stade de la fabrication en série.
+b) Si le produit est nocif dans les conditions normales d'emploi
 
 La demande d'autorisation ne peut être rejetée qu'après que le demandeur a été invité à fournir ses justifications [*droit de
 défense*].
@@ -70853,6 +71094,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 13 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -70896,29 +71141,22 @@ _Nouveaux textes_:
 
 ###### Article R5266-10
 
-Tout changement de titulaire de l'autorisation est subordonné à une autorisation du ministre chargé de la santé
-[*condition*].
+Tout changement de titulaire de l'autorisation est subordonné à une autorisation du directeur général de l'Agence du
+médicament [*condition*].
 
 La demande comporte les mentions prévues à l'article R. 5266-2 et elle est accompagnée d'un dossier comprenant :
 
 a) Une copie, certifiée conforme par le titulaire, de l'autorisation ;
 
-b) L'accord dudit titulaire sur le transfert de l'autorisation ;
-
-c) La désignation des lieux de fabrication, de contrôle et de conditionnement ;
-
-d) L'engagement du demandeur de se soumettre à l'ensemble des conditions auxquelles a été subordonnée l'autorisation et,
-notamment, de respecter les méthodes de fabrication et de contrôle ;
-
-e) Les comptes rendus des contrôles, effectués par le demandeur dans le respect desdites méthodes.
+b) L'accord dudit titulaire sur le transfert de l'autorisation
 
 Dans le cas de fusion ou d'apport partiel d'actifs, les sociétés intéressées peuvent déposer une demande de transfert des
 autorisations avant que la fusion ou l'apport ne soit définitivement réalisé. Elles fournissent à l'appui de leur demande le
 protocole d'accord de principe concernant la fusion ou l'apport. Le transfert est accordé sous la condition suspensive de la
-réalisation définitive qui doit être notifiée au ministre chargé de la santé.
+réalisation définitive qui doit être notifiée au directeur général de l'Agence du médicament.
 
-En cas de silence de l'administration, le transfert est réputé être autorisé [*tacitement*] à l'expiration d'un délai de deux
-mois.
+En l'absence de décision du directeur général de l'Agence du médicament, le transfert est réputé être autorisé [*tacitement*]
+à l'expiration d'un délai de deux mois.
 
 **Liens relatifs à cet article**
 
@@ -70926,6 +71164,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 13 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -70942,9 +71184,9 @@ _Cite_:
 
 ###### Article R5266-11
 
-Le ministre chargé de la santé peut, par décision motivée indiquant les voies et délais de recours, suspendre pour une
-période ne pouvant pas excéder un an [*durée*] ou retirer une autorisation. La décision de retrait ne peut intervenir
-qu'après que le titulaire de l'autorisation a été invité à fournir ses explications.
+Le directeur général de l'Agence du médicament peut, par décision motivée indiquant les voies et délais de recours, suspendre
+pour une période ne pouvant pas excéder un an [*durée*] ou retirer une autorisation. La décision de retrait ne peut
+intervenir qu'après que le titulaire de l'autorisation a été invité à fournir ses explications.
 
 Ces décisions interviennent lorsqu'il apparaît que le produit est nocif dans les conditions normales d'emploi ou que
 l'efficacité fait défaut ou que le produit n'a pas la composition qualitative ou quantitative déclarée.
@@ -70953,16 +71195,17 @@ L'autorisation est également suspendue ou retirée lorsqu'il apparaît que les 
 demande d'autorisation sont erronés, que les conditions prévues au présent chapitre ne sont pas ou ne sont plus remplies ou
 que les contrôles n'ont pas été effectués.
 
-La décision de suspension ou de retrait fait l'objet de toutes mesures de publicité que le ministre juge nécessaire
-d'ordonner.
+La décision de suspension ou de retrait fait l'objet de toutes mesures de publicité que le directeur général de l'Agence du
+médicament juge nécessaire d'ordonner.
 
-Lorsque l'autorisation est suspendue ou retirée, le titulaire  doit prendre toutes dispositions utiles notamment auprès des
+Lorsque l'autorisation est suspendue ou retirée, le titulaire doit prendre toutes dispositions utiles notamment auprès des
 détenteurs de stocks, pour faire cesser la distribution du produit. Si ces dispositions n'interviennent pas dans des délais
-compatibles avec l'intérêt de la santé publique, le ministre prend toutes mesures appropriées.
+compatibles avec l'intérêt de la santé publique, le directeur général de l'Agence du médicament prend toutes mesures
+appropriées.
 
 Indépendamment des décisions de suspension ou de retrait d'autorisation, et pour les motifs qui justifient de telles
-décisions, le ministre chargé de la santé peut interdire la délivrance d'un produit en limitant, le cas échéant, cette
-interdiction aux seuls lots de fabrication faisant l'objet d'une contestation.
+décisions, le directeur général de l'Agence du médicament peut interdire la délivrance d'un produit en limitant, le cas
+échéant, cette interdiction aux seuls lots de fabrication faisant l'objet d'une contestation.
 
 **Liens relatifs à cet article**
 
@@ -70970,6 +71213,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 13 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -70983,9 +71230,9 @@ _Cité par_:
 ###### Article R5266-12
 
 Les décisions prévues aux articles R. 5266-7 à R. 5266-11 [*refus, renouvellement ou modification de l'autorisation de mise
-sur le marché*], à l'exclusion des mesures de suspension, sont prises par le ministre chargé de la santé [*autorité
-compétente*], après avis de la commission prévue à l'article R. 5141 du code de la santé publique ou d'un groupe de travail
-constitué au sein de cette commission.
+sur le marché*], à l'exclusion des mesures de suspension, sont prises par le directeur général de l'Agence du médicament
+[*autorité compétente*], après avis de la commission prévue à l'article R. 5141 du code de la santé publique ou d'un groupe
+de travail constitué au sein de cette commission.
 
 Elles ne peuvent faire l'objet d'un recours contentieux qu'après l'exercice d'un recours gracieux qui lui-même doit être
 soumis pour avis à la commission ci-dessus mentionnée.
@@ -70999,6 +71246,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 13 () JORF 7 août 1993
 
 _Nouveaux textes_:
 
@@ -71016,14 +71267,13 @@ _Cite_:
 
 ###### Article R5266-13
 
-Le ministre chargé de la santé fait procéder, par les inspecteurs de la pharmacie, à des prélèvements de produits mentionnés
-à l'article L. 658-11 pour s'assurer de leur conformité à la formule déclarée.
+Le directeur général de l'Agence du médicament fait procéder par les inspecteurs de l'agence à des prélèvements de produits
+mentionnés à l'article L. 658-11 pour s'assurer de leur conformité à la formule déclarée.
 
-Les échantillons prélevés, destinés au laboratoire national de la santé, sont rassemblés dans des sachets munis d'une
-étiquette précisant le nom et le numéro du lot de fabrication du produit, la date du prélèvement, son motif et le nom de
-l'inspecteur qui l'a effectué.
+Les échantillons prélevés sont rassemblés dans des sachets munis d'une étiquette précisant le nom et le numéro du lot de
+fabrication du produit, la date du prélèvement, son motif et le nom de l'inspecteur qui l'a effectué.
 
-Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat [*sans frais*].
+Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat ou de l'Agence du médicament [*gratuité*].
 
 **Liens relatifs à cet article**
 
@@ -71031,6 +71281,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 13 () JORF 7 août 1993
 
 _Cite_:
 
@@ -71108,9 +71362,9 @@ _Nouveaux textes_:
 
 ###### Article R5266-15
 
-A titre exceptionnel, le ministre chargé de la santé [*autorité compétente*] peut, sur demande motivée, autoriser la
-présentation sous un seul conditionnement [*nombre*] de plusieurs produits ayant obtenu chacun l'autorisation prévue à
-l'article L. 658-11.
+A titre exceptionnel, le directeur général de l'Agence du médicament [*autorité compétente*] peut, sur demande motivée,
+autoriser la présentation sous un seul conditionnement [*nombre*] de plusieurs produits ayant obtenu chacun l'autorisation
+prévue à l'article L.  658-11.
 
 **Liens relatifs à cet article**
 
@@ -71118,6 +71372,10 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°93-982 du 5 août 1993 - art. 13 () JORF 7 août 1993
 
 _Cite_:
 
@@ -71154,9 +71412,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5136-18 (V)
 
 
-### Titre 4 : Dispositions diverses et dispositions transitoires<a id=451></a>
+### Titre 4 : Dispositions diverses et dispositions transitoires<a id=450></a>
 
-#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=452></a>
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.<a id=451></a>
 
 ###### Article R5267
 
@@ -71211,7 +71469,7 @@ _Cite_:
   - Code de la santé publique - art. L661 (Ab)
 
 
-#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=453></a>
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.<a id=452></a>
 
 ###### Article R5269
 
@@ -71304,7 +71562,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R4241-19 (V)
 
 
-#### Chapitre 5 : Homologation de certains produits et appareils.<a id=454></a>
+#### Chapitre 5 : Homologation de certains produits et appareils.<a id=453></a>
 
 ###### Article R5274
 
@@ -71762,9 +72020,9 @@ _Cite_:
   - Code de la santé publique - art. R5274 (Ab)
 
 
-#### Chapitre 4 : Visa des spécialités anciennes<a id=455></a>
+#### Chapitre 4 : Visa des spécialités anciennes<a id=454></a>
 
-##### Section 1 : Spécialités pharmaceutiques.<a id=456></a>
+##### Section 1 : Spécialités pharmaceutiques.<a id=455></a>
 
 ###### Article R5272
 
@@ -71805,38 +72063,13 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5124-33 (V)
 
 
-##### Section 2 : Produits d'origine microbienne.<a id=457></a>
+## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires<a id=456></a>
 
-###### Article R5273
+### Titre 1 : Etablissements de santé<a id=457></a>
 
-Un arrêté du ministre de la santé publique et de la population détermine les conditions dans lesquelles les produits ayant
-fait l'objet d'une autorisation de débit antérieure à la promulgation de la loi du 6 août 1953 seront soumis au visa prévu à
-l'article L. 601.
+#### Chapitre 1 A : Principes fondamentaux<a id=458></a>
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Abrogé par_:
-
-  - Décret n°93-982 du 5 août 1993 - art. 14 (Ab) JORF 7 août 1993
-
-_Cite_:
-
-  - Code de la santé publique - art. L601 (M)
-  - Loi n°1953-08-06
-
-
-## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires<a id=458></a>
-
-### Titre 1 : Etablissements de santé<a id=459></a>
-
-#### Chapitre 1 A : Principes fondamentaux<a id=460></a>
-
-##### Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés<a id=461></a>
+##### Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés<a id=459></a>
 
 ###### Article R710-2-1
 
@@ -72138,11 +72371,11 @@ _Créé par_:
   - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
 
 
-#### Chapitre 1 : Missions et obligations des établissements de santé<a id=462></a>
+#### Chapitre 1 : Missions et obligations des établissements de santé<a id=460></a>
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=463></a>
+##### Section 2 : Dispositions propres au service public hospitalier<a id=461></a>
 
-##### Sous-section 1 : Catégories d'établissements publics de santé<a id=464></a>
+##### Sous-section 1 : Catégories d'établissements publics de santé<a id=462></a>
 
 ###### Article R711-6-1
 
@@ -72234,7 +72467,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6141-16 (V)
 
 
-##### Sous-section 2 : Fonctionnement médical des hôpitaux locaux<a id=465></a>
+##### Sous-section 2 : Fonctionnement médical des hôpitaux locaux<a id=463></a>
 
 ###### Article R711-6-4
 
@@ -72871,7 +73104,7 @@ _Cite_:
   - Code de la santé publique - art. R711-6-18 (M)
 
 
-##### Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé<a id=466></a>
+##### Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé<a id=464></a>
 
 ###### Article R711-7
 
@@ -73250,11 +73483,11 @@ _Cite_:
   - Code de la santé publique - art. R711-7 (M)
 
 
-#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=467></a>
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=465></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=468></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=466></a>
 
-##### Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire.<a id=469></a>
+##### Sous-section 1 : Etablissement de la carte sanitaire et du schéma d'organisation sanitaire.<a id=467></a>
 
 ###### Article R712-1
 
@@ -74140,7 +74373,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-6 (Ab)
 
 
-##### Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale<a id=470></a>
+##### Sous-section 2 : Du Comité national de l'organisation sanitaire et sociale<a id=468></a>
 
 ###### Article R712-14
 
@@ -74547,7 +74780,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-6 (Ab)
 
 
-##### Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale<a id=471></a>
+##### Sous-section 3 : Du comité régional de l'organisation sanitaire et sociale<a id=469></a>
 
 ###### Article R712-22
 
@@ -74990,7 +75223,7 @@ _Cite_:
   - Code de la santé publique - art. R712-27 (M)
 
 
-##### Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale<a id=472></a>
+##### Sous-section 4 : Dispositions communes au Comité national et aux comités régionaux de l'organisation sanitaire et sociale<a id=470></a>
 
 ###### Article R712-30
 
@@ -75249,7 +75482,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-11 (Ab)
 
 
-##### Section 2 : Autorisations<a id=473></a>
+##### Section 2 : Autorisations<a id=471></a>
 
 ###### Article R712-37
 
@@ -75921,7 +76154,7 @@ _Cité par_:
   - Code de la santé publique - art. R724-13 (M)
 
 
-##### Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie<a id=474></a>
+##### Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie<a id=472></a>
 
 ###### Article R712-52
 
@@ -76225,9 +76458,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R710-5-19 (Ab)
 
 
-#### Chapitre 3 : Les actions de coopération<a id=475></a>
+#### Chapitre 3 : Les actions de coopération<a id=473></a>
 
-##### Section 1 : Les conférences sanitaires de secteur<a id=476></a>
+##### Section 1 : Les conférences sanitaires de secteur<a id=474></a>
 
 ###### Article R713-1
 
@@ -76842,11 +77075,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R713-1-16 (Ab)
 
 
-#### Chapitre 4 : Les établissements publics de santé<a id=477></a>
+#### Chapitre 4 : Les établissements publics de santé<a id=475></a>
 
-##### Section 1 : Organisation administrative et financière<a id=478></a>
+##### Section 1 : Organisation administrative et financière<a id=476></a>
 
-##### Sous-section 1 : Création, transformation et suppression des établissements publics de sante<a id=479></a>
+##### Sous-section 1 : Création, transformation et suppression des établissements publics de sante<a id=477></a>
 
 ###### Article R714-1-1
 
@@ -76967,7 +77200,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6141-12 (V)
 
 
-##### Sous-section 2 : Composition et fonctionnement du conseil d'administration<a id=480></a>
+##### Sous-section 2 : Composition et fonctionnement du conseil d'administration<a id=478></a>
 
 ###### Article R714-2-1
 
@@ -77973,9 +78206,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6143-20 (V)
 
 
-##### Sous-section 3 : Budget et comptabilité des établissements publics de santé<a id=481></a>
+##### Sous-section 3 : Budget et comptabilité des établissements publics de santé<a id=479></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=482></a>
+##### Paragraphe 1 : Dispositions générales<a id=480></a>
 
 ###### Article R714-3-1
 
@@ -78191,7 +78424,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-7-1 (M)
 
 
-##### Paragraphe 2 : Présentation et vote du budget<a id=483></a>
+##### Paragraphe 2 : Présentation et vote du budget<a id=481></a>
 
 ###### Article R714-3-7
 
@@ -78797,7 +79030,7 @@ _Cite_:
   - Code de la santé publique - art. L712-4 (Ab)
 
 
-##### Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale<a id=484></a>
+##### Paragraphe 3 : Détermination des tarifs de prestations et du montant de la dotation globale<a id=482></a>
 
 ###### Article R714-3-19
 
@@ -79101,7 +79334,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-30 (T)
 
 
-##### Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget<a id=485></a>
+##### Paragraphe 4 : Approbation, éxécution et contrôle de l'éxécution du budget<a id=483></a>
 
 ###### Article R714-3-27
 
@@ -79717,7 +79950,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (Ab)
 
 
-##### Paragraphe 5 : Du directeur, ordonnateur du budget<a id=486></a>
+##### Paragraphe 5 : Du directeur, ordonnateur du budget<a id=484></a>
 
 ###### Article R714-3-41
 
@@ -79898,7 +80131,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-3-29 (M)
 
 
-##### Paragraphe 6 : Clôture de l'exercice et affectation des résultats<a id=487></a>
+##### Paragraphe 6 : Clôture de l'exercice et affectation des résultats<a id=485></a>
 
 ###### Article R714-3-46
 
@@ -80199,7 +80432,7 @@ _Cite_:
   - Code de la santé publique - art. R714-3-9 (M)
 
 
-##### Paragraphe 7 : Du comptable<a id=488></a>
+##### Paragraphe 7 : Du comptable<a id=486></a>
 
 ###### Article R714-3-51
 
@@ -80280,7 +80513,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-57 (T)
 
 
-##### Sous-section 4 : Programmes d'investissement<a id=489></a>
+##### Sous-section 4 : Programmes d'investissement<a id=487></a>
 
 ###### Article R714-4-1
 
@@ -80459,13 +80692,13 @@ _Cite_:
   - Code de la santé publique - art. R714-4-4 (Ab)
 
 
-##### Section 2 : Organes représentatifs<a id=490></a>
+##### Section 2 : Organes représentatifs<a id=488></a>
 
-##### Sous-section 1 : Commissions médicales d'établissement<a id=491></a>
+##### Sous-section 1 : Commissions médicales d'établissement<a id=489></a>
 
-##### Paragraphe 1 : Composition de commissions médicales d'établissement<a id=492></a>
+##### Paragraphe 1 : Composition de commissions médicales d'établissement<a id=490></a>
 
-##### I : Centres hospitaliers autres que les centres hospitaliers universitaires<a id=493></a>
+##### I : Centres hospitaliers autres que les centres hospitaliers universitaires<a id=491></a>
 
 ###### Article R714-16-1
 
@@ -80757,7 +80990,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-7 (V)
 
 
-##### II : Centres hospitaliers universitaires<a id=494></a>
+##### II : Centres hospitaliers universitaires<a id=492></a>
 
 ###### Article R714-16-6
 
@@ -81058,7 +81291,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-3 (M)
 
 
-##### III : Hôpitaux locaux<a id=495></a>
+##### III : Hôpitaux locaux<a id=493></a>
 
 ###### Article R714-16-11
 
@@ -81119,7 +81352,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-14 (V)
 
 
-##### IV : Syndicats interhospitaliers<a id=496></a>
+##### IV : Syndicats interhospitaliers<a id=494></a>
 
 ###### Article R714-16-12
 
@@ -81238,7 +81471,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-12 (M)
 
 
-##### Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement<a id=497></a>
+##### Paragraphe 2 : Dispositions diverses et modalités de fonctionnement des commissions médicales d'établissement<a id=495></a>
 
 ###### Article R714-16-14
 
@@ -81949,7 +82182,7 @@ _Cite_:
   - Code de la santé publique - art. R714-16-24 (M)
 
 
-##### Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux<a id=498></a>
+##### Paragraphe 3 : Dispositions relatives aux comités consultatifs médicaux<a id=496></a>
 
 ###### Article R714-16-29
 
@@ -82212,9 +82445,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-39 (V)
 
 
-##### Sous-section 2 : Comités techniques d'établissement<a id=499></a>
+##### Sous-section 2 : Comités techniques d'établissement<a id=497></a>
 
-##### Paragraphe 1 : Composition des comités techniques d'établissement<a id=500></a>
+##### Paragraphe 1 : Composition des comités techniques d'établissement<a id=498></a>
 
 ###### Article R714-17-1
 
@@ -83268,7 +83501,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-67 (V)
 
 
-##### Paragraphe 2 : Attributions des comités techniques d'établissement<a id=501></a>
+##### Paragraphe 2 : Attributions des comités techniques d'établissement<a id=499></a>
 
 ###### Article R714-18-1
 
@@ -83305,7 +83538,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-40 (V)
 
 
-##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement<a id=502></a>
+##### Paragraphe 3 : Fonctionnement des comités techniques d'établissement<a id=500></a>
 
 ###### Article R714-18-2
 
@@ -83775,7 +84008,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-80 (V)
 
 
-##### Paragraphe 3 : Dispositions diverses<a id=503></a>
+##### Paragraphe 3 : Dispositions diverses<a id=501></a>
 
 ###### Article R714-18-15
 
@@ -83808,11 +84041,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6144-41 (V)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=504></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=502></a>
 
-##### Sous-section 1 : Des chefs de service ou de département<a id=505></a>
+##### Sous-section 1 : Des chefs de service ou de département<a id=503></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=506></a>
+##### Paragraphe 1 : Dispositions générales<a id=504></a>
 
 ###### Article R714-21-1
 
@@ -83889,7 +84122,7 @@ _Cite_:
   - Code de la santé publique - art. L714-21 (M)
 
 
-##### Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires<a id=507></a>
+##### Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires<a id=505></a>
 
 ###### Article R714-21-3
 
@@ -83998,7 +84231,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-21-1 (V)
 
 
-##### Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires<a id=508></a>
+##### Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires<a id=506></a>
 
 ###### Article R714-21-6
 
@@ -84035,7 +84268,7 @@ _Cité par_:
   - Code de la santé publique - art. R714-21-8 (V)
 
 
-##### Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958<a id=509></a>
+##### Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958<a id=507></a>
 
 ###### Article R714-21-7
 
@@ -84075,7 +84308,7 @@ _Cité par_:
   - Arrêté du 20 août 1992 - art. 1 (V)
 
 
-##### I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein<a id=510></a>
+##### I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein<a id=508></a>
 
 ###### Article R714-21-8
 
@@ -84204,7 +84437,7 @@ _Cité par_:
   - Arrêté du 20 août 1992 - art. 4 (V)
 
 
-##### II. - Nomination aux fonctions de chef de service ou de département à temps partiel<a id=511></a>
+##### II. - Nomination aux fonctions de chef de service ou de département à temps partiel<a id=509></a>
 
 ###### Article R714-21-12
 
@@ -84273,9 +84506,9 @@ _Cite_:
   - Code de la santé publique - art. R714-21-12 (M)
 
 
-##### III<a id=512></a>
+##### III<a id=510></a>
 
-##### - Dispositions propres aux fonctions de chef de service ou de département de psychiatrie<a id=513></a>
+##### - Dispositions propres aux fonctions de chef de service ou de département de psychiatrie<a id=511></a>
 
 ###### Article R714-21-14
 
@@ -84403,9 +84636,9 @@ _Cité par_:
   - Loi n°2004-806 du 9 août 2004 - art. 155 (V)
 
 
-##### IV<a id=514></a>
+##### IV<a id=512></a>
 
-##### - Dispositions particulières aux pharmacies hospitalières<a id=515></a>
+##### - Dispositions particulières aux pharmacies hospitalières<a id=513></a>
 
 ###### Article R714-21-18
 
@@ -84435,7 +84668,7 @@ _Créé par_:
   - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
 
 
-##### V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre<a id=516></a>
+##### V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre<a id=514></a>
 
 ###### Article R714-21-19
 
@@ -84468,7 +84701,7 @@ _Cite_:
   - Code de la santé publique - art. R714-21-8 (M)
 
 
-##### Paragraphe 5 : Dispositions communes<a id=517></a>
+##### Paragraphe 5 : Dispositions communes<a id=515></a>
 
 ###### Article R714-21-20
 
@@ -84637,7 +84870,7 @@ _Créé par_:
   - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
 
 
-##### Sous-section 2 : Conseil de service ou de département<a id=518></a>
+##### Sous-section 2 : Conseil de service ou de département<a id=516></a>
 
 ###### Article R714-22-1
 
@@ -84966,7 +85199,7 @@ _Modifié par_:
   - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
-##### Sous-section 3 : Des responsables d'unité fonctionnelle<a id=519></a>
+##### Sous-section 3 : Des responsables d'unité fonctionnelle<a id=517></a>
 
 ###### Article R714-24-1
 
@@ -85015,7 +85248,7 @@ _Cité par_:
   - Code de la santé publique - art. R6146-18 (M)
 
 
-##### Sous-section 4 : Service de soins infirmiers<a id=520></a>
+##### Sous-section 4 : Service de soins infirmiers<a id=518></a>
 
 ###### Article R714-26-1
 
@@ -85312,7 +85545,7 @@ _Modifié par_:
   - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
-##### Section 4 : Les personnels des établissements publics de santé<a id=521></a>
+##### Section 4 : Les personnels des établissements publics de santé<a id=519></a>
 
 ###### Article R714-28-1
 
@@ -85460,11 +85693,11 @@ _Cité par_:
   - Code de la santé publique - art. R714-28-1 (Ab)
 
 
-#### Chapitre 5 : Les établissements de santé privés<a id=522></a>
+#### Chapitre 5 : Les établissements de santé privés<a id=520></a>
 
-##### Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement<a id=523></a>
+##### Section 2 : Dispositions propres aux établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement<a id=521></a>
 
-##### Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier<a id=524></a>
+##### Sous-section 3 : Budget et comptabilité des établissements de santé privés participant au service public hospitalier<a id=522></a>
 
 ###### Article R715-7-1
 
@@ -85705,9 +85938,9 @@ _Cite_:
   - Code de la santé publique L312 à L314
 
 
-##### Sous-section 4 : De la concession du service public hospitalier<a id=525></a>
+##### Sous-section 4 : De la concession du service public hospitalier<a id=523></a>
 
-##### Paragraphe 1 : Objet, contenu et durée du contrat de concession<a id=526></a>
+##### Paragraphe 1 : Objet, contenu et durée du contrat de concession<a id=524></a>
 
 ###### Article R715-10-1
 
@@ -85853,7 +86086,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-10-10 (Ab)
 
 
-##### Paragraphe 2 : Procédure<a id=527></a>
+##### Paragraphe 2 : Procédure<a id=525></a>
 
 ###### Article R715-10-4
 
@@ -86054,7 +86287,7 @@ _Cité par_:
   - Code de la santé publique - art. R715-10-10 (Ab)
 
 
-##### Paragraphe 3 : Renouvellement et prorogation du contrat de concession<a id=528></a>
+##### Paragraphe 3 : Renouvellement et prorogation du contrat de concession<a id=526></a>
 
 ###### Article R715-10-10
 
@@ -86099,7 +86332,7 @@ _Cite_:
   - Code de la santé publique - art. R715-10-9 (M)
 
 
-##### Paragraphe 4 : Contrôle<a id=529></a>
+##### Paragraphe 4 : Contrôle<a id=527></a>
 
 ###### Article R715-10-11
 
@@ -86158,7 +86391,7 @@ _Cité par_:
   - Code de la santé publique - art. R712-15 (M)
 
 
-##### Paragraphe 5 : Mesures diverses<a id=530></a>
+##### Paragraphe 5 : Mesures diverses<a id=528></a>
 
 ###### Article R715-10-13
 
@@ -86227,9 +86460,9 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-31 (V)
 
 
-##### Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier<a id=531></a>
+##### Sous-section 5 : De l'association des établissements de santé privés au fonctionnement du service public hospitalier<a id=529></a>
 
-##### Paragraphe 1 : Nature et objet de l'accord d'association<a id=532></a>
+##### Paragraphe 1 : Nature et objet de l'accord d'association<a id=530></a>
 
 ###### Article R715-11-1
 
@@ -86344,7 +86577,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-34 (V)
 
 
-##### Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association<a id=533></a>
+##### Paragraphe 2 : Conditions de conclusion et de cessation de l'accord d'association<a id=531></a>
 
 ###### Article R715-11-4
 
@@ -86384,11 +86617,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6161-35 (V)
 
 
-#### Chapitre 6 : Expérimentation et dispositions diverses<a id=534></a>
+#### Chapitre 6 : Expérimentation et dispositions diverses<a id=532></a>
 
-##### Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux<a id=535></a>
+##### Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux<a id=533></a>
 
-##### Sous-section 1 : Assistance publique - hôpitaux de Paris<a id=536></a>
+##### Sous-section 1 : Assistance publique - hôpitaux de Paris<a id=534></a>
 
 ###### Article R716-3-1
 
@@ -86424,7 +86657,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6147-1 (V)
 
 
-##### Paragraphe 1 : Conseil d'administration<a id=537></a>
+##### Paragraphe 1 : Conseil d'administration<a id=535></a>
 
 ###### Article R716-3-2
 
@@ -86774,7 +87007,7 @@ _Cité par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 2 : Le directeur général et le secrétaire général<a id=538></a>
+##### Paragraphe 2 : Le directeur général et le secrétaire général<a id=536></a>
 
 ###### Article R716-3-10
 
@@ -86872,9 +87105,9 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 3 : Les instances représentatives centrales<a id=539></a>
+##### Paragraphe 3 : Les instances représentatives centrales<a id=537></a>
 
-##### A. - Commission médicale d'établissement<a id=540></a>
+##### A. - Commission médicale d'établissement<a id=538></a>
 
 ###### Article R716-3-13
 
@@ -86979,7 +87212,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-26 (Ab)
 
 
-##### B. - Comité technique central d'établissement<a id=541></a>
+##### B. - Comité technique central d'établissement<a id=539></a>
 
 ###### Article R716-3-15
 
@@ -87097,7 +87330,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### C : Commission centrale du service de soins infirmiers<a id=542></a>
+##### C : Commission centrale du service de soins infirmiers<a id=540></a>
 
 ###### Article R716-3-18
 
@@ -87150,9 +87383,9 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général<a id=543></a>
+##### Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général<a id=541></a>
 
-##### A. - Budget<a id=544></a>
+##### A. - Budget<a id=542></a>
 
 ###### Article R716-3-19
 
@@ -87171,7 +87404,7 @@ _Créé par_:
   - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
 
 
-##### B. - Direction<a id=545></a>
+##### B. - Direction<a id=543></a>
 
 ###### Article R716-3-20
 
@@ -87198,7 +87431,7 @@ _Créé par_:
   - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
 
 
-##### C. - Instances représentatives locales<a id=546></a>
+##### C. - Instances représentatives locales<a id=544></a>
 
 ###### Article R716-3-21
 
@@ -87247,7 +87480,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Commission de surveillance<a id=547></a>
+##### Commission de surveillance<a id=545></a>
 
 ###### Article R716-3-22
 
@@ -87428,7 +87661,7 @@ _Cite_:
   - Code de la santé publique - art. R716-3-9 (V)
 
 
-##### Comité consultatif médical<a id=548></a>
+##### Comité consultatif médical<a id=546></a>
 
 ###### Article R716-3-26
 
@@ -87461,7 +87694,7 @@ _Cite_:
   - Code de la santé publique R714-16-29 à R714-16-34, R716-3-14
 
 
-##### Comité technique local d'établissement<a id=549></a>
+##### Comité technique local d'établissement<a id=547></a>
 
 ###### Article R716-3-27
 
@@ -87580,7 +87813,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Commission locale du service de soins infirmiers<a id=550></a>
+##### Commission locale du service de soins infirmiers<a id=548></a>
 
 ###### Article R716-3-30
 
@@ -87624,7 +87857,7 @@ _Cité par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 5 : Contrôle financier<a id=551></a>
+##### Paragraphe 5 : Contrôle financier<a id=549></a>
 
 ###### Article R716-3-31
 
@@ -87656,7 +87889,7 @@ _Cite_:
   - Loi n°1922-08-10
 
 
-##### Paragraphe 6 : Marchés<a id=552></a>
+##### Paragraphe 6 : Marchés<a id=550></a>
 
 ###### Article R716-3-32
 
@@ -87692,7 +87925,7 @@ _Cite_:
   - Code de la santé publique - art. R716-3-33 (M)
 
 
-##### Paragraphe 7 : Contrôle de l'Etat<a id=553></a>
+##### Paragraphe 7 : Contrôle de l'Etat<a id=551></a>
 
 ###### Article R716-3-33
 
@@ -87840,7 +88073,7 @@ _Cite_:
   - Code de la santé publique - art. L714-9 (M)
 
 
-##### Paragraphe 8 : Dispositions diverses<a id=554></a>
+##### Paragraphe 8 : Dispositions diverses<a id=552></a>
 
 ###### Article R716-3-36
 
@@ -87927,7 +88160,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille<a id=555></a>
+##### Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille<a id=553></a>
 
 ###### Article R716-3-39
 
@@ -87964,7 +88197,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6147-3 (V)
 
 
-##### Paragraphe 1 : Conseil d'administration<a id=556></a>
+##### Paragraphe 1 : Conseil d'administration<a id=554></a>
 
 ###### Article R716-3-40
 
@@ -88180,7 +88413,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 2 : Directeur général et secrétaire général<a id=557></a>
+##### Paragraphe 2 : Directeur général et secrétaire général<a id=555></a>
 
 ###### Article R716-3-45
 
@@ -88228,7 +88461,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 3 : Instances représentatives centrales<a id=558></a>
+##### Paragraphe 3 : Instances représentatives centrales<a id=556></a>
 
 ###### Article R716-3-46
 
@@ -88407,7 +88640,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Paragraphe 4 : Instances représentatives locales<a id=559></a>
+##### Paragraphe 4 : Instances représentatives locales<a id=557></a>
 
 ###### Article R716-3-50
 
@@ -88707,7 +88940,7 @@ _Cite_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Sous-section 3 : Etablissements publics nationaux<a id=560></a>
+##### Sous-section 3 : Etablissements publics nationaux<a id=558></a>
 
 ###### Article R716-3-57
 
@@ -89051,7 +89284,7 @@ _Abrogé par_:
   - SPEC_APPLI: Fin de vigueur : Date indéterminée
 
 
-##### Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif<a id=561></a>
+##### Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif<a id=559></a>
 
 ###### Article R716-5-1
 
@@ -89369,7 +89602,7 @@ _Abrogé par_:
   - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
 
 
-##### Section 5 : Dispositions diverses<a id=562></a>
+##### Section 5 : Dispositions diverses<a id=560></a>
 
 ###### Article R716-9-1
 
@@ -89405,15 +89638,15 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R6145-5 (T)
 
 
-# Partie réglementaire ancienne - Décrets simples<a id=563></a>
+# Partie réglementaire ancienne - Décrets simples<a id=561></a>
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=564></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires<a id=562></a>
 
-### Titre Ier : Etablissements de santé<a id=565></a>
+### Titre Ier : Etablissements de santé<a id=563></a>
 
-#### Chapitre Ier : Missions et obligations des établissements de santé<a id=566></a>
+#### Chapitre Ier : Missions et obligations des établissements de santé<a id=564></a>
 
-##### Section 2 : Dispositions propres au service public hospitalier<a id=567></a>
+##### Section 2 : Dispositions propres au service public hospitalier<a id=565></a>
 
 ###### Article D711-6-1
 
@@ -89506,7 +89739,7 @@ _Cite_:
   - Code de la santé publique - art. L711-6 (M)
 
 
-##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=568></a>
+##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons<a id=566></a>
 
 ###### Article D711-9-1
 
@@ -89812,7 +90045,7 @@ _Cite_:
   - Code de la santé publique R711-9-1
 
 
-##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=569></a>
+##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=567></a>
 
 ###### Article D711-16-3
 
@@ -89899,11 +90132,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-50 (T)
 
 
-#### Chapitre II : L'organisation et l'équipement sanitaires<a id=570></a>
+#### Chapitre II : L'organisation et l'équipement sanitaires<a id=568></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=571></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=569></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=572></a>
+##### Sous-section 1 : Du collège national d'experts<a id=570></a>
 
 ###### Article D712-2
 
@@ -89998,7 +90231,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=573></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=571></a>
 
 ###### Article D712-7
 
@@ -90082,7 +90315,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=574></a>
+##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation<a id=572></a>
 
 ###### Article D712-13-1
 
@@ -90139,7 +90372,7 @@ _Cite_:
   - Code de la santé publique - art. L712-4 (Ab)
 
 
-##### Sous-section 4 : Regroupements et reconversions<a id=575></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=573></a>
 
 ###### Article D712-13-3
 
@@ -90266,9 +90499,9 @@ _Créé par_:
   - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
 
 
-##### Section 2 : Autorisations<a id=576></a>
+##### Section 2 : Autorisations<a id=574></a>
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=577></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=575></a>
 
 ###### Article D712-16
 
@@ -90296,11 +90529,11 @@ _Cite_:
   - Code de la santé publique - art. D712-15 (M)
 
 
-##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=578></a>
+##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=576></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=579></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=577></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=580></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=578></a>
 
 ###### Article D712-30
 
@@ -90439,7 +90672,7 @@ _Cite_:
   - Code de la santé publique - art. D712-30 (M)
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=581></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=579></a>
 
 ###### Article D712-35
 
@@ -90525,11 +90758,11 @@ _Cité par_:
   - Code de la santé publique - art. D712-37 (Ab)
 
 
-#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=582></a>
+#### Chapitre 2 : L'organisation et l'équipement sanitaires<a id=580></a>
 
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=583></a>
+##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=581></a>
 
-##### Sous-section 4 : Regroupements et reconversions<a id=584></a>
+##### Sous-section 4 : Regroupements et reconversions<a id=582></a>
 
 ###### Article D712-13-2
 
@@ -90576,11 +90809,11 @@ _Cite_:
   - Code de la santé publique - art. L712-11 (M)
 
 
-#### Chapitre IV : Les établissements publics de santé<a id=585></a>
+#### Chapitre IV : Les établissements publics de santé<a id=583></a>
 
-##### Section 1 : Organisation administrative et financière<a id=586></a>
+##### Section 1 : Organisation administrative et financière<a id=584></a>
 
-##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=587></a>
+##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration<a id=585></a>
 
 ###### Article D714-2-1
 
@@ -90717,7 +90950,7 @@ _Cité par_:
   - Code de la santé publique - art. R716-3-43 (M)
 
 
-##### Sous-section 4 : Composition des groupes fonctionnels<a id=588></a>
+##### Sous-section 4 : Composition des groupes fonctionnels<a id=586></a>
 
 ###### Article D714-7-1
 
@@ -90773,7 +91006,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6145-6 (Ab)
 
 
-##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=589></a>
+##### Sous-section 3 : Modalités de délégation de signature des directeurs<a id=587></a>
 
 ###### Article D714-12-1
 
@@ -90873,7 +91106,7 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6143-36 (V)
 
 
-##### Sous-section 5 : Virements de crédits<a id=590></a>
+##### Sous-section 5 : Virements de crédits<a id=588></a>
 
 ###### Article D714-12-5
 
@@ -90916,9 +91149,9 @@ _Cite_:
   - Code de la santé publique R714-3-38, R714-3-11 à R714-3-13, R714-3-27
 
 
-##### Section 2 : organes représentatifs<a id=591></a>
+##### Section 2 : organes représentatifs<a id=589></a>
 
-##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=592></a>
+##### Sous-section 1 : Elections aux comités techniques d'établissement<a id=590></a>
 
 ###### Article D714-17-1
 
@@ -90949,7 +91182,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=593></a>
+##### Sous-section 2 : Fonctionnement des commissions médicales et des comités techniques d'établissement<a id=591></a>
 
 ###### Article D714-19-1
 
@@ -91006,7 +91239,7 @@ _Nouveaux textes_:
   - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
 
 
-##### Section 2 : Organisation des soins et fonctionnement médical<a id=594></a>
+##### Section 2 : Organisation des soins et fonctionnement médical<a id=592></a>
 
 ###### Article D714-21-1
 
@@ -91052,7 +91285,7 @@ _Cité par_:
   - Code de la santé publique - art. D714-21-2 (M)
 
 
-##### Section 3 : Organisation des soins et fonctionnement médical<a id=595></a>
+##### Section 3 : Organisation des soins et fonctionnement médical<a id=593></a>
 
 ###### Article D714-21-2
 
@@ -91115,11 +91348,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6151-1 (V)
 
 
-## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=596></a>
+## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé<a id=594></a>
 
-### Chapitre Ier : Missions et obligations des établissements de santé<a id=597></a>
+### Chapitre Ier : Missions et obligations des établissements de santé<a id=595></a>
 
-#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=598></a>
+#### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique<a id=596></a>
 
 ###### Article D711-16-1
 
@@ -91254,11 +91487,11 @@ _Nouveaux textes_:
   - Code de la santé publique - art. D6142-47 (T)
 
 
-### Chapitre II : L'organisation et l'équipement sanitaires<a id=599></a>
+### Chapitre II : L'organisation et l'équipement sanitaires<a id=597></a>
 
-#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=600></a>
+#### Section 1 : Carte sanitaire et schéma d'organisation sanitaire<a id=598></a>
 
-##### Sous-section 1 : Du collège national d'experts<a id=601></a>
+##### Sous-section 1 : Du collège national d'experts<a id=599></a>
 
 ###### Article D712-1
 
@@ -91356,7 +91589,7 @@ _Créé par_:
   - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
-##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=602></a>
+##### Sous-section 2 : De la commission régionale de l'évaluation médicale des établissements<a id=600></a>
 
 ###### Article D712-8
 
@@ -91503,9 +91736,9 @@ _Cité par_:
   - Arrêté du 24 février 1994 - art. 1 (V)
 
 
-#### Section 2 : Autorisations<a id=603></a>
+#### Section 2 : Autorisations<a id=601></a>
 
-##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=604></a>
+##### Sous-section 1 : De la visite de conformité mentionnée à l'article L. 712-12<a id=602></a>
 
 ###### Article D712-14
 
@@ -91544,7 +91777,7 @@ _Cite_:
   - TXT_SOURCE: Code de la santé publique - art. L712-12 (M)
 
 
-##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=605></a>
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation<a id=603></a>
 
 ###### Article D712-15
 
@@ -91605,11 +91838,11 @@ _Cite_:
   - Code de la santé publique - art. L712-2 (M)
 
 
-#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=606></a>
+#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins<a id=604></a>
 
-##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=607></a>
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation<a id=605></a>
 
-##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=608></a>
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire<a id=606></a>
 
 ###### Article D712-31
 
@@ -91716,7 +91949,7 @@ _Cite_:
   - Code de la santé publique D712-30, D712-32, D712-33, R710-2-1 à R710-2-10
 
 
-##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=609></a>
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile<a id=607></a>
 
 ###### Article D712-36
 
