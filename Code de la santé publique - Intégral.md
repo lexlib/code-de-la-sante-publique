@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1964-09-10
+Version Consolidée au 1964-12-18
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 1964-09-10
             - [Paragraphe 2 : Mesures de désinfection. (art. L14 à L16)](#9)
           - [Section 3 : Mesures exceptionnelles en cas d'épidémie. (art. L17 à L18)](#10)
         - [Chapitre 3 : Des eaux potables (art. L19 à L25-1)](#11)
-          - [Section 1 : Des distributions publiques. (art. L21 à L23)](#12)
+          - [Section 1 : Des distributions publiques. (art. L20 à L23)](#12)
           - [Section 2 : Des distributions privées. (art. L24)](#13)
           - [Section 3 : Dispositions communes *aux distributions publiques et privées* (art. L25 à L25-1)](#14)
         - [Chapitre 4 : Salubrité des immeubles (art. L26 à L32)](#15)
@@ -1761,6 +1761,114 @@ _Anciens textes_:
 
 
 ##### Section 1 : Des distributions publiques.<a id=12></a>
+
+###### Article L20
+
+En vue d'assurer la protection de la qualité des eaux, l'acte portant déclaration d'utilité publique des travaux de
+prélèvement d'eau destinée à l'alimentation des collectivités humaines détermine autour du point de prélèvement un périmètre
+de protection immédiate dont les terrains sont à acquérir en pleine propriété, un périmètre de protection rapprochée à
+l'intérieur duquel peuvent être interdits ou réglementés toutes activités et tous dépôts ou installations de nature à nuire
+directement ou indirectement à la qualité des eaux et, le cas échéant, un périmètre de protection éloigné à l'intérieur
+duquel peuvent être réglementés les activités, installations et dépôts ci-dessus visés [*contenu*].
+
+Un décret en Conseil d'Etat détermine les conditions d'application de l'alinéa précédent.
+
+L'acte portant déclaration d'utilité publique des travaux de prélèvement d'eau destinée à l'alimentation des collectivités
+humaines détermine, en ce qui concerne les activités, dépôts et installations existant à la date de sa publication, les
+délais dans lesquels il devra être satisfait aux conditions prévues par le présent article et par le décret prévu ci-dessus.
+
+Des actes déclaratifs d'utilité publique peuvent, dans les mêmes conditions, déterminer les périmètres de protection autour
+des points de prélèvement existants, ainsi qu'autour des ouvrages d'adduction à écoulement libre et des réservoirs enterrés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Anciens textes_:
+
+  - Ordonnance 58-1265 1958-12-20
+  - Décret n°1935-10-30 ART. 1
+  - Décret n°1935-10-30 art. 1
+
+_Modifié par_:
+
+  - Loi n°64-1245 1964-12-16 art. 7 JORF 18 décembre 1964
+
+_Cité par_:
+
+  - Décret n°68-134 du 9 février 1968 - art. 2 (Ab)
+  - Décret n°72-37 du 11 janvier 1972 - art. 9 (V)
+  - Arrêté du 25 février 1975 - art. 2 (V)
+  - Décret n°89-3 du 3 janvier 1989 - art. 16 (T)
+  - Décret n°89-3 du 3 janvier 1989 - art. 21 (Ab)
+  - Décret n°89-3 du 3 janvier 1989 - art. 4 (Ab)
+  - Décret n°89-3 du 3 janvier 1989 - art. 5 (Ab)
+  - Décret n°93-743 du 29 mars 1993 - art. 2 (M)
+  - Arrêté du 8 janvier 1998 - art. 13 (V)
+  - Arrêté du 3 avril 2000 - art. 12 (V)
+  - Arrêté du 14 janvier 2011 - art. (V)
+  - Arrêté du 24 avril 2017 - art. Annexe III (V)
+  - Arrêté du 21 novembre 2017 - art. (V)
+  - Arrêté du 6 juin 2018 - art. (V)
+  - Arrêté du 6 juin 2018 - art. (VD)
+  - Arrêté du 3 août 2018 - art. (VD)
+  - Code de l'urbanisme - art. R*126-1, Annexe (M)
+  - Code de l'urbanisme - art. R443-9 (M)
+  - Code de la santé publique - art. L46 (Ab)
+  - Code rural - art. R341-7 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1321-10 (M)
+  - Code de la santé publique - art. L1321-10 (V)
+  - Code de la santé publique - art. L1321-2 (M)
+  - Code de la santé publique - art. L1324-3 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. L46 (Ab)
+  - TXT_ASSOCIE: Code de la santé publique L46 : DISPOSITIONS PENALES
+  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L20-1
+
+Les indemnités qui peuvent être dues aux propriétaires ou occupants de terrains compris dans un périmètre de protection de
+prélèvement d'eau destinée à l'alimentation des collectivités humaines, à la suite de mesures prises pour assurer la
+protection de cette eau, sont fixées selon les règles applicables en matière d'expropriation pour cause d'utilité publique.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Loi n°64-1245 1964-12-16 art. 8 JORF 18 décembre 1964
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1321-3 (M)
+  - Code de la santé publique - art. L1321-3 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
 
 ###### Article L21
 
