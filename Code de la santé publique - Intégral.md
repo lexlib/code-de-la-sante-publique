@@ -1,12 +1,12 @@
 # Code de la santé publique  
-Version Consolidée au 1975-01-18
+Version Consolidée au 1975-05-27
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
       - [TITRE 1 : MESURES SANITAIRES GENERALES (art. L1 à L51)](#3)
         - [CHAPITRE 1 : REGLEMENTS SANITAIRES. (art. L1 à L4)](#4)
         - [Chapitre 2 : Lutte contre les épidémies (art. L5 à L18)](#5)
-          - [Section 1 : Vaccination contre certaines maladies transmissibles. (art. L5 à L10-1)](#6)
+          - [Section 1 : Vaccination contre certaines maladies transmissibles. (art. L5 à L10-2)](#6)
           - [Section 2 : Autres mesures destinées à prévenir la propagation de certaines maladies transmissibles (art. L11 à L16)](#7)
             - [Paragraphe 1 : Déclaration à l'autorité sanitaire. (art. L11 à L13)](#8)
             - [Paragraphe 2 : Mesures de désinfection. (art. L14 à L16)](#9)
@@ -1306,6 +1306,54 @@ _Modifié par_:
 _Abrogé par_:
 
   - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L10-2
+
+Toute vaccination obligatoire pratiquée dans les conditions définies au présent code doit faire l'objet, de la part du
+médecin ou de la sage-femme qui l'a effectuée, d'une déclaration dont les modalités et le contenu sont fixés par décret. 
+
+Si la personne vaccinée dispose d'un carnet de santé, mention   de la vaccination doit y être portée.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°75-401 1975-05-26 art. 2 JORF 27 mai 1975
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°76-628 du 8 juillet 1976
+  - TXT_SOURCE: Décret n°76-628 du 8 juillet 1976 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°76-628 du 8 juillet 1976 - art. 2 (Ab)
+  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+_Cité par_:
+
+  - Décret n°76-628 du 8 juillet 1976 - art. 1 (Ab)
+  - Loi n°85-10 du 3 janvier 1985 - art. 90 (V)
+  - Décret n°90-740 du 14 août 1990 - art. 1 (V)
+  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L3111-5 (M)
+  - Code de la santé publique - art. L3111-5 (V)
+  - Code de la santé publique - art. L3821-3 (Ab)
+  - Code de la santé publique - art. L3821-3 (V)
 
 
 ##### Section 2 : Autres mesures destinées à prévenir la propagation de certaines maladies transmissibles<a id=7></a>
