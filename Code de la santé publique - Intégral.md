@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1988-05-04
+Version Consolidée au 1988-05-08
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -351,23 +351,23 @@ Version Consolidée au 1988-05-04
             - [Paragraphe 1 : Assistance par des pharmaciens (art. R5099)](#348)
             - [Paragraphe 2 : Remplacement et gérance (art. R5100 à R5104)](#349)
         - [Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques (art. R5105 à R5144)](#350)
-          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-8)](#351)
+          - [Section 1 : Des établissements de préparation et de vente en gros (art. R5105 à R5115-9)](#351)
             - [Paragraphe 1 : Dispositions générales. (art. R5105 à R5112-3)](#352)
             - [Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512. (art. R5113 à R5113-3)](#353)
             - [Paragraphe 4 : Dispositions d'exécution. (art. R5116)](#354)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-8)](#355)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5114-1 à R5115-9)](#355)
               - [1° Exercice personnel de la profession. (art. R5114-1 à R5114-6)](#356)
-              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-8)](#357)
+              - [2° Autres obligations relatives au fonctionnement des établissements. (art. R5115-1 à R5115-9)](#357)
           - [Section 2 : Spécialités pharmaceutiques (art. R5117 à R5144)](#358)
             - [Paragraphe 1 : Expérimentation des médicaments. (art. R5117 à R5127)](#359)
             - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. R5128 à R5142)](#360)
             - [PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES. (art. R5143 à R5144)](#361)
         - [CHAPITRE 3 : PHARMACIE VETERINAIRE (art. R5145 à R5146-57)](#362)
           - [DISPOSITIONS GENERALES. (art. R5145)](#363)
-          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 bis)](#364)
+          - [SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS. (art. R5146 à R5146-17 ter)](#364)
             - [Paragraphe 1 : Autorisation administrative. (art. R5146-1 à R5146-5)](#365)
             - [PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES. (art. R5146-6 à R5146-9)](#366)
-            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 bis)](#367)
+            - [Paragraphe 3 : Fonctionnement des établissements (art. R5146-10 à R5146-17 ter)](#367)
           - [Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché (art. R5146-18 à R5146-41)](#368)
             - [Paragraphe 1 : Expérimentation des médicaments vétérinaires. (art. R5146-18 à R5146-25)](#369)
             - [Paragraphe 2 : Procédure de la demande d'autorisation de mise sur le marché (art. R5146-26 à R5146-32)](#370)
@@ -44610,6 +44610,33 @@ _Cite_:
   - Code de la santé publique - art. R5234-1 (Ab)
 
 
+###### Article R5115-9
+
+Les établissements visés à l'article L. 596 doivent se doter de bonnes pratiques de fabrication. A cette fin, des
+recommandations sont énoncées par arrêté du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°88-661 1988-05-06 art. 1 JORF 8 mai 1988
+
+_Cité par_:
+
+  - Arrêté du 5 septembre 1989 - art. 1 (Ab)
+  - Arrêté du 20 janvier 1992 - art. 1 (Ab)
+  - Arrêté du 7 décembre 1992 - art. 1 (Ab)
+  - Code de la santé publique - art. R5125 (M)
+
+_Cite_:
+
+  - Code de la santé publique - art. L596 (M)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5124-54 (V)
+
+
 ##### Section 2 : Spécialités pharmaceutiques<a id=358></a>
 
 ##### Paragraphe 1 : Expérimentation des médicaments.<a id=359></a>
@@ -44662,6 +44689,9 @@ _Cité par_:
 Le ministre chargé de la santé [*autorité compétente*] fixe par arrêté les protocoles déterminant les normes et méthodes
 applicables à l'expérimentation des médicaments.
 
+Les expertises doivent être exécutées en conformité avec les bonnes pratiques de laboratoire dont les principes sont fixés
+par arrêté du ministre chargé de la santé.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -44671,9 +44701,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-  - Décret n°79-256 1979-03-21 art. 1 JORF 31 mars 1979
-  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+  - Décret n°88-661 1988-05-06 art. 2 JORF 8 mai 1988
 
 _Cité par_:
 
@@ -45337,25 +45365,33 @@ s'il apparaît que celles-ci sont manifestement sans objet ;
 b) Lorsque la demande concerne une spécialité correspondant à une préparation figurant à la Pharmacopée française ou au
 formulaire national, le demandeur peut être dispensé des expertises pharmacologiques, toxicologiques et cliniques ;
 
-c) Une documentation bibliographique peut tenir lieu de comptes rendus des essais pharmacologiques, toxicologiques et
-cliniques lorsqu'il s'agit :
+c) Le demandeur n'est pas tenu de fournir les résultats des essais pharmacologiques et toxicologiques ni les résultats des
+essais cliniques s'il peut démontrer :
 
-D'une spécialité déjà exploitée ayant été expérimentée d'une manière suffisante sur l'homme pour que ses effets, y compris
-les effets secondaires, soient déjà connus et figurent dans la documentation bibliographique ;
+1. Soit que la spécialité pharmaceutique est essentiellement similaire à une spécialité autorisée et que la personne
+responsable de la mise sur le marché de la spécialité originale a consenti qu'il soit fait recours en vue de l'examen de la
+présente demande à la documentation pharmacologique, toxicologique ou clinique figurant au dossier de la spécialité
+originale ;
 
-D'une spécialité nouvelle dont la composition en principes actifs est identique à celle d'une spécialité déjà connue et
-exploitée ;
+2. Soit, par référence détaillée à la littérature scientifique publiée, que le ou les composants de la spécialité
+pharmaceutique sont d'un usage médical bien établi et présentent une efficacité reconnue, ainsi qu'un niveau acceptable de
+sécurité ;
 
-D'une spécialité nouvelle renfermant uniquement des composants connus, déjà associés en proportion comparable dans des
-médicaments et suffisamment expérimentés et déjà exploités.
+3. Soit que la spécialité pharmaceutique est essentiellement similaire à une spécialité autorisée depuis au moins dix ans
+[*délai*] en France ou dans un autre pays membre des communautés européennes selon les dispositions communautaires en vigueur
+et commercialisée en France.
 
-Dans ces trois cas, les experts doivent justifier le recours à la documentation bibliographique et démontrer que la
-bibliographie satisfait aux exigences de protocoles arrêtés par application de l'article R. 5118, compte tenu notamment de la
-forme pharmaceutique et des constituants de l'excipient.
+Cependant, dans le cas où la spécialité pharmaceutique est destinée à un usage thérapeutique différent ou doit être
+administrée par des voies différentes ou sous un dosage différent, par rapport aux autres médicaments commercialisés, les
+résultats des essais pharmacologiques, toxicologiques et cliniques appropriés doivent être fournis.
 
-d) En ce qui concerne une spécialité nouvelle renfermant des composants connus qui n'ont pas encore été associés dans un but
-thérapeutique, les essais concernant ces composants peuvent être remplacés par la présentation d'une documentation
-bibliographique.
+d) En ce qui concerne une spécialité nouvelle renfermant des composants connus, mais qui n'ont pas encore été associés dans
+un but thérapeutique, les résultats des essais pharmacologiques, toxicologiques et cliniques relatifs à l'association doivent
+être fournis sans qu'il soit nécessaire de fournir la documentation relative à chaque composant individuel.
+
+Lorsqu'il est fait référence à la littérature scientifique publiée, des experts doivent justifier le recours à cette
+documentation bibliographique et démontrer qu'elle satisfait aux exigences des protocoles arrêtés en application de l'article
+R. 5118, compte tenu notamment de la forme pharmaceutique et des constituants de l'excipient.
 
 **Liens relatifs à cet article**
 
@@ -45363,12 +45399,6 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Modifié par_:
-
-  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
-  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-  - Décret n°78-988 1978-09-20 ART. 9 JORF 6 octobre 1978
 
 _Cité par_:
 
@@ -45381,6 +45411,10 @@ _Cité par_:
   - Code de la santé publique - art. R5136 (Ab)
   - Code de la santé publique - art. R5143 (Ab)
 
+_Modifié par_:
+
+  - Décret n°88-661 1988-05-06 art. 3 JORF 8 mai 1988
+
 _Cite_:
 
   - Code de la santé publique - art. R5118 (M)
@@ -45392,6 +45426,24 @@ _Nouveaux textes_:
   - Code de la santé publique - art. R5121-29 (V)
   - Code de la santé publique - art. R5121-30 (V)
   - Code de la santé publique - art. R5121-31 (V)
+
+
+###### Article R5133-1
+
+Une spécialité est considérée comme étant essentiellement similaire à une autre spécialité [*définition*] si elle a la même
+composition qualitative et quantitative en principes actifs, la même forme pharmaceutique et si, le cas échéant, la
+bioéquivalence entre les deux spécialités a été démontrée par des études appropriées de biodisponibilité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°88-661 1988-05-06 art. 4 JORF 8 mai 1988
 
 
 ###### Article R5134
@@ -45557,18 +45609,21 @@ européennes.
 Si le ministre estime ne pas pouvoir accorder l'autorisation de mise sur le marché, il transmet son opposition motivée au
 comité et au responsable de la mise sur le marché de la spécialité pharmaceutique.
 
-Après réception de l'avis du comité le ministre prononce sur la suite à donner à cet avis dans un délai de soixante jours et
-informe le comité de sa décision.
+Après réception de l'avis du comité, le ministre se prononce sur la suite à donner à cet avis dans un délai de soixante
+jours. Ce délai est de trente jours lorsque l'avis du comité est donné en application des articles R. 5140-1 et R. 5140-2. Le
+comité est informé de cette décision.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CEE DIRECTIVE 319 1975 ART. 8, ART. 9 CONSEIL
+  - Code de la santé publique - art. R5140-1 (M)
+  - Code de la santé publique - art. R5140-2 (M)
 
 _Modifié par_:
 
-  - Décret n°85-1216 1985-10-30 art. 5 JORF 21 novembre 1985
+  - Décret n°88-661 1988-05-06 art. 5 JORF 8 mai 1988
 
 
 ###### Article R5136-2
@@ -45746,6 +45801,40 @@ _Cité par_:
   - Code de la santé publique - art. R5144-20-1 (Ab)
 
 
+###### Article R5139-1
+
+Lorsqu'une autorisation de mise sur le marché a été accordée à une spécialité pharmaceutique relevant des listes mentionnées
+aux articles R. 5140-1 et R. 5140-2 après un avis favorable du comité des spécialités pharmaceutiques [*autorité compétente*]
+les décisions mentionnées à l'article R. 5139 concernant cette spécialité pharmaceutique sont prises après avis de ce comité.
+Toutefois, en cas d'urgence, la décision de suspension est prise sans attendre l'avis du comité ; cette décision est
+transmise au comité, ainsi que la justification de l'urgence et la motivation de la suspension.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°88-661 1988-05-06 art. 6 JORF 8 mai 1988
+
+_Cité par_:
+
+  - Arrêté du 30 juin 2010 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-49 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5139 (M)
+  - Code de la santé publique - art. R5140-1 (M)
+  - Code de la santé publique - art. R5140-2 (M)
+
+
 ###### Article R5140
 
 Les décisions mentionnées aux articles R. 5135, R. 5136, R. 5136-1 R. 5137 et R. 5139, à l'exclusion des mesures de
@@ -45813,6 +45902,78 @@ _Cite_:
   - Code de la santé publique - art. R5137 (M)
   - Code de la santé publique - art. R5138 (M)
   - Code de la santé publique R5135, R5137, R5138, R5139, R5136-1, R5136
+
+
+###### Article R5140-1
+
+Toute demande d'autorisation de mise sur le marché présentée pour des médicaments de haute technologie issus de certains
+procédés biotechnologiques figurant sur une liste A fixée par arrêté conjoint du ministre chargé de la santé et du ministre
+chargé de l'industrie est soumise pour avis au comité des spécialités pharmaceutiques [*autorité compétente*] mentionné à
+l'article R. 5136-1.
+
+Toutefois, cette disposition ne s'applique pas lorsque le demandeur certifie que ni lui, ni aucune autre personne physique ou
+morale avec laquelle il est lié, n'a demandé, au cours des cinq années précédentes [*délai*], l'autorisation de mettre sur le
+marché d'un autre Etat membre un produit contenant le ou les mêmes principes actifs ou n'envisage de demander, dans les cinq
+ans suivant la date d'introduction de la demande, l'autorisation de mettre sur le marché d'un autre Etat membre un produit
+contenant le ou les mêmes principes actifs.
+
+Lorsque, en application de l'alinéa précédent, l'avis du comité des spécialités pharmaceutiques n'a pas été sollicité et que,
+dans les cinq ans qui suivent le dépôt de la demande [*délai*], une ou plusieurs demandes d'autorisation de mise sur le
+marché d'un produit contenant le ou les mêmes principes actifs issus du ou des mêmes procédés de synthèse sont adressées aux
+autorités compétentes des autres Etats membres par le responsable de la mise sur le marché de la spécialité pharmaceutique
+déjà autorisée ou avec son consentement, ce dernier en informe immédiatement les autorités françaises qui saisissent pour
+avis le comité des spécialités pharmaceutiques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°88-661 1988-05-06 art. 7 JORF 8 mai 1988
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-51 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5136-1 (Ab)
+  - Code de la santé publique - art. R5139-1 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique R5136-1
+
+
+###### Article R5140-2
+
+Lorsque la demande d'autorisation de mise sur le marché concerne d'autres médicaments de haute technologie figurant sur une
+liste B fixée par arrêté conjoint du ministre chargé de la santé et du ministre chargé de l'industrie, le demandeur doit
+préciser s'il désire que sa demande soit soumise pour avis au comité des spécialités pharmaceutiques [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°88-661 1988-05-06 art. 7 JORF 8 mai 1988
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5121-52 (Ab)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5136-1 (Ab)
+  - Code de la santé publique - art. R5139-1 (Ab)
 
 
 ###### Article R5141
@@ -46181,7 +46342,7 @@ se livrant, en vue de la vente, à la préparation totale ou partielle des médi
 préparations avec les obligations de contrôle y afférentes, la division, le changement de conditionnement ou de présentation
 de médicaments vétérinaires.
 
-A la qualité de grossiste répartiteur en médicaments vétérinaires tout pharmacien, tout docteur vétérinaire ou toute société,
+A la qualité de distributeur en gros de médicaments vétérinaires tout pharmacien, tout docteur vétérinaire ou toute société,
 propriétaire d'un des établissements mentionnés à l'article L. 615 et se livrant à l'achat, en vue de la vente en l'état, de
 médicaments vétérinaires aux personnes ou organismes mentionnés aux articles L. 610, L. 612 et L. 617-13.
 
@@ -46198,9 +46359,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+  - Décret n°88-660 1988-05-06 art. 1 JORF 8 mai 1988
 
 _Cite_:
 
@@ -46228,8 +46389,8 @@ _Cité par_:
 ###### Article R5146
 
 Les dispositions de la présente section sont applicables à tout pharmacien, à tout docteur vétérinaire, à toute société
-exerçant une activité de fabricant de médicaments vétérinaires ou de grossiste répartiteur, d'importateur [*ajouté par le
-décret n° 156*] ou de dépositaire de médicaments vétérinaires.
+exerçant une activité de fabricant de médicaments vétérinaires ou de distributeur en gros, d'importateur ou de dépositaire de
+médicaments vétérinaires.
 
 **Liens relatifs à cet article**
 
@@ -46238,13 +46399,13 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
-
-  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 JUIN 1977
-
 _Modifié par_:
 
-  - Décret n°84-156 1984-03-01 ART. 1 JORF 4 MARS 1984
+  - Décret n°88-660 1988-05-06 art. 2 JORF 8 mai 1988
+
+_Abrogé par_:
+
+  - Décret n°2003-263 du 20 mars 2003 - art. 5 () JORF 22 mars 2003
 
 
 ##### Paragraphe 1 : Autorisation administrative.<a id=365></a>
@@ -46450,6 +46611,9 @@ organe de gestion d'administration, de direction ou de surveillance au pharmacie
 celui-ci doit en informer le pharmacien inspecteur régional de la santé et le directeur départemental des services
 vétérinaires.
 
+Les expertises doivent être exécutées en conformité avec les bonnes pratiques de laboratoire dont les principes sont fixés
+par un arrêté du ministre chargé de la santé et du ministre chargé de l'agriculture.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -46457,9 +46621,9 @@ _Codifié par_:
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+  - Décret n°88-661 1988-05-06 art. 9 JORF 8 mai 1988
 
 _Cité par_:
 
@@ -46711,6 +46875,45 @@ _Cite_:
   - Code de la santé publique - art. L615 (M)
 
 
+###### Article R5146-15 bis
+
+Les établissements de distribution en gros de médicaments vétérinaires mentionnés au deuxième alinéa de l'article R. 5145
+doivent [*obligation*] être en mesure d'assurer la livraison de tout médicament vétérinaire effectivement mis sur le marché
+aux personnes et organismes mentionnés aux articles L. 610, L. 612 et L. 617-13 qui relèvent du secteur de distribution dans
+lequel ils ont déclaré exercer leur activité. Les livraisons ne peuvent comporter que des produits correspondant aux droits
+respectifs de détention, d'utilisation ou de délivrance des personnes et organismes auxquels elles sont destinées.
+
+Les établissements de distribution en gros délivrent les médicaments vétérinaires qui leur ont été commandés, sans pouvoir
+procéder à des substitutions [*attributions, compétence*].
+
+Un arrêté du ministre chargé de la santé et du ministre de l'agriculture [*autorité compétente*] définit les conditions dans
+lesquelles les livraisons doivent s'effectuer ainsi que les conditions dans lesquelles les secteurs de distribution des
+établissements de distribution en gros de médicaments vétérinaires peuvent être étendus [*champ d'application*] aux localités
+dont l'approvisionnement ne serait pas assuré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°88-660 1988-05-06 art. 3 JORF 8 mai 1988
+
+_Cité par_:
+
+  - Arrêté du 9 mai 1995 - art. 2 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L610 (M)
+  - Code de la santé publique - art. L612 (M)
+  - Code de la santé publique - art. L617-13 (Ab)
+  - Code de la santé publique - art. R5145 (M)
+
+
 ###### Article R5146-16
 
 Les personnes responsables définies aux articles L. 615 et R.  5146-6 doivent pouvoir justifier, à tout moment, que tous les
@@ -46825,6 +47028,22 @@ _Cite_:
 
   - TXT_ASSOCIE: Code de la santé publique - art. R5146-57 (M)
   - TXT_ASSOCIE: Code de la santé publique R5146-57 : DISPOSITIONS PENALES
+
+
+###### Article R5146-17 ter
+
+Les établissements doivent se doter de bonnes pratiques de fabrication. A cette fin, des recommandations sont énoncées par
+arrêté conjoint du ministre chargé de la santé et du ministre chargé de l'agriculture [*autorités compétentes*].
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°88-661 1988-05-06 art. 8 JORF 8 mai 1988
+
+_Cité par_:
+
+  - Arrêté du 5 mai 1997 - art. 1 (Ab)
 
 
 ##### Section 2 : Médicaments vétérinaires : l'autorisation de mise sur le marché<a id=368></a>
@@ -47575,6 +47794,75 @@ _Cité par_:
   - Code de la santé publique - art. R5146-33-9 (Ab)
 
 
+###### Article R5146-33-2
+
+Toute demande d'autorisation de mise sur le marché présentée pour des médicaments de haute technologie issus de certains
+procédés biotechnologiques figurant sur une liste A fixée par arrêté conjoint des ministres chargés de la santé, de
+l'industrie et de l'agriculture est soumise pour avis au comité des médicaments vétérinaires [*autorité compétente*]
+mentionné à l'article R. 5146-33-1.
+
+Toutefois, cette disposition ne s'applique pas lorsque le demandeur certifie que ni lui, ni aucune autre personne physique ou
+morale avec laquelle il est lié n'a demandé, au cours des cinq années précédentes [*délai*], l'autorisation de mettre sur le
+marché d'un autre Etat membre un produit contenant le ou les mêmes principes actifs ou n'envisage de demander, dans les cinq
+ans suivant la date d'introduction de la demande, l'autorisation de mettre sur le marché d'un autre Etat membre un produit
+contenant le ou les mêmes principes actifs.
+
+Lorsque, en application de l'alinéa précédent, l'avis du comité des médicaments vétérinaires n'a pas été sollicité et que,
+dans les cinq ans qui suivent le dépôt de la demande [*délai, point de départ*], une ou plusieurs demandes d'autorisation de
+mise sur le marché d'un produit contenant le ou les mêmes principes actifs issus du ou des mêmes procédés de synthèse sont
+adressées aux autorités compétentes des autres Etats membres par le responsable de la mise sur le marché de la spécialité
+pharmaceutique déjà autorisée ou avec son consentement, ce dernier en informe les autorités françaises qui saisissent pour
+avis le comité des médicaments vétérinaires [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°88-661 1988-05-06 art. 10 JORF 8 mai 1988
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-28 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-33-1 (Ab)
+  - Code de la santé publique - art. R5146-33-7 (Ab)
+  - Code de la santé publique - art. R5146-33-9 (Ab)
+  - Code de la santé publique - art. R5146-37-1 (P)
+
+
+###### Article R5146-33-3
+
+Lorsque la demande d'autorisation de mise sur le marché concerne d'autres médicaments de haute technologie figurant sur une
+liste B fixée par arrêté conjoint des ministres chargés de la santé, de l'industrie et de l'agriculture, le demandeur doit
+préciser s'il désire que sa demande soit soumise pour avis au comité des médicaments vétérinaires [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°88-661 1988-05-06 art. 10 JORF 8 mai 1988
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-29 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-37-1 (P)
+
+
 ###### Article R5146-34
 
 Sans préjudice des dispositions du dernier alinéa de l'article L. 617-3, les ministres refusent l'autorisation de mise sur le
@@ -47765,6 +48053,40 @@ _Cité par_:
   - Code de la santé publique - art. R5146-37-1 (P)
   - Code de la santé publique - art. R5146-38 (Ab)
   - Code de la santé publique - art. R5146-39 (M)
+
+
+###### Article R5146-37-1
+
+Lorsqu'une autorisation de mise sur le marché a été accordée à une spécialité pharmaceutique relevant des listes mentionnées
+aux articles R. 5146-33-2 et R. 5146-33-3 après un avis favorable du comité des médicaments vétérinaires *autorité
+compétente*, les décisions mentionnées à l'article R. 5146-37 concernant cette spécialité pharmaceutique sont prises après
+avis de ce comité. Toutefois, en cas d'urgence, la décision de suspension est prise sans attendre l'avis du comité ; cette
+décision est transmise au comité, ainsi que la justification de l'urgence et la motivation de la suspension.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (Décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Créé par_:
+
+  - Décret n°88-661 1988-05-06 art. 11 JORF 8 mai 1988
+
+**Liens**:
+
+  - PEREMPTION: Décret n°99-553 du 2 juillet 1999 - art. 7 () JORF 4 juillet 1999
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. R5141-46 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. R5146-33-2 (M)
+  - Code de la santé publique - art. R5146-33-3 (M)
+  - Code de la santé publique - art. R5146-37 (M)
 
 
 ###### Article R5146-38
@@ -52001,12 +52323,11 @@ espace blanc suffisant pour permettre l'inscription du mode d'emploi du médicam
 
 Les médicaments spécialisés contenant une ou plusieurs substances du tableau B doivent en outre comporter, sur les étiquettes
 intérieure et extérieure, le nom de la substance tel qu'il figure au tableau B, sa concentration en toutes lettres, la
-quantité contenue dans le récipient et, sur l'emballage extérieur, un espace blanc encadré d'un double filet rouge orangé,
-dans lequel le pharmacien détaillant doit inscrire son nom, son adresse, le numéro d'inscription à l'ordonnancier et le mode
+quantité contenue dans le récipient et, sur l'emballage extérieur, un espace blanc encadré d'un filet rouge-orangé, dans
+lequel le pharmacien détaillant doit inscrire son nom, son adresse, le numéro d'inscription à l'ordonnancier et le mode
 d'emploi indiqué par l'auteur de la prescription.
 
-Si la spécialité comprend en outre des substances inscrites à d'autres tableaux, seul doit figurer le double filet rouge
-orangé.
+Si la spécialité comprend en outre des substances inscrites à d'autres tableaux, seul doit figurer le filet rouge-orangé.
 
 Si le médicament est destiné à la médecine vétérinaire, la préparation reçoit en outre, dans tous les cas, une étiquette
 portant, imprimée en noir sur fond rouge orangé, la mention "Usage vétérinaire".
@@ -52017,6 +52338,11 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (Décret de codification)
   - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Modifié par_:
+
+  - Décret n°88-661 1988-05-06 art. 12 JORF 8 mai 1988
+  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 _Cité par_:
 
@@ -53452,9 +53778,9 @@ _Cité par_:
 
 ###### Article R5234-4
 
-Chaque autorisation prévue à l'article R. 5234 est délivrée pour une durée de cinq ans ; elle est ensuite renouvelable par
-période quinquennale sur demande du titulaire de l'autorisation présentée au plus tard trois mois avant la date d'expiration
-[*délai, point de départ*].
+Chaque autorisation prévue à l'article R. 5234 est délivrée pour une durée maximale de cinq ans ; elle est ensuite
+renouvelable sur demande du titulaire de l'autorisation présentée au plus tard trois mois avant la date d'expiration [*délai,
+point de départ*].
 
 A l'appui de sa demande, le titulaire de l'autorisation doit attester qu'aucune modification n'est intervenue dans les
 renseignements produits à l'appui de la demande d'autorisation.
@@ -53464,9 +53790,13 @@ d'expiration de l'autorisation, celle-ci est considérée comme renouvelée à c
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-80 1986-01-13 art. 2 JORF 18 janvier 1986
+  - Décret n°88-672 1988-05-06 art. 1 JORF 8 mai 1988
+
+_Abrogé par_:
+
+  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
 
 _Cité par_:
 
