@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1959-02-08
+Version Consolidée au 1959-03-06
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -304,10 +304,10 @@ Version Consolidée au 1959-02-08
           - [Section 4 : Dispositions spéciales en cas de fermeture d'officine. (art. R*5013)](#301)
         - [Chapitre 2 : De l'Ordre national des pharmaciens (art. R5014 à R*5015-64)](#302)
           - [Section 1 : Organisation (art. R5014)](#303)
-          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5016 à R*5044)](#304)
+          - [Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens (art. R*5016 à R*5043)](#304)
             - [Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux (art. R*5016 à R*5028)](#305)
             - [Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline. (art. R*5029 à R*5041)](#306)
-            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5044)](#307)
+            - [Paragraphe 3 : Dispositions communes. (art. R*5042 à R*5043)](#307)
           - [Section 2 : Déontologie pharmaceutique (art. R*5015-1 à R*5015-64)](#308)
             - [Paragraphe 1 : Devoirs généraux des pharmaciens (art. R*5015-2 à R*5015-25)](#309)
               - [1) Dispositions générales. (art. R*5015-2 à R*5015-3)](#310)
@@ -32730,20 +32730,6 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. R4234-28 (T)
-
-
-###### Article R*5044
-
-Il est interdit à un pharmacien frappé d'une peine d'interdiction d'exercer la pharmacie, d'occuper dans l'officine ou
-l'établissement dont il était responsable ou auquel il était attaché, une fonction quelconque, même subalterne et même non
-rétribuée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ##### Section 2 : Déontologie pharmaceutique<a id=308></a>
