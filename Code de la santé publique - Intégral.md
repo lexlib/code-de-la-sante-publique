@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1982-10-29
+Version Consolidée au 1982-12-04
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -214,7 +214,7 @@ Version Consolidée au 1982-10-29
           - [SECTION 3 : PREPARATION INDUSTRIELLE ET VENTE EN GROS (art. L615 à L617-5)](#211)
             - [PARAGRAPHE 1 : ETABLISSEMENTS DE PREPARATION ET DE VENTE EN GROS. (art. L615 à L617)](#212)
             - [PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE. (art. L617-1 à L617-5)](#213)
-          - [Section 4 : Dispositions particulières à certaines matières destinées au diagnostic, à la prévention et au traitement des maladies des animaux. (art. L617-7)](#214)
+          - [Section 4 : Dispositions particulières à certaines matières destinées au diagnostic, à la prévention et au traitement des maladies des animaux. (art. L617-6 à L617-7)](#214)
           - [Section 5 : Dispositions diverses (art. L617-8 à L617-11)](#215)
           - [Section 6 : Dispositions transitoires. (art. L617-12 à L617-17)](#216)
           - [Section 7 : Modalités d'application. (art. L617-18 à L617-19)](#217)
@@ -27144,35 +27144,30 @@ _Cité par_:
 
 ###### Article L607
 
-On entend par médicament préfabriqué tout médicament vétérinaire préparé à l'avance, présenté sous une forme pharmaceutique
-utilisable sans transformation.
+On entend par médicament vétérinaire préfabriqué tout médicament vétérinaire préparé à l'avance, présenté sous une forme
+pharmaceutique utilisable sans transformation [*définition*].
 
 On entend par spécialité pharmaceutique pour usage vétérinaire tout médicament vétérinaire préparé à l'avance, présenté sous
-un conditionnement particulier et caractérisé par une dénomination spéciale.
+un conditionnement particulier et caractérisé par une dénomination spéciale [*définition*].
 
-On entend par prémélange tout médicament vétérinaire préparé à l'avance et exclusivement destiné à la fabrication ultérieure
-d'aliments médicamenteux.
+On entend par prémélange médicamenteux tout médicament vétérinaire préparé à l'avance et exclusivement destiné à la
+fabrication ultérieure d'aliments médicamenteux.
 
-Est considéré comme médicament vétérinaire l'aliment médicamenteux défini comme étant tout mélange préparé à l'avance de
-médicament et d'aliment et présenté pour être administré aux animaux sans transformation, dans un but thérapeutique,
-préventif ou curatif, au sens de l'article L. 511, alinéa 1er, du présent code.
+Est considéré comme médicament vétérinaire, sous réserve de conditions particulières visant la production, l'autorisation de
+mise sur le marché et la délivrance, l'aliment médicamenteux, défini comme étant tout mélange d'aliment et de prémélange
+médicamenteux et présenté pour être administré aux animaux sans transformation, dans un but thérapeutique, préventif ou
+curatif, au sens de l'article L. 511, alinéa 1er, du présent code.
+
+L'aliment médicamenteux ne peut être préparé qu'à partir de prémélange médicamenteux ayant reçu l'autorisation de mise sur le
+marché [*obligation*].
 
 Est considéré comme médicament vétérinaire tout produit antiparasitaire à usage vétérinaire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°75-409 1975-05-29 ART. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU DECRET 1001 DU 5 OCTOBRE 1953
-
-_Créé par_:
-
-  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+  - Loi n°82-1019 1982-12-03 ART. 1, ART. 2 ET ART. 3 JORF 4 DECEMBRE 1982
 
 _Cité par_:
 
@@ -27189,14 +27184,14 @@ _Cité par_:
   - Code de la santé publique - art. R5146-8 (Ab)
   - Code de la santé publique - art. R5153-10 (Ab)
 
+_Cite_:
+
+  - Code de la santé publique - art. L511 (M)
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L5141-11 (M)
   - Code de la santé publique - art. L5141-2 (V)
-
-_Cite_:
-
-  - Code de la santé publique L511 AL. 1
 
 
 ###### Article L608
@@ -27346,6 +27341,48 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de la santé publique - art. L612 (M)
+
+
+###### Article L610-1
+
+La préparation extemporanée des aliments médicamenteux peut être effectuée par un pharmacien ou un docteur vétérinaire
+[*compétent*] tels que désignés à l'article L. 610 au moyen d'installations dont dispose l'utilisateur, agréées à cet effet
+dans des conditions fixées par décret.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L617-24 : sanctions pénales.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
+
+_Créé par_:
+
+  - Loi n°82-1019 1982-12-03 art. 4 JORF 4 décembre 1982
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L5143-3 (M)
+  - Code de la santé publique - art. L5442-2 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L610 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. L617-24 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. R5146-50 bis (Ab)
 
 
 ###### Article L611
@@ -27601,10 +27638,13 @@ _Abrogé par_:
 ###### Article L615
 
 Tout établissement de préparation, de vente en gros ou de distribution en gros de médicaments vétérinaires doit être la
-propriété [*obligation*] d'un pharmacien, d'un docteur vétérinaire ou d'une société à la gestion ou à la direction générale
-de laquelle participe un pharmacien ou un docteur vétérinaire. Dans tous les cas, ces pharmaciens ou docteurs vétérinaires
-sont personnellement responsables de l'application des dispositions législatives et réglementaires concernant les médicaments
-vétérinaires sans préjudice, le cas échéant, de la responsabilité solidaire de la société.
+propriété d'un pharmacien, d'un docteur vétérinaire, ou d'une société à la gestion ou à la direction générale de laquelle
+participe un pharmacien ou un docteur vétérinaire [*obligation*]. Toutefois, les établissements assurant la fabrication
+d'aliments médicamenteux ne sont pas tenus à cette obligation ; dans le cas où ils n'y souscrivent pas, le contrôle de la
+fabrication et de la délivrance est cependant assuré, dans des conditions fixées par décret, par un pharmacien ou un docteur
+vétérinaire. Dans tous les cas, ces pharmaciens ou docteurs vétérinaires sont personnellement responsables de l'application
+des dispositions législatives et réglementaires concernant les médicaments vétérinaires sans préjudice, le cas échéant, de la
+responsabilité solidaire de la société.
 
 **Liens relatifs à cet article**
 
@@ -27612,16 +27652,6 @@ _Codifié par_:
 
   - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
   - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°75-409 1975-05-29 ART. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU DECRET 1001 DU 5 OCTOBRE 1953
-  - TXT_ASSOCIE: Code de la santé publique - art. L617-24 (Ab)
-  - TXT_ASSOCIE: Code de la santé publique L617-24 : DISPOSITIONS PENALES
-
-_Créé par_:
-
-  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
 
 _Cité par_:
 
@@ -27658,13 +27688,18 @@ _Cité par_:
   - Code de la santé publique - art. R5196 (Ab)
   - Code de la santé publique - art. R5219 (Ab)
 
+_Modifié par_:
+
+  - Loi n°82-1019 1982-12-03 ART. 5 JORF 4 DECEMBRE 1982
+
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L5142-1 (V)
 
-_Anciens textes_:
+**Liens**:
 
-  - Loi n°42-277 1942-02-08 ART. 5
+  - TXT_ASSOCIE: Code de la santé publique - art. L617-24 (Ab)
+  - TXT_ASSOCIE: Code de la santé publique L617-24 : DISPOSITIONS PENALES
 
 
 ###### Article L616
@@ -27732,24 +27767,25 @@ _Anciens textes_:
 ###### Article L617
 
 Les établissements mentionnés au présent paragraphe ne sont pas autorisés à délivrer au public les médicaments vétérinaires
-définis aux articles L. 606 et L. 607 du présent code [*interdiction*].
+définis aux articles L. 606 et L. 607 du présent code [*interdiction*], sauf en ce qui concerne les aliments médicamenteux
+fournis aux groupements dans les conditions fixées à l'article L. 612 ou aux éleveurs sur prescription d'un docteur
+vétérinaire dans des conditions fixées par décret.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (loi de validation)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°75-409 1975-05-29 ART. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU DECRET 1001 DU 5 OCTOBRE 1953
-  - TXT_ASSOCIE: Code de la santé publique - art. L617-25 (Ab)
-  - TXT_ASSOCIE: Code de la santé publique L617-25 : DISPOSITIONS PENALES
-
-_Créé par_:
-
-  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+  - Loi n°82-1019 1982-12-03 art. 6 JORF 4 décembre 1982
 
 _Nouveaux textes_:
 
@@ -27760,26 +27796,31 @@ _Cite_:
 
   - Code de la santé publique - art. L606 (Ab)
   - Code de la santé publique - art. L607 (M)
+  - Code de la santé publique - art. L612 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la santé publique - art. L617-25 (Ab)
+  - TXT_ASSOCIE: Code de la santé publique L617-25 : DISPOSITIONS PENALES
 
 _Cité par_:
 
   - Code de la santé publique - art. L617-25 (Ab)
   - Code de la santé publique - art. R5146-51 (Ab)
 
-_Anciens textes_:
-
-  - Loi n°42-277 1942-02-08 ART. 7
-
 
 ##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.<a id=213></a>
 
 ###### Article L617-1
 
-Aucun médicament vétérinaire ne peut être délivré au public s'il n'a reçu, au préalable, une autorisation de mise sur le
-marché délivrée par arrêté conjoint du ministre de la santé et du ministre de l'agriculture [*condition*].
+Exception faite des aliments médicamenteux, aucun médicament vétérinaire ne peut être délivré au public s'il n'a reçu, au
+préalable, une autorisation de mise sur le marché délivrée par arrêté conjoint du ministre de la santé et du ministre de
+l'agriculture [*interdiction, condition*].
 
-Aucun prémélange ne peut être délivré au public [*interdiction*]. Il ne peut être utilisé pour la fabrication d'aliments
-médicamenteux s'il n'a reçu au préalable l'autorisation prévue à l'alinéa ci-dessus.
+Aucun prémélange médicamenteux ne peut être délivré au public [*interdiction*]. Il ne peut être utilisé pour la fabrication
+d'aliments médicamenteux s'il n'a reçu au préalable l'autorisation prévue à l'alinéa ci-dessus. Cette autorisation comporte
+les conditions techniques que doit respecter le fabricant d'aliments médicamenteux, ainsi que les modalités d'emploi de ces
+aliments.
 
 L'autorisation de mise sur le marché peut être assortie de conditions adéquates, notamment lorsqu'elle porte sur des produits
 susceptibles de faire apparaître des résidus dans les denrées alimentaires provenant des animaux traités.
@@ -27811,9 +27852,9 @@ _Cité par_:
   - Code de la santé publique - art. R5201 (Ab)
   - Code rural ancien - art. 254 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+  - Loi n°82-1019 1982-12-03 ART. 7 JORF 4 DECEMBRE 1982
 
 **Liens**:
 
@@ -27984,6 +28025,71 @@ _Nouveaux textes_:
 
 
 ##### Section 4 : Dispositions particulières à certaines matières destinées au diagnostic, à la prévention et au traitement des maladies des animaux.<a id=214></a>
+
+###### Article L617-6
+
+Des obligations particulières seront édictées par voie réglementaire pour l'importation, la fabrication, la détention, la
+vente ou la cession à titre gratuit des substances suivantes :
+
+a) Matières virulentes et produits d'origine microbienne destinés en diagnostic, à la prévention et au traitement des
+maladies des animaux ;
+
+b) Substances d'origine organique destinées aux mêmes fins à l'exception de celles qui ne renferment que des principes
+chimiquement connus ;
+
+c) Oestrogènes ;
+
+d) Substances toxiques et vénéneuses ;
+
+e) Produits susceptibles de demeurer à l'état de résidus toxiques ou dangereux dans les denrées alimentaires d'origine
+animale ;
+
+f) Produits dont les effets sont susceptibles d'être à l'origine d'une contravention à la législation sur les fraudes ;
+
+g) Produits susceptibles d'entraver le contrôle sanitaire des denrées provenant des animaux auxquels ils ont été administrés.
+
+Un décret fixera la liste et les conditions particulières de délivrance des substances ou des catégories de substances
+pouvant être utilisées pour fabriquer des médicaments vétérinaires faisant l'objet d'un temps d'attente en application de
+l'article L. 617-2 du présent code [*alinéa rajouté par la loi du 3 décembre 1982*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 MAI 1975
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°76-1067 1976-11-27 : OESTROGENES
+
+_Modifié par_:
+
+  - Loi n°82-1019 1982-12-03 ART. 8 JORF 4 DECEMBRE 1982
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L5144-1 (V)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L611 (Ab)
+  - Code de la santé publique - art. L612 (Ab)
+  - Code de la santé publique - art. L617-18 (Ab)
+  - Code de la santé publique - art. R5146-33 (M)
+  - Code de la santé publique - art. R5146-53 (Ab)
+  - Code de la santé publique - art. R5146-53-1 (Ab)
+  - Code rural ancien - art. 254 (Ab)
+  - Code rural ancien - art. 256 (Ab)
+
+_Cite_:
+
+  - Code de la santé publique - art. L617-2 (M)
+
 
 ###### Article L617-7
 
