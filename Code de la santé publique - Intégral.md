@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1979-11-15
+Version Consolidée au 1980-01-01
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -41,7 +41,7 @@ Version Consolidée au 1979-11-15
           - [Section 2 : Direction et coordination. (art. L151 à L152)](#38)
         - [Chapitre 2 : Du certificat prénuptial. (art. L155 à L158)](#39)
         - [Chapitre 3 : Protection des futurs parents (art. L159 à L162)](#40)
-          - [Section 1 : Examens médicaux. (art. L159 à L161-1)](#41)
+          - [Section 1 : Examens médicaux. (art. L159 à L160)](#41)
           - [Section 2 : Visites à domicile. (art. L162)](#42)
         - [Chapitre 3 bis : Interruption volontaire de la grossesse (art. L162-1 à L162-14)](#43)
           - [Section 1 : Interruption volontaire de la grossesse pratiquée avant la fin de la dixième semaine. (art. L162-1 à L162-11)](#44)
@@ -230,8 +230,8 @@ Version Consolidée au 1979-11-15
         - [Chapitre 2 : Radio-éléments artificiels (art. L631 à L640)](#227)
         - [Chapitre 3 : Essences pouvant servir à la fabrication des boissons alcooliques (art. L641 à L642)](#228)
         - [Chapitre 4 : Médicaments antivénériens. (art. L643 à L644)](#229)
-        - [Chapitre 5 : Abortifs (art. L645 à L650)](#230)
-          - [Provocation à l'avortement. (art. L645 à L650)](#231)
+        - [Chapitre 5 : Abortifs (art. L645 à L647)](#230)
+          - [Provocation à l'avortement. (art. L645 à L647)](#231)
         - [Chapitre 6 : Thermomètres médicaux. (art. L651 à L655)](#232)
         - [Chapitre 7 : Biberons à tube et tétines (art. L657)](#233)
         - [Chapitre 8 : Produits cosmétiques et produits d'hygiène corporelle (art. L658-1 à L658-9)](#234)
@@ -5032,36 +5032,6 @@ _Cité par_:
 _Abrogé par_:
 
   - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
-
-
-###### Article L161-1
-
-Lorsque la sauvegarde de la vie de la mère gravement menacée exige soit une intervention chirurgicale, soit l'emploi d'une
-thérapeutique susceptible d'entraîner l'interruption de la grossesse, le médecin traitant ou le chirurgien devront
-obligatoirement prendre l'avis de deux médecins consultants, dont l'un pris sur la liste des experts près le tribunal de
-grande instance, qui, après examen et discussion, attesteront que la vie de la mère ne peut être sauvegardée qu'au moyen
-d'une telle intervention thérapeutique. Un des exemplaires de la consultation sera remis à la malade, les deux autres
-conservés par les deux médecins consultants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°75-17 1975-01-17 ART. 2 : SUSPENSION DE L'ARTICLE L161-1
-
-_Cité par_:
-
-  - Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
-  - Loi n°79-1204 du 31 décembre 1979 - art. 10 (V)
-
-_Abrogé par_:
-
-  - Loi n°79-1204 du 31 décembre 1979 - art. 10 (V) JORF 1ER JANVIER 1980
 
 
 ##### Section 2 : Visites à domicile.<a id=42></a>
@@ -29107,23 +29077,6 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L2221-1 (Ab)
-
-
-###### Article L650
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°53-1001 1953-10-05 (Décret de codification)
-  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-_Cité par_:
-
-  - Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
-  - Loi n°79-1204 du 31 décembre 1979 - art. 10 (V)
 
 
 #### Chapitre 6 : Thermomètres médicaux.<a id=232></a>
