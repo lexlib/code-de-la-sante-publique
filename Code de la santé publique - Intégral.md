@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-01-04
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -15,7 +15,7 @@ Version Consolidée au 1986-01-01
           - [Section 1 : Des distributions publiques. (art. L20 à L23)](#12)
           - [Section 2 : Des distributions privées. (art. L24)](#13)
           - [Section 3 : Dispositions communes *aux distributions publiques et privées* (art. L25 à L25-1)](#14)
-        - [Chapitre 3-1 : Des piscines et baignades (art. L25-2 à L25-4)](#15)
+        - [Chapitre 3-1 : Des piscines et baignades (art. L25-2 à L25-5)](#15)
         - [Chapitre 4 : Salubrité des immeubles (art. L26 à L32)](#16)
         - [Chapitre 5 : Salubrité des agglomérations (art. L33 à L44)](#17)
           - [Section 1 : Evacuation des eaux usées. (art. L33 à L35-9)](#18)
@@ -2362,6 +2362,58 @@ _Cite_:
 **Liens**:
 
   - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L25-5
+
+Un décret pris après avis du conseil supérieur d'hygiène publique de France détermine les modalités d'application du présent
+chapitre. Il définit notamment les normes auxquelles doivent satisfaire les piscines et baignades aménagées en fonction
+notamment de la nature, de l'usage et de la fréquentation des installations, et suivant qu'il s'agit d'installations
+existantes ou à créer.
+
+Il définit également les normes auxquelles doivent satisfaire les baignades non aménagées au sens de la directive européenne
+n° 76-160 du 8 décembre 1975 concernant la qualité des eaux de baignade.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (décret de codification)
+  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+_Cité par_:
+
+  - Décret n°81-324 du 7 avril 1981 - art. 14 (Ab)
+  - Code de la santé publique - art. L25-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L1332-4 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+_Cite_:
+
+  - Directive 76-160 1975-12-08 CEE
+
+_Créé par_:
+
+  - Loi n°78-733 1978-07-12 art. 1 JORF 13 juillet 1978
+
+_Modifié par_:
+
+  - Loi n°86-2 du 3 janvier 1986 - art. 9 () JORF 4 janvier 1986
+
+_Abrogé par_:
+
+  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 #### Chapitre 4 : Salubrité des immeubles<a id=16></a>
