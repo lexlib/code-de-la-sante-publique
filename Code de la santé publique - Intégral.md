@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1970-07-12
+Version Consolidée au 1970-07-17
 ## Contenu: 
   - [Partie législative ancienne (art. L1 à L897)](#1)
     - [LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE (art. L1 à L145)](#2)
@@ -33,8 +33,8 @@ Version Consolidée au 1970-07-12
           - [Section 2 : Dispositions spéciales à certaines boissons (art. L141 à L142)](#30)
           - [Section 3 : Jouets et amusettes (art. L143)](#31)
           - [Section 4 : Dispositions pénales (art. L144 à L145)](#32)
-    - [Livre 2 : Protection sanitaire de la famille et de l'enfance (art. L148 à L208)](#33)
-      - [Titre 1 : Protection maternelle et infantile. (art. L148 à L189)](#34)
+    - [Livre 2 : Protection sanitaire de la famille et de l'enfance (art. L146 à L208)](#33)
+      - [Titre 1 : Protection maternelle et infantile. (art. L146 à L189)](#34)
         - [Chapitre 1 : Organisation administrative (art. L148 à L152)](#35)
           - [Section 1 : Institutions. (art. L148 à L150)](#36)
           - [Section 2 : Direction et coordination. (art. L151 à L152)](#37)
@@ -4403,6 +4403,32 @@ _Nouveaux textes_:
 
 ### Titre 1 : Protection maternelle et infantile.<a id=34></a>
 
+###### Article L146
+
+La protection sanitaire et sociale des femmes enceintes et des mères, ainsi que celle des enfants n'ayant pas dépassé deux
+ans révolus, dits enfants du premier âge [*définition*], et de deux à six ans révolus, dits enfants du second âge, est
+organisée dans les conditions fixées par le présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Nouveaux textes_:
+
+  - Code de la santé publique - art. L2111-1 (M)
+
+_Anciens textes_:
+
+  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 1, v. init.
+
+_Modifié par_:
+
+  - Loi n°70-633 1970-07-15 ART. 1 JORF 17 JUILLET 1970
+
+
 #### Chapitre 1 : Organisation administrative<a id=35></a>
 
 ##### Section 1 : Institutions.<a id=36></a>
@@ -4877,6 +4903,98 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de la santé publique - art. L2132-2 (V)
+
+
+###### Article L164-1
+
+La surveillance sanitaire prévue à l'article L. 164 donne lieu obligatoirement à la délivrance de certificats de santé et à
+la détermination du groupe sanguin des enfants qui lui sont soumis.
+
+Un décret en Conseil d'Etat précisera, parmi les examens obligatoires, ceux qui doivent donner lieu à l'établissement d'un
+certificat de santé et les âges auxquels doivent être subis ces examens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Cité par_:
+
+  - Décret n°68-1009 du 19 novembre 1968 - art. 6 (Ab)
+  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+  - Code de la santé publique - art. L164-2 (P)
+  - Code de la santé publique - art. L184 (Ab)
+  - Code de la sécurité sociale. - art. D615-4 (M)
+  - Code de la sécurité sociale. - art. L531-2 (M)
+  - Code de la sécurité sociale. - art. L534-2 (M)
+  - Code de la sécurité sociale. - art. L534-3 (M)
+
+_Créé par_:
+
+  - Loi n°70-633 1970-07-15 ART. 2 JORF 17 juillet
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973
+  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 4 (Ab)
+  - PEREMPTION: Loi n°89-899 du 18 décembre 1989 - art. 4 () JORF 19 décembre 1989
+
+_Cite_:
+
+  - Code de la santé publique - art. L164 (M)
+
+
+###### Article L164-2
+
+Le certificat de santé [*contenu*] prévu à l'article 164-1 fait mention, le cas échéant, de toute anomalie, maladie ou
+infirmité, notamment mentale, sensorielle ou motrice, d'origine génétique ou autre, ayant provoqué ou susceptible de
+provoquer une invalidité de longue durée ou un handicap définitif ou non.
+
+S'il y a lieu, le médecin traitant ou le médecin du centre de protection maternelle et infantile prescrira les examens
+complémentaires ou spécialisés qui lui paraîtront nécessaires à la confirmation ou à l'infirmation des anomalies présumées, à
+la recherche des maladies ou infirmités visées à l'alinéa précédent. Les dépenses correspondantes seront prises en charge
+dans les mêmes conditions que l'examen initial.
+
+La liste des maladies ou infirmités qui doivent être mentionnées dans le certificat de santé ainsi que la forme du certificat
+sont établies par arrêté du ministre de la santé publique et de la sécurité sociale, pris après avis de l'académie nationale
+de médecine. Ce certificat est adressé par le médecin qui l'a rédigé à l'autorité sanitaire. Il ne peut être communiqué qu'à
+des personnes astreintes au secret professionnel médical.
+
+Les modalités d'application de cet article seront déterminées par le décret en Conseil d'Etat prévu à l'article L. 164-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+_Créé par_:
+
+  - Loi n°70-633 1970-07-15 ART. 2 JORF 17 juillet
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973
+  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 4 (Ab)
+  - PEREMPTION: Loi n°89-899 du 18 décembre 1989 - art. 4 () JORF 19 décembre 1989
+
+_Cité par_:
+
+  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+  - Code de la santé publique - art. L164-3 (P)
+
+_Cite_:
+
+  - Code de la santé publique - art. L164-1 (P)
 
 
 ###### Article L166
