@@ -1,6 +1,6 @@
 # Article Annexe 41-2
 
-AIDES ACCORDÉES AUX ÉTUDIANTS ET ÉLÈVES SOUS FORME DE BOURSES D'ÉTUDES MENTIONNÉES AUX ARTICLES D. 4151-18 ET D. 4383-1 
+AIDES ACCORDÉES AUX ÉTUDIANTS ET ÉLÈVES SOUS FORME DE BOURSES D'ÉTUDES MENTIONNÉES AU DERNIER ALINEA DE L'ARTICLE D. 4383-1 
 
 1. Taux minimaux des bourses d'études 
 
@@ -103,14 +103,14 @@ AIDES ACCORDÉES AUX ÉTUDIANTS ET ÉLÈVES SOUS FORME DE BOURSES D'ÉTUDES MENT
 ┃ Les parents ont d'autres enfants à charge fiscalement (excepté l'élève ou l'étudiant demandant une     │ 1 × nombre d'en- ┃
 ┃ bourse)                                                                                                │ fants            ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Le père ou la mère élève seul(e) son ou ses enfants                                                    │ 1                ┃
+┃ Le père ou la mère élève seul (e) son ou ses enfants                                                   │ 1                ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
 4.-Conditions d'indépendance de logement et de revenu 
 
-Les conditions d'indépendance de logement et de revenu mentionnées aux articles D. 4151-18 et D. 4383-1 sont :
+Les conditions d'indépendance de logement et de revenu mentionnées au dernier alinéa de l'article D. 4383-1 sont :
 
 - justifier d'une déclaration fiscale différente de celle de ses parents ;
 
@@ -125,12 +125,11 @@ nom.
 
 _Modifié par_:
 
-  - Décret n°2008-854 du 27 août 2008 - art. 4
+  - Décret n°2016-1901 du 28 décembre 2016 - art. 3
 
 _Cite_:
 
   - Code civil - art. 515-1
-  - Code de la santé publique - art. D4151-18
 
 _Cité par_:
 
