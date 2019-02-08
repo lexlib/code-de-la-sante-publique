@@ -1,0 +1,11 @@
+# Article R. 6156-73
+
+Les rapports des experts établis au cours de la procédure sont transmis au président de la commission, qui les communique aux
+membres et au praticien concerné au moins un mois avant la date à laquelle siégera la commission. Les experts peuvent être
+entendus par la commission.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-79 du 6 février 2019 - art. 12
